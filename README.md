@@ -109,17 +109,27 @@ Estos datos recopilados se convierten en una valiosa fuente de información que 
 
 ### 1.2.2.4 Lean UX Canvas
 
+URL del LeanUXCanvas: https://app.mural.co/t/teacsykawsai8308/m/teacsykawsai8308/1724358505056/ad90964d2d1b9220ae312f1ad046c17350430f32?sender=uc4019db9bc166bf541b07012
+
 ![ ](images/LeanUXCanvas.png)
 
 ### 1.3 Segmentos Objetivos
 ##### 1. Productores de Vinos:
 Según Vertiz. F (2022), en el Perú tres empresas concentran más del 70 % del mercado del sector vitivinícola: Santiago Queirolo SA (41 %), Viña Tacama SA (28 %) y Bodegas y Viñedos Tabernero SA (13 %). Estas bodegas productoras, que representan el 80 % de la producción nacional, enfrentan desafíos en la gestión de inventario, vinificación y administración de clientes, lo que GrapeFlow puede resolver.
+
 **Control de Inventario del Proceso Productivo:** Necesitan gestionar eficientemente el inventario de materias primas y productos terminados, evitando tanto la escasez como el exceso de stock.
+
 **Proceso de Vinificación:** Requieren un control detallado y planificado de las etapas de producción del vino, desde la fermentación hasta el embotellado.
+
 **Cosecha y Gestión del Viñedo:** Necesitan planificar y registrar actividades agrícolas y de cosecha para asegurar la calidad del vino.
+
 **Planes de Servicio:** Pueden optar por planes básicos si son pequeños productores o planes avanzados si tienen un tamaño considerable y requieren un control integral.
+
 ##### 2. Distribuidores de Vinos:
 Este segmento incluye a las empresas encargadas de la distribución de vinos. Ellos juegan un rol crucial en la comercialización de vinos y necesitan herramientas para mejorar la eficiencia en la distribución.
+
 **Seguimiento de Pedidos:** Requieren un sistema que les permita gestionar y seguir los pedidos en tiempo real, asegurando una entrega eficiente y sin retrasos.
+
 **Administración de la Cartera de Clientes:** Necesitan gestionar sus relaciones con clientes de manera efectiva para maximizar las ventas y mantener la lealtad del cliente, que en Perú es relativamente baja.
+
 **Planes de Servicio:** Pueden beneficiarse de un plan avanzado que ofrezca funcionalidades completas de gestión de pedidos y tracking.
