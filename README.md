@@ -104,6 +104,11 @@ Los integrantes del equipo son:
 
 **Student Outcomes**
 
+|Criterio específico|Acciones realizadas|Conclusiones|
+|---|---|---|
+|Comunica oralmente con efectividad a diferentes rangos de audiencia.|**Angelo Curi**<br>TB1:<br><br>**Gustavo Huanca**<br>TB1:<br><br>**Diego Huincho**<br>TB1:<br>Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>**Óscar Armas**<br>TB1:<br><br>**Fernando Salhuana**<br>TB1:<br>|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
+|Comunica por escrito con efectividad a diferentes rangos de audiencia.|**Angelo Curi**<br>TB1:<br><br>**Gustavo Huanca**<br>TB1:<br><br>**Diego Huincho**<br>TB1:<br>Se realizó la separacion de trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br>**Óscar Armas**<br>TB1:<br><br>**Fernando Salhuana**<br>TB1:<br> |La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
+
 ## 1.1 Startup Profile
 
 ### 1.1.1 Descripción de la Startup
