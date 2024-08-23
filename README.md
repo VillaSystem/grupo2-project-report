@@ -201,9 +201,16 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 Nuestro startup busca apoyar a los fabricantes de licores al proporcionarles componentes especializados que les permiten recopilar datos esenciales, como el pH, la temperatura y el tiempo de añejamiento de sus productos; además deberán introducir información adicional, como el tipo de uva utilizada en la cosecha y la procedencia de los ingredientes.
 Estos datos recopilados se convierten en una valiosa fuente de información que posteriormente será utilizada en una aplicación que desarrollaremos para también ayudar a los fabricantes a vender sus productos y a los consumidores a comprar con información detallada sobre cada licor, lo que les permita tomar decisiones informadas y disfrutar de una experiencia de compra enriquecida.
 
+**Misión**: Proporcionar a los productores y distribuidores de vinos y piscos una plataforma integral y eficiente que optimice todos los aspectos del proceso productivo, desde la gestión de inventarios hasta la entrega final, impulsando así la calidad, la eficiencia y el crecimiento sostenible en la industria.
+
+**Visión**: Ser la solución líder y de referencia en la industria vitivinícola y de piscos, reconocida por nuestra innovación, confiabilidad y capacidad para transformar la gestión operativa de nuestros clientes en un proceso más eficiente, rentable y alineado con los más altos estándares de calidad.
+
+**Logo de la Startup**:
+
+**Logo del servicio**:
 
 
-### 1.1.2 Perfiles de integrantes del equipo
+### [1.1.2 Perfiles de los integrantes del equipo](#perfiles-de-los-integrantes-del-equipo)
 | Foto del Participante    | Nombres y Apellidos           | Código de Estudiante | Descripción de Carrera | Resumen de Conocimientos y Habilidades                                                                                                                                                                                                                                                                                                               |
 |--------------------------|-------------------------------|----------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![ ](images/gustavo.png) | Huanca Navarro, Gustavo Esau  | U202215285           | Ingenieria de Software | Soy Gustavo Huanca, estudiante de Ingeniería de Software. Me considero puntual, responsable y disfruto resolviendo problemas tecnológicos. Tengo conocimientos en desarrollo de software, varios lenguajes de programación, estructuras de datos y algoritmos. Además. Mi objetivo es contribuir eficazmente al éxito del equipo con mis habilidades |
