@@ -90,6 +90,20 @@ Para elaborar el informe correspondiente a la entrega TB1, se distribuyó la res
 |Diego Huincho|Landing Page Wireframe.Landing Page Mock-up.<br>Web Applications UX/UI Design.<br>Web Applications Wireframes.<br>Web Applications Wireflow Diagrams.<br>Web Applications Mock-ups.<br>Web Applications User Flow Diagrams.<br>Web Applications Prototyping.<br>Landing Page<br>Sprint 1|
 |Fernando Salhuana| |
 
+La colaboración en la creación del informe se llevó a cabo a través de una serie de contribuciones constantes al repositorio de la organización VillaSystem.
+
+## GitHub Insights
+GitHub nos permite exponer una linea de tiempo de nuestras ramas principales y el proceso al que se han sometido. Tdodas las ramas creadas fue en base al diseño de GitFlow para una buena organización y control de versiones.
+
+Los integrantes del equipo son:
+* Angelo Curi (AngelC999)
+* Gustavo Huanca (petitavo)
+* Diego Huincho (DiegoHLZ)
+* Óscar Armas (Racso24k)
+* Fernando Salhuana (zxyfernando)
+
+**Student Outcomes**
+
 ## 1.1 Startup Profile
 
 ### 1.1.1 Descripción de la Startup
