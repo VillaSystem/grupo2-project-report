@@ -207,7 +207,12 @@ Estos datos recopilados se convierten en una valiosa fuente de información que 
 
 **Logo de la Startup**:
 
+![Star-Up VillaSystem](images/logos/LogoVillaSystem.png)
+
 **Logo del servicio**:
+
+![Logo de GrapeFlow1](images/logos/LogoGrapeFlowBlueBackGround.png)
+![Logo de GrapeFlow2](images/logos/LogoGrapeFlowPurpleBackGround.png)
 
 
 ### [1.1.2 Perfiles de los integrantes del equipo](#perfiles-de-los-integrantes-del-equipo)
