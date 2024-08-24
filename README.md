@@ -69,11 +69,11 @@
 |V2.1|00/00/2024|Todos|Reunion en clases para reparticion de trabajo|
 |V2.2|00/00/2024| |Review del apartado FrontEnd|
 |V2.2|00/00/2024| |Apartado BackEnd|
-|V3.0|00/00/2024| |Finalizacion del Sorint 3|
+|V3.0|00/00/2024| |Finalizacion del Sprint 3|
 |V3.1|00/00/2024|Todos|Reunion en llamada para reparticion de trabajo|
 |V3.2|00/00/2024| |Mejoras al FrontEnd y Deploy|
 |V3.3|00/00/2024| |Completar Bounded Context y Deploy|
-|V4.0|00/00/2024| |Finalizacion del Sorint 4|
+|V4.0|00/00/2024| |Finalizacion del Sprint 4|
 
 
 # Project Report Collaboration Insights
@@ -223,13 +223,94 @@ Estos datos recopilados se convierten en una valiosa fuente de información que 
 | ![Foto]()                | Huincho Lapa, Diego Arturo    | U201923466           | Ingenieria de Software | Breve párrafo con los principales conocimientos técnicos y habilidades que el participante puede aportar al equipo.                                                                                                                                                                                                                                  |
 | ![ ](images/angelo.png)                | Curi Marcelo, Angelo Marcio   | U202022387           | Ingenieria de Software | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona responsable y comprometida con mis tareas. Siempre me esfuerzo por cumplir con los plazos y entregar trabajos de calidad. Además, me considero una persona creativa, tengo conocimientos tanto en programación y edición de videos. Considero que soy una persona que puede aportar de manera significativa a este equipo.                                                                                                                                                                                                                                   |
 
-### 1.2.2.4 Lean UX Canvas
+## [1.2 Solution Profile](#solution-profile)
+### [1.2.1 Antecedentes y Problemática](#antecedentes-y-problemática)
+
+**What (Qué)**
+
+_¿Cuál es el problema?_
+
+**Where (Dónde)**
+
+_¿A dónde se dirige?_
+
+**Why (Por Qué)**
+
+_¿Cuál es la causa del problema?_
+
+**When (Cuando)**
+
+_¿Cuándo sucede el problema?_
+
+**Who (Quién)**
+
+_¿Quiénes están involucrados? ¿Quién lo utilizará?_
+
+**How (Cómo)**
+
+_¿Cómo se utilizará el producto?_
+
+_¿Cómo lograremos desarrollar una gestión eficiente y optimizada del proceso productivo de vinos y piscos para productores y distribuidores?_
+
+**How Much (Cuánto)**
+
+_¿Cuál es la magnitud del problema?_
+
+_¿Quienes seran los beneficiados por el servicio?_
+
+### [1.2.2 Lean UX Process](#lean-ux-process)
+#### [1.2.2.1 Lean UX Problem Statements](#lean-ux-problem-statements)
+
+**Problem Statement**
+
+#### [1.2.2.2 Lean UX Assumptions](#lean-ux-assumptions)
+
+**Businnes Assumptions**
+
+**User Assumptions**
+
+_¿Quién es el usuario?_
+
+_¿Qué problemas enfrenta nuestro producto? ¿Cómo los resolveremos?_
+
+_¿Qué características son importantes?_
+
+_¿Dónde encaja nuestro producto en su trabajo o vida?_
+
+_¿Cuándo y cómo se usa nuestro producto?_
+
+_¿Cómo debe ser y comportarse nuestro producto?_
+
+**Feature Assumptions:**
+
+_**Creemos que**_
+
+#### [1.2.2.3 Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
+
+- **Hypothesis Statement 01:**
+  <br><br>
+  **_Creemos que_**
+  <br>
+  **_Sabremos_**
+  <br>
+  **_Cuando_**
+  <br><br>
+- **Hypothesis Statement 02:**
+  <br><br>
+  **_Creemos que_**
+  <br>
+  **_Sabremos_**
+  <br>
+  **_Cuando_**
+  <br><br>
+
+#### [1.2.2.4 Lean UX Canvas](#lean-ux-canvas)
 
 URL del LeanUXCanvas: https://app.mural.co/t/teacsykawsai8308/m/teacsykawsai8308/1724358505056/ad90964d2d1b9220ae312f1ad046c17350430f32?sender=uc4019db9bc166bf541b07012
 
 ![ ](images/LeanUXCanvas.png)
 
-### 1.3 Segmentos Objetivos
+## [1.3. Segmentos objetivo](#segmentos-objetivo)
 ##### 1. Productores de Vinos:
 Según Vertiz. F (2022), en el Perú tres empresas concentran más del 70 % del mercado del sector vitivinícola: Santiago Queirolo SA (41 %), Viña Tacama SA (28 %) y Bodegas y Viñedos Tabernero SA (13 %). Estas bodegas productoras, que representan el 80 % de la producción nacional, enfrentan desafíos en la gestión de inventario, vinificación y administración de clientes, lo que GrapeFlow puede resolver.
 
@@ -249,3 +330,23 @@ Este segmento incluye a las empresas encargadas de la distribución de vinos. El
 **Administración de la Cartera de Clientes:** Necesitan gestionar sus relaciones con clientes de manera efectiva para maximizar las ventas y mantener la lealtad del cliente, que en Perú es relativamente baja.
 
 **Planes de Servicio:** Pueden beneficiarse de un plan avanzado que ofrezca funcionalidades completas de gestión de pedidos y tracking.
+
+# [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
+# [2.1 Competidores](#competidores)
+### [2.1.1 Análisis competitivo](#análisis-competitivo)
+### [2.1.2 Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)
+
+## [2.2 Entrevistas](#entrevistas)
+### [2.2.1 Diseño de entrevistas](#diseño-de-entrevistas)
+### [2.2.2 Registro de entrevistas](#registro-de-entrevistas)
+### [2.2.3 Análisis de entrevistas](#análisis-de-entrevistas)
+
+## [2.3 Needfinding](#needfinding)
+### [2.3.1 User Personas](#user-personas)
+### [2.3.2 User Task Matrix](#user-task-matrix)
+### [2.3.3 User Journey Mapping](#user-journey-mapping)
+
+## [2.4 Ubiquitous Language](#ubiquitous-language)
+
+# [Capítulo III: Requirements Specification.](#capítulo-iii-requirements-specification)
+## [3.1. To-Be Scenario Mapping.](#to-be-scenario-mapping)
