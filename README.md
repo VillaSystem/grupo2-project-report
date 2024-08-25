@@ -378,8 +378,11 @@ La startup, presentada con el nombre de "VillaSystem" está diseñada para optim
 
 **Logotipo de la startup**
 
-* ![UniRider Startup Logo](images/logos/LogoVillaSystem.png)
+![UniRider Startup Logo](images/logos/LogoVillaSystem.png)
 
 **Logotipo del Servicio**
 
 ![UniRider Service Logo](images/logos/LogoGrapeFlowBlueBackGround.png)
+
+**Colores:**
+
