@@ -54,26 +54,26 @@
 
 
 # Registro de Versiones del Informe
-|Versión|Fecha|Autor|Descripción de modificación|
-|-------|-----|-----|---------------------------|
-|V0.1|21/08/2024|Diego|Creación del repositorio|
-|V0.2|00/00/2024| | Capitulo 1 y Capitulo 2|
-|V0.2.1|00/00/2024| |Capitulo 3|
-|V0.3|00/00/2024| |Capitulo 4|
-|V0.4|00/00/2024| |Capitulo 5 y ultimos ajuste|
-|V1.0|00/00/2024| |Revision final y entrega TB1.|
-|V1.1|00/00/2024| |Mejoras del Informe|
-|V1.2|00/00/2024| |Creacion y desarrollo del Sprint 2|
-|V1.3|00/00/2024| |Implementacion de imagenes de evidendica|
-|V2.0|00/00/2024| |Finalización del Sprint 2|
-|V2.1|00/00/2024|Todos|Reunion en clases para reparticion de trabajo|
-|V2.2|00/00/2024| |Review del apartado FrontEnd|
-|V2.2|00/00/2024| |Apartado BackEnd|
-|V3.0|00/00/2024| |Finalizacion del Sprint 3|
-|V3.1|00/00/2024|Todos|Reunion en llamada para reparticion de trabajo|
-|V3.2|00/00/2024| |Mejoras al FrontEnd y Deploy|
-|V3.3|00/00/2024| |Completar Bounded Context y Deploy|
-|V4.0|00/00/2024| |Finalizacion del Sprint 4|
+| Versión | Fecha      | Autor | Descripción de modificación                    |
+|---------|------------|-------|------------------------------------------------|
+| V0.1    | 21/08/2024 | Diego | Creación del repositorio                       |
+| V0.2    | 00/00/2024 |       | Capitulo 1 y Capitulo 2                        |
+| V0.2.1  | 00/00/2024 |       | Capitulo 3                                     |
+| V0.3    | 00/00/2024 |       | Capitulo 4                                     |
+| V0.4    | 00/00/2024 |       | Capitulo 5 y ultimos ajuste                    |
+| V1.0    | 00/00/2024 |       | Revision final y entrega TB1.                  |
+| V1.1    | 00/00/2024 |       | Mejoras del Informe                            |
+| V1.2    | 00/00/2024 |       | Creacion y desarrollo del Sprint 2             |
+| V1.3    | 00/00/2024 |       | Implementacion de imagenes de evidendica       |
+| V2.0    | 00/00/2024 |       | Finalización del Sprint 2                      |
+| V2.1    | 00/00/2024 | Todos | Reunion en clases para reparticion de trabajo  |
+| V2.2    | 00/00/2024 |       | Review del apartado FrontEnd                   |
+| V2.2    | 00/00/2024 |       | Apartado BackEnd                               |
+| V3.0    | 00/00/2024 |       | Finalizacion del Sprint 3                      |
+| V3.1    | 00/00/2024 | Todos | Reunion en llamada para reparticion de trabajo |
+| V3.2    | 00/00/2024 |       | Mejoras al FrontEnd y Deploy                   |
+| V3.3    | 00/00/2024 |       | Completar Bounded Context y Deploy             |
+| V4.0    | 00/00/2024 |       | Finalizacion del Sprint 4                      |
 
 
 # Project Report Collaboration Insights
@@ -82,13 +82,13 @@ URL del repositorio para el reporte del proyecto: https://github.com/VillaSystem
 **TB1**
 Para elaborar el informe correspondiente a la entrega TB1, se distribuyó la responsabilidad de redactar las distintas secciones de la siguiente manera entre cada miembro del equipo:
 
-|Integrante|Tareas Asignadas|
-|---|---|
-|Óscar Armas| |
-|Angelo Curi| |
-|Gustavo Huanca| |
-|Diego Huincho|Landing Page Wireframe.Landing Page Mock-up.<br>Web Applications UX/UI Design.<br>Web Applications Wireframes.<br>Web Applications Wireflow Diagrams.<br>Web Applications Mock-ups.<br>Web Applications User Flow Diagrams.<br>Web Applications Prototyping.<br>Landing Page<br>Sprint 1|
-|Fernando Salhuana| |
+| Integrante        | Tareas Asignadas                                                                                                                                                                                                                                                                         |
+|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Óscar Armas       |                                                                                                                                                                                                                                                                                          |
+| Angelo Curi       |                                                                                                                                                                                                                                                                                          |
+| Gustavo Huanca    |                                                                                                                                                                                                                                                                                          |
+| Diego Huincho     | Landing Page Wireframe.Landing Page Mock-up.<br>Web Applications UX/UI Design.<br>Web Applications Wireframes.<br>Web Applications Wireflow Diagrams.<br>Web Applications Mock-ups.<br>Web Applications User Flow Diagrams.<br>Web Applications Prototyping.<br>Landing Page<br>Sprint 1 |
+| Fernando Salhuana |                                                                                                                                                                                                                                                                                          |
 
 La colaboración en la creación del informe se llevó a cabo a través de una serie de contribuciones constantes al repositorio de la organización VillaSystem.
 
@@ -104,10 +104,10 @@ Los integrantes del equipo son:
 
 **Student Outcomes**
 
-|Criterio específico|Acciones realizadas|Conclusiones|
-|---|---|---|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia.|**Angelo Curi**<br>TB1:<br><br>**Gustavo Huanca**<br>TB1:<br><br>**Diego Huincho**<br>TB1:<br>Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>**Óscar Armas**<br>TB1:<br><br>**Fernando Salhuana**<br>TB1:<br>|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
-|Comunica por escrito con efectividad a diferentes rangos de audiencia.|**Angelo Curi**<br>TB1:<br><br>**Gustavo Huanca**<br>TB1:<br><br>**Diego Huincho**<br>TB1:<br>Se realizó la separacion de trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br>**Óscar Armas**<br>TB1:<br><br>**Fernando Salhuana**<br>TB1:<br> |La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
+| Criterio específico                                                    | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Conclusiones                                                                                                                                                                                                                                                                                    |
+|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.   | **Angelo Curi**<br>TB1:<br><br>**Gustavo Huanca**<br>TB1:<br><br>**Diego Huincho**<br>TB1:<br>Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>**Óscar Armas**<br>TB1:<br><br>**Fernando Salhuana**<br>TB1:<br> | La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.                             |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | **Angelo Curi**<br>TB1:<br><br>**Gustavo Huanca**<br>TB1:<br><br>**Diego Huincho**<br>TB1:<br>Se realizó la separacion de trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br>**Óscar Armas**<br>TB1:<br><br>**Fernando Salhuana**<br>TB1:<br>                                                                                 | La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo. |
 
 - [Contenido](#contenido)
 
@@ -215,13 +215,13 @@ Estos datos recopilados se convierten en una valiosa fuente de información que 
 
 
 ### [1.1.2 Perfiles de los integrantes del equipo](#perfiles-de-los-integrantes-del-equipo)
-| Foto del Participante    | Nombres y Apellidos           | Código de Estudiante | Descripción de Carrera | Resumen de Conocimientos y Habilidades                                                                                                                                                                                                                                                                                                               |
-|--------------------------|-------------------------------|----------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![ ](images/gustavo.png) | Huanca Navarro, Gustavo Esau  | U202215285           | Ingenieria de Software | Soy Gustavo Huanca, estudiante de Ingeniería de Software. Me considero puntual, responsable y disfruto resolviendo problemas tecnológicos. Tengo conocimientos en desarrollo de software, varios lenguajes de programación, estructuras de datos y algoritmos. Además. Mi objetivo es contribuir eficazmente al éxito del equipo con mis habilidades |
-| ![ ]()                   | Armas Sánchez Óscar Javier    | U20211G192           | Ingenieria de Software | Breve párrafo con los principales conocimientos técnicos y habilidades que el participante puede aportar al equipo.                                                                                                                                                                                                                                  |
-| ![Foto]()                | Salhuana Lopez, Fernando Jose | U201622757           | Ingenieria de Software | Breve párrafo con los principales conocimientos técnicos y habilidades que el participante puede aportar al equipo.                                                                                                                                                                                                                                  |
-| ![Foto]()                | Huincho Lapa, Diego Arturo    | U201923466           | Ingenieria de Software | Mi nombre es Diego Arturo Huincho Lapa. Tengo 22 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser detallista y responsable. En cuanto a cualidades para la realización del trabajo considero que soy bueno haciendo los mockups de la app y la parte del frontend, puesto que ya tengo experiencia haciendo trabajos con los frameworks vuejs y react. En mi ratos libres me gusta jugar videojuegos o mirar una serie o pelicula.                                                                                                                                                                                                                                  |
-| ![ ](images/angelo.png)                | Curi Marcelo, Angelo Marcio   | U202022387           | Ingenieria de Software | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona responsable y comprometida con mis tareas. Siempre me esfuerzo por cumplir con los plazos y entregar trabajos de calidad. Además, me considero una persona creativa, tengo conocimientos tanto en programación y edición de videos. Considero que soy una persona que puede aportar de manera significativa a este equipo.                                                                                                                                                                                                                                   |
+| Foto del Participante    | Nombres y Apellidos           | Código de Estudiante | Descripción de Carrera | Resumen de Conocimientos y Habilidades                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|--------------------------|-------------------------------|----------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![ ](images/gustavo.png) | Huanca Navarro, Gustavo Esau  | U202215285           | Ingenieria de Software | Soy Gustavo Huanca, estudiante de Ingeniería de Software. Me considero puntual, responsable y disfruto resolviendo problemas tecnológicos. Tengo conocimientos en desarrollo de software, varios lenguajes de programación, estructuras de datos y algoritmos. Además. Mi objetivo es contribuir eficazmente al éxito del equipo con mis habilidades                                                                                                                                                                               |
+| ![ ]()                   | Armas Sánchez Óscar Javier    | U20211G192           | Ingenieria de Software | Breve párrafo con los principales conocimientos técnicos y habilidades que el participante puede aportar al equipo.                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ![Foto]()                | Salhuana Lopez, Fernando Jose | U201622757           | Ingenieria de Software | Breve párrafo con los principales conocimientos técnicos y habilidades que el participante puede aportar al equipo.                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ![Foto]()                | Huincho Lapa, Diego Arturo    | U201923466           | Ingenieria de Software | Mi nombre es Diego Arturo Huincho Lapa. Tengo 22 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser detallista y responsable. En cuanto a cualidades para la realización del trabajo considero que soy bueno haciendo los mockups de la app y la parte del frontend, puesto que ya tengo experiencia haciendo trabajos con los frameworks vuejs y react. En mi ratos libres me gusta jugar videojuegos o mirar una serie o pelicula. |
+| ![ ](images/angelo.png)  | Curi Marcelo, Angelo Marcio   | U202022387           | Ingenieria de Software | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona responsable y comprometida con mis tareas. Siempre me esfuerzo por cumplir con los plazos y entregar trabajos de calidad. Además, me considero una persona creativa, tengo conocimientos tanto en programación y edición de videos. Considero que soy una persona que puede aportar de manera significativa a este equipo.                                                                  |
 
 ## [1.2 Solution Profile](#solution-profile)
 ### [1.2.1 Antecedentes y Problemática](#antecedentes-y-problemática)
@@ -334,6 +334,240 @@ Este segmento incluye a las empresas encargadas de la distribución de vinos. El
 # [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
 # [2.1 Competidores](#competidores)
 ### [2.1.1 Análisis competitivo](#análisis-competitivo)
+
+
+<table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <th colspan="6">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="4">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
+  </tr>
+  <tr>
+    <td colspan="4">Texto</td>
+  </tr>
+  <tr>
+   <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
+    <td>GrapeFlow <img src="https://media.discordapp.net/attachments/1038166788619370537/1277329188600156282/image.png?ex=66ccc502&is=66cb7382&hm=c7cbd71b177adf9cac3541859395fa0819d522c5e09cd72849799ccc4941cb9b&=&format=webp&quality=lossless" alt="logo-facilio" width="50"/>  </td>
+    <td>ViWine <img src="https://media.discordapp.net/attachments/1038166788619370537/1277328730787942552/image.png?ex=66ccc495&is=66cb7315&hm=5e0fbddc0150ff98aad1d656237f2953354fa01ff0ffea4704793e0658536f63&=&format=webp&quality=lossless" alt="logo-facilio" width="50"/> </td>
+    <td>CellWine<img src="https://media.discordapp.net/attachments/1038166788619370537/1277328794507808861/image.png?ex=66ccc4a4&is=66cb7324&hm=e2382af6d82ff6757520e2f312c0d85260a418e41d8c44ea697481bcabf7c39a&=&format=webp&quality=lossless" alt="logo-facilio" width="50"/> </td>
+    <td>Cellar Tracker <img src="https://media.discordapp.net/attachments/1038166788619370537/1277328889558990848/image.png?ex=66ccc4ba&is=66cb733a&hm=c1503d8d7cb405e5331c5b90804f3c3fdbdd390482e6006181905a35f73786d9&=&format=webp&quality=lossless" alt="logo-facilio" width="50"/> </td> 
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td>GrapeFlow busca apoyar a los fabricantes de licores al proporcionarles componentes especializados que les permiten recopilar datos esenciales, como el pH, la temperatura y el tiempo de añejamiento de sus productos.</td>
+    <td>Viwine ofrece a los consumidores información detallada sobre vinos, permitiéndoles conocer todos los datos relevantes antes de realizar una compra..</td>
+    <td>Celwine proporciona a los fabricantes de vino herramientas para una gestión eficiente de sus bodegas, mejorando la organización y el control en la producción.</td>
+    <td>CellarTracker permite a los consumidores consultar reseñas y opiniones de expertos sobre vinos, ayudándoles a tomar decisiones informadas basadas en comentarios especializados.</td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td>La ventaja competitiva de GrapeFlow es que los clientes tienen acceso la visualización de la elaboración en tiempo real y sus características del producto. .</td>
+    <td>Ayuda a tener una información completa de los vinos .</td>
+    <td>Ayuda a los 
+fabricantes a 
+tener una mejor 
+gestión de sus 
+bodegas.</td>
+    <td>Brinda a los 
+usuarios reseñas 
+hechas por 
+personas 
+conocedoras de 
+vino.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td>Mercado objetivo</td>
+    <td>Personas 
+aficionadas o 
+amantes del vino..</td>
+    <td>Consumidores que 
+desean saber todos 
+los datos de un 
+vino.</td>
+    <td>Fabricantes de 
+vinos.</td>
+    <td>Consumidores que 
+deseen saber que 
+comentarios 
+tienen los vinos 
+que van a 
+consumir.</td>
+  </tr>
+  <tr>
+    <td>Estrategias de marketing</td>
+    <td>Publicidad por 
+medios digitales.</td>
+    <td>Publicidad 
+genérica .</td>
+    <td>Publicidad 
+genérica .</td>
+    <td>Publicidad 
+genérica .</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td>Productos & Servicios</td>
+    <td>Ofrece 
+información sobre 
+la composición 
+del vino a los 
+fabricantes y a los 
+clientes les 
+muestra 
+información en 
+tiempo real sobre 
+la elaboración del
+vino.</td>
+    <td>Ofrece información 
+del vino buscado 
+como el país de 
+origen, categoría 
+(tinto, blanco, etc.), 
+tipo de vino (seco, 
+dulce), su sabor, su 
+color, su aroma 
+etc..</td>
+    <td>Ofrece 
+herramientas de 
+gestión de 
+bodegas y una 
+sociedad del 
+vino con 
+calificación 
+profesional y 
+conocimiento 
+del vino.</td>
+    <td>Ofrece una 
+colección de 
+reseñas de vinos, 
+notas de cata.</td>
+  </tr>
+  <tr>
+    <td>Precios & Costos</td>
+    <td>Gratuita para los 
+consumidores y 
+para los 
+fabricadores un 
+pago para la 
+instalación del 
+Arduino, 
+posteriormente 
+una comisión por 
+cada vino 
+vendido. </td>
+    <td>Gratuito mediante 
+la plataforma de 
+descargas de cada 
+smartphone .</td>
+    <td>Gratuito 
+mediante la 
+plataforma de 
+descargas de 
+cada 
+smartphone.</td>
+    <td>Gratuito mediante 
+la plataforma de 
+descargas de cada 
+smartphone.</td>
+  </tr>
+  <tr>
+    <td>Canales de distribución (Web y/o Móvil)</td>
+    <td>Mediante el 
+programa y/o 
+Arduino para el 
+usuario de 
+producción, y 
+mediante la 
+aplicación al 
+usuario final</td>
+    <td>Gratuito mediante 
+la plataforma de 
+descargas de cada 
+smartphone.</td>
+    <td>Gratuito 
+mediante la 
+plataforma de 
+descargas de 
+cada 
+smartphone.</td>
+    <td>Gratuito mediante 
+la plataforma de 
+descargas de cada 
+smartphone .</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Analisis SWOT</td>
+    <td colspan="5">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus
+    oportunidades y contribuir a lo que ustedes definen como su posible ventaja
+    competitiva. </td>
+  </tr>
+ <tr>
+    <td>Fortalezas</td>
+    <td>Ofrecer 
+información 
+fidedigna y 
+precisa.</td>
+    <td>Por ser una APK de 
+plataforma abierta.</td>
+    <td>Por ser una APK de 
+plataforma abierta.</td>
+    <td>Por ser una APK de 
+plataforma abierta.</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>Falta de 
+inversión.</td>
+    <td>No precisan los 
+niveles de 
+información dados.</td>
+    <td>No precisa los 
+tiempos de 
+producción.</td>
+    <td>No brinda 
+información sobre 
+la procedencia de 
+los vinos .</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>No tenemos un 
+mercado 
+competitivo.</td>
+    <td>Presenta un 
+pequeño campo 
+competitivo.</td>
+    <td>Está sometido a 
+cambios .</td>
+    <td>No presenta 
+mercado 
+competitivo.</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>Falta de 
+colaboración con 
+los productores.</td>
+    <td>Crecer a gran 
+escala, 
+implementación de 
+nuevas 
+plataformas .</td>
+    <td>Manejo de 
+nuevas 
+tecnologías en 
+este campo .</td>
+    <td>Mayor publicidad 
+a campos de 
+observación del 
+publico.</td>
+  </tr>
+</table>
+
 ### [2.1.2 Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)
 
 ## [2.2 Entrevistas](#entrevistas)
@@ -352,14 +586,14 @@ Este segmento incluye a las empresas encargadas de la distribución de vinos. El
 ## [3.1. To-Be Scenario Mapping.](#to-be-scenario-mapping)
 ## [3.2. User Stories.](#user-stories)
 
-|Epic/Story ID|Titulo|Descripción|Criterios de aceptación|Relacionado con (Epic ID)|
-|-------------|------|-----------|-----------------------|-------------------------|
+| Epic/Story ID | Titulo | Descripción | Criterios de aceptación | Relacionado con (Epic ID) |
+|---------------|--------|-------------|-------------------------|---------------------------|
 
 ## [3.3. Impact Mapping.](#impact-mapping)
 ## [3.4. Product Backlog.](#product-backlog)
 
-|Orden|User Story ID|Título|Descripción|Story Points|
-|-----|-------------|------|-----------|------------|
+| Orden | User Story ID | Título | Descripción | Story Points |
+|-------|---------------|--------|-------------|--------------|
 
 # [Capítulo IV: Product Design.](#capítulo-iv-product-design)
 ## [4.1. Style Guidelines.](#style-guidelines)
