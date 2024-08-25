@@ -389,3 +389,14 @@ La startup, presentada con el nombre de "VillaSystem" está diseñada para optim
 En GrapeFlow, hemos seleccionado una paleta basada en la psicología del color. El morado, como tono predominante, representa creatividad y sofisticación, valores que deseamos transmitir. El naranja añade energía y dinamismo, mientras que el azul oscuro evoca confianza y profesionalismo. Como colores secundarios, utilizamos gris y blanco para aportar equilibrio, claridad y una apariencia moderna.
 
 ![Colores](images/colorsPrimaryAndSecundary-landing.png)
+
+**Tipografía:**
+
+La tipografía establece jerarquía entre los diversos grupos de contenido de la página. Asimismo, cumple un rol importante al momento de guiar al usuario a través de la interfaz.
+
+* Heading 1: Tiene un tamaño de 136 px.
+* Heading 2: Tiene un tamaño de 50 px.
+* Heading 3: Tiene un tamaño de 40 px.
+* Heading 4: Tiene un tamaño de 30 px.
+
+* ![Tipografía](images/size-titleAndBodyTextLanding.png)
