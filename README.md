@@ -463,3 +463,10 @@ En GrapeFlow, es crucial que los administradores puedan filtrar y gestionar efic
 
 ### [4.2.5. Navigation Systems.](#navigation-systems)
 Los sistemas de navegación principales en GrapeFlow incluyen menús ubicados en la parte superior e inferior de la pantalla. Estos menús dirigen a los usuarios a secciones clave como el panel de control, la gestión de inventarios y la configuración de procesos. Si los usuarios no utilizan estos menús, pueden navegar por la página mediante un desplazamiento descendente que les permite explorar el contenido de manera fluida. En la aplicación, los usuarios podrán crear y gestionar procesos productivos, asignar recursos y monitorear el progreso a través de una interfaz intuitiva y accesible.
+
+## [4.3. Landing Page UI Design](#landing-page-ui-design)
+### [4.3.1. Landing Page Wireframe.](#landing-page-wireframe)
+![wireframe1](images/landingPageWireframePart1.png)
+![wireframe2](images/landingPageWireframePart2.png)
+![wireframe3](images/landingPageWireframePart3.png)
+![wireframe4](images/landingPageWireframePart4.png)
