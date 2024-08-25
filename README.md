@@ -419,3 +419,7 @@ Los botones desempeñan un papel esencial en la experiencia de usuario de GrapeF
 La organización jerárquica en GrapeFlow se utiliza para resaltar la importancia de los elementos clave en pantalla, como los paneles de control de producción, inventarios y reportes. Esta estructura es evidente en las pantallas de inicio de sesión, gestión de procesos y monitoreo de etapas productivas, proporcionando una clara jerarquía de acciones y opciones.
 
 Además, GrapeFlow emplea una organización secuencial para guiar a los usuarios a través de procesos complejos, como la creación de lotes de vino o la gestión de inventarios, asegurando que los usuarios sigan un flujo paso a paso sin perderse en la interfaz.
+### [4.2.2. Labeling Systems.](#labeling-systems)
+Los encabezados en GrapeFlow se utilizan en pantallas informativas y de configuración, resumiendo claramente el contenido y ayudando al usuario a orientarse dentro de la plataforma. Las etiquetas textuales acompañan a los iconos y botones en el panel de control, facilitando la navegación y el acceso a funciones específicas. Todas las tarjetas y secciones importantes están etiquetadas con títulos claros que explican su contenido y propósito.
+
+En la barra de navegación, se emplean etiquetas textuales para las vistas principales, como el panel de control, gestión de lotes y análisis de calidad, permitiendo a los usuarios acceder fácilmente a las funcionalidades principales de la plataforma.
