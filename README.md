@@ -457,3 +457,9 @@ Las etiquetas meta en GrapeFlow son fundamentales para mejorar la visibilidad y 
 <meta name="author" content="GrapeFlow Team"/>
 <meta name="copyright" content="Copyright GrapeFlow team"/>
 ```
+
+### [4.2.4. Searching Systems.](#searching-systems)
+En GrapeFlow, es crucial que los administradores puedan filtrar y gestionar eficientemente la información almacenada, como registros de producción y control de calidad. Los usuarios tendrán herramientas de búsqueda avanzadas para encontrar rápidamente lotes, etapas de producción o insumos específicos. Además, los usuarios podrán rastrear y acceder a informes históricos, optimizando así la gestión de la producción vinícola.
+
+### [4.2.5. Navigation Systems.](#navigation-systems)
+Los sistemas de navegación principales en GrapeFlow incluyen menús ubicados en la parte superior e inferior de la pantalla. Estos menús dirigen a los usuarios a secciones clave como el panel de control, la gestión de inventarios y la configuración de procesos. Si los usuarios no utilizan estos menús, pueden navegar por la página mediante un desplazamiento descendente que les permite explorar el contenido de manera fluida. En la aplicación, los usuarios podrán crear y gestionar procesos productivos, asignar recursos y monitorear el progreso a través de una interfaz intuitiva y accesible.
