@@ -350,3 +350,22 @@ Este segmento incluye a las empresas encargadas de la distribución de vinos. El
 
 # [Capítulo III: Requirements Specification.](#capítulo-iii-requirements-specification)
 ## [3.1. To-Be Scenario Mapping.](#to-be-scenario-mapping)
+## [3.2. User Stories.](#user-stories)
+
+|Epic/Story ID|Titulo|Descripción|Criterios de aceptación|Relacionado con (Epic ID)|
+|-------------|------|-----------|-----------------------|-------------------------|
+
+## [3.3. Impact Mapping.](#impact-mapping)
+## [3.4. Product Backlog.](#product-backlog)
+
+|Orden|User Story ID|Título|Descripción|Story Points|
+|-----|-------------|------|-----------|------------|
+
+# [Capítulo IV: Product Design.](#capítulo-iv-product-design)
+## [4.1. Style Guidelines.](#style-guidelines)
+### [4.1.1. General Style Guidelines.](#general-style-guidelines)
+Un "style guideline" es un conjunto de reglas y directrices que definen cómo se debe redactar, diseñar o presentar documentos, contenido web, software u otros tipos de trabajos creativos. A continuación, se detallan los parámetros utilizados en la estructura del proyecto:
+
+**Branding:**
+
+_Brand Overview:_
