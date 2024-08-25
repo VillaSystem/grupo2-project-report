@@ -386,3 +386,6 @@ La startup, presentada con el nombre de "VillaSystem" está diseñada para optim
 
 **Colores:**
 
+En GrapeFlow, hemos seleccionado una paleta basada en la psicología del color. El morado, como tono predominante, representa creatividad y sofisticación, valores que deseamos transmitir. El naranja añade energía y dinamismo, mientras que el azul oscuro evoca confianza y profesionalismo. Como colores secundarios, utilizamos gris y blanco para aportar equilibrio, claridad y una apariencia moderna.
+
+![Colores](images/colorsPrimaryAndSecundary-landing.png)
