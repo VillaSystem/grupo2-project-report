@@ -400,3 +400,17 @@ La tipografía establece jerarquía entre los diversos grupos de contenido de la
 * Heading 4: Tiene un tamaño de 30 px.
 
 * ![Tipografía](images/size-titleAndBodyTextLanding.png)
+### [4.1.2. Web Style Guidelines.](#web-style-guidelines)
+El enfoque de GrapeFlow para su plataforma web se centra en la claridad y la facilidad de uso, facilitando la gestión de las diferentes etapas del proceso de producción vinícola. Las funcionalidades clave y formularios se presentan en secciones bien definidas que ocupan un espacio destacado en la pantalla.
+
+**Tarjetas:**
+
+Se utiliza el componente "mat-card" de Angular Material para mostrar avisos y notificaciones relevantes. Estas tarjetas contienen información crucial para el usuario, como actualizaciones en el flujo de trabajo o recordatorios, acompañadas de texto representativo e imágenes relacionadas con las tareas o eventos importantes.
+
+**Imágenes:**
+
+El diseño web incluye imágenes descriptivas con un propósito específico, como las fotos de perfil de los usuarios o imágenes de los productos en las diferentes etapas de producción. Las imágenes de perfil de los usuarios están siempre visibles en la parte superior izquierda, mientras que otras imágenes clave se utilizan para guiar visualmente al usuario a través del flujo funcional de la plataforma.
+
+**Botones:**
+
+Los botones desempeñan un papel esencial en la experiencia de usuario de GrapeFlow, permitiendo acciones como iniciar una nueva etapa en el proceso de producción, confirmar operaciones o acceder a informes. Estos botones están diseñados para ser intuitivos y accesibles, asegurando que los usuarios puedan interactuar con la plataforma de manera eficiente y sin complicaciones.
