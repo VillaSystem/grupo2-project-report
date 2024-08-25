@@ -369,3 +369,17 @@ Un "style guideline" es un conjunto de reglas y directrices que definen cómo se
 **Branding:**
 
 _Brand Overview:_
+
+La startup, presentada con el nombre de "VillaSystem" está diseñada para optimizar el flujo de trabajo en la industria vinícola, además a la producción de vino que es un proceso complejo que requiere la coordinación eficiente de múltiples etapas y actores. GrapeFlow busca simplificar esta coordinación mediante una solución tecnológica que permite a los productores de vino gestionar de manera integral y efectiva cada paso de la cadena de producción.
+
+* **Misión:** Transformar la gestión de la producción vinícola mediante una plataforma que integre y optimice todos los aspectos del flujo de trabajo, desde la cosecha hasta la distribución, proporcionando herramientas que mejoren la eficiencia y la calidad.
+  <br><br>
+* **Visión:** Convertirnos en la plataforma líder en la digitalización y optimización de la industria vinícola, promoviendo prácticas más eficientes, sostenibles y colaborativas a nivel global.
+
+**Logotipo de la startup**
+
+* ![UniRider Startup Logo](images/logos/LogoVillaSystem.png)
+
+**Logotipo del Servicio**
+
+![UniRider Service Logo](images/logos/LogoGrapeFlowBlueBackGround.png)
