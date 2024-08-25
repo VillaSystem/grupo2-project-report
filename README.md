@@ -570,6 +570,22 @@ publico.</td>
 
 ### [2.1.2 Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)
 
+* **Fortalezas y Oportunidades**:
+
+La capacidad de ofrecer información en tiempo real sobre la producción y las características del licor es un valor clave. Esta fortaleza se debe aprovechar para diferenciarse de competidores como ViWine y CellarTracker, que no brindan esta funcionalidad específica. Se puede enfatizar esta ventaja en la publicidad y en las demostraciones de producto.
+Oportunidades: El mercado presenta una baja competencia, lo que permite a GrapeFlow posicionarse rápidamente. Esta oportunidad puede ser maximizada mediante una estrategia de crecimiento rápido, captando a los principales productores y distribuidores de vinos y piscos antes que los competidores reaccionen.
+
+* **Aprovechamiento de Debilidades y Amenazas de los Competidores**:
+
+ViWine y CellarTracker no proporcionan información sobre el proceso de producción ni sobre la procedencia de los ingredientes. GrapeFlow puede aprovechar esta debilidad promoviendo su capacidad de recopilar y mostrar estos datos, atrayendo a un público más informado y exigente.
+Amenazas del Entorno Competitivo: La mayor amenaza identificada es la falta de colaboración con los productores. Para mitigar esto, GrapeFlow debe implementar una estrategia de alianzas estratégicas con los principales productores, asegurando que estos vean un valor claro en la integración de sus procesos con GrapeFlow.
+* **Estrategias de Marketing**:
+
+Utilizar una estrategia de publicidad digital dirigida específicamente a productores y distribuidores, destacando las características únicas de GrapeFlow en comparación con otras aplicaciones en el mercado. Además, la estrategia debe incluir testimonios de usuarios satisfechos y estudios de caso para construir credibilidad.
+Mejorar continuamente la plataforma basada en retroalimentación directa de los usuarios, asegurando que GrapeFlow no solo iguale, sino que supere las expectativas del mercado. También, ofrecer una interfaz intuitiva que permita a los usuarios interactuar fácilmente con la información compleja que recopila la plataforma.
+* **Costos y Precios**:
+
+Asegurar que los precios para la instalación del sistema y las comisiones sean competitivos y accesibles, incentivando a más productores a adoptar la plataforma. A la vez, la estrategia de monetización debe incluir planes escalables para que los productores puedan crecer junto con GrapeFlow.
 ## [2.2 Entrevistas](#entrevistas)
 ### [2.2.1 Diseño de entrevistas](#diseño-de-entrevistas)
 ### [2.2.2 Registro de entrevistas](#registro-de-entrevistas)
