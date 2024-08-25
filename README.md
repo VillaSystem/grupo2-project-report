@@ -602,14 +602,26 @@ Asegurar que los precios para la instalación del sistema y las comisiones sean 
 ## [3.1. To-Be Scenario Mapping.](#to-be-scenario-mapping)
 ## [3.2. User Stories.](#user-stories)
 
-| Epic/Story ID | Titulo | Descripción | Criterios de aceptación | Relacionado con (Epic ID) |
-|---------------|--------|-------------|-------------------------|---------------------------|
+| Epic/Story ID | Titulo                                     | Descripción                                                                                                                              | Criterios de aceptación                                                                                                                                                                                                                                              | Relacionado con (Epic ID) |
+|---------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| 1             | Registro de Datos del Producto.            | Como productor de licor, quiero registrar los datos esenciales del producto para que pueda tener un seguimiento detallado de cada lote.. | - Dado que el productor accede a la sección de registro, Cuando introduce los datos del pH, temperatura, tiempo de añejamiento y otra información relevante, Entonces el sistema debe almacenar esta información en la base de datos y permitir su consulta futura.. | -                         |
+| 2             | Visualización de Información del Producto. | Como consumidor, quiero visualizar la información detallada de cada licor para tomar decisiones informadas al momento de comprar..       | - Dado que un consumidor selecciona un producto en la aplicación, Cuando visualiza la página de detalles del producto, Entonces debe ver la información del pH, temperatura, tiempo de añejamiento, tipo de uva y procedencia de los ingredientes..                  | -                         |
+| 3             | Gestión de Inventarios.                    | Como distribuidor, quiero gestionar el inventario de productos para asegurarme de que no haya escasez ni exceso de stock..               | - Dado que el distribuidor accede a la sección de inventario, Cuando actualiza las cantidades de productos, Entonces el sistema debe reflejar los cambios en tiempo real y enviar notificaciones si los niveles de inventario están bajos..                          | -                         |
+
+
 
 ## [3.3. Impact Mapping.](#impact-mapping)
 ## [3.4. Product Backlog.](#product-backlog)
 
-| Orden | User Story ID | Título | Descripción | Story Points |
-|-------|---------------|--------|-------------|--------------|
+| Orden | User Story ID | Título                                     | Descripción                                                                                                                              | Story Points |
+|-------|---------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| 1     | 1             | 	Registro de Datos del Producto.           | Como productor de licor, quiero registrar los datos esenciales del producto para que pueda tener un seguimiento detallado de cada lote.. | 3            |
+| 2     | 2             | Visualización de Información del Producto. | Como consumidor, quiero visualizar la información detallada de cada licor para tomar decisiones informadas al momento de comprar..       | 3            |
+| 3     | 3             | Gestión de Inventarios.                    | Como distribuidor, quiero gestionar el inventario de productos para asegurarme de que no haya escasez ni exceso de stock..               | 5            |
+
+
+Link de Pivot Tracker:
+https://www.pivotaltracker.com/n/projects/2715642
 
 # [Capítulo IV: Product Design.](#capítulo-iv-product-design)
 ## [4.1. Style Guidelines.](#style-guidelines)
