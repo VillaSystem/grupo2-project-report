@@ -736,3 +736,17 @@ Los sistemas de navegación principales en GrapeFlow incluyen menús ubicados en
 
 ## [4.4. Web Applications UX/UI Design.](#web-applications-uxui-design)
 ### [4.4.1. Web Applications Wireframes.](#web-applications-wireframes)
+### [4.4.2. Web Applications Wireflow Diagrams.](#web-applications-wireflow-diagrams)
+### [4.4.3. Web Applications Mock-ups.](#web-applications-mock-ups)
+### [4.4.4. Web Applications User Flow Diagrams.](#web-applications-user-flow-diagrams)
+
+## [4.5. Web Applications Prototyping.](#web-applications-prototyping)
+
+Para el desarrollo del prototipado y diseño en general se utilizo figma, ademas para el prototipado se cuido que la aplicacion cumple una serie de criterios para que la experiencia del usuario pueda ser la mas optima.
+
+Prototipado Web:
+
+Prototipado Mobile:
+
+## [4.6. Domain-Driven Software Architecture.](#domain-driven-software-architecture)
+### [4.6.1. Software Architecture Context Diagram.](#software-architecture-context-diagram)
