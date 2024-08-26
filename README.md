@@ -593,8 +593,33 @@ Asegurar que los precios para la instalación del sistema y las comisiones sean 
 
 ## [2.3 Needfinding](#needfinding)
 ### [2.3.1 User Personas](#user-personas)
+
+![ ](images/person1.png) 
+
+![ ](images/person2.png) 
+
 ### [2.3.2 User Task Matrix](#user-task-matrix)
+
+El enfoque de la matriz de tareas del usuario es examinar las tareas que ambos segmentos llevan a cabo antes de recibir el producto, para identificar si alguna de estas tareas podría ser asistida por nuestro producto.
+
+| **Task**                                                | **Productor**         | **Distribuidor**      |
+|---------------------------------------------------------|-----------------------|-----------------------|
+||Frecuencia/Importancia|Frecuencia/Importancia|
+| Registrar entradas y salidas de inventario          | Media / Alta          | Alta / Alta           |
+| Monitorear niveles de inventario                     | Alta / Alta           | Alta / Alta           |
+| Generar informes de inventario                      | Media / Media         | Alta / Alta           |
+| Generación de reportes de seguimiento               | -                     | Alta / Alta           |
+| Realizar ajustes de inventario                       | Media / Media         | Alta / Alta           |
+| Prever y planificar reabastecimientos                | -                     | Alta / Alta           |
+| Actualizar y mantener la base de datos de productos  | -                     | Alta / Alta           |
+| Preguntar al productor/distribuidor cuando sería la mejor fecha para negociar el producto | Media / Alta          | Media / Alta          |
+| Integración con sistemas de seguimiento de proveedores | Media / Media         | Media / Media         |
+
 ### [2.3.3 User Journey Mapping](#user-journey-mapping)
+
+![ ](images/jperson1.png) 
+
+![ ](images/jperson2.png) 
 
 ## [2.4 Ubiquitous Language](#ubiquitous-language)
 
