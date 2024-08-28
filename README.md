@@ -283,11 +283,11 @@ _¿Cómo debe ser y comportarse nuestro producto?_
 
 **Feature Assumptions:**
 
-_**Creemos que los fabricantes de licores mejorarán la calidad y eficiencia de su producción si tienen acceso a componentes especializados que les permitan monitorear variables críticas como pH, temperatura, y tiempo de añejamiento en tiempo real.
-Sabremos que esta hipótesis es cierta cuando observemos una reducción en los errores de producción, un incremento en la calidad del producto final, y un aumento en la satisfacción de los fabricantes con nuestra plataforma.**_
+_**Creemos**_ que los fabricantes de licores mejorarán la calidad y eficiencia de su producción si tienen acceso a componentes especializados que les permitan monitorear variables críticas como pH, temperatura, y tiempo de añejamiento en tiempo real.
+_**Sabremos**_ que esta hipótesis es cierta _**cuando**_ observemos una reducción en los errores de producción, un incremento en la calidad del producto final, y un aumento en la satisfacción de los fabricantes con nuestra plataforma.
 
-_**Creemos que los consumidores estarán más dispuestos a comprar licores si tienen acceso a una aplicación móvil que les proporcione información detallada y confiable sobre cada producto, como el tipo de uva, el origen de los ingredientes, y las condiciones de añejamiento.
-Sabremos que esta hipótesis es cierta cuando veamos un aumento en el uso de la aplicación, un incremento en las ventas de los productos destacados, y una mayor satisfacción de los usuarios en sus decisiones de compra.**_
+_**Creemos**_ que los consumidores estarán más dispuestos a comprar licores si tienen acceso a una aplicación móvil que les proporcione información detallada y confiable sobre cada producto, como el tipo de uva, el origen de los ingredientes, y las condiciones de añejamiento.
+_**Sabremos**_ que esta hipótesis es _**cierta**_ cuando veamos un aumento en el uso de la aplicación, un incremento en las ventas de los productos destacados, y una mayor satisfacción de los usuarios en sus decisiones de compra.**_
 
 #### [1.2.2.3 Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
 
