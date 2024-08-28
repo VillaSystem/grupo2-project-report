@@ -271,8 +271,18 @@ _¿Quienes seran los beneficiados por el servicio?_
 
 _¿Quién es el usuario?_
 
+* Fabricantes de licores, especialmente productores de vinos y piscos, que buscan mejorar la calidad y eficiencia de sus procesos productivos.
+* Distribuidores que necesitan información detallada y precisa sobre los productos que comercializan.
+* Consumidores interesados en conocer detalles específicos sobre los licores que compran para hacer elecciones más informadas.
+
 _¿Qué problemas enfrenta nuestro producto? ¿Cómo los resolveremos?_
 
+* _**Problema para Fabricantes:**_ Falta de herramientas para la recopilación y análisis de datos en tiempo real durante la producción.
+* _**Solución:**_ Proporcionar componentes especializados que recopilen datos como pH, temperatura, y tiempo de añejamiento, así como permitir la introducción de información adicional.
+
+* _**Problema para Consumidores:**_ Falta de acceso a información detallada sobre los licores, lo que dificulta tomar decisiones de compra informadas.
+* _**Solución:**_ Crear una aplicación que muestre información detallada y verificada sobre cada licor, mejorando la experiencia de compra.
+* 
 _¿Qué características son importantes?_
 
 _¿Dónde encaja nuestro producto en su trabajo o vida?_
@@ -299,7 +309,7 @@ _**Sabremos**_ que esta hipótesis es cierta _**cuando**_ observemos una reducci
 - **Hypothesis Statement 02:**
   <br><br>
 _**Creemos**_ que los consumidores estarán más dispuestos a comprar licores si tienen acceso a una aplicación móvil que les proporcione información detallada y confiable sobre cada producto, como el tipo de uva, el origen de los ingredientes, y las condiciones de añejamiento.
-_**Sabremos**_ que esta hipótesis es _**cierta**_ cuando veamos un aumento en el uso de la aplicación, un incremento en las ventas de los productos destacados, y una mayor satisfacción de los usuarios en sus decisiones de compra.**_
+_**Sabremos**_ que esta hipótesis es _**cierta**_ cuando veamos un aumento en el uso de la aplicación, un incremento en las ventas de los productos destacados, y una mayor satisfacción de los usuarios en sus decisiones de compra.
   <br><br>
 
 #### [1.2.2.4 Lean UX Canvas](#lean-ux-canvas)
