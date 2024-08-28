@@ -783,3 +783,277 @@ Prototipado Mobile:
 
 ## [4.6. Domain-Driven Software Architecture.](#domain-driven-software-architecture)
 ### [4.6.1. Software Architecture Context Diagram.](#software-architecture-context-diagram)
+
+
+#   Capítulo V: Product Implementation, Validation & Deployment
+
+## 5.1.	Software Configuration Management.
+En esta área se presentan las normas establecidas en conjunto, las cuales garantizan coherencia y claridad en el desarrollo de la solución.
+
+### 5.1.1.	Software Development Environment Configuration.
+
+En la introducción, presentamos las aplicaciones y software empleados durante la ejecución del proyecto. A continuación, enumeramos estos elementos según sus categorías correspondientes.
+
+* ####  Project Management
+
+Esta metodología centrada en la estructuración de las actividades del proyecto busca incrementar la efectividad en uno o varios proyectos. Aunque inicialmente se utilizaron herramientas de chat para la asignación de tareas, todas estas asignaciones están documentadas en el software siguiente:
+
+**○ Trello**: Esta plataforma nos brinda la capacidad de administrar el proyecto y su flujo de trabajo, además nos permite asignar y personalizar tareas de acuerdo con nuestras exigencias.
+
+* #### Requirements Management
+
+Esta metodología nos ayudó a comprender las necesidades y exigencias de nuestros usuarios al ponernos en su posición, aquellos que buscan una solución para el problema que intentamos abordar. Para realizar este procedimiento, empleamos:
+
+
+**○ Pivotal Tracker**: Esta herramienta de gestión de proyectos resultó invaluable debido a su capacidad para manejar historias de usuario, agruparlas en epics y calificar su dificultad o tiempo con puntajes. Además, su función de visualización en tiempo real del proyecto fue otra razón fundamental para su utilización.
+
+
+
+* #### Product UX/UI Design
+La prioridad del diseño UX radica en satisfacer las necesidades de los usuarios durante su interacción con nuestro software. Mientras tanto, el diseño UI se focaliza en la creación de la interfaz que los usuarios utilizarán, especialmente en el contexto de la aplicación web que hemos desarrollado. Para esta etapa, utilizamos las siguientes herramientas:
+
+
+**○ Uxpressia**: Para utilizar esta herramienta, inicialmente se recopiló información sobre los usuarios y sus requerimientos. Con este software, creamos los User Persona, Empathy Map, Journey Map e Impact Map.
+
+
+**○ MIRO**: La función principal de esta herramienta fue facilitar la lluvia de ideas gracias a la flexibilidad de su pizarra colaborativa. Aquí se generaron ideas preliminares sobre los problemas y necesidades de los clientes, así como para identificar los Bounded Context de nuestro proyecto.
+
+
+**○ Figma**: Este software de edición gráfica y generación de prototipos nos permitió desarrollar los elementos correspondientes al diseño UI, abarcando desde la creación de wireframes y maquetas hasta la presentación del prototipo final.
+
+
+**○ LucidChart**: Utilizamos esta herramienta para desarrollar los diseños UML, siendo su principal ventaja la posibilidad de colaborar en tiempo real en la creación del diagrama.
+
+* #### Software Development
+
+Esta expresión abarca todas las acciones vinculadas con la concepción, elaboración e implementación del software. Para realizar estas acciones, empleamos lo siguiente:
+
+* **GitHub**: Utilizamos esta plataforma para alojar el código que desarrollamos en equipo, con el fin de facilitar su posterior despliegue.
+
+
+* **Webstorm**: Este entorno de desarrollo integrado (IDE) nos proporciona herramientas para trabajar con JavaScript y otras tecnologías relacionadas, como HTML y CSS.
+
+**Software Testing:** En este primer hito, todos los integrantes del equipo llevaron a cabo pruebas del landing page antes de efectuar cualquier modificación en sus propias computadoras, utilizando sus respectivos entornos de desarrollo integrado (IDE) favoritos.
+
+**Software Documentation:** Para la documentación del software, empleamos dos herramientas:
+* **GitHub:** Utilizamos esta plataforma colaborativa para añadir toda la documentación relacionada en esta entrega en formato Markdown.
+* **Google Drive:** Hemos utilizado Google Docs para las tareas que requieren el desarrollo de un artefacto entre dos o más personas en tiempo real, antes de pasarlo a nuestro repositorio en formato Markdown.
+
+### 5.1.2. Source Code Management.
+La metodología y el sistema de gestión utilizados para seguir los cambios durante la evolución de nuestro proyecto se pusieron en práctica en GitHub, empleando repositorios específicos para cada parte de la arquitectura de desarrollo. En esta fase inicial, hemos compartido el repositorio de nuestra Landing Page.
+URL Repositorio Landing Page:
+URL LANDING PAGE
+
+Para los commits de nuestro repositorio se tomó en cuenta el modelo concebido en 2010, Git Flow:
+
+
+![](https://media.discordapp.net/attachments/1038166788619370537/1278202046348136489/image.png?ex=66cff1eb&is=66cea06b&hm=9c5d4a38c18c7e653afe9c32443a888f3ece582e0aac42d8cfc3f621e304f9b1&=&format=webp&quality=lossless&width=320&height=424)
+
+La manera que se plantea usar git flow es seguir su concepto de crear ramas a parte de la principal (main branch). Las ramas que se planea crear:
+* Main Branches:
+  Master
+  Develop
+* Support Branches
+  Feature
+* Feature Branches
+
+
+Cada feature debe tener su propia rama y deben tener una convención que se usarán en todas las branches. La convención a usar:
+
+Feature/name:
+Por ejemplo :
+* feature/registro
+* feature/studentClass
+* feature/advisoryTransaction
+
+Para el nombre de commit se usará “Conventional Commits”, este indica la estructura que deben tener los commit de  nuestras ramas.
+
+<tipo>(Alcance opcional): <descripción del commit>
+
+Para especificar el tipo se encuentran la siguientes definiciones:
+* feat: cuando se añade un feature
+* fix: cuando se soluciona un error.
+* build: cuando se modifican las herramientas de compilación
+* chore: modificaciones privadas
+* refactor: cuando solo se modifica la documentación
+* perf: cuando se mejora el rendimiento
+* style: commits relacionados al estilo, no afectan la lógica
+* test: commits para la creación de pruebas
+
+El alcance proporciona contexto al commit para que los otros desarrolladores comprendan el entorno del mismo.
+
+La descripción del commit es esencial y obligatoria, debe redactarse en imperativo y en minúsculas.
+
+### 5.1.3.	Source Code Style Guide & Conventions
+
+
+En esta sección se detallan las convenciones para nombrar elementos y codificar en los lenguajes utilizados en esta fase inicial del proyecto.
+
+HTML:
+No omitir las etiquetas html y body, aunque no den error, la falta de body puede causar problemas en navegadores antiguos y la falta de la etiqueta html puede corromper a DOM y XML software.
+```
+<!DOCTYPE html>
+<html>
+<title>Page Title</title>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+```
+Los nombres de los elementos deben in LowerCase, ejemplos:
+```
+<body>
+<p>This is a paragraph.</p>
+</body>
+```
+Ejemplo de cómo no se tiene que nombrar las etiquetas o elementos:
+```
+<BODY>
+<P>This is a paragraph.</P>
+</BODY>
+```
+Cerrar todos los elementos que utilicemos:
+```
+<p>This is a paragraph.</p>
+```
+Los atributos también tienen que ir en minúsculas, ejemplo:
+```
+<a href=”you.com”>This is a paragraph.</a>
+```
+Siempre poner entre comillas los atributos:
+```
+<table class=”welcome”>
+```
+Siempre especificar el texto alternativo de las imágenes, así como el ancho y altura de esta:
+```
+<img src="html5.gif" alt="HTML5" style="width:128px;height:128px">
+```
+Añadir la etiqueta lan, para declarar el lenguaje de la página web y dar asistencia a los navegadores:
+```
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+```
+**CSS:**
+
+Utilizar nombres de clases que sean posiblemente cortas pero largas si es necesario, para la comprensión de los demás desarrolladores:
+```
+.nav {}
+.author {}
+```
+Separar los nombres de las clases con guión:
+```
+.video-id {}
+.error-status{}
+```
+
+El orden de declaración de los elementos dentro de una clase deben ir en orden alfabético:
+```
+background: fuchsia;
+border: 1px solid;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+color: black;
+text-align: center;
+text-indent: 2em;
+```
+Aplica sangría en todos los atributos de una clase para representar la jerarquía y mejorar la comprensión:
+```
+@media pantalla , proyección {
+
+html {
+fondo : #fff;
+color : #444; } }
+
+Poner una línea en blanco entre las reglas:
+html {
+background: #fff;
+}
+
+body {
+margin: auto;
+width: 50%;
+}
+```
+JavaScript:
+Usar const and let, la mayoría de veces usar variables const a no ser que necesite ser reasignado su valor, evitar el uso de var.
+
+Una variable por declaración:
+No hacer let a = 1, b = 2
+
+No usar el constructor Objeto, usar un constructor literal {name: ‘gio, …}
+
+Utilizar CamelCase para nombres de variables y funciones:
+```
+const mySchedule = {};
+func transferMoney(a,b) {}
+```
+Utilizar Pascal para nombres de clases y constructores:
+```
+MiClase{
+MiClase(){}
+}
+```
+Utilizar punto y coma al final de una sentencia, aunque javaScript permite omitir el uso de estas se considera buena práctica incluirlo para evitar posibles errores.
+
+### 5.1.4.	Software Deployment Configuration.
+
+
+## 5.2.	Landing Page, Services & Applications Implementation.
+### 5.2.1.	Sprint 1
+### 5.2.1.1.	Sprint Planning 1.
+
+
+| Sprint #                        | Sprint 1                                                                                                                                                                                                               |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                                                                                                                                                        |
+| Date                            | 25/08/2024                                                                                                                                                                                                             |
+| Time                            | 10:00 PM                                                                                                                                                                                                               |
+| Location                        | Servidor de Discord del Equipo                                                                                                                                                                                         |
+| Prepared By                     | Gustavo Esau Huanca Navarro                                                                                                                                                                                            |
+| Attendees (to planning meeting) | Diego Huincho/ Angelo/ Gustavo Huanca /                                                                                                                                                                                |
+| Sprint n Review Summary         | En esta entrega no hay un Sprint anterior, por lo tanto, no hay resumen de Sprint                                                                                                                                      |
+| Sprint n Retrospective Summary  | En esta entrega no hay un Sprint anterior, por lo tanto, no hay resumen de Sprint                                                                                                                                      |
+| Sprint Goal & User Stories      |
+| Sprint 1 Goal                   | La meta de este Sprint es la investigación y desarrollo de nuestro proyecto. Asimismo, consiste en el funcionamiento de la Landing Page, tanto su visualización, el traslado y la visualización de todo lo estipulado. |
+| Sprint 1 Velocity               | 10 Velocity                                                                                                                                                                                                            |
+| Sum of Story Points             | 10 Story Points.                                                                                                                                                                                                       |
+
+### 5.2.1.2.	Sprint Backlog 1.
+
+### 5.2.1.3.	Development Evidence for Sprint Review.
+
+### 5.2.1.4.	Testing Suite Evidence for Sprint Review.
+No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Tests, Integration Tests y Acceptance Tests automatizados, para Web Services.
+
+### 5.2.1.5.	Execution Evidence for Sprint Review.
+
+### 5.2.1.6.	Services Documentation Evidence for Sprint Review
+
+### 5.2.1.7.	Software Deployment Evidence for Sprint Review.
+
+### 5.2.1.8.	Team Collaboration Insights during Sprint
+
+Creamos una organización en Github, donde tendremos todos nuestros repositorios de manera pública.
+
+Link de la organización: https://github.com/VillaSystem
+
+Integrantes:
+
+
+![](https://media.discordapp.net/attachments/1038166788619370537/1278220536761290853/image.png?ex=66d00324&is=66ceb1a4&hm=4796ae01e3d906e58abf4aa9faca30363999b00fc4e435a51d4cec81172ca32e&=&format=webp&quality=lossless&width=447&height=424)
+
+
