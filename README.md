@@ -610,18 +610,18 @@ Asegurar que los precios para la instalación del sistema y las comisiones sean 
 
 El enfoque de la matriz de tareas del usuario es examinar las tareas que ambos segmentos llevan a cabo antes de recibir el producto, para identificar si alguna de estas tareas podría ser asistida por nuestro producto.
 
-| **Task**                                                | **Productor**         | **Distribuidor**      |
-|---------------------------------------------------------|-----------------------|-----------------------|
-||Frecuencia/Importancia|Frecuencia/Importancia|
-| Registrar entradas y salidas de inventario          | Media / Alta          | Alta / Alta           |
-| Monitorear niveles de inventario                     | Alta / Alta           | Alta / Alta           |
-| Generar informes de inventario                      | Media / Media         | Alta / Alta           |
-| Generación de reportes de seguimiento               | -                     | Alta / Alta           |
-| Realizar ajustes de inventario                       | Media / Media         | Alta / Alta           |
-| Prever y planificar reabastecimientos                | -                     | Alta / Alta           |
-| Actualizar y mantener la base de datos de productos  | -                     | Alta / Alta           |
-| Preguntar al productor/distribuidor cuando sería la mejor fecha para negociar el producto | Media / Alta          | Media / Alta          |
-| Integración con sistemas de seguimiento de proveedores | Media / Media         | Media / Media         |
+| **Task**                                                                                  | **Productor**          | **Distribuidor**       |
+|-------------------------------------------------------------------------------------------|------------------------|------------------------|
+|                                                                                           | Frecuencia/Importancia | Frecuencia/Importancia |
+| Registrar entradas y salidas de inventario                                                | Media / Alta           | Alta / Alta            |
+| Monitorear niveles de inventario                                                          | Alta / Alta            | Alta / Alta            |
+| Generar informes de inventario                                                            | Media / Media          | Alta / Alta            |
+| Generación de reportes de seguimiento                                                     | -                      | Alta / Alta            |
+| Realizar ajustes de inventario                                                            | Media / Media          | Alta / Alta            |
+| Prever y planificar reabastecimientos                                                     | -                      | Alta / Alta            |
+| Actualizar y mantener la base de datos de productos                                       | -                      | Alta / Alta            |
+| Preguntar al productor/distribuidor cuando sería la mejor fecha para negociar el producto | Media / Alta           | Media / Alta           |
+| Integración con sistemas de seguimiento de proveedores                                    | Media / Media          | Media / Media          |
 
 ### [2.3.3 User Journey Mapping](#user-journey-mapping)
 
@@ -1012,6 +1012,17 @@ Utilizar punto y coma al final de una sentencia, aunque javaScript permite omiti
 ### 5.1.4.	Software Deployment Configuration.
 
 
+Para el despliegue de nuestra Landing Page, accedemos al repositorio donde tenemos nuestro proyecto:
+
+![](https://raw.githubusercontent.com/VillaSystem/GrapeFlow-LandingPage/master/images/repository.PNG)
+
+Nos dirigimos a la sección Settings de nuestro repositorio, nos dirigimos al apartado de danger zone y hacemos nuestro repositorio publico:
+![](https://raw.githubusercontent.com/VillaSystem/GrapeFlow-LandingPage/master/images/public.PNG)
+
+Nos derigimos al apartado de Pages. Definimos la rama desde donde vamos despegar nuestro proyecto y guardamos. Con esto se genera el URL del despliegue de nuestra landing page.
+![](https://raw.githubusercontent.com/VillaSystem/GrapeFlow-LandingPage/master/images/pgs.PNG)
+
+
 ## 5.2.	Landing Page, Services & Applications Implementation.
 ### 5.2.1.	Sprint 1
 ### 5.2.1.1.	Sprint Planning 1.
@@ -1040,6 +1051,19 @@ Utilizar punto y coma al final de una sentencia, aunque javaScript permite omiti
 No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Tests, Integration Tests y Acceptance Tests automatizados, para Web Services.
 
 ### 5.2.1.5.	Execution Evidence for Sprint Review.
+
+Las vistas implementadas son el navbar con las secciones Inicio, Servicio, Funcionalidades, Planes, Nosotros y Contacto. Esa barra de navegación es fija y mientras el usuario se desplace se mueve junto con la pantalla.
+![](https://raw.githubusercontent.com/petitavo/Images/main/images/inicio.PNG?token=GHSAT0AAAAAACWGYYFK7J4LWEDLZDIGTMKUZWQ5LDQ)
+
+En esta sección pueden conocer más sobre los servicios y funcionalidades de la plataforma:
+![](https://raw.githubusercontent.com/petitavo/Images/main/images/services.PNG?token=GHSAT0AAAAAACWGYYFLZWSYXRASVG4GLL44ZWQ5MNQ) 
+
+En esta seccion se muestra los planes que tenemos y los beneficios de cada uno:
+![](https://raw.githubusercontent.com/petitavo/Images/main/images/planes.PNG?token=GHSAT0AAAAAACWGYYFLIUUX7PY4WNNTXYUCZWQ5O4Q)
+En esta seccion se muestra las maneras de contacto ademas como enlaces adicionales:
+![](https://raw.githubusercontent.com/petitavo/Images/main/images/contacto.PNG?token=GHSAT0AAAAAACWGYYFLTWG44APOGLOW6C6GZWQ5QTQ)
+
+
 
 ### 5.2.1.6.	Services Documentation Evidence for Sprint Review
 
