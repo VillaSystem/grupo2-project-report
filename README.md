@@ -1069,6 +1069,52 @@ En esta seccion se muestra las maneras de contacto ademas como enlaces adicional
 
 ### 5.2.1.7.	Software Deployment Evidence for Sprint Review.
 
+En el Sprint 1, hemos llevado a cabo una serie de actividades relacionadas con el Deployment de nuestros productos, que incluyen la Landing Page, las Web Applications.A continuación, se detallan las acciones clave realizadas durante este Sprint en relación con el despliegue.
+https://villasystem.github.io/GrapeFlow-LandingPage/index.html
+
+Para el desarrollo del Landing Page de GrapeFlow se han utilizado las siguientes herramientas:
+
+* html: Es el lenguaje de marcado que estructuró nuestro Landing Page.
+![](https://raw.githubusercontent.com/petitavo/Images/main/images/hmtl.PNG?token=GHSAT0AAAAAACWGYYFLBTICOX7XFVI34RCAZWQ6BMQ)
+
+* css: Es el lenguaje de estilos que le dio formato y diseño a nuestro Landing Page.
+![](https://raw.githubusercontent.com/petitavo/Images/main/images/css.PNG?token=GHSAT0AAAAAACWGYYFLLH6IFP7TEJCHRYMYZWQ6CBQ)
+
+* JavaScript: Es el lenguaje de programación que le dio interactividad a nuestro Landing Page.
+![](https://raw.githubusercontent.com/petitavo/Images/main/images/jv.PNG?token=GHSAT0AAAAAACWGYYFKST6CTRYQPQBMYPSCZWQ6CQQ)
+
+
+El despliegue del Landing Page de GrapeFlow se realizó gracias a:
+
+• Git: Sistema de control de versiones que está pensado en la eficiencia y compatibilidad de versiones. El cual nos ayudó a trabajar en equipo durante el desarrollo del Landing Page.
+
+• GitHub: Plataforma de desarrollo colaborativo.
+
+• Git Flow: Nos permitió controlar el avance de cada uno de nuestros integrantes con respecto al desarrollo del Landing Page
+
+• Git Hub Pages: Servicio de Github que nos permitió alojar nuestra lading page.
+
+Los pasos que se realizaron fueron:
+
+- Como utilizamos Github, nos dirigimos al repositorio donde se encuentra nuestra landing page. Luego a la sección “Settings”.
+
+![](https://raw.githubusercontent.com/VillaSystem/GrapeFlow-LandingPage/master/images/repository.PNG)
+
+- Cuando nos encontramos en la configuración, tenemos que darle click a la sección pages.
+
+![](https://raw.githubusercontent.com/petitavo/Images/main/images/pages.PNG?token=GHSAT0AAAAAACWGYYFLOW36PEGWCSI5JYUIZWQ6IPQ)]
+
+- Luego, dentro de la sección “pages” tenemos que seleccionar la rama que se va a deployear, en nuestro caso 
+es la rama “main”. Asimismo, tenemos que elegir una carpeta para
+localizar la publicación, que en nuestro caso será root. Finalmente 
+tendremos el link en la parte superior.
+
+![](https://raw.githubusercontent.com/petitavo/Images/main/images/paff.PNG?token=GHSAT0AAAAAACWGYYFKLLEXC6OOTITPV4BOZWQ6NUA)
+
+Con esto ya tendremos nuestra landing page publicada y accesible para cualquier usuario.
+Este es el enlace final: https://villasystem.github.io/GrapeFlow-LandingPage/
+
+
 ### 5.2.1.8.	Team Collaboration Insights during Sprint
 
 Creamos una organización en Github, donde tendremos todos nuestros repositorios de manera pública.
