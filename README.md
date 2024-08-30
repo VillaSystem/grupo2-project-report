@@ -221,7 +221,7 @@ Estos datos recopilados se convierten en una valiosa fuente de información que 
 | ![ ]()                        | Armas Sánchez Óscar Javier    | U20211G192           | Ingenieria de Software | Breve párrafo con los principales conocimientos técnicos y habilidades que el participante puede aportar al equipo.                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ![Foto]()                     | Salhuana Lopez, Fernando Jose | U201622757           | Ingenieria de Software | Breve párrafo con los principales conocimientos técnicos y habilidades que el participante puede aportar al equipo.                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ![ ](images/DiegoHuincho.jpg) | Huincho Lapa, Diego Arturo    | U201923466           | Ingenieria de Software | Mi nombre es Diego Arturo Huincho Lapa. Tengo 22 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser detallista y responsable. En cuanto a cualidades para la realización del trabajo considero que soy bueno haciendo los mockups de la app y la parte del frontend, puesto que ya tengo experiencia haciendo trabajos con los frameworks vuejs y react. En mi ratos libres me gusta jugar videojuegos o mirar una serie o pelicula. |
-| ![ ](images/angelo.png)       | Curi Marcelo, Angelo Marcio   | U202022387           | Ingenieria de Software | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona responsable y comprometida con mis tareas. Siempre me esfuerzo por cumplir con los plazos y entregar trabajos de calidad. Además, me considero una persona creativa, tengo conocimientos tanto en programación y edición de videos. Considero que soy una persona que puede aportar de manera significativa a este equipo.                                                                  |
+| ![ ](images/Angelo.png)       | Curi Marcelo, Angelo Marcio   | U202022387           | Ingenieria de Software | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona responsable y comprometida con mis tareas. Siempre me esfuerzo por cumplir con los plazos y entregar trabajos de calidad. Además, me considero una persona creativa, tengo conocimientos tanto en programación y edición de videos. Considero que soy una persona que puede aportar de manera significativa a este equipo.                                                                  |
 
 ## [1.2 Solution Profile](#solution-profile)
 ### [1.2.1 Antecedentes y Problemática](#antecedentes-y-problemática)
@@ -602,7 +602,7 @@ Asegurar que los precios para la instalación del sistema y las comisiones sean 
 ## [2.3 Needfinding](#needfinding)
 ### [2.3.1 User Personas](#user-personas)
 
-![ ](images/person1.png) 
+![ ](images/Joaquinpersonconsumidor.png)
 
 ![ ](images/person2.png) 
 
@@ -625,7 +625,7 @@ El enfoque de la matriz de tareas del usuario es examinar las tareas que ambos s
 
 ### [2.3.3 User Journey Mapping](#user-journey-mapping)
 
-![ ](images/jperson1.png) 
+![ ](images/JoaquinConsumidor.png)
 
 ![ ](images/jperson2.png) 
 
