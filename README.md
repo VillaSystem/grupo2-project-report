@@ -272,7 +272,7 @@ _¿Quienes seran los beneficiados por el servicio?_
 _¿Quién es el usuario?_
 
 * Fabricantes de licores, especialmente productores de vinos y piscos, que buscan mejorar la calidad y eficiencia de sus procesos productivos.
-* Distribuidores que necesitan información detallada y precisa sobre los productos que comercializan.
+
 * Consumidores interesados en conocer detalles específicos sobre los licores que compran para hacer elecciones más informadas.
 
 _¿Qué problemas enfrenta nuestro producto? ¿Cómo los resolveremos?_
@@ -596,6 +596,53 @@ Mejorar continuamente la plataforma basada en retroalimentación directa de los 
 Asegurar que los precios para la instalación del sistema y las comisiones sean competitivos y accesibles, incentivando a más productores a adoptar la plataforma. A la vez, la estrategia de monetización debe incluir planes escalables para que los productores puedan crecer junto con GrapeFlow.
 ## [2.2 Entrevistas](#entrevistas)
 ### [2.2.1 Diseño de entrevistas](#diseño-de-entrevistas)
+
+#### Segmento Objetivo: Productores de Licores
+**Preguntas Personales:**
+
+- ¿Cuál es su edad?
+- ¿Dónde reside actualmente ?
+- ¿Cuál es tu estado civil?
+- ¿Cuál es su rol en la empresa ? 
+- ¿Cuál es su experiencia en la industria de licores?
+
+
+**Preguntas Complementarias:**
+
+- ¿Cuál es el principal desafío que enfrenta en su rol actual?
+- ¿Qué tipo de tecnología o software utiliza en su trabajo diario?
+- ¿Cómo maneja la gestión de información y datos de productos?
+- ¿Qué tipo de información le gustaría obtener de un sistema que registre y analice datos de productos?
+- ¿Qué dispositivos utilizas principalmente para realizar tu trabajo (ordenador, tablet, móvil)?
+- ¿Qué navegador web usas?
+
+**Preguntas Específicas:**
+
+- ¿Cómo asegura la calidad y trazabilidad de sus productos?
+- ¿Qué características considera más importantes para un sistema de registro de datos de productos?
+- ¿Cómo afecta la visibilidad y la información detallada en la toma de decisiones sobre productos?
+- ¿Qué mejoras le gustaría ver en la manera en que se recopilan y presentan los datos de sus productos?
+
+#### Segmento Objetivo Consumidores de Licores:
+**Preguntas Personales:**
+
+- ¿Cuál es su edad?
+- ¿Dónde reside actualmente ?
+- ¿Cuál es tu nivel educativo y experiencia profesional?
+
+**Preguntas Complementarias:**
+
+- ¿Qué factores considera al elegir una marca de licor?
+- ¿Cuál es su forma preferida de adquirir licores (tienda física, en línea, etc.)?
+- ¿Qué redes sociales o canales digitales utiliza más frecuentemente?
+- ¿Qué tipo de información le resulta más útil al momento de elegir un producto?
+**Preguntas Específicas:**
+
+- ¿Cómo prefiere recibir información sobre nuevos productos y ofertas?
+- ¿Qué características valora en las etiquetas de los productos?
+- ¿Qué tipo de detalles le gustaría ver en la información de un producto antes de comprarlo?
+- ¿Cómo influye la transparencia de la información en su decisión de compra?
+
 ### [2.2.2 Registro de entrevistas](#registro-de-entrevistas)
 ### [2.2.3 Análisis de entrevistas](#análisis-de-entrevistas)
 
