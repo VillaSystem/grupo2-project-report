@@ -644,6 +644,75 @@ Asegurar que los precios para la instalación del sistema y las comisiones sean 
 - ¿Cómo influye la transparencia de la información en su decisión de compra?
 
 ### [2.2.2 Registro de entrevistas](#registro-de-entrevistas)
+
+
+##### Segmento 1: Productores
+*Inicio de las entrevistas :* 00:00
+
+*Duración de las entrevistas :* 9:06
+
+*Link de las entrevistas:* 
+
+### *Entrevista 01*
+
+*Nombres:* 
+
+*Apellidos:* 
+
+*Edad:*
+
+*Distrito:* 
+
+*Segmento objetivo:* Productores
+
+
+![foto](../../assets/interview1a.PNG)
+
+
+*Minuto de inicio de la entrevista:* 0:00
+
+*Minuto de fin de la entrevista:* 00:00
+
+*Duración de la entrevista:* 00:00
+
+*Link de la entrevista:* 
+
+#### Resumen de la entrevista:
+
+#### Segmento 2: Comsumidores
+
+*Inicio de las entrevistas :* 00:00
+
+*Duración de las entrevistas :* 9:06
+
+*Link de las entrevistas:*
+
+### *Entrevista 01*
+
+*Nombres:*
+
+*Apellidos:*
+
+*Edad:*
+
+*Distrito:*
+
+*Segmento objetivo:* Consumidores
+
+
+![foto](../../assets/interview1a.PNG)
+
+
+*Minuto de inicio de la entrevista:* 0:00
+
+*Minuto de fin de la entrevista:* 00:00
+
+*Duración de la entrevista:* 00:00
+
+*Link de la entrevista:*
+
+#### Resumen de la entrevista:
+
 ### [2.2.3 Análisis de entrevistas](#análisis-de-entrevistas)
 
 ## [2.3 Needfinding](#needfinding)
