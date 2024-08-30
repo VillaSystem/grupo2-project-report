@@ -316,7 +316,7 @@ _**Sabremos**_ que esta hipótesis es _**cierta**_ cuando veamos un aumento en e
 
 URL del LeanUXCanvas: https://app.mural.co/t/teacsykawsai8308/m/teacsykawsai8308/1724358505056/ad90964d2d1b9220ae312f1ad046c17350430f32?sender=uc4019db9bc166bf541b07012
 
-![ ](images/LeanUXCanvas.png)
+![ ](images/CanvasNew.png)
 
 ## [1.3. Segmentos objetivo](#segmentos-objetivo)
 ### **1. Consumidores de Licores:**
