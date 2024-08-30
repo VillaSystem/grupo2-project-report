@@ -319,25 +319,25 @@ URL del LeanUXCanvas: https://app.mural.co/t/teacsykawsai8308/m/teacsykawsai8308
 ![ ](images/LeanUXCanvas.png)
 
 ## [1.3. Segmentos objetivo](#segmentos-objetivo)
-##### 1. Productores de Vinos:
-Según Vertiz. F (2022), en el Perú tres empresas concentran más del 70 % del mercado del sector vitivinícola: Santiago Queirolo SA (41 %), Viña Tacama SA (28 %) y Bodegas y Viñedos Tabernero SA (13 %). Estas bodegas productoras, que representan el 80 % de la producción nacional, enfrentan desafíos en la gestión de inventario, vinificación y administración de clientes, lo que GrapeFlow puede resolver.
+### **1. Consumidores de Licores:**
 
-**Control de Inventario del Proceso Productivo:** Necesitan gestionar eficientemente el inventario de materias primas y productos terminados, evitando tanto la escasez como el exceso de stock.
+Este segmento incluye a personas interesadas en explorar y comprar vinos, piscos y otros licores, tanto para ocasiones especiales como para su disfrute personal. Estos consumidores están cada vez más atentos a la calidad y las características de los productos que adquieren.
 
-**Proceso de Vinificación:** Requieren un control detallado y planificado de las etapas de producción del vino, desde la fermentación hasta el embotellado.
+- **Información Detallada del Producto:** Los consumidores necesitan acceder a información completa y precisa sobre cada licor, como el pH, la temperatura, el tiempo de añejamiento, el tipo de uva utilizada y la procedencia de los ingredientes. Esta información les permite tomar decisiones más informadas al momento de la compra.
 
-**Cosecha y Gestión del Viñedo:** Necesitan planificar y registrar actividades agrícolas y de cosecha para asegurar la calidad del vino.
+- **Experiencia de Compra Enriquecida:** Una experiencia de compra que sea fácil de navegar y rica en contenido es esencial. Los consumidores buscan plataformas que no solo les ofrezcan productos, sino que también les proporcionen conocimientos y detalles que mejoren su apreciación de los licores que eligen.
 
-**Planes de Servicio:** Pueden optar por planes básicos si son pequeños productores o planes avanzados si tienen un tamaño considerable y requieren un control integral.
+- **Planes de Servicio:** Aunque los consumidores no requieren planes de servicio específicos, la plataforma debe ser intuitiva, atractiva y ofrecer un proceso de compra fluido para mantener su interés y fomentar la lealtad.
 
-##### 2. Distribuidores de Vinos:
-Este segmento incluye a las empresas encargadas de la distribución de vinos. Ellos juegan un rol crucial en la comercialización de vinos y necesitan herramientas para mejorar la eficiencia en la distribución.
+### **2. Distribuidores de Licores:**
 
-**Seguimiento de Pedidos:** Requieren un sistema que les permita gestionar y seguir los pedidos en tiempo real, asegurando una entrega eficiente y sin retrasos.
+Este segmento se enfoca en las empresas que gestionan la distribución de licores, asegurando que los productos lleguen a los puntos de venta o directamente a los consumidores finales. Los distribuidores desempeñan un rol fundamental en la cadena de suministro y requieren herramientas que optimicen sus operaciones.
 
-**Administración de la Cartera de Clientes:** Necesitan gestionar sus relaciones con clientes de manera efectiva para maximizar las ventas y mantener la lealtad del cliente, que en Perú es relativamente baja.
+- **Seguimiento de Pedidos:** Es crucial que los distribuidores cuenten con un sistema eficiente que les permita gestionar y monitorizar los pedidos en tiempo real. Esto garantiza una entrega puntual y sin errores, mejorando la satisfacción del cliente y reduciendo los costos operativos.
 
-**Planes de Servicio:** Pueden beneficiarse de un plan avanzado que ofrezca funcionalidades completas de gestión de pedidos y tracking.
+- **Administración de la Cartera de Clientes:** La gestión efectiva de las relaciones con los clientes es esencial para maximizar las ventas y fidelizar a los compradores. Los distribuidores necesitan soluciones que les permitan segmentar, analizar y mejorar las interacciones con sus clientes, fortaleciendo así sus vínculos comerciales.
+
+- **Planes de Servicio:** Los distribuidores pueden beneficiarse de un plan avanzado que ofrezca herramientas completas para la gestión de pedidos, el seguimiento en tiempo real y la administración de la cartera de clientes. Estas funcionalidades son clave para mejorar la eficiencia y competitividad en el mercado.
 
 # [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
 # [2.1 Competidores](#competidores)
