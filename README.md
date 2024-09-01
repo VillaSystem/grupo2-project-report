@@ -894,6 +894,11 @@ Prototipado Mobile:
 
 ## [4.6. Domain-Driven Software Architecture.](#domain-driven-software-architecture)
 ### [4.6.1. Software Architecture Context Diagram.](#software-architecture-context-diagram)
+### [4.6.2. Software Architecture Container Diagrams.](#software-architecture-container-diagram)
+### [4.6.3. Software Architecture Components Diagrams.](#software-architecture-components-diagram)
+## [4.7. Software Object-Oriented Design.](#software-object-oriented-design)
+### [4.7.1. Class Diagrams.](#class-diagram)
+### [4.7.2. Class Dictionary.](#class-dictionary)
 
 
 #   Capítulo V: Product Implementation, Validation & Deployment
