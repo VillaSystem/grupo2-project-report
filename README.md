@@ -62,18 +62,7 @@
 | V0.3    | 00/00/2024 |       | Capitulo 4                                     |
 | V0.4    | 00/00/2024 |       | Capitulo 5 y ultimos ajuste                    |
 | V1.0    | 00/00/2024 |       | Revision final y entrega TB1.                  |
-| V1.1    | 00/00/2024 |       | Mejoras del Informe                            |
-| V1.2    | 00/00/2024 |       | Creacion y desarrollo del Sprint 2             |
-| V1.3    | 00/00/2024 |       | Implementacion de imagenes de evidendica       |
-| V2.0    | 00/00/2024 |       | Finalización del Sprint 2                      |
-| V2.1    | 00/00/2024 | Todos | Reunion en clases para reparticion de trabajo  |
-| V2.2    | 00/00/2024 |       | Review del apartado FrontEnd                   |
-| V2.2    | 00/00/2024 |       | Apartado BackEnd                               |
-| V3.0    | 00/00/2024 |       | Finalizacion del Sprint 3                      |
-| V3.1    | 00/00/2024 | Todos | Reunion en llamada para reparticion de trabajo |
-| V3.2    | 00/00/2024 |       | Mejoras al FrontEnd y Deploy                   |
-| V3.3    | 00/00/2024 |       | Completar Bounded Context y Deploy             |
-| V4.0    | 00/00/2024 |       | Finalizacion del Sprint 4                      |
+
 
 
 # Project Report Collaboration Insights
