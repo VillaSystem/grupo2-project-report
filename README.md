@@ -901,6 +901,8 @@ Prototipado Mobile:
 ## [4.7. Software Object-Oriented Design.](#software-object-oriented-design)
 ### [4.7.1. Class Diagrams.](#class-diagram)
 ### [4.7.2. Class Dictionary.](#class-dictionary)
+## [4.8. Database Design.](#database-design)
+### [4.8.1. Database Diagram.](#database-diagram)
 
 
 #   Capítulo V: Product Implementation, Validation & Deployment
