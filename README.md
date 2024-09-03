@@ -271,7 +271,7 @@ _¿Qué problemas enfrenta nuestro producto? ¿Cómo los resolveremos?_
 
 * _**Problema para Consumidores:**_ Falta de acceso a información detallada sobre los licores, lo que dificulta tomar decisiones de compra informadas.
 * _**Solución:**_ Crear una aplicación que muestre información detallada y verificada sobre cada licor, mejorando la experiencia de compra.
-* 
+  
 _¿Qué características son importantes?_
 
 _¿Dónde encaja nuestro producto en su trabajo o vida?_
