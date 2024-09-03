@@ -208,7 +208,7 @@ Estos datos recopilados se convierten en una valiosa fuente de información que 
 |-------------------------------|-------------------------------|----------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![ ](images/gustavo.png)      | Huanca Navarro, Gustavo Esau  | U202215285           | Ingenieria de Software | Soy Gustavo Huanca, estudiante de Ingeniería de Software. Me considero puntual, responsable y disfruto resolviendo problemas tecnológicos. Tengo conocimientos en desarrollo de software, varios lenguajes de programación, estructuras de datos y algoritmos. Además. Mi objetivo es contribuir eficazmente al éxito del equipo con mis habilidades                                                                                                                                                                               |
 | ![ ]()                        | Armas Sánchez Óscar Javier    | U20211G192           | Ingenieria de Software | Breve párrafo con los principales conocimientos técnicos y habilidades que el participante puede aportar al equipo.                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ![Foto]()                     | Salhuana Lopez, Fernando Jose | U201622757           | Ingenieria de Software | Breve párrafo con los principales conocimientos técnicos y habilidades que el participante puede aportar al equipo.                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ![Foto]()                     | Salhuana Lopez, Fernando Jose | U201622757           | Ingenieria de Software | Soy estudiante de la carrera de Ingeniería de Software, tengo habilidades blandas para que mis compañeros puedan confiar en mí. Soy participativo, resuelvo problemas complicados con facilidad y creativo en todo aspecto. En formación poseo experiencia en C++, Java, SQL y ciertos conocimientos en programación web.                                                |
 | ![ ](images/DiegoHuincho.jpg) | Huincho Lapa, Diego Arturo    | U201923466           | Ingenieria de Software | Mi nombre es Diego Arturo Huincho Lapa. Tengo 22 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser detallista y responsable. En cuanto a cualidades para la realización del trabajo considero que soy bueno haciendo los mockups de la app y la parte del frontend, puesto que ya tengo experiencia haciendo trabajos con los frameworks vuejs y react. En mi ratos libres me gusta jugar videojuegos o mirar una serie o pelicula. |
 | ![ ](images/Angelo.png)       | Curi Marcelo, Angelo Marcio   | U202022387           | Ingenieria de Software | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona responsable y comprometida con mis tareas. Siempre me esfuerzo por cumplir con los plazos y entregar trabajos de calidad. Además, me considero una persona creativa, tengo conocimientos tanto en programación y edición de videos. Considero que soy una persona que puede aportar de manera significativa a este equipo.                                                                  |
 
@@ -271,14 +271,30 @@ _¿Qué problemas enfrenta nuestro producto? ¿Cómo los resolveremos?_
 
 * _**Problema para Consumidores:**_ Falta de acceso a información detallada sobre los licores, lo que dificulta tomar decisiones de compra informadas.
 * _**Solución:**_ Crear una aplicación que muestre información detallada y verificada sobre cada licor, mejorando la experiencia de compra.
-* 
+  
 _¿Qué características son importantes?_
+
+* Componentes que recopilen y analicen datos en tiempo real sobre el proceso de producción de licores. 
+* Una plataforma que integre los datos de producción con la gestión de inventarios y distribución.
+* Una aplicación móvil que proporcione a los consumidores información detallada y fácilmente accesible sobre los licores.
 
 _¿Dónde encaja nuestro producto en su trabajo o vida?_
 
+* _**Fabricantes:**_ En el proceso productivo diario, ayudando a optimizar y controlar la calidad de los licores en tiempo real.
+* _**Distribuidores:**_ En la gestión de inventarios y la comercialización de productos, asegurando que tienen la información necesaria para satisfacer la demanda.
+* _**Consumidores:**_ En el proceso de compra, proporcionando una experiencia más informada y satisfactoria.
+
 _¿Cuándo y cómo se usa nuestro producto?_
 
+* _**Fabricantes:**_ Durante todo el ciclo de producción, desde la cosecha hasta el añejamiento y embotellado, utilizando los componentes para monitorear y ajustar variables críticas.
+* _**Distribuidores:**_ Al gestionar inventarios y realizar ventas, utilizando la plataforma para acceder a información precisa sobre los productos.
+* _**Consumidores:**_ En el punto de compra, utilizando la aplicación móvil para obtener detalles sobre el origen, características y calidad de los licores.
+
 _¿Cómo debe ser y comportarse nuestro producto?_
+
+* Debe ser intuitivo y fácil de integrar en los procesos existentes de producción y distribución.
+* Debe proporcionar datos precisos y en tiempo real, con una interfaz de usuario clara y accesible.
+* La aplicación móvil debe ser atractiva, fácil de usar y proporcionar información detallada de manera rápida y sencilla.
 
 **Feature Assumptions:**
 
