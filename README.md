@@ -1018,9 +1018,129 @@ Prototipado Mobile:
 ### [4.6.2. Software Architecture Container Diagrams.](#software-architecture-container-diagram)
  ![ContainerDiagramGrapeFlow](images/diagramContext.png) 
 ### [4.6.3. Software Architecture Components Diagrams.](#software-architecture-components-diagram)
+ ![ContainerDiagramGrapeFlow](images/componentDiagram.png)
 ## [4.7. Software Object-Oriented Design.](#software-object-oriented-design)
+
+Implementar un diseño basado en objetos será fundamental para nuestro proyecto. Este enfoque nos ayudará a construir un sistema modular y escalable, aprovechando conceptos como encapsulación, herencia y polimorfismo para desarrollar componentes que sean reutilizables y fáciles de mantener.
+
 ### [4.7.1. Class Diagrams.](#class-diagram)
+ ![ClassDiagrams](images/classDiagram.png)
 ### [4.7.2. Class Dictionary.](#class-dictionary)
+
+#### Platform
+
+##### Methods:
+
+landingPageView()
+userInterface()
+notificationSystem()
+analyticsTools()
+inventoryIntegration()
+
+### Consumer
+
+##### Methods:
+
+browseProducts()
+addReview()
+viewRecommendations()
+
+### User
+
+#### Attributes:
+
+String name
+String email
+String password
+
+#### Methods:
+
+updateProfile()
+viewProductDetails()
+placeOrder()
+trackOrder()
+viewOrderHistory()
+contactSupport()
+
+### Plan
+
+#### Attributes:
+
+String planName
+String duration
+Float price
+
+#### Methods:
+
+selectPlan()
+viewPlanDetails()
+
+### Distributor
+
+#### Methods:
+
+manageInventory()
+generateSalesReport()
+viewSupplierInfo()
+reorderStock()
+
+### Order
+
+#### Attributes:
+
+String orderID
+Date orderDate
+Float totalAmount
+String Status
+
+#### Methods:
+
+createOrder()
+cancelOrder()
+updateOrderStatus()
+
+### Review
+
+#### Attributes:
+
+String reviewText
+Int rating
+
+#### Methods:
+
+submitReviwe()
+editReview()
+deletReview()
+
+### Inventory
+
+#### Attributes:
+
+String productID
+Int stockQuantity
+
+#### Methods:
+
+addStock()
+removeStock()
+checkStockLevel()
+
+### Product
+
+#### Attributes:
+
+String name
+String type
+Float price
+String origin
+Float pH
+Float temperature
+
+#### Methods:
+
+getProductDetails()
+updateStock()
+
 ## [4.8. Database Design.](#database-design)
 ### [4.8.1. Database Diagram.](#database-diagram)
 ![database](images/BD_GrapeFlow.png)
