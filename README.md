@@ -991,7 +991,12 @@ Los sistemas de navegación principales en GrapeFlow incluyen menús ubicados en
 ![wireframe2](images/landingPageWireframePart2.png)
 ![wireframe3](images/landingPageWireframePart3.png)
 ![wireframe4](images/landingPageWireframePart4.png)
+
 ### [4.3.2. Landing Page Mock-up.](#landing-page-mock-up)
+![mockup1](images/landingpart1.png)
+![mockup2](images/landingpart2.png)
+![mockup3](images/landingpart3.png)
+![mockup4](images/landingpart4.png)
 
 ## [4.4. Web Applications UX/UI Design.](#web-applications-uxui-design)
 ### [4.4.1. Web Applications Wireframes.](#web-applications-wireframes)
