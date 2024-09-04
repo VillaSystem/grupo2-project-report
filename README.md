@@ -274,11 +274,27 @@ _¿Qué problemas enfrenta nuestro producto? ¿Cómo los resolveremos?_
   
 _¿Qué características son importantes?_
 
+* Componentes que recopilen y analicen datos en tiempo real sobre el proceso de producción de licores.
+* Una plataforma que integre los datos de producción con la gestión de inventarios y distribución.
+* Una aplicación móvil que proporcione a los consumidores información detallada y fácilmente accesible sobre los licores.
+
 _¿Dónde encaja nuestro producto en su trabajo o vida?_
+
+* _**Fabricantes:**_ En el proceso productivo diario, ayudando a optimizar y controlar la calidad de los licores en tiempo real.
+* _**Distribuidores:**_ En la gestión de inventarios y la comercialización de productos, asegurando que tienen la información necesaria para satisfacer la demanda.
+* _**Consumidores:**_ En el proceso de compra, proporcionando una experiencia más informada y satisfactoria.
 
 _¿Cuándo y cómo se usa nuestro producto?_
 
+* _**Fabricantes:**_ Durante todo el ciclo de producción, desde la cosecha hasta el añejamiento y embotellado, utilizando los componentes para monitorear y ajustar variables críticas.
+* _**Distribuidores:**_ Al gestionar inventarios y realizar ventas, utilizando la plataforma para acceder a información precisa sobre los productos.
+* _**Consumidores:**_ En el punto de compra, utilizando la aplicación móvil para obtener detalles sobre el origen, características y calidad de los licores.
+
 _¿Cómo debe ser y comportarse nuestro producto?_
+
+* Debe ser intuitivo y fácil de integrar en los procesos existentes de producción y distribución.
+* Debe proporcionar datos precisos y en tiempo real, con una interfaz de usuario clara y accesible.
+* La aplicación móvil debe ser atractiva, fácil de usar y proporcionar información detallada de manera rápida y sencilla.
 
 **Feature Assumptions:**
 
