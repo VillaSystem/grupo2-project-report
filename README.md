@@ -1023,6 +1023,7 @@ Prototipado Mobile:
 ### [4.7.2. Class Dictionary.](#class-dictionary)
 ## [4.8. Database Design.](#database-design)
 ### [4.8.1. Database Diagram.](#database-diagram)
+![database](images/BD_GrapeFlow.png)
 
 
 #   Capítulo V: Product Implementation, Validation & Deployment
