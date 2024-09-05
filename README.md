@@ -708,13 +708,13 @@ Asegurar que los precios para la instalación del sistema y las comisiones sean 
 
 ### *Entrevista 01*
 
-*Nombres:* 
+*Nombres:* Esau Juan 
 
-*Apellidos:* 
+*Apellidos:* Huanca Cabrera
 
-*Edad:*
+*Edad:* 45
 
-*Distrito:* 
+*Distrito:* Arequipa
 
 *Segmento objetivo:* Productores
 
@@ -731,6 +731,7 @@ Asegurar que los precios para la instalación del sistema y las comisiones sean 
 *Link de la entrevista:* 
 
 #### Resumen de la entrevista:
+Esau Huanca, dueño de una destilería artesanal en Arequipa, compartió que su principal desafío es mantener la calidad constante de sus productos mientras crece la demanda. Con más de 20 años en la industria, produce principalmente pisco y otros licores artesanales. Actualmente utiliza hojas de cálculo y un software básico de contabilidad para gestionar sus registros, pero reconoce que este proceso es lento y propenso a errores. Le gustaría implementar un sistema que automatice la recopilación de datos desde las etapas de producción y que le permita obtener informes detallados sobre la trazabilidad, la calidad de los lotes y las tendencias de ventas. Juan Carlos considera crucial que el sistema sea fácil de usar y que integre información de múltiples etapas del proceso de producción. Prefiere utilizar su ordenador de escritorio para trabajar, y accede a la web principalmente a través de Google Chrome. La entrevista duró 4 minutos y 33 segundos, y reveló su interés en digitalizar su gestión para mejorar la eficiencia y asegurar la calidad de sus productos.
 
 #### Segmento 2: Comsumidores
 
