@@ -221,7 +221,7 @@ El estado actual de **la gestión del proceso productivo en la industria vitivin
 
 Lo que los productos/servicios existentes no logran abordar es **una plataforma integral que centralice todas estas funciones en un único sistema, permitiendo una coordinación efectiva y una visibilidad en tiempo real de todos los aspectos del proceso productivo y de distribución**.
 
-Nuestro producto/servicio abordará esta brecha mediante **el desarrollo e implementación de ElixirControl, un software integral que unifica la gestión del proceso productivo, el control de inventarios y el seguimiento de pedidos en una sola plataforma. La solución estará diseñada para adaptarse a diferentes tamaños de operación y necesidades específicas de los usuarios, ofreciendo herramientas avanzadas y una interfaz intuitiva**.
+Nuestro producto/servicio abordará esta brecha mediante **el desarrollo e implementación de GRAPEFLOW, un software integral que unifica la gestión del proceso productivo, el control de inventarios y el seguimiento de pedidos en una sola plataforma. La solución estará diseñada para adaptarse a diferentes tamaños de operación y necesidades específicas de los usuarios, ofreciendo herramientas avanzadas y una interfaz intuitiva**.
 
 Nuestro enfoque inicial será **el mercado de productores y distribuidores de vinos y pisco en América Latina, donde la necesidad de una solución centralizada y eficiente es particularmente evidente**.
 
@@ -260,7 +260,7 @@ Los clientes utilizan el producto en diversos entornos relacionados con la produ
 
 - **¿A dónde se dirige?**
 
-El cliente se dirige hacia la optimización de sus operaciones, buscando mejorar la eficiencia, reducir el desperdicio y maximizar la rentabilidad. Con ElixirControl, los productores y distribuidores buscan centralizar la gestión de sus procesos, logrando una mayor visibilidad y control sobre cada aspecto de su negocio.
+El cliente se dirige hacia la optimización de sus operaciones, buscando mejorar la eficiencia, reducir el desperdicio y maximizar la rentabilidad. Con GRAPEFLOW, los productores y distribuidores buscan centralizar la gestión de sus procesos, logrando una mayor visibilidad y control sobre cada aspecto de su negocio.
 
 - **¿Dónde surge el problema?**
 
@@ -298,9 +298,36 @@ La situación actual de los clientes se debe a la falta de soluciones tecnológi
 
 La frecuencia y el impacto de los problemas pueden variar según la escala de las operaciones y la época del año. Sin embargo, se estima que los problemas relacionados con la gestión ineficiente pueden ocurrir a diario, generando pérdidas significativas en calidad del producto, exceso o escasez de inventario, y oportunidades de venta perdidas. En términos financieros, estos problemas pueden resultar en pérdidas de miles de dólares mensuales para los productores y distribuidores, afectando gravemente su rentabilidad y capacidad para competir en el mercado.
 ### [1.2.2 Lean UX Process](#lean-ux-process)
+
+En esta sección, iniciamos el proceso de Lean UX, que nos permitirá definir y refinar la visión del modelo de negocio que será soportado por nuestro producto de software. La metodología Lean UX nos ayuda a enfocar el diseño de nuestra solución en torno a la resolución de problemas y la creación de valor real para nuestros usuarios.
+
 #### [1.2.2.1 Lean UX Problem Statements](#lean-ux-problem-statements)
 
-**Problem Statement**
+A continuación, utilizamos la plantilla de Business Opportunity Statements (Gothelf, 2022) para enfocar nuestro equipo en la creación de una solución que responda eficazmente a las necesidades de los clientes, sin limitaciones que puedan afectar la creatividad y agilidad del desarrollo.
+
+- La plantilla de Business Opportunity Statement:
+
+El estado actual de **[domain]** se ha centrado principalmente en **[segments, pain points, etc.]**
+
+Lo que los productos/servicios existentes no logran abordar es **[this gap]**.
+
+Nuestro producto/servicio abordará esta brecha mediante **[vision / strategy]**.
+
+Nuestro enfoque inicial será **[this segment]**.
+
+Sabremos que tenemos éxito cuando veamos **[these behaviors in our target audience]**.
+
+- ReStyle Lean UX Problem Statements:
+
+El estado actual de **la gestión del proceso productivo en la industria vitivinícola y de pisco** se ha centrado principalmente en **soluciones fragmentadas y sistemas manuales que no ofrecen una integración completa entre la vinificación, el control de inventarios y la administración de pedidos**.
+
+Lo que los productos/servicios existentes no logran abordar es **una plataforma integral que centralice todas estas funciones en un único sistema, permitiendo una coordinación efectiva y una visibilidad en tiempo real de todos los aspectos del proceso productivo y de distribución**.
+
+Nuestro producto/servicio abordará esta brecha mediante **el desarrollo e implementación de GRAPEFLOW, un software integral que unifica la gestión del proceso productivo, el control de inventarios y el seguimiento de pedidos en una sola plataforma. La solución estará diseñada para adaptarse a diferentes tamaños de operación y necesidades específicas de los usuarios, ofreciendo herramientas avanzadas y una interfaz intuitiva**.
+
+Nuestro enfoque inicial será **el mercado de productores y distribuidores de vinos y pisco en América Latina, donde la necesidad de una solución centralizada y eficiente es particularmente evidente**.
+
+Sabremos que tenemos éxito cuando veamos **una mejora significativa en la eficiencia operativa de nuestros clientes, una reducción en el desperdicio de recursos, y un aumento en la satisfacción del cliente, evidenciado por la adopción generalizada de la plataforma y el cumplimiento de nuestras metas de suscripción y retención de clientes en el primer año de lanzamiento**.
 
 #### [1.2.2.2 Lean UX Assumptions](#lean-ux-assumptions)
 
@@ -803,6 +830,30 @@ El enfoque de la matriz de tareas del usuario es examinar las tareas que ambos s
 ![ ](images/jperson2.png) 
 
 ## [2.4 Ubiquitous Language](#ubiquitous-language)
+
+El **Ubiquitous Language** es esencial en el desarrollo de software para garantizar una comunicación clara entre todos los miembros del equipo y los stakeholders. Este glosario de términos específicos del dominio asegura que todos estén alineados y evita malentendidos, facilitando una colaboración efectiva y el cumplimiento de las necesidades del negocio.
+
+Glosario:
+
+- **Inventory Management (Gestión de Inventario):** Supervisión y control de niveles de inventario para asegurar disponibilidad oportuna de productos y materiales, incluyendo recepción, almacenamiento y despacho.
+
+- **Wine Quality Control (Control de Calidad del Vino):** Procedimientos y estándares para asegurar que el vino cumpla con los requisitos de calidad, garantizando consistencia y excelencia en cada lote.
+
+- **Customer Satisfaction (Satisfacción del Cliente):** Medida en la que se cumplen las expectativas del cliente con los productos y servicios ofrecidos, implicando evaluación y mejora continua de la experiencia del cliente.
+
+- **Distribution Efficiency (Eficiencia de Distribución):** Optimización del proceso de distribución para reducir tiempos de entrega y costos, mejorando la satisfacción del cliente con entregas puntuales y efectivas.
+
+- **Market Expansion (Expansión de Mercado):** Estrategia para aumentar la base de clientes mediante la entrada en nuevos mercados o la diversificación de productos.
+
+- **Cost Analysis (Análisis de Costos):** Evaluación detallada de costos asociados con la producción y distribución para identificar oportunidades de reducción y mejorar la rentabilidad.
+
+- **Customer Portfolio Management (Gestión de la Cartera de Clientes):** Optimización de las relaciones con clientes actuales para maximizar su valor y fortalecer las relaciones comerciales.
+
+- **Order Tracking (Seguimiento de Pedidos):** Sistema para monitorear y gestionar el estado de los pedidos desde la creación hasta la entrega final, garantizando transparencia y comunicación continua.
+
+- **Technology Implementation (Implementación de Nuevas Tecnologías):** Integración de nuevas herramientas tecnológicas en las operaciones diarias para mejorar eficiencia, calidad y competitividad.
+
+- **Production Planning (Planificación de Producción):** Organización y programación de actividades de producción para asegurar fabricación en las cantidades correctas, a tiempo y con los recursos disponibles.
 
 # [Capítulo III: Requirements Specification.](#capítulo-iii-requirements-specification)
 ## [3.1. To-Be Scenario Mapping.](#to-be-scenario-mapping)
