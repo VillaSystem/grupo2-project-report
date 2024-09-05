@@ -221,7 +221,7 @@ El estado actual de **la gestión del proceso productivo en la industria vitivin
 
 Lo que los productos/servicios existentes no logran abordar es **una plataforma integral que centralice todas estas funciones en un único sistema, permitiendo una coordinación efectiva y una visibilidad en tiempo real de todos los aspectos del proceso productivo y de distribución**.
 
-Nuestro producto/servicio abordará esta brecha mediante **el desarrollo e implementación de ElixirControl, un software integral que unifica la gestión del proceso productivo, el control de inventarios y el seguimiento de pedidos en una sola plataforma. La solución estará diseñada para adaptarse a diferentes tamaños de operación y necesidades específicas de los usuarios, ofreciendo herramientas avanzadas y una interfaz intuitiva**.
+Nuestro producto/servicio abordará esta brecha mediante **el desarrollo e implementación de GRAPEFLOW, un software integral que unifica la gestión del proceso productivo, el control de inventarios y el seguimiento de pedidos en una sola plataforma. La solución estará diseñada para adaptarse a diferentes tamaños de operación y necesidades específicas de los usuarios, ofreciendo herramientas avanzadas y una interfaz intuitiva**.
 
 Nuestro enfoque inicial será **el mercado de productores y distribuidores de vinos y pisco en América Latina, donde la necesidad de una solución centralizada y eficiente es particularmente evidente**.
 
@@ -260,7 +260,7 @@ Los clientes utilizan el producto en diversos entornos relacionados con la produ
 
 - **¿A dónde se dirige?**
 
-El cliente se dirige hacia la optimización de sus operaciones, buscando mejorar la eficiencia, reducir el desperdicio y maximizar la rentabilidad. Con ElixirControl, los productores y distribuidores buscan centralizar la gestión de sus procesos, logrando una mayor visibilidad y control sobre cada aspecto de su negocio.
+El cliente se dirige hacia la optimización de sus operaciones, buscando mejorar la eficiencia, reducir el desperdicio y maximizar la rentabilidad. Con GRAPEFLOW, los productores y distribuidores buscan centralizar la gestión de sus procesos, logrando una mayor visibilidad y control sobre cada aspecto de su negocio.
 
 - **¿Dónde surge el problema?**
 
