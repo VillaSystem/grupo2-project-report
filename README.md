@@ -743,13 +743,13 @@ Esau Huanca, dueño de una destilería artesanal en Arequipa, compartió que su 
 
 ### *Entrevista 01*
 
-*Nombres:*
+*Nombres:*Maria
 
-*Apellidos:*
+*Apellidos:*Fernandez
 
-*Edad:*
+*Edad:*30 años
 
-*Distrito:*
+*Distrito:*Chorrillos
 
 *Segmento objetivo:* Consumidores
 
@@ -766,6 +766,9 @@ Esau Huanca, dueño de una destilería artesanal en Arequipa, compartió que su 
 *Link de la entrevista:*
 
 #### Resumen de la entrevista:
+María Fernández, residente de Lima, Perú, y profesional en marketing digital, comentó que al momento de elegir un licor, considera principalmente la calidad, la reputación de la marca, y el origen del producto. Prefiere realizar sus compras en línea, valorando la comodidad y la posibilidad de comparar precios y leer opiniones de otros consumidores. María usa frecuentemente Instagram y Facebook para seguir marcas y enterarse de nuevas tendencias. Ella destaca la importancia de la transparencia en la información de los productos, prefiriendo etiquetas que detallen los ingredientes y el proceso de producción. Para tomar decisiones de compra, María valora especialmente la información clara sobre el perfil de sabor y las sugerencias de maridaje, indicando que la transparencia influye directamente en su lealtad hacia la marca. La entrevista con María duró 4 minutos y 33 segundos.
+
+
 
 ### [2.2.3 Análisis de entrevistas](#análisis-de-entrevistas)
 
