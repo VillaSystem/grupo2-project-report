@@ -799,11 +799,8 @@ María Fernández, residente de Lima, Perú, y profesional en marketing digital,
 
 ### [2.2.3 Análisis de entrevistas](#análisis-de-entrevistas)
 
-
-
-## [2.3 Needfinding](#needfinding)
-
-- Segmento Objetivo: Productores
+**Segmento Objetivo: Productores.**
+<br><br>
 **Entrevistado:** Esau Huanca, dueño de una destilería artesanal en Arequipa
 
 **Contexto:** Esau tiene más de 20 años en la industria, produciendo principalmente pisco y otros licores artesanales. Actualmente utiliza hojas de cálculo y un software básico de contabilidad, lo que ralentiza su trabajo y aumenta la probabilidad de errores.
@@ -811,12 +808,17 @@ María Fernández, residente de Lima, Perú, y profesional en marketing digital,
 **Necesidades Identificadas:**
 
 *Automatización del Proceso:* Esau desea un sistema que automatice la recopilación de datos desde las etapas iniciales de la producción, eliminando errores y mejorando la eficiencia.
+
 *Trazabilidad y Calidad:* Le interesa obtener informes detallados sobre la trazabilidad de los productos, calidad de los lotes y tendencias de ventas para asegurar la consistencia de sus productos mientras crece la demanda.
+
 *Facilidad de Uso:* Considera crucial que el sistema sea intuitivo y fácil de utilizar, ya que su conocimiento tecnológico es básico.
+
 *Integración de Etapas de Producción:* Quiere un sistema que integre información de múltiples etapas del proceso de producción para centralizar y mejorar la gestión.
+
 *Conclusión:* Los productores como Esau necesitan herramientas que mejoren la eficiencia y automatización, minimizando errores en la producción y facilitando la trazabilidad. Un sistema fácil de usar y adaptado a sus necesidades tecnológicas es clave para su adopción.
 
-- Segmento Objetivo: Consumidores
+**Segmento Objetivo: Consumidores.**
+<br><br>
 **Entrevistada:** María Fernández, profesional en marketing digital en Lima
 
 **Contexto:** María compra licores en línea, valorando la comodidad de comparar precios y opiniones. Sus criterios de compra incluyen la calidad, la reputación de la marca, y el origen del producto.
@@ -824,9 +826,13 @@ María Fernández, residente de Lima, Perú, y profesional en marketing digital,
 **Necesidades Identificadas:**
 
 *Transparencia de Información:* María valora etiquetas claras que detallen los ingredientes y el proceso de producción, lo que influye en su lealtad a la marca.
+
 *Perfil de Sabor y Maridaje:* La información sobre el perfil de sabor y sugerencias de maridaje son fundamentales para tomar decisiones de compra.
+
 *Facilidad de Comparación:* Prefiere plataformas que le permitan comparar precios y leer opiniones de otros consumidores antes de comprar.
+
 *Uso de Redes Sociales:* Sigue marcas a través de Instagram y Facebook, lo que resalta la importancia de la presencia digital para la promoción de productos.
+
 *Conclusión:* Los consumidores como María priorizan la transparencia y detalles en la información de los productos. La comodidad de comprar en línea, junto con la capacidad de comparar precios y leer reseñas, es clave para su experiencia de compra. Las marcas deben tener una fuerte presencia en redes sociales y proporcionar información detallada sobre el producto para atraer y fidelizar a este tipo de consumidor.
 
 **Entrevistado:** Jesús Rosales, estudiante de arquitectura de 22 años, residente en Jesús María
@@ -836,10 +842,16 @@ María Fernández, residente de Lima, Perú, y profesional en marketing digital,
 **Necesidades Identificadas:**
 
 *Reconocimiento de Marca:* Jesús valora principalmente el reconocimiento de la marca al momento de elegir un licor. Las recomendaciones de amigos o conocidos también juegan un papel importante.
+
 *Medios de Adquisición:* Prefiere adquirir productos a través de Instagram y TikTok, plataformas que utiliza frecuentemente. La publicidad en redes sociales es más efectiva para él que los correos electrónicos.
+
 *Información Clave en Etiquetas:* Le interesa ver detalles específicos en las etiquetas de los productos, como el tipo de licor, el porcentaje de alcohol, y los ingredientes.
+
 *Transparencia y Confianza:* Jesús considera que la transparencia en la información de los productos influye directamente en su decisión de compra. Si la etiqueta describe correctamente el producto, siente mayor confianza en la calidad y está más dispuesto a comprar.
+
 *Conclusión:* Los consumidores jóvenes como Jesús valoran la transparencia en la información proporcionada en las etiquetas de los licores y buscan marcas con buena reputación. Para atraerlos, las marcas deben enfocarse en la presencia en redes sociales como Instagram y TikTok, ya que es donde prefieren recibir información y descubrir productos. Las etiquetas claras con información detallada sobre el licor (tipo, porcentaje de alcohol, origen) aumentan la confianza en el producto y la probabilidad de compra.
+
+## [2.3 Needfinding](#needfinding)
 
 ### [2.3.1 User Personas](#user-personas)
 
