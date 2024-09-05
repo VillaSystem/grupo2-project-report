@@ -762,33 +762,57 @@ Esau Huanca, dueño de una destilería artesanal en Arequipa, compartió que su 
 
 #### Segmento 2: Comsumidores
 
-*Inicio de las entrevistas :* 00:00
+**Inicio de las entrevistas :** 00:00
 
-*Duración de las entrevistas :* 9:06
+**Duración de las entrevistas :** 9:06
 
-*Link de las entrevistas:*
+**Link de las entrevistas:**
 
 ### *Entrevista 01*
 
-*Nombres:*Maria
+**Nombres:** Maria
 
-*Apellidos:*Fernandez
+**Apellidos:** Fernandez
 
-*Edad:*30 años
+**Edad:** 30 años
 
-*Distrito:*Chorrillos
+**Distrito:** Chorrillos
 
-*Segmento objetivo:* Consumidores
+**Segmento objetivo:** Consumidores
 
 
 ![](images/entrevista1-consumidor.PNG)
 
 
-*Minuto de inicio de la entrevista:* 6:47
+**Minuto de inicio de la entrevista:** 6:47
 
-*Minuto de fin de la entrevista:* 10:46
+**Minuto de fin de la entrevista:** 10:46
 
-*Duración de la entrevista:* 3:59
+**Duración de la entrevista:** 3:59
+
+*Link de la entrevista:*https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EZgaRdxilTFItaOvcLJ9H04BQfd9yFvxIKFR280blGHy4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CNjd5h
+
+### *Entrevista 02*
+
+**Nombres:** Eder
+
+**Apellidos:** Rosales
+
+**Edad:** 22 años
+
+**Distrito:** Jesús María
+
+*Segmento objetivo:* Consumidores
+
+
+![](images/entrevista2-consumidor.PNG)
+
+
+*Minuto de inicio de la entrevista:* 00:00
+
+*Minuto de fin de la entrevista:* 2:46
+
+*Duración de la entrevista:* 2:46
 
 *Link de la entrevista:*https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EZgaRdxilTFItaOvcLJ9H04BQfd9yFvxIKFR280blGHy4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CNjd5h
 
