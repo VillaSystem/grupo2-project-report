@@ -799,7 +799,11 @@ María Fernández, residente de Lima, Perú, y profesional en marketing digital,
 
 ### [2.2.3 Análisis de entrevistas](#análisis-de-entrevistas)
 
+
 ## [2.3 Needfinding](#needfinding)
+
+
+
 ### [2.3.1 User Personas](#user-personas)
 
 ![ ](images/Joaquinpersonconsumidor.png)
@@ -828,6 +832,26 @@ El enfoque de la matriz de tareas del usuario es examinar las tareas que ambos s
 ![ ](images/JoaquinConsumidor.png)
 
 ![ ](images/jperson2.png) 
+
+### 2.3.4. Empathy Mapping.
+
+**Joaquín Perez**
+
+![EMRF](images/EMRF.png)
+
+**Laura García**
+
+![EMCR](images/EMCR.png)
+
+### 2.3.5. As-is Scenario Mapping.
+
+**Joaquín Perez**
+
+![SCRF](<images/Scenario Mapping RF.jpg>)
+
+**Laura García**
+
+![SCCR](<images/Scenario Mapping CR.jpg>)
 
 ## [2.4 Ubiquitous Language](#ubiquitous-language)
 
