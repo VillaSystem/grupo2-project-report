@@ -1738,7 +1738,7 @@ En esta sección se presentan los avances de implementación con relación a los
 ### [5.2.1.4.	Testing Suite Evidence for Sprint Review.](#5214-testing-suite-evidence-for-sprint-review)
 No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Tests, Integration Tests y Acceptance Tests automatizados, para Web Services.
 
-### 5.2.1.5.	Execution Evidence for Sprint Review.
+### [5.2.1.5.	Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
 
 Las vistas implementadas son el navbar con las secciones Inicio, Servicio, Funcionalidades, Planes, Nosotros y Contacto. Esa barra de navegación es fija y mientras el usuario se desplace se mueve junto con la pantalla.
 ![](images/navbar.PNG)
@@ -1756,11 +1756,11 @@ En esta seccion se muestra las maneras de contacto ademas como enlaces adicional
 
 
 
-### 5.2.1.6.	Services Documentation Evidence for Sprint Review
+### 5.2.1.6.	[Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
 
 Este primer sprimt solo trata de la landing page, por lo que no se ha desarrollado servicios en este sprint.
 
-### 5.2.1.7.	Software Deployment Evidence for Sprint Review.
+### [5.2.1.7.	Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
 
 En el Sprint 1, hemos llevado a cabo una serie de actividades relacionadas con el Deployment de nuestros productos, que incluyen la Landing Page, las Web Applications.A continuación, se detallan las acciones clave realizadas durante este Sprint en relación con el despliegue.
 https://villasystem.github.io/GrapeFlow-LandingPage/index.html
@@ -1808,7 +1808,7 @@ Con esto ya tendremos nuestra landing page publicada y accesible para cualquier 
 Este es el enlace final: https://villasystem.github.io/GrapeFlow-LandingPage/
 
 
-### 5.2.1.8.	Team Collaboration Insights during Sprint
+### [5.2.1.8.	Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
 Creamos una organización en Github, donde tendremos todos nuestros repositorios de manera pública.
 
