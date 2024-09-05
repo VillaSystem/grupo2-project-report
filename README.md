@@ -1331,12 +1331,12 @@ updateStock()
 ![database](images/BD_GrapeFlow.png)
 
 
-#   Capítulo V: Product Implementation, Validation & Deployment
+#   [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
 
-## 5.1.	Software Configuration Management.
+## [5.1.	Software Configuration Management.](#software-configuration-management)
 En esta área se presentan las normas establecidas en conjunto, las cuales garantizan coherencia y claridad en el desarrollo de la solución.
 
-### 5.1.1.	Software Development Environment Configuration.
+### [5.1.1.	Software Development Environment Configuration.](#software-development-environment-configuration)
 
 En la introducción, presentamos las aplicaciones y software empleados durante la ejecución del proyecto. A continuación, enumeramos estos elementos según sus categorías correspondientes.
 
@@ -1385,7 +1385,7 @@ Esta expresión abarca todas las acciones vinculadas con la concepción, elabora
 * **GitHub:** Utilizamos esta plataforma colaborativa para añadir toda la documentación relacionada en esta entrega en formato Markdown.
 * **Google Drive:** Hemos utilizado Google Docs para las tareas que requieren el desarrollo de un artefacto entre dos o más personas en tiempo real, antes de pasarlo a nuestro repositorio en formato Markdown.
 
-### 5.1.2. Source Code Management.
+### [5.1.2. Source Code Management.](#source-code-management)
 La metodología y el sistema de gestión utilizados para seguir los cambios durante la evolución de nuestro proyecto se pusieron en práctica en GitHub, empleando repositorios específicos para cada parte de la arquitectura de desarrollo. En esta fase inicial, hemos compartido el repositorio de nuestra Landing Page.
 URL Repositorio Landing Page:
 URL LANDING PAGE
@@ -1430,7 +1430,7 @@ El alcance proporciona contexto al commit para que los otros desarrolladores com
 
 La descripción del commit es esencial y obligatoria, debe redactarse en imperativo y en minúsculas.
 
-### 5.1.3.	Source Code Style Guide & Conventions
+### [5.1.3.	Source Code Style Guide & Conventions](#source-code-style-guide--conventions)
 
 
 En esta sección se detallan las convenciones para nombrar elementos y codificar en los lenguajes utilizados en esta fase inicial del proyecto.
@@ -1555,7 +1555,7 @@ MiClase(){}
 ```
 Utilizar punto y coma al final de una sentencia, aunque javaScript permite omitir el uso de estas se considera buena práctica incluirlo para evitar posibles errores.
 
-### 5.1.4.	Software Deployment Configuration.
+### [5.1.4.	Software Deployment Configuration.](#software-deployment-configuration)
 
 
 Para el despliegue de nuestra Landing Page, accedemos al repositorio donde tenemos nuestro proyecto:
@@ -1569,9 +1569,9 @@ Nos derigimos al apartado de Pages. Definimos la rama desde donde vamos despegar
 ![](https://raw.githubusercontent.com/VillaSystem/GrapeFlow-LandingPage/master/images/pgs.PNG)
 
 
-## 5.2.	Landing Page, Services & Applications Implementation.
-### 5.2.1.	Sprint 1
-### 5.2.1.1.	Sprint Planning 1.
+## [5.2.	Landing Page, Services & Applications Implementation.](#landing-page-services--applications-implementation)
+### [5.2.1.	Sprint 1](#521-sprint-1)
+### [5.2.1.1.	Sprint Planning 1.](#5211-sprint-planning-1)
 
 
 | Sprint #                        | Sprint 1                                                                                                                                                                                                               |
@@ -1710,9 +1710,32 @@ https://www.pivotaltracker.com/n/projects/2716470
 </table>
 
 
-### 5.2.1.3.	Development Evidence for Sprint Review.
+### [5.2.1.3.	Development Evidence for Sprint Review.](#5213-development-evidence-for-sprint-review)
 
-### 5.2.1.4.	Testing Suite Evidence for Sprint Review.
+En esta sección se presentan los avances de implementación con relación a los productos desarrollados en el presente Sprint. La implementación que se desarrolló fue la primera version del Landing Page, se implementaron las distintas secciones para conocer más sobre nuestra plataforma. Con ello completamos el primer sprint de implementación.
+
+![](images/landing-commit.PNG)
+
+| Repository                         | Branch | Commit Id | Commit Message                                        | Commit message body | Committed on   |
+|------------------------------------|--------|-----------|-------------------------------------------------------|---------------------|----------------|
+| VillaSystem/GrapeFlow-LandingPage  | master | 8226699   | Update index.html                                     | -                   | Sep 5, 2024    |
+| VillaSystem/GrapeFlow-LandingPage  | master | 27f7a38   | Add files via upload                                  | -                   | Sep 5, 2024    |
+| VillaSystem/GrapeFlow-LandingPage  | master | 36f19e6   | Update index.html                                     | -                   | Sep 5, 2024    |
+| VillaSystem/GrapeFlow-LandingPage  | master | ae9af5f   | feat(scroll-reveal): scroll reveal added.             | -                   | Sep 4, 2024    |
+| VillaSystem/GrapeFlow-LandingPage  | master | ae5a64e   | add images                                            | -                   | Aug 30, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | f740deb   | add photo Angelo                                      | -                   | Aug 29, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | 84cf263   | feat(integrates): Angelo photo added.                 | -                   | Aug 29, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | b2da8b9   | feat(docs): images added.                             | -                   | Aug 29, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | b2b8811   | feat(docs): structure changed.                        | -                   | Aug 29, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | 22484f8   | feat(landing-page): equipo code changed               | -                   | Aug 28, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | 4d73556   | feat(landing-page): landing page changed styles.      | -                   | Aug 28, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | 0c67d0d   | feat(landing-page): landing page changed styles.      | -                   | Aug 28, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | af6d968   | feat(docs): .idea eliminated                          | -                   | Aug 28, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | 4141e68   | Initial commit                                        | -                   | Aug 28, 2024   |
+
+
+
+### [5.2.1.4.	Testing Suite Evidence for Sprint Review.](#5214-testing-suite-evidence-for-sprint-review)
 No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Tests, Integration Tests y Acceptance Tests automatizados, para Web Services.
 
 ### 5.2.1.5.	Execution Evidence for Sprint Review.
@@ -1805,3 +1828,16 @@ Podemos visualizar todos los commits y probamos que todos participamos en la lan
 # Concluciones
 
 GRAPEFLOW representa una solución innovadora para la industria vitivinícola y de pisco, beneficiando tanto a productores como a consumidores. Para los productores, la plataforma ofrece herramientas avanzadas para la gestión integral de la producción, control de inventarios y administración de pedidos, mejorando la eficiencia y la calidad del producto. Los consumidores se benefician de una interfaz accesible y detallada que les permite tomar decisiones informadas mediante la visualización completa de la información del producto. GRAPEFLOW no solo optimiza la operación interna de los productores, sino que también enriquece la experiencia de compra del consumidor, promoviendo una conexión más transparente y eficiente entre ambos.
+
+# Anexos
+
+## Videos de Exposiciones
+
+### Exposición del (TB1)
+**Título del Proyecto**: Grapeflow
+
+**Participantes**: Diego Huincho, Angelo Curi, Gustavo Huanca,Oscar Armas,Fernando Salhuana
+
+**Link a la Exposición en Microsoft Stream**: Enlace privado
+
+**Descripción**: El video muestra la presentación completa del proyecto Grapeflow, donde se exponen los cinco capítulos requeridos, incluyendo todos los artefactos y el trabajo completo solicitado.
