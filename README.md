@@ -190,7 +190,7 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 Nuestro startup busca apoyar a los fabricantes de licores al proporcionarles componentes especializados que les permiten recopilar datos esenciales, como el pH, la temperatura y el tiempo de añejamiento de sus productos; además deberán introducir información adicional, como el tipo de uva utilizada en la cosecha y la procedencia de los ingredientes.
 Estos datos recopilados se convierten en una valiosa fuente de información que posteriormente será utilizada en una aplicación que desarrollaremos para también ayudar a los fabricantes a vender sus productos y a los consumidores a comprar con información detallada sobre cada licor, lo que les permita tomar decisiones informadas y disfrutar de una experiencia de compra enriquecida.
 
-**Misión**: Proporcionar a los productores y distribuidores de vinos y piscos una plataforma integral y eficiente que optimice todos los aspectos del proceso productivo, desde la gestión de inventarios hasta la entrega final, impulsando así la calidad, la eficiencia y el crecimiento sostenible en la industria.
+**Misión**: Proporcionar a los productores y consumidores de vinos y piscos una plataforma integral y eficiente que optimice todos los aspectos del proceso productivo, desde la gestión de inventarios hasta la entrega final, impulsando así la calidad, la eficiencia y el crecimiento sostenible en la industria.
 
 **Visión**: Ser la solución líder y de referencia en la industria vitivinícola y de piscos, reconocida por nuestra innovación, confiabilidad y capacidad para transformar la gestión operativa de nuestros clientes en un proceso más eficiente, rentable y alineado con los más altos estándares de calidad.
 
@@ -223,7 +223,7 @@ Lo que los productos/servicios existentes no logran abordar es **una plataforma 
 
 Nuestro producto/servicio abordará esta brecha mediante **el desarrollo e implementación de GRAPEFLOW, un software integral que unifica la gestión del proceso productivo, el control de inventarios y el seguimiento de pedidos en una sola plataforma. La solución estará diseñada para adaptarse a diferentes tamaños de operación y necesidades específicas de los usuarios, ofreciendo herramientas avanzadas y una interfaz intuitiva**.
 
-Nuestro enfoque inicial será **el mercado de productores y distribuidores de vinos y pisco en América Latina, donde la necesidad de una solución centralizada y eficiente es particularmente evidente**.
+Nuestro enfoque inicial será **el mercado de productores y consumidores de vinos y pisco en América Latina, donde la necesidad de una solución centralizada y eficiente es particularmente evidente**.
 
 Sabremos que tenemos éxito cuando veamos **una mejora significativa en la eficiencia operativa de nuestros clientes, una reducción en el desperdicio de recursos, y un aumento en la satisfacción del cliente, evidenciado por la adopción generalizada de la plataforma y el cumplimiento de nuestras metas de suscripción y retención de clientes en el primer año de lanzamiento**.
 
@@ -236,11 +236,11 @@ Sabremos que tenemos éxito cuando veamos **una mejora significativa en la efici
 
 - **¿Cuál es el problema?**
 
-El problema central radica en la gestión fragmentada e ineficiente de los procesos productivos y logísticos en la industria vitivinícola y de pisco. Los métodos tradicionales, que a menudo son manuales y poco integrados, generan múltiples desafíos, como inconsistencias en la calidad del producto, desajustes en los inventarios, dificultades en la administración de la cartera de clientes, y falta de visibilidad en tiempo real sobre las operaciones. Estos problemas no solo afectan la productividad y la eficiencia operativa, sino que también impactan negativamente en la capacidad de respuesta ante la demanda del mercado, limitando el potencial de crecimiento y la competitividad de los productores y distribuidores.
+El problema central radica en la gestión fragmentada e ineficiente de los procesos productivos y logísticos en la industria vitivinícola y de pisco. Los métodos tradicionales, que a menudo son manuales y poco integrados, generan múltiples desafíos, como inconsistencias en la calidad del producto, desajustes en los inventarios, dificultades en la administración de la cartera de clientes, y falta de visibilidad en tiempo real sobre las operaciones. Estos problemas no solo afectan la productividad y la eficiencia operativa, sino que también impactan negativamente en la capacidad de respuesta ante la demanda del mercado, limitando el potencial de crecimiento y la competitividad de los productores y consumidores.
 
 - **¿Cuál es la relación con la persona en cuestión?**
  
-Este problema afecta directamente a los productores, quienes necesitan optimizar sus procesos productivos para garantizar la calidad y consistencia de sus vinos y piscos, así como a los distribuidores, que dependen de una logística eficiente para gestionar inventarios, cumplir con los pedidos a tiempo, y mantener una comunicación fluida con los productores. En última instancia, los clientes finales también se ven perjudicados, ya que la falta de eficiencia en la cadena de producción y distribución puede llevar a una menor disponibilidad de productos de calidad en el mercado.
+Este problema afecta directamente a los productores, quienes necesitan optimizar sus procesos productivos para garantizar la calidad y consistencia de sus vinos y piscos, así como a los consumidores, que dependen de una logística eficiente para gestionar inventarios, cumplir con los pedidos a tiempo, y mantener una comunicación fluida con los productores. En última instancia, los clientes finales también se ven perjudicados, ya que la falta de eficiencia en la cadena de producción y distribución puede llevar a una menor disponibilidad de productos de calidad en el mercado.
 
 #### When?
 
@@ -250,17 +250,17 @@ El problema se manifiesta en diferentes etapas del ciclo de producción y distri
 
 - **¿Cuándo utiliza el cliente el producto?**
 
-Los clientes, tanto productores como distribuidores, utilizan el producto en distintos momentos críticos de sus operaciones diarias. Durante la producción, el software se emplea para gestionar y monitorear el proceso de vinificación, control de calidad y almacenamiento. En la fase de distribución, se utiliza para coordinar la logística, gestionar inventarios, y realizar el seguimiento de pedidos en tiempo real.
+Los clientes, tanto productores como consumidores, utilizan el producto en distintos momentos críticos de sus operaciones diarias. Durante la producción, el software se emplea para gestionar y monitorear el proceso de vinificación, control de calidad y almacenamiento. En la fase de distribución, se utiliza para coordinar la logística, gestionar inventarios, y realizar el seguimiento de pedidos en tiempo real.
 
 #### Where?
 
 - **¿Dónde está el cliente cuando usa el producto?**
 
-Los clientes utilizan el producto en diversos entornos relacionados con la producción y distribución de vino y pisco. Los productores lo emplean en sus bodegas, viñedos y almacenes para gestionar y monitorear cada fase del proceso productivo. Los distribuidores, por su parte, lo utilizan en sus centros de distribución y oficinas administrativas para coordinar la logística, gestionar inventarios y mantener la comunicación con los productores.
+Los clientes utilizan el producto en diversos entornos relacionados con la producción y distribución de vino y pisco. Los productores lo emplean en sus bodegas, viñedos y almacenes para gestionar y monitorear cada fase del proceso productivo. Los consumidores, por su parte, lo utilizan en sus centros de distribución y oficinas administrativas para coordinar la logística, gestionar inventarios y mantener la comunicación con los productores.
 
 - **¿A dónde se dirige?**
 
-El cliente se dirige hacia la optimización de sus operaciones, buscando mejorar la eficiencia, reducir el desperdicio y maximizar la rentabilidad. Con GRAPEFLOW, los productores y distribuidores buscan centralizar la gestión de sus procesos, logrando una mayor visibilidad y control sobre cada aspecto de su negocio.
+El cliente se dirige hacia la optimización de sus operaciones, buscando mejorar la eficiencia, reducir el desperdicio y maximizar la rentabilidad. Con GRAPEFLOW, los productores y consumidores buscan centralizar la gestión de sus procesos, logrando una mayor visibilidad y control sobre cada aspecto de su negocio.
 
 - **¿Dónde surge el problema?**
 
@@ -270,13 +270,13 @@ El problema surge en varios puntos clave de la cadena de valor. En la fase de pr
 
 - **¿Quiénes están involucrados?**
  
-Los principales involucrados son los productores de vino y pisco, que necesitan gestionar sus procesos productivos de manera eficiente; los distribuidores, que se encargan de llevar los productos al mercado; y los clientes finales, quienes dependen de la calidad y disponibilidad del producto. También se incluyen otros actores como proveedores de insumos, transportistas y minoristas, quienes interactúan con los productores y distribuidores y cuyas operaciones también pueden verse afectadas por la ineficiencia en la gestión de la cadena de suministro.
+Los principales involucrados son los productores de vino y pisco, que necesitan gestionar sus procesos productivos de manera eficiente; los consumidores, que se encargan de llevar los productos al mercado; y los clientes finales, quienes dependen de la calidad y disponibilidad del producto. También se incluyen otros actores como proveedores de insumos, transportistas y minoristas, quienes interactúan con los productores y consumidores y cuyas operaciones también pueden verse afectadas por la ineficiencia en la gestión de la cadena de suministro.
 
 #### Why?
 
 - **¿Cuál es la causa del problema?**
 
-La causa principal del problema es la falta de un sistema centralizado y eficiente para coordinar y gestionar los diversos aspectos del proceso productivo y de distribución. La dependencia de sistemas manuales o soluciones tecnológicas desintegradas provoca errores humanos, falta de coordinación entre diferentes etapas del proceso, y una baja visibilidad en tiempo real de la operación. Además, la comunicación ineficiente entre productores y distribuidores contribuye a la desorganización en la administración de la cartera de clientes y a problemas en la satisfacción de la demanda.
+La causa principal del problema es la falta de un sistema centralizado y eficiente para coordinar y gestionar los diversos aspectos del proceso productivo y de distribución. La dependencia de sistemas manuales o soluciones tecnológicas desintegradas provoca errores humanos, falta de coordinación entre diferentes etapas del proceso, y una baja visibilidad en tiempo real de la operación. Además, la comunicación ineficiente entre productores y consumidores contribuye a la desorganización en la administración de la cartera de clientes y a problemas en la satisfacción de la demanda.
 
 #### How?
 
@@ -290,13 +290,13 @@ Los clientes prefieren acceder a un sistema intuitivo, accesible desde múltiple
 
 - **¿Qué llevó al cliente a llegar a esta situación?**
  
-La situación actual de los clientes se debe a la falta de soluciones tecnológicas que respondan a la complejidad y las necesidades específicas de la industria del vino y pisco. La evolución de la industria ha llevado a un aumento en la demanda de productos de calidad, lo que a su vez ha puesto presión sobre los productores y distribuidores para mejorar sus operaciones. Sin embargo, muchos de ellos aún dependen de métodos tradicionales que no están equipados para manejar la escala y la complejidad del mercado actual, lo que crea una necesidad urgente de modernización.
+La situación actual de los clientes se debe a la falta de soluciones tecnológicas que respondan a la complejidad y las necesidades específicas de la industria del vino y pisco. La evolución de la industria ha llevado a un aumento en la demanda de productos de calidad, lo que a su vez ha puesto presión sobre los productores y consumidores para mejorar sus operaciones. Sin embargo, muchos de ellos aún dependen de métodos tradicionales que no están equipados para manejar la escala y la complejidad del mercado actual, lo que crea una necesidad urgente de modernización.
 
 #### How much?
 
 - **¿Cuántos problemas se dan en un día? ¿En una semana? ¿En un mes? ¿Cuánto dinero están implicando?**
 
-La frecuencia y el impacto de los problemas pueden variar según la escala de las operaciones y la época del año. Sin embargo, se estima que los problemas relacionados con la gestión ineficiente pueden ocurrir a diario, generando pérdidas significativas en calidad del producto, exceso o escasez de inventario, y oportunidades de venta perdidas. En términos financieros, estos problemas pueden resultar en pérdidas de miles de dólares mensuales para los productores y distribuidores, afectando gravemente su rentabilidad y capacidad para competir en el mercado.
+La frecuencia y el impacto de los problemas pueden variar según la escala de las operaciones y la época del año. Sin embargo, se estima que los problemas relacionados con la gestión ineficiente pueden ocurrir a diario, generando pérdidas significativas en calidad del producto, exceso o escasez de inventario, y oportunidades de venta perdidas. En términos financieros, estos problemas pueden resultar en pérdidas de miles de dólares mensuales para los productores y consumidores, afectando gravemente su rentabilidad y capacidad para competir en el mercado.
 ### [1.2.2 Lean UX Process](#lean-ux-process)
 
 En esta sección, iniciamos el proceso de Lean UX, que nos permitirá definir y refinar la visión del modelo de negocio que será soportado por nuestro producto de software. La metodología Lean UX nos ayuda a enfocar el diseño de nuestra solución en torno a la resolución de problemas y la creación de valor real para nuestros usuarios.
@@ -325,7 +325,7 @@ Lo que los productos/servicios existentes no logran abordar es **una plataforma 
 
 Nuestro producto/servicio abordará esta brecha mediante **el desarrollo e implementación de GRAPEFLOW, un software integral que unifica la gestión del proceso productivo, el control de inventarios y el seguimiento de pedidos en una sola plataforma. La solución estará diseñada para adaptarse a diferentes tamaños de operación y necesidades específicas de los usuarios, ofreciendo herramientas avanzadas y una interfaz intuitiva**.
 
-Nuestro enfoque inicial será **el mercado de productores y distribuidores de vinos y pisco en América Latina, donde la necesidad de una solución centralizada y eficiente es particularmente evidente**.
+Nuestro enfoque inicial será **el mercado de productores y consumidores de vinos y pisco en América Latina, donde la necesidad de una solución centralizada y eficiente es particularmente evidente**.
 
 Sabremos que tenemos éxito cuando veamos **una mejora significativa en la eficiencia operativa de nuestros clientes, una reducción en el desperdicio de recursos, y un aumento en la satisfacción del cliente, evidenciado por la adopción generalizada de la plataforma y el cumplimiento de nuestras metas de suscripción y retención de clientes en el primer año de lanzamiento**.
 
@@ -409,15 +409,15 @@ Este segmento incluye a personas interesadas en explorar y comprar vinos, piscos
 
 - **Planes de Servicio:** Aunque los consumidores no requieren planes de servicio específicos, la plataforma debe ser intuitiva, atractiva y ofrecer un proceso de compra fluido para mantener su interés y fomentar la lealtad.
 
-### **2. Distribuidores de Licores:**
+### **2. consumidores de Licores:**
 
-Este segmento se enfoca en las empresas que gestionan la distribución de licores, asegurando que los productos lleguen a los puntos de venta o directamente a los consumidores finales. Los distribuidores desempeñan un rol fundamental en la cadena de suministro y requieren herramientas que optimicen sus operaciones.
+Este segmento se enfoca en las empresas que gestionan la distribución de licores, asegurando que los productos lleguen a los puntos de venta o directamente a los consumidores finales. Los consumidores desempeñan un rol fundamental en la cadena de suministro y requieren herramientas que optimicen sus operaciones.
 
-- **Seguimiento de Pedidos:** Es crucial que los distribuidores cuenten con un sistema eficiente que les permita gestionar y monitorizar los pedidos en tiempo real. Esto garantiza una entrega puntual y sin errores, mejorando la satisfacción del cliente y reduciendo los costos operativos.
+- **Seguimiento de Pedidos:** Es crucial que los consumidores cuenten con un sistema eficiente que les permita gestionar y monitorizar los pedidos en tiempo real. Esto garantiza una entrega puntual y sin errores, mejorando la satisfacción del cliente y reduciendo los costos operativos.
 
-- **Administración de la Cartera de Clientes:** La gestión efectiva de las relaciones con los clientes es esencial para maximizar las ventas y fidelizar a los compradores. Los distribuidores necesitan soluciones que les permitan segmentar, analizar y mejorar las interacciones con sus clientes, fortaleciendo así sus vínculos comerciales.
+- **Administración de la Cartera de Clientes:** La gestión efectiva de las relaciones con los clientes es esencial para maximizar las ventas y fidelizar a los compradores. Los consumidores necesitan soluciones que les permitan segmentar, analizar y mejorar las interacciones con sus clientes, fortaleciendo así sus vínculos comerciales.
 
-- **Planes de Servicio:** Los distribuidores pueden beneficiarse de un plan avanzado que ofrezca herramientas completas para la gestión de pedidos, el seguimiento en tiempo real y la administración de la cartera de clientes. Estas funcionalidades son clave para mejorar la eficiencia y competitividad en el mercado.
+- **Planes de Servicio:** Los consumidores pueden beneficiarse de un plan avanzado que ofrezca herramientas completas para la gestión de pedidos, el seguimiento en tiempo real y la administración de la cartera de clientes. Estas funcionalidades son clave para mejorar la eficiencia y competitividad en el mercado.
 
 # [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
 # [2.1 Competidores](#competidores)
@@ -660,7 +660,7 @@ publico.</td>
 
 * **Fortalezas y Oportunidades**:
 
-La capacidad de ofrecer información en tiempo real sobre la producción y las características del licor es un valor clave. Esta fortaleza se debe aprovechar para diferenciarse de competidores como ViWine y CellarTracker, que no brindan esta funcionalidad específica. Se puede enfatizar esta ventaja en la publicidad y en las demostraciones de producto. Oportunidades: El mercado presenta una baja competencia, lo que permite a GrapeFlow posicionarse rápidamente. Esta oportunidad puede ser maximizada mediante una estrategia de crecimiento rápido, captando a los principales productores y distribuidores de vinos y piscos antes que los competidores reaccionen.
+La capacidad de ofrecer información en tiempo real sobre la producción y las características del licor es un valor clave. Esta fortaleza se debe aprovechar para diferenciarse de competidores como ViWine y CellarTracker, que no brindan esta funcionalidad específica. Se puede enfatizar esta ventaja en la publicidad y en las demostraciones de producto. Oportunidades: El mercado presenta una baja competencia, lo que permite a GrapeFlow posicionarse rápidamente. Esta oportunidad puede ser maximizada mediante una estrategia de crecimiento rápido, captando a los principales productores y consumidores de vinos y piscos antes que los competidores reaccionen.
 
 * **Aprovechamiento de Debilidades y Amenazas de los Competidores**:
 
@@ -842,7 +842,7 @@ En cuanto a las etiquetas de los productos, Rosales valora el diseño y que sean
 
 El enfoque de la matriz de tareas del usuario es examinar las tareas que ambos segmentos llevan a cabo antes de recibir el producto, para identificar si alguna de estas tareas podría ser asistida por nuestro producto.
 
-| **Task**                                                                                  | **Productor**          | **Distribuidor**       |
+| **Task**                                                                                  | **Productor**          | **consumidor**       |
 |-------------------------------------------------------------------------------------------|------------------------|------------------------|
 |                                                                                           | Frecuencia/Importancia | Frecuencia/Importancia |
 | Registrar entradas y salidas de inventario                                                | Media / Alta           | Alta / Alta            |
@@ -852,7 +852,7 @@ El enfoque de la matriz de tareas del usuario es examinar las tareas que ambos s
 | Realizar ajustes de inventario                                                            | Media / Media          | Alta / Alta            |
 | Prever y planificar reabastecimientos                                                     | -                      | Alta / Alta            |
 | Actualizar y mantener la base de datos de productos                                       | -                      | Alta / Alta            |
-| Preguntar al productor/distribuidor cuando sería la mejor fecha para negociar el producto | Media / Alta           | Media / Alta           |
+| Preguntar al productor/consumidor cuando sería la mejor fecha para negociar el producto | Media / Alta           | Media / Alta           |
 | Integración con sistemas de seguimiento de proveedores                                    | Media / Media          | Media / Media          |
 
 ### [2.3.3 User Journey Mapping](#user-journey-mapping)
@@ -921,7 +921,7 @@ Glosario:
 |---------|-------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | EP01    | Registro de Datos del Producto                        | Como productor, quiero ingresar los datos esenciales de mis productos en el sistema para un seguimiento detallado y organizado.                                                                                                                   |
 | EP02    | Visualización de Información del Producto             | Como consumidor, quiero acceder a la información detallada de los productos en el sistema para tomar decisiones informadas sobre mi compra.                                                                                                       |
-| EP03    | Gestión de Inventarios                                | Como productor o distribuidor, quiero gestionar el inventario de productos en el sistema para asegurar una administración eficiente del stock.                                                                                                    |
+| EP03    | Gestión de Inventarios                                | Como productor o consumidor, quiero gestionar el inventario de productos en el sistema para asegurar una administración eficiente del stock.                                                                                                    |
 | EP04    | Monitoreo de Parámetros Críticos                      | Como productor, quiero monitorear parámetros clave como pH y temperatura en el sistema para asegurar que el proceso de producción se mantenga dentro de los estándares de calidad.                                                                |
 | EP05    | Automatización de Procesos de Producción              | Como productor, quiero automatizar ciertos procesos de producción en el sistema para mejorar la eficiencia y reducir errores manuales.                                                                                                            |
 | EP06    | Configuración de Alertas de Producción                | Como productor, quiero configurar alertas en el sistema para ser notificado sobre eventos importantes durante el proceso de producción.                                                                                                           |
