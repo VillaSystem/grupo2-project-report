@@ -1585,19 +1585,24 @@ No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Te
 ### 5.2.1.5.	Execution Evidence for Sprint Review.
 
 Las vistas implementadas son el navbar con las secciones Inicio, Servicio, Funcionalidades, Planes, Nosotros y Contacto. Esa barra de navegación es fija y mientras el usuario se desplace se mueve junto con la pantalla.
-![](https://raw.githubusercontent.com/petitavo/Images/main/images/inicio.PNG?token=GHSAT0AAAAAACWGYYFK7J4LWEDLZDIGTMKUZWQ5LDQ)
+![](images/navbar.PNG)
 
 En esta sección pueden conocer más sobre los servicios y funcionalidades de la plataforma:
-![](https://raw.githubusercontent.com/petitavo/Images/main/images/services.PNG?token=GHSAT0AAAAAACWGYYFLZWSYXRASVG4GLL44ZWQ5MNQ) 
+![](images/service.PNG) 
 
 En esta seccion se muestra los planes que tenemos y los beneficios de cada uno:
-![](https://raw.githubusercontent.com/petitavo/Images/main/images/planes.PNG?token=GHSAT0AAAAAACWGYYFLIUUX7PY4WNNTXYUCZWQ5O4Q)
+![](images/planes.PNG)
+
+En esta seccion se muestra los integrantes del equipo:
+![](images/equipo.PNG)
 En esta seccion se muestra las maneras de contacto ademas como enlaces adicionales:
-![](https://raw.githubusercontent.com/petitavo/Images/main/images/contacto.PNG?token=GHSAT0AAAAAACWGYYFLTWG44APOGLOW6C6GZWQ5QTQ)
+![](images/contacto.PNG)
 
 
 
 ### 5.2.1.6.	Services Documentation Evidence for Sprint Review
+
+Este primer sprimt solo trata de la landing page, por lo que no se ha desarrollado servicios en este sprint.
 
 ### 5.2.1.7.	Software Deployment Evidence for Sprint Review.
 
@@ -1607,13 +1612,13 @@ https://villasystem.github.io/GrapeFlow-LandingPage/index.html
 Para el desarrollo del Landing Page de GrapeFlow se han utilizado las siguientes herramientas:
 
 * html: Es el lenguaje de marcado que estructuró nuestro Landing Page.
-![](https://raw.githubusercontent.com/petitavo/Images/main/images/hmtl.PNG?token=GHSAT0AAAAAACWGYYFLBTICOX7XFVI34RCAZWQ6BMQ)
+![](images/html.PNG)
 
 * css: Es el lenguaje de estilos que le dio formato y diseño a nuestro Landing Page.
-![](https://raw.githubusercontent.com/petitavo/Images/main/images/css.PNG?token=GHSAT0AAAAAACWGYYFLLH6IFP7TEJCHRYMYZWQ6CBQ)
+![](images/css.PNG)
 
 * JavaScript: Es el lenguaje de programación que le dio interactividad a nuestro Landing Page.
-![](https://raw.githubusercontent.com/petitavo/Images/main/images/jv.PNG?token=GHSAT0AAAAAACWGYYFKST6CTRYQPQBMYPSCZWQ6CQQ)
+![](images/js.PNG)
 
 
 El despliegue del Landing Page de GrapeFlow se realizó gracias a:
@@ -1634,14 +1639,14 @@ Los pasos que se realizaron fueron:
 
 - Cuando nos encontramos en la configuración, tenemos que darle click a la sección pages.
 
-![](https://raw.githubusercontent.com/petitavo/Images/main/images/pages.PNG?token=GHSAT0AAAAAACWGYYFLOW36PEGWCSI5JYUIZWQ6IPQ)]
+![](images/pages.PNG)]
 
 - Luego, dentro de la sección “pages” tenemos que seleccionar la rama que se va a deployear, en nuestro caso 
 es la rama “main”. Asimismo, tenemos que elegir una carpeta para
 localizar la publicación, que en nuestro caso será root. Finalmente 
 tendremos el link en la parte superior.
 
-![](https://raw.githubusercontent.com/petitavo/Images/main/images/paff.PNG?token=GHSAT0AAAAAACWGYYFKLLEXC6OOTITPV4BOZWQ6NUA)
+![](images/pages.PNG)
 
 Con esto ya tendremos nuestra landing page publicada y accesible para cualquier usuario.
 Este es el enlace final: https://villasystem.github.io/GrapeFlow-LandingPage/
@@ -1658,4 +1663,10 @@ Integrantes:
 
 ![](https://media.discordapp.net/attachments/1038166788619370537/1278220536761290853/image.png?ex=66d00324&is=66ceb1a4&hm=4796ae01e3d906e58abf4aa9faca30363999b00fc4e435a51d4cec81172ca32e&=&format=webp&quality=lossless&width=447&height=424)
 
+Podemos visualizar todos los commits y probamos que todos participamos en la landing page:
 
+![](images/commits-landing.PNG)
+
+
+
+# Concluciones
