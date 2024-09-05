@@ -331,13 +331,11 @@ _¿Qué características son importantes?_
 _¿Dónde encaja nuestro producto en su trabajo o vida?_
 
 * _**Fabricantes:**_ En el proceso productivo diario, ayudando a optimizar y controlar la calidad de los licores en tiempo real.
-* _**Distribuidores:**_ En la gestión de inventarios y la comercialización de productos, asegurando que tienen la información necesaria para satisfacer la demanda.
 * _**Consumidores:**_ En el proceso de compra, proporcionando una experiencia más informada y satisfactoria.
 
 _¿Cuándo y cómo se usa nuestro producto?_
 
 * _**Fabricantes:**_ Durante todo el ciclo de producción, desde la cosecha hasta el añejamiento y embotellado, utilizando los componentes para monitorear y ajustar variables críticas.
-* _**Distribuidores:**_ Al gestionar inventarios y realizar ventas, utilizando la plataforma para acceder a información precisa sobre los productos.
 * _**Consumidores:**_ En el punto de compra, utilizando la aplicación móvil para obtener detalles sobre el origen, características y calidad de los licores.
 
 _¿Cómo debe ser y comportarse nuestro producto?_
@@ -363,7 +361,7 @@ _**Sabremos**_ que esta hipótesis es cierta _**cuando**_ observemos una reducci
   <br><br>
 - **Hypothesis Statement 02:**
   <br><br>
-_**Creemos**_ que los consumidores estarán más dispuestos a comprar licores si tienen acceso a una aplicación móvil que les proporcione información detallada y confiable sobre cada producto, como el tipo de uva, el origen de los ingredientes, y las condiciones de añejamiento.
+_**Creemos**_ que los consumidores estarán más dispuestos a comprar licores si tienen acceso a una aplicación que les proporcione información detallada y confiable sobre cada producto, como el tipo de uva, el origen de los ingredientes, y las condiciones de añejamiento.
 _**Sabremos**_ que esta hipótesis es _**cierta**_ cuando veamos un aumento en el uso de la aplicación, un incremento en las ventas de los productos destacados, y una mayor satisfacción de los usuarios en sus decisiones de compra.
   <br><br>
 
