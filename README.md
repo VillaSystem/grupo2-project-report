@@ -54,14 +54,14 @@
 
 
 # Registro de Versiones del Informe
-| Versión | Fecha      | Autor   | Descripción de modificación                    |
-|---------|------------|---------|------------------------------------------------|
-| V0.1    | 21/08/2024 | Diego   | Creación del repositorio                       |
-| V0.2    | 00/00/2024 | Fernando| Capitulo 1 y Capitulo 2                        |
-| V0.2.1  | 00/00/2024 | Gustavo | Capitulo 3                                     |
-| V0.3    | 00/00/2024 |         | Capitulo 4                                     |
-| V0.4    | 00/00/2024 | Gustavo | Capitulo 5 y ultimos ajuste                    |
-| V1.0    | 00/00/2024 |         | Revision final y entrega TB1.                  |
+| Versión | Fecha      | Autor    | Descripción de modificación   |
+|---------|------------|----------|-------------------------------|
+| V0.1    | 21/08/2024 | Diego    | Creación del repositorio      |
+| V0.2    | 00/00/2024 | Fernando | Capitulo 1 y Capitulo 2       |
+| V0.2.1  | 00/00/2024 | Gustavo  | Capitulo 3                    |
+| V0.3    | 00/00/2024 |          | Capitulo 4                    |
+| V0.4    | 00/00/2024 | Gustavo  | Capitulo 5 y ultimos ajuste   |
+| V1.0    | 00/00/2024 |          | Revision final y entrega TB1. |
 
 
 
@@ -208,7 +208,7 @@ Estos datos recopilados se convierten en una valiosa fuente de información que 
 |-------------------------------|-------------------------------|----------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![ ](images/gustavo.png)      | Huanca Navarro, Gustavo Esau  | U202215285           | Ingenieria de Software | Soy Gustavo Huanca, estudiante de Ingeniería de Software. Me considero puntual, responsable y disfruto resolviendo problemas tecnológicos. Tengo conocimientos en desarrollo de software, varios lenguajes de programación, estructuras de datos y algoritmos. Además. Mi objetivo es contribuir eficazmente al éxito del equipo con mis habilidades                                                                                                                                                                               |
 | ![ ]()                        | Armas Sánchez Óscar Javier    | U20211G192           | Ingenieria de Software | Breve párrafo con los principales conocimientos técnicos y habilidades que el participante puede aportar al equipo.                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ![ ](images/Fernando.jpg)     | Salhuana Lopez, Fernando Jose | U201622757           | Ingenieria de Software | Soy estudiante de la carrera de Ingeniería de Software, tengo habilidades blandas para que mis compañeros puedan confiar en mí. Soy participativo, resuelvo problemas complicados con facilidad y creativo en todo aspecto. En formación poseo experiencia en C++, Java, SQL y ciertos conocimientos en programación web.                                  |                                                                                                                                                                       
+| ![ ](images/Fernando.jpg)     | Salhuana Lopez, Fernando Jose | U201622757           | Ingenieria de Software | Soy estudiante de la carrera de Ingeniería de Software, tengo habilidades blandas para que mis compañeros puedan confiar en mí. Soy participativo, resuelvo problemas complicados con facilidad y creativo en todo aspecto. En formación poseo experiencia en C++, Java, SQL y ciertos conocimientos en programación web.                                                                                                                                                                                                          |                                                                                                                                                                       
 | ![ ](images/DiegoHuincho.jpg) | Huincho Lapa, Diego Arturo    | U201923466           | Ingenieria de Software | Mi nombre es Diego Arturo Huincho Lapa. Tengo 22 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser detallista y responsable. En cuanto a cualidades para la realización del trabajo considero que soy bueno haciendo los mockups de la app y la parte del frontend, puesto que ya tengo experiencia haciendo trabajos con los frameworks vuejs y react. En mi ratos libres me gusta jugar videojuegos o mirar una serie o pelicula. |
 | ![ ](images/Angelo.png)       | Curi Marcelo, Angelo Marcio   | U202022387           | Ingenieria de Software | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona responsable y comprometida con mis tareas. Siempre me esfuerzo por cumplir con los plazos y entregar trabajos de calidad. Además, me considero una persona creativa, tengo conocimientos tanto en programación y edición de videos. Considero que soy una persona que puede aportar de manera significativa a este equipo.                                                                  |
 
@@ -877,53 +877,53 @@ El enfoque de la matriz de tareas del usuario es examinar las tareas que ambos s
 ## [3.4. Product Backlog.](#product-backlog)
 ### Product Backlog
 
-| Orden | User Story Id | Título                                                | Descripción                                                                                                                                                                  | Story Points |
-|-------|---------------|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| 1     | US01          | Registrar Datos del Producto                          | Como productor, deseo registrar los datos esenciales de mis productos para que pueda hacer un seguimiento detallado.                                                         | 3            |
-| 2     | US02          | Visualizar Información del Producto                   | Como consumidor, deseo visualizar la información detallada de un producto para tomar decisiones informadas de compra.                                                        | 5            |
-| 3     | US03          | Registrar Equipamiento de Producción                  | Como productor, deseo registrar el equipamiento usado en la producción para mantener un inventario actualizado.                                                              | 3            |
-| 4     | US04          | Monitorear Parámetros Críticos                        | Como productor, deseo monitorear parámetros críticos como pH y temperatura para asegurar la calidad del producto.                                                            | 5            |
-| 5     | US05          | Generar Reportes Personalizados                       | Como productor, deseo generar reportes personalizados sobre producción para analizar el rendimiento y hacer mejoras.                                                         | 8            |
-| 6     | US06          | Configurar Alertas de Producción                      | Como productor, deseo configurar alertas para el seguimiento de productos durante la producción para evitar problemas.                                                       | 5            |
-| 7     | US07          | Optimizar Uso de Recursos                             | Como productor, deseo optimizar el uso de recursos en el proceso productivo para mejorar la eficiencia y reducir desperdicios.                                               | 8            |
-| 8     | US08          | Configurar Alertas por Vencimiento                    | Como productor, deseo configurar alertas para notificarme sobre productos próximos a vencer para evitar pérdidas.                                                            | 3            |
-| 9     | US09          | Registrar Ambientes y Recursos                        | Como productor, deseo registrar aulas, espacios deportivos y ambientes compartidos para gestionar su uso.                                                                    | 5            |
-| 10    | US10          | Automatizar Procesos de Producción                    | Como productor, deseo automatizar ciertos procesos de producción para mejorar la eficiencia y reducir el tiempo de producción.                                               | 8            |
-| 11    | US11          | Visualizar Información Detallada                      | Como consumidor, deseo visualizar la información detallada sobre un producto para tomar decisiones de compra más informadas.                                                 | 5            |
-| 12    | US12          | Gestionar Inventarios de Productos                    | Como productor, deseo gestionar el inventario de mis productos para asegurarme de que haya suficiente stock y evitar excesos.                                                | 5            |
-| 13    | US13          | Configurar Alertas de Calidad                         | Como productor, deseo configurar alertas para monitorear la calidad de los productos en diferentes etapas de producción.                                                     | 5            |
-| 14    | US14          | Actualizar Datos de Productos                         | Como productor, deseo actualizar la información de los productos existentes para mantener datos precisos.                                                                    | 3            |
-| 15    | US15          | Registrar Información de Cosecha                      | Como productor, deseo registrar información sobre la cosecha para asociarla con los lotes de producción.                                                                     | 5            |
-| 16    | US16          | Mostrar Información de Cosecha                        | Como consumidor, deseo ver la información sobre la cosecha de los productos para evaluar su calidad.                                                                         | 5            |
-| 17    | US17          | Generar Reportes de Calidad                           | Como productor, deseo generar reportes sobre la calidad de los productos para identificar áreas de mejora.                                                                   | 8            |
-| 18    | US18          | Integrar Información de Producción                    | Como productor, deseo integrar la información de diferentes etapas de producción en un solo lugar para facilitar el análisis.                                                | 8            |
-| 19    | US19          | Configurar Reportes Automáticos                       | Como productor, deseo configurar reportes automáticos sobre la producción para recibir actualizaciones periódicas sin intervención manual.                                   | 5            |
-| 20    | US20          | Visualizar Datos Históricos                           | Como productor, deseo visualizar datos históricos de producción para comparar con los datos actuales y analizar tendencias.                                                  | 8            |
-| 21    | US21          | Registrar Proveedores de Insumos                      | Como productor, deseo registrar información sobre los proveedores de insumos para gestionar mejor las relaciones comerciales.                                                | 3            |
-| 22    | US22          | Ver Información de Proveedores                        | Como productor, deseo ver la información sobre proveedores para tomar decisiones sobre compras y relaciones comerciales.                                                     | 3            |
-| 23    | US23          | Configurar Parámetros Críticos                        | Como productor, deseo configurar los parámetros críticos para monitorear durante la producción.                                                                              | 5            |
-| 24    | US24          | Monitorizar Calidad en Tiempo Real                    | Como productor, deseo monitorizar la calidad del producto en tiempo real para tomar decisiones rápidas sobre la producción.                                                  | 8            |
-| 25    | US25          | Gestionar Recursos Humanos                            | Como productor, deseo gestionar la información de los empleados relacionados con la producción para optimizar el uso de recursos humanos.                                    | 5            |
-| 26    | US26          | Revisar Registro de Producción                        | Como productor, deseo revisar el registro de producción para identificar problemas o áreas que necesitan atención.                                                           | 5            |
-| 27    | US27          | Alertas de Seguridad                                  | Como productor, deseo configurar alertas de seguridad para prevenir accidentes y mantener la integridad del proceso productivo.                                              | 5            |
-| 28    | US28          | Generar Reportes de Inventarios                       | Como productor, deseo generar reportes sobre el estado del inventario para tomar decisiones informadas sobre reposición.                                                     | 5            |
-| 29    | US29          | Integrar Datos de Producción                          | Como productor, deseo integrar los datos de producción con otros sistemas para obtener una visión más completa del proceso.                                                  | 8            |
-| 30    | US30          | Ver Reportes de Inventarios                           | Como productor, deseo ver reportes sobre los inventarios para gestionar el stock de manera más eficiente.                                                                    | 3            |
-| 31    | US31          | Configurar Notificaciones de Producción               | Como productor, deseo configurar notificaciones para recibir alertas sobre eventos importantes en el proceso de producción.                                                  | 5            |
-| 32    | US32          | Acceder a Reportes en Móviles                         | Como productor, deseo acceder a los reportes desde dispositivos móviles para estar al tanto de la producción en cualquier lugar.                                             | 8            |
-| 33    | US33          | Revisar Información de Equipamiento                   | Como productor, deseo revisar la información sobre el equipamiento de producción para asegurar que esté en buen estado.                                                      | 3            |
-| 34    | US34          | Registrar Información de Distribución                 | Como productor, deseo registrar la información de distribución de los productos para rastrear el flujo desde la producción hasta el cliente.                                 | 5            |
-| 35    | US35          | Monitorear Datos de Envío                             | Como productor, deseo monitorear los datos de envío para asegurarme de que los productos lleguen a tiempo y en buen estado.                                                  | 5            |
-| 36    | US36          | Revisar Datos de Cosecha                              | Como productor, deseo revisar los datos de cosecha para evaluar la calidad y el impacto en la producción.                                                                    | 5            |
-| 37    | US37          | Visualización del Título Principal                    | Como visitante de la Landing Page, quiero ver claramente el nombre y subtítulo de la plataforma en la parte superior de la página para comprender la propuesta de valor.     | 3            |
-| 38    | US38          | Descripción de GrapeFlow Service                      | Como visitante de la Landing Page, quiero leer una explicación detallada de cómo GrapeFlow optimiza la producción y distribución de vinos y piscos para evaluar su utilidad. | 5            |
-| 39    | US39          | Iconos Representativos de Funcionalidades Clave       | Como visitante de la Landing Page, quiero ver iconos que representen las funcionalidades clave del servicio para obtener una visión rápida de lo que ofrece GrapeFlow.       | 3            |
-| 40    | US40          | Menú de Navegación Visible                            | Como visitante de la Landing Page, quiero acceder a un menú de navegación en la parte superior de la página para explorar fácilmente otras secciones.                        | 5            |
-| 41    | US41          | Visualización de Planes Disponibles                   | Como visitante de la Landing Page, quiero ver los diferentes planes de servicio con sus precios y características para elegir el que mejor se adapte a mis necesidades.      | 8            |
-| 42    | US42          | Selección de Plan desde la Landing Page               | Como visitante de la Landing Page, quiero poder seleccionar y confirmar un plan desde la misma página para simplificar el proceso de suscripción o registro.                 | 8            |
-| 43    | US43          | Formulario de Contacto                                | Como visitante de la Landing Page, quiero acceder a un formulario de contacto donde pueda enviar mis consultas para comunicarme fácilmente con el equipo de GrapeFlow.       | 5            |
-| 44    | US44          | Información de Contacto Visible                       | Como visitante de la Landing Page, quiero ver la información de contacto de GrapeFlow, como dirección, teléfono y correo electrónico, para comunicarme si es necesario.      | 3            |
-| 45    | US45          | Visualización de Redes Sociales y Enlaces Adicionales | Como visitante de la Landing Page, quiero ver los enlaces a las redes sociales y políticas de la empresa en el pie de página para seguirlos y entender mejor sus términos.   | 3            |
+| Orden | User Story Id | Título                                                | Descripción                                                                                                                                                                                                        | Story Points |
+|-------|---------------|-------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| 1     | US01          | Registrar Datos del Producto                          | Como productor, deseo registrar los datos esenciales de mis productos para que pueda hacer un seguimiento detallado.                                                                                               | 3            |
+| 2     | US02          | Visualizar Información del Producto                   | Como consumidor, deseo visualizar la información detallada de un producto para tomar decisiones informadas de compra.                                                                                              | 5            |
+| 3     | US03          | Registrar Equipamiento de Producción                  | Como productor, deseo registrar el equipamiento usado en la producción para mantener un inventario actualizado.                                                                                                    | 3            |
+| 4     | US04          | Monitorear Parámetros Críticos                        | Como productor, deseo monitorear parámetros críticos como pH y temperatura para asegurar la calidad del producto.                                                                                                  | 5            |
+| 5     | US05          | Generar Reportes Personalizados                       | Como productor, deseo generar reportes personalizados sobre producción para analizar el rendimiento y hacer mejoras.                                                                                               | 8            |
+| 6     | US06          | Configurar Alertas de Producción                      | Como productor, deseo configurar alertas para el seguimiento de productos durante la producción para evitar problemas.                                                                                             | 5            |
+| 7     | US07          | Optimizar Uso de Recursos                             | Como productor, deseo optimizar el uso de recursos en el proceso productivo para mejorar la eficiencia y reducir desperdicios.                                                                                     | 8            |
+| 8     | US08          | Configurar Alertas por Vencimiento                    | Como productor, deseo configurar alertas para notificarme sobre productos próximos a vencer para evitar pérdidas.                                                                                                  | 3            |
+| 9     | US09          | Registrar Ambientes y Recursos                        | Como productor, deseo registrar aulas, espacios deportivos y ambientes compartidos para gestionar su uso.                                                                                                          | 5            |
+| 10    | US10          | Automatizar Procesos de Producción                    | Como productor, deseo automatizar ciertos procesos de producción para mejorar la eficiencia y reducir el tiempo de producción.                                                                                     | 8            |
+| 11    | US11          | Visualizar Información Detallada                      | Como consumidor, deseo visualizar la información detallada sobre un producto para tomar decisiones de compra más informadas.                                                                                       | 5            |
+| 12    | US12          | Gestionar Inventarios de Productos                    | Como productor, deseo gestionar el inventario de mis productos para asegurarme de que haya suficiente stock y evitar excesos.                                                                                      | 5            |
+| 13    | US13          | Configurar Alertas de Calidad                         | Como productor, deseo configurar alertas para monitorear la calidad de los productos en diferentes etapas de producción.                                                                                           | 5            |
+| 14    | US14          | Actualizar Datos de Productos                         | Como productor, deseo actualizar la información de los productos existentes para mantener datos precisos.                                                                                                          | 3            |
+| 15    | US15          | Registrar Información de Cosecha                      | Como productor, deseo registrar información sobre la cosecha para asociarla con los lotes de producción.                                                                                                           | 5            |
+| 16    | US16          | Mostrar Información de Cosecha                        | Como consumidor, deseo ver la información sobre la cosecha de los productos para evaluar su calidad.                                                                                                               | 5            |
+| 17    | US17          | Generar Reportes de Calidad                           | Como productor, deseo generar reportes sobre la calidad de los productos para identificar áreas de mejora.                                                                                                         | 8            |
+| 18    | US18          | Integrar Información de Producción                    | Como productor, deseo integrar la información de diferentes etapas de producción en un solo lugar para facilitar el análisis.                                                                                      | 8            |
+| 19    | US19          | Configurar Reportes Automáticos                       | Como productor, deseo configurar reportes automáticos sobre la producción para recibir actualizaciones periódicas sin intervención manual.                                                                         | 5            |
+| 20    | US20          | Visualizar Datos Históricos                           | Como productor, deseo visualizar datos históricos de producción para comparar con los datos actuales y analizar tendencias.                                                                                        | 8            |
+| 21    | US21          | Registrar Proveedores de Insumos                      | Como productor, deseo registrar información sobre los proveedores de insumos para gestionar mejor las relaciones comerciales.                                                                                      | 3            |
+| 22    | US22          | Ver Información de Proveedores                        | Como productor, deseo ver la información sobre proveedores para tomar decisiones sobre compras y relaciones comerciales.                                                                                           | 3            |
+| 23    | US23          | Configurar Parámetros Críticos                        | Como productor, deseo configurar los parámetros críticos para monitorear durante la producción.                                                                                                                    | 5            |
+| 24    | US24          | Monitorizar Calidad en Tiempo Real                    | Como productor, deseo monitorizar la calidad del producto en tiempo real para tomar decisiones rápidas sobre la producción.                                                                                        | 8            |
+| 25    | US25          | Gestionar Recursos Humanos                            | Como productor, deseo gestionar la información de los empleados relacionados con la producción para optimizar el uso de recursos humanos.                                                                          | 5            |
+| 26    | US26          | Revisar Registro de Producción                        | Como productor, deseo revisar el registro de producción para identificar problemas o áreas que necesitan atención.                                                                                                 | 5            |
+| 27    | US27          | Alertas de Seguridad                                  | Como productor, deseo configurar alertas de seguridad para prevenir accidentes y mantener la integridad del proceso productivo.                                                                                    | 5            |
+| 28    | US28          | Generar Reportes de Inventarios                       | Como productor, deseo generar reportes sobre el estado del inventario para tomar decisiones informadas sobre reposición.                                                                                           | 5            |
+| 29    | US29          | Integrar Datos de Producción                          | Como productor, deseo integrar los datos de producción con otros sistemas para obtener una visión más completa del proceso.                                                                                        | 8            |
+| 30    | US30          | Ver Reportes de Inventarios                           | Como productor, deseo ver reportes sobre los inventarios para gestionar el stock de manera más eficiente.                                                                                                          | 3            |
+| 31    | US31          | Configurar Notificaciones de Producción               | Como productor, deseo configurar notificaciones para recibir alertas sobre eventos importantes en el proceso de producción.                                                                                        | 5            |
+| 32    | US32          | Acceder a Reportes en Móviles                         | Como productor, deseo acceder a los reportes desde dispositivos móviles para estar al tanto de la producción en cualquier lugar.                                                                                   | 8            |
+| 33    | US33          | Revisar Información de Equipamiento                   | Como productor, deseo revisar la información sobre el equipamiento de producción para asegurar que esté en buen estado.                                                                                            | 3            |
+| 34    | US34          | Registrar Información de Distribución                 | Como productor, deseo registrar la información de distribución de los productos para rastrear el flujo desde la producción hasta el cliente.                                                                       | 5            |
+| 35    | US35          | Monitorear Datos de Envío                             | Como productor, deseo monitorear los datos de envío para asegurarme de que los productos lleguen a tiempo y en buen estado.                                                                                        | 5            |
+| 36    | US36          | Revisar Datos de Cosecha                              | Como productor, deseo revisar los datos de cosecha para evaluar la calidad y el impacto en la producción.                                                                                                          | 5            |
+| 37    | US37          | Visualización del Título Principal                    | Como visitante de la Landing Page, deseo ver claramente el nombre y subtítulo de la plataforma en la parte superior de la página, para comprender la propuesta de valor de GrapeFlow.                              | 3            |
+| 38    | US38          | Descripción de GrapeFlow Service                      | Como visitante de la Landing Page, deseo leer una explicación detallada de cómo GrapeFlow optimiza la producción y distribución de vinos y piscos, para evaluar si la plataforma es adecuada para mis necesidades. | 5            |
+| 39    | US39          | Iconos Representativos de Funcionalidades Clave       | Como visitante de la Landing Page, deseo ver iconos que representen las funcionalidades clave del servicio, para obtener una visión rápida de lo que ofrece GrapeFlow.                                             | 3            |
+| 40    | US40          | Menú de Navegación Visible                            | Como visitante de la Landing Page, deseo acceder a un menú de navegación en la parte superior de la página, para explorar fácilmente otras secciones como "Log in", "Sign up", "Planes", y "Contacto".             | 5            |
+| 41    | US41          | Visualización de Planes Disponibles                   | Como visitante de la Landing Page, deseo ver los diferentes planes de servicio con sus precios y características, para elegir el que mejor se adapte a mis necesidades.                                            | 8            |
+| 42    | US42          | Selección de Plan desde la Landing Page               | Como visitante de la Landing Page, deseo poder seleccionar y confirmar un plan desde la misma página, para simplificar el proceso de suscripción o registro.                                                       | 8            |
+| 43    | US43          | Formulario de Contacto                                | Como visitante de la Landing Page, deseo acceder a un formulario de contacto donde pueda enviar mis consultas, para comunicarme fácilmente con el equipo de GrapeFlow.                                             | 5            |
+| 44    | US44          | Información de Contacto Visible                       | Como visitante de la Landing Page, deseo ver la información de contacto de GrapeFlow, como dirección, teléfono y correo electrónico, para comunicarme directamente si es necesario.                                | 3            |
+| 45    | US45          | Visualización de Redes Sociales y Enlaces Adicionales | Como visitante de la Landing Page, deseo ver los enlaces a las redes sociales y políticas de la empresa en el pie de página, para seguirlos y entender mejor sus términos.                                         | 3            |
 
 
 **Captura del Product Backlog:**
@@ -1455,6 +1455,125 @@ Nos derigimos al apartado de Pages. Definimos la rama desde donde vamos despegar
 | Sum of Story Points             | 10 Story Points.                                                                                                                                                                                                       |
 
 ### 5.2.1.2.	Sprint Backlog 1.
+
+
+El objetivo de este Sprint es completar la implementación de las funcionalidades clave en la Landing Page de GrapeFlow, incluyendo la visualización de información principal, descripciones detalladas del servicio, iconos representativos, menús de navegación, planes de servicio, y formularios de contacto. A continuación, se presenta el estado actual de las tareas asignadas.
+![](images/back_sprint.PNG)
+
+URL:
+https://www.pivotaltracker.com/n/projects/2716470
+
+<table border="1">
+  <tr>
+    <th>Sprint 1</th>
+    <th>Sprint 1</th>
+  </tr>
+  <tr>
+    <th>User Story</th>
+    <th>Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimación</th>
+    <th>Assigned to</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>US37</td>
+    <td>Visualización del Título Principal</td>
+    <td>1</td>
+    <td>Mostrar Título y Subtítulo en la Parte Superior</td>
+    <td>Como visitante de la Landing Page, deseo ver claramente el nombre y subtítulo de la plataforma en la parte superior de la página, para comprender la propuesta de valor de GrapeFlow.</td>
+    <td>3 h</td>
+    <td>Angelo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US38</td>
+    <td>Descripción de GrapeFlow Service</td>
+    <td>2</td>
+    <td>Mostrar Descripción Detallada del Servicio</td>
+    <td>Como visitante de la Landing Page, deseo leer una explicación detallada de cómo GrapeFlow optimiza la producción y distribución de vinos y piscos, para evaluar si la plataforma es adecuada para mis necesidades.</td>
+    <td>3 h</td>
+    <td>Angelo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US39</td>
+    <td>Iconos Representativos de Funcionalidades Clave</td>
+    <td>3</td>
+    <td>Mostrar Iconos de Funcionalidades Clave</td>
+    <td>Como visitante de la Landing Page, deseo ver iconos que representen las funcionalidades clave del servicio, para obtener una visión rápida de lo que ofrece GrapeFlow.</td>
+    <td>2 h</td>
+    <td>Diego</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US40</td>
+    <td>Menú de Navegación Visible</td>
+    <td>4</td>
+    <td>Proporcionar Menú de Navegación en la Parte Superior</td>
+    <td>Como visitante de la Landing Page, deseo acceder a un menú de navegación en la parte superior de la página, para explorar fácilmente otras secciones como "Log in", "Sign up", "Planes", y "Contacto".</td>
+    <td>1 h</td>
+    <td>Gustavo</td>
+    <td>Done</td>
+  </tr>
+<tr>
+    <td>US41</td>
+    <td>Visualización de Planes Disponibles</td>
+    <td>5</td>
+    <td>Mostrar Planes y Precios Disponibles</td>
+    <td>Como visitante de la Landing Page, deseo ver los diferentes planes de servicio con sus precios y características, para elegir el que mejor se adapte a mis necesidades.td>
+    <td>2 h</td>
+    <td>Diego</td>
+    <td>Done</td>
+  </tr>
+<tr>
+    <td>US42</td>
+    <td>Selección de Plan desde la Landing Page</td>
+    <td>6</td>
+    <td>Facilitar Selección de Plan desde la Página de Inicio</td>
+    <td>Como visitante de la Landing Page, deseo poder seleccionar y confirmar un plan desde la misma página, para simplificar el proceso de suscripción o registro.</td>
+    <td>2 h</td>
+    <td>Gustavo</td>
+    <td>Done</td>
+  </tr>
+<tr>
+    <td>US43</td>
+    <td>Formulario de Contacto</td>
+    <td>7</td>
+    <td>Acceso a Formulario de Contacto</td>
+    <td>Como visitante de la Landing Page, deseo acceder a un formulario de contacto donde pueda enviar mis consultas, para comunicarme fácilmente con el equipo de GrapeFlow.</td>
+    <td>2 h</td>
+    <td>Gustavo</td>
+    <td>Done</td>
+  </tr>
+<tr>
+    <td>US44</td>
+    <td>Información de Contacto Visible/td>
+    <td>8</td>
+    <td>Mostrar Información de Contacto de GrapeFlow</td>
+    <td>Como visitante de la Landing Page, deseo ver la información de contacto de GrapeFlow, como dirección, teléfono y correo electrónico, para comunicarme directamente si es necesario.</td>
+    <td>2 h</td>
+    <td>Gustavo</td>
+    <td>Done</td>
+  </tr>
+<tr>
+    <td>US45</td>
+    <td>Visualización de Redes Sociales y Enlaces Adicionales</td>
+    <td>9</td>
+    <td>Incluir Enlaces a Redes Sociales y Políticas</td>
+    <td>Como visitante de la Landing Page, deseo ver los enlaces a las redes sociales y políticas de la empresa en el pie de página, para seguirlos y entender mejor sus términos..td>
+    <td>2 h</td>
+    <td>Diego</td>
+    <td>Done</td>
+  </tr>
+</table>
+
 
 ### 5.2.1.3.	Development Evidence for Sprint Review.
 
