@@ -1163,7 +1163,29 @@ Los sistemas de navegación principales en GrapeFlow incluyen menús ubicados en
 
 ## [4.4. Web Applications UX/UI Design.](#web-applications-uxui-design)
 ### [4.4.1. Web Applications Wireframes.](#web-applications-wireframes)
+
+
+En esta sección se muestran los wireframes realizados para nuestro Web Application.
+
+Login de la aplicación
+<p align = "center"> <img src="images/Captura 1" width="700"></img> </p>
+Register de la aplicación
+<p align = "center"> <img src="images/Captura 2" width="700"></img> </p>
+Crear perfil de productor
+<p align = "center"> <img src="images/Captura 3" width="700"></img> </p>
+Crear perfil de distribuidor o consumidor
+<p align = "center"> <img src="images/Captura 4" width="700"></img> </p>
+Inventario del productor
+<p align = "center"> <img src="images/Captura 5" width="700"></img> </p>
+Reporte del productor
+<p align = "center"> <img src="images/Captura 6" width="700"></img> </p>
+Pedidos del productor
+<p align = "center"> <img src="images/Captura 7" width="700"></img> </p>
+
 ### [4.4.2. Web Applications Wireflow Diagrams.](#web-applications-wireflow-diagrams)
+Los Wireflows se utilizan principalmente en el diseño UX o por sus siglas, experiencia de usuario y especialmente para aplicaciones que involucran flujos de trabajo e interacciones complejas.
+<p align = "center"> <img src="images/GrapeFlow Wireframes" width="700"></img> </p>
+
 ### [4.4.3. Web Applications Mock-ups.](#web-applications-mock-ups)
 ### [4.4.4. Web Applications User Flow Diagrams.](#web-applications-user-flow-diagrams)
 
