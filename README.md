@@ -702,9 +702,9 @@ Asegurar que los precios para la instalación del sistema y las comisiones sean 
 ##### Segmento 1: Productores
 *Inicio de las entrevistas :* 00:00
 
-*Duración de las entrevistas :* 9:06
+*Duración de las entrevistas :* 10:46
 
-*Link de las entrevistas:* 
+*Link de las entrevistas:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EZgaRdxilTFItaOvcLJ9H04BQfd9yFvxIKFR280blGHy4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CuTCG8
 
 ### *Entrevista 01*
 
@@ -719,16 +719,16 @@ Asegurar que los precios para la instalación del sistema y las comisiones sean 
 *Segmento objetivo:* Productores
 
 
-![foto](../../assets/interview1a.PNG)
+![](images/entrevista1-productor.PNG)
 
 
-*Minuto de inicio de la entrevista:* 0:00
+*Minuto de inicio de la entrevista:* 2:48
 
-*Minuto de fin de la entrevista:* 00:00
+*Minuto de fin de la entrevista:* 6:47
 
-*Duración de la entrevista:* 00:00
+*Duración de la entrevista:* 03:59
 
-*Link de la entrevista:* 
+*Link de la entrevista:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EZgaRdxilTFItaOvcLJ9H04BQfd9yFvxIKFR280blGHy4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CuTCG8
 
 #### Resumen de la entrevista:
 Esau Huanca, dueño de una destilería artesanal en Arequipa, compartió que su principal desafío es mantener la calidad constante de sus productos mientras crece la demanda. Con más de 20 años en la industria, produce principalmente pisco y otros licores artesanales. Actualmente utiliza hojas de cálculo y un software básico de contabilidad para gestionar sus registros, pero reconoce que este proceso es lento y propenso a errores. Le gustaría implementar un sistema que automatice la recopilación de datos desde las etapas de producción y que le permita obtener informes detallados sobre la trazabilidad, la calidad de los lotes y las tendencias de ventas. Juan Carlos considera crucial que el sistema sea fácil de usar y que integre información de múltiples etapas del proceso de producción. Prefiere utilizar su ordenador de escritorio para trabajar, y accede a la web principalmente a través de Google Chrome. La entrevista duró 4 minutos y 33 segundos, y reveló su interés en digitalizar su gestión para mejorar la eficiencia y asegurar la calidad de sus productos.
@@ -754,16 +754,16 @@ Esau Huanca, dueño de una destilería artesanal en Arequipa, compartió que su 
 *Segmento objetivo:* Consumidores
 
 
-![foto](../../assets/interview1a.PNG)
+![](images/entrevista1-consumidor.PNG)
 
 
-*Minuto de inicio de la entrevista:* 0:00
+*Minuto de inicio de la entrevista:* 6:47
 
-*Minuto de fin de la entrevista:* 00:00
+*Minuto de fin de la entrevista:* 10:46
 
-*Duración de la entrevista:* 00:00
+*Duración de la entrevista:* 3:59
 
-*Link de la entrevista:*
+*Link de la entrevista:*https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EZgaRdxilTFItaOvcLJ9H04BQfd9yFvxIKFR280blGHy4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CNjd5h
 
 #### Resumen de la entrevista:
 María Fernández, residente de Lima, Perú, y profesional en marketing digital, comentó que al momento de elegir un licor, considera principalmente la calidad, la reputación de la marca, y el origen del producto. Prefiere realizar sus compras en línea, valorando la comodidad y la posibilidad de comparar precios y leer opiniones de otros consumidores. María usa frecuentemente Instagram y Facebook para seguir marcas y enterarse de nuevas tendencias. Ella destaca la importancia de la transparencia en la información de los productos, prefiriendo etiquetas que detallen los ingredientes y el proceso de producción. Para tomar decisiones de compra, María valora especialmente la información clara sobre el perfil de sabor y las sugerencias de maridaje, indicando que la transparencia influye directamente en su lealtad hacia la marca. La entrevista con María duró 4 minutos y 33 segundos.
@@ -1448,7 +1448,7 @@ Nos derigimos al apartado de Pages. Definimos la rama desde donde vamos despegar
 | Time                            | 10:00 PM                                                                                                                                                                                                               |
 | Location                        | Servidor de Discord del Equipo                                                                                                                                                                                         |
 | Prepared By                     | Gustavo Esau Huanca Navarro                                                                                                                                                                                            |
-| Attendees (to planning meeting) | Diego Huincho/ Angelo/ Gustavo Huanca /                                                                                                                                                                                |
+| Attendees (to planning meeting) | Diego Huincho/ Angelo/ Gustavo Huanca / Angelo Curi                                                                                                                                                                    |
 | Sprint n Review Summary         | En esta entrega no hay un Sprint anterior, por lo tanto, no hay resumen de Sprint                                                                                                                                      |
 | Sprint n Retrospective Summary  | En esta entrega no hay un Sprint anterior, por lo tanto, no hay resumen de Sprint                                                                                                                                      |
 | Sprint Goal & User Stories      |
