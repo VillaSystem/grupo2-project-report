@@ -934,6 +934,7 @@ Glosario:
 
 
 ## [3.3. Impact Mapping.](#impact-mapping)
+![](images/impact.png)
 ## [3.4. Product Backlog.](#product-backlog)
 ### Product Backlog
 
