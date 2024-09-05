@@ -857,6 +857,13 @@ Glosario:
 
 # [Capítulo III: Requirements Specification.](#capítulo-iii-requirements-specification)
 ## [3.1. To-Be Scenario Mapping.](#to-be-scenario-mapping)
+
+**Joaquín Perez**
+![RF](images/RF.jpg)
+
+**Laura García**
+![CR](images/CR.jpg)
+
 ## [3.2. User Stories.](#user-stories)
 | EPIC ID | Título                                                | Descripción                                                                                                                                                                                                                                       |
 |---------|-------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
