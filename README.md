@@ -817,7 +817,13 @@ Esau Huanca, dueño de una destilería artesanal en Arequipa, compartió que su 
 *Link de la entrevista:*https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EZgaRdxilTFItaOvcLJ9H04BQfd9yFvxIKFR280blGHy4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CNjd5h
 
 #### Resumen de la entrevista:
-María Fernández, residente de Lima, Perú, y profesional en marketing digital, comentó que al momento de elegir un licor, considera principalmente la calidad, la reputación de la marca, y el origen del producto. Prefiere realizar sus compras en línea, valorando la comodidad y la posibilidad de comparar precios y leer opiniones de otros consumidores. María usa frecuentemente Instagram y Facebook para seguir marcas y enterarse de nuevas tendencias. Ella destaca la importancia de la transparencia en la información de los productos, prefiriendo etiquetas que detallen los ingredientes y el proceso de producción. Para tomar decisiones de compra, María valora especialmente la información clara sobre el perfil de sabor y las sugerencias de maridaje, indicando que la transparencia influye directamente en su lealtad hacia la marca. La entrevista con María duró 4 minutos y 33 segundos.
+Rosales, de 22 años y residente de Jesús María, Lima, es estudiante de arquitectura sin experiencia profesional en la industria de licores. Al elegir una marca de licor, menciona que valora mucho el reconocimiento de la marca, las recomendaciones de amigos y la información disponible en internet. Aunque prefiere adquirir licores en tiendas físicas, utiliza con frecuencia Instagram y TikTok para informarse sobre productos y tendencias.
+
+Respecto a la información que considera útil al momento de elegir un licor, destaca las recomendaciones de personas cercanas y el reconocimiento de la marca. Además, prefiere recibir información sobre nuevos productos y ofertas a través de redes sociales, ya que no utiliza mucho el correo electrónico.
+
+En cuanto a las etiquetas de los productos, Rosales valora el diseño y que sean específicas sobre el tipo de licor y sus características. Antes de comprar un producto, le gustaría conocer detalles como el porcentaje de alcohol, el tipo de alcohol, los ingredientes, y el origen del producto. Finalmente, enfatiza que la transparencia en la información es un factor clave en su decisión de compra, ya que le genera confianza saber que el producto se corresponde con lo que se describe en la etiqueta.
+
+
 
 
 
