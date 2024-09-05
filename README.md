@@ -54,14 +54,14 @@
 
 
 # Registro de Versiones del Informe
-| Versión | Fecha      | Autor    | Descripción de modificación   |
-|---------|------------|----------|-------------------------------|
-| V0.1    | 21/08/2024 | Diego    | Creación del repositorio      |
-| V0.2    | 00/00/2024 | Fernando | Capitulo 1 y Capitulo 2       |
-| V0.2.1  | 00/00/2024 | Gustavo  | Capitulo 3                    |
-| V0.3    | 00/00/2024 |          | Capitulo 4                    |
-| V0.4    | 00/00/2024 | Gustavo  | Capitulo 5 y ultimos ajuste   |
-| V1.0    | 00/00/2024 |          | Revision final y entrega TB1. |
+| Versión | Fecha      | Autor           | Descripción de modificación   |
+|---------|------------|-----------------|-------------------------------|
+| V0.1    | 21/08/2024 | Diego           | Creación del repositorio      |
+| V0.2    | 00/00/2024 | Todos           | Capitulo 1 y Capitulo 2       |
+| V0.2.1  | 00/00/2024 | Gustavo Y Oscar | Capitulo 3                    |
+| V0.3    | 00/00/2024 | Diego y Angelo  | Capitulo 4                    |
+| V0.4    | 00/00/2024 | Gustavo         | Capitulo 5 y ultimos ajuste   |
+| V1.0    | 00/00/2024 | Gustavo         | Revision final y entrega TB1. |
 
 
 
