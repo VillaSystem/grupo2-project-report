@@ -409,7 +409,7 @@ Este segmento incluye a personas interesadas en explorar y comprar vinos, piscos
 
 - **Planes de Servicio:** Aunque los consumidores no requieren planes de servicio específicos, la plataforma debe ser intuitiva, atractiva y ofrecer un proceso de compra fluido para mantener su interés y fomentar la lealtad.
 
-### **2. consumidores de Licores:**
+### **2. Distribuidores de Licores:**
 
 Este segmento se enfoca en las empresas que gestionan la distribución de licores, asegurando que los productos lleguen a los puntos de venta o directamente a los consumidores finales. Los consumidores desempeñan un rol fundamental en la cadena de suministro y requieren herramientas que optimicen sus operaciones.
 
