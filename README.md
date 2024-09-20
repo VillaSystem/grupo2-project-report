@@ -766,6 +766,35 @@ Esau Huanca, dueño de una destilería artesanal en Arequipa, compartió que su 
 
 **Link de las entrevistas:**
 
+### *Entrevista 02*
+
+**Nombres:** Joaquín Enrique 
+
+**Apellidos:** Carranza Tesén
+
+**Edad:** 24  años
+
+**Distrito:**  Chorrillos
+
+*Segmento objetivo:* Productores
+
+
+![](images/entrevistaJoquin.PNG)
+
+
+*Minuto de inicio de la entrevista:* 00:05
+
+*Minuto de fin de la entrevista:* 5:30
+
+*Duración de la entrevista:* 5:33
+
+*Link de la entrevista:*https://1drv.ms/v/c/cab22ef84dc9095b/EQp2TBCX79VDga6Km9K3UAYBBW1aJqQYN0D_hkD2fA9U1g?e=u5XONF
+
+#### Resumen de la entrevista:
+El entrevistado, asistente en una bodega vitivinícola en Lunahuaná, explicó que su principal responsabilidad es la gestión del inventario. Actualmente, utiliza Excel para registrar los datos de su almacén, complementándolo con un cuaderno físico para notas que considera menos relevantes. Durante la entrevista, nos expresó su interés en una solución que le permita gestionar sus registros de manera más eficiente, con un control automatizado del inventario y mejor acceso a la información almacenada. Aunque su actual sistema manual le ha funcionado hasta ahora, reconoce que es propenso a errores y consume tiempo. Le gustaría implementar un programa que no solo facilite el almacenamiento de sus datos, sino que también le ofrezca reportes detallados y una visión más clara del estado de su inventario. La entrevista duró aproximadamente 5 minutos y reflejó su disposición a adoptar nuevas tecnologías para optimizar su trabajo.
+
+
+
 ### *Entrevista 01*
 
 **Nombres:** Maria
@@ -820,6 +849,33 @@ Rosales, de 22 años y residente de Jesús María, Lima, es estudiante de arquit
 Respecto a la información que considera útil al momento de elegir un licor, destaca las recomendaciones de personas cercanas y el reconocimiento de la marca. Además, prefiere recibir información sobre nuevos productos y ofertas a través de redes sociales, ya que no utiliza mucho el correo electrónico.
 
 En cuanto a las etiquetas de los productos, Rosales valora el diseño y que sean específicas sobre el tipo de licor y sus características. Antes de comprar un producto, le gustaría conocer detalles como el porcentaje de alcohol, el tipo de alcohol, los ingredientes, y el origen del producto. Finalmente, enfatiza que la transparencia en la información es un factor clave en su decisión de compra, ya que le genera confianza saber que el producto se corresponde con lo que se describe en la etiqueta.
+
+### *Entrevista 03*
+
+**Nombres:** Jazzy Adolfo 
+
+**Apellidos:** Benites Morales
+
+**Edad:** 26 años
+
+**Distrito:**  San Juan de Miraflores
+
+*Segmento objetivo:* Consumidores
+
+
+![](images/entrevistaJazzy.PNG)
+
+
+*Minuto de inicio de la entrevista:* 00:05
+
+*Minuto de fin de la entrevista:* 3:50
+
+*Duración de la entrevista:* 3:58
+
+*Link de la entrevista:*https://1drv.ms/v/c/cab22ef84dc9095b/EQp2TBCX79VDga6Km9K3UAYBBW1aJqQYN0D_hkD2fA9U1g?e=Mbbugo
+
+#### Resumen de la entrevista:
+En la entrevista, el entrevistado nos comentó que se desempeña como Consumidor de vinos y piscos. Su labor principal consiste en gestionar la distribución de estos productos a diferentes puntos de venta y clientes. Para ello, utiliza herramientas como programas para llevar un control de los pedidos y la distribución de su inventario. Sin embargo, mencionó que le gustaría contar con un sistema más automatizado que le permitiera gestionar de manera más eficiente sus productos, realizar un seguimiento de las entregas, y mejorar la planificación de sus rutas de distribución.
 
 
 
