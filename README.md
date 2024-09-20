@@ -176,6 +176,9 @@ Los integrantes del equipo son:
       - [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
       - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
       - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
+      - [**5.2.2. Sprint 2.**](#522-Sprint-2)
+      - 
+
 - [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 - [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
 - [8. **Anexos.**](#anexos)
@@ -1966,6 +1969,239 @@ Integrantes:
 Podemos visualizar todos los commits y probamos que todos participamos en la landing page:
 
 ![](images/commits-landing.PNG)
+
+
+
+## [5.2.2. Sprint 2](#522-Sprint-2)
+
+
+### [5.2.2.1. Sprint Planning 2](#5221-Sprint-Planning-2)
+El Sprint #2 tiene como fecha de inicio el 18/09/2024 y como meta plantea resolver errores de la landing page y realizar el front
+end y fake API de la web application de manera que sea atractiva y funcional.
+
+
+| Sprint #                        | Sprint 1                                                                                                                                                                                                               |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                                                                                                                                                        |
+| Date                            | 18/09/2024                                                                                                                                                                                                             |
+| Time                            | 10:00 PM                                                                                                                                                                                                               |
+| Location                        | Servidor de Discord del Equipo                                                                                                                                                                                         |
+| Prepared By                     | Gustavo Esau Huanca Navarro                                                                                                                                                                                            |
+| Attendees (to planning meeting) | Diego Huincho/ Angelo/ Gustavo Huanca / Angelo Curi                                                                                                                                                                                                                                                                                |
+| Sprint Goal & User Stories      |
+| Sprint 1 Goal                   | Resolver errores de la landing page y realizar el front end de la web application de manera que sea atractiva y funcional. |
+| Sprint 1 Velocity               | 47  Velocity                                                                                                                                                                                                            |
+| Sum of Story Points             | 47 Story Points.                                                                                                                                                                                  
+
+
+
+
+
+### [5.2.2.2.Sprint Backlog 2.](5222-Sprint-Backlog-2)
+
+
+<table border="1">
+  <tr>
+    <th>Sprint 1</th>
+    <th>Sprint 1</th>
+  </tr>
+  <tr>
+    <th>User Story</th>
+    <th>Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimación</th>
+    <th>Assigned to</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>US37</td>
+    <td>Visualización del Título Principal</td>
+    <td>1</td>
+    <td>Mostrar Título y Subtítulo en la Parte Superior</td>
+    <td>Como visitante de la Landing Page, deseo ver claramente el nombre y subtítulo de la plataforma en la parte superior de la página, para comprender la propuesta de valor de GrapeFlow.</td>
+    <td>3 h</td>
+    <td>Angelo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US38</td>
+    <td>Descripción de GrapeFlow Service</td>
+    <td>2</td>
+    <td>Mostrar Descripción Detallada del Servicio</td>
+    <td>Como visitante de la Landing Page, deseo leer una explicación detallada de cómo GrapeFlow optimiza la producción y distribución de vinos y piscos, para evaluar si la plataforma es adecuada para mis necesidades.</td>
+    <td>3 h</td>
+    <td>Angelo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US39</td>
+    <td>Iconos Representativos de Funcionalidades Clave</td>
+    <td>3</td>
+    <td>Mostrar Iconos de Funcionalidades Clave</td>
+    <td>Como visitante de la Landing Page, deseo ver iconos que representen las funcionalidades clave del servicio, para obtener una visión rápida de lo que ofrece GrapeFlow.</td>
+    <td>2 h</td>
+    <td>Diego</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US40</td>
+    <td>Menú de Navegación Visible</td>
+    <td>4</td>
+    <td>Proporcionar Menú de Navegación en la Parte Superior</td>
+    <td>Como visitante de la Landing Page, deseo acceder a un menú de navegación en la parte superior de la página, para explorar fácilmente otras secciones como "Log in", "Sign up", "Planes", y "Contacto".</td>
+    <td>1 h</td>
+    <td>Gustavo</td>
+    <td>Done</td>
+  </tr>
+<tr>
+    <td>US41</td>
+    <td>Visualización de Planes Disponibles</td>
+    <td>5</td>
+    <td>Mostrar Planes y Precios Disponibles</td>
+    <td>Como visitante de la Landing Page, deseo ver los diferentes planes de servicio con sus precios y características, para elegir el que mejor se adapte a mis necesidades.td>
+    <td>2 h</td>
+    <td>Diego</td>
+    <td>Done</td>
+  </tr>
+<tr>
+    <td>US42</td>
+    <td>Selección de Plan desde la Landing Page</td>
+    <td>6</td>
+    <td>Facilitar Selección de Plan desde la Página de Inicio</td>
+    <td>Como visitante de la Landing Page, deseo poder seleccionar y confirmar un plan desde la misma página, para simplificar el proceso de suscripción o registro.</td>
+    <td>2 h</td>
+    <td>Gustavo</td>
+    <td>Done</td>
+  </tr>
+<tr>
+    <td>US43</td>
+    <td>Formulario de Contacto</td>
+    <td>7</td>
+    <td>Acceso a Formulario de Contacto</td>
+    <td>Como visitante de la Landing Page, deseo acceder a un formulario de contacto donde pueda enviar mis consultas, para comunicarme fácilmente con el equipo de GrapeFlow.</td>
+    <td>2 h</td>
+    <td>Gustavo</td>
+    <td>Done</td>
+  </tr>
+<tr>
+    <td>US44</td>
+    <td>Información de Contacto Visible/td>
+    <td>8</td>
+    <td>Mostrar Información de Contacto de GrapeFlow</td>
+    <td>Como visitante de la Landing Page, deseo ver la información de contacto de GrapeFlow, como dirección, teléfono y correo electrónico, para comunicarme directamente si es necesario.</td>
+    <td>2 h</td>
+    <td>Gustavo</td>
+    <td>Done</td>
+  </tr>
+<tr>
+    <td>US45</td>
+    <td>Visualización de Redes Sociales y Enlaces Adicionales</td>
+    <td>9</td>
+    <td>Incluir Enlaces a Redes Sociales y Políticas</td>
+    <td>Como visitante de la Landing Page, deseo ver los enlaces a las redes sociales y políticas de la empresa en el pie de página, para seguirlos y entender mejor sus términos..td>
+    <td>2 h</td>
+    <td>Diego</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+
+### [5.2.2.3. Development Evidence for Sprint Review.](#5221-Sprint-Planning-2)
+
+
+| Repository                         | Branch | Commit Id | Commit Message                                        | Commit message body | Committed on   |
+|------------------------------------|--------|-----------|-------------------------------------------------------|---------------------|----------------|
+| VillaSystem/GrapeFlow-LandingPage  | master | 8226699   | Update index.html                                     | -                   | Sep 5, 2024    |
+| VillaSystem/GrapeFlow-LandingPage  | master | 27f7a38   | Add files via upload                                  | -                   | Sep 5, 2024    |
+| VillaSystem/GrapeFlow-LandingPage  | master | 36f19e6   | Update index.html                                     | -                   | Sep 5, 2024    |
+| VillaSystem/GrapeFlow-LandingPage  | master | ae9af5f   | feat(scroll-reveal): scroll reveal added.             | -                   | Sep 4, 2024    |
+| VillaSystem/GrapeFlow-LandingPage  | master | ae5a64e   | add images                                            | -                   | Aug 30, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | f740deb   | add photo Angelo                                      | -                   | Aug 29, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | 84cf263   | feat(integrates): Angelo photo added.                 | -                   | Aug 29, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | b2da8b9   | feat(docs): images added.                             | -                   | Aug 29, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | b2b8811   | feat(docs): structure changed.                        | -                   | Aug 29, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | 22484f8   | feat(landing-page): equipo code changed               | -                   | Aug 28, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | 4d73556   | feat(landing-page): landing page changed styles.      | -                   | Aug 28, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | 0c67d0d   | feat(landing-page): landing page changed styles.      | -                   | Aug 28, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | af6d968   | feat(docs): .idea eliminated                          | -                   | Aug 28, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | 4141e68   | Initial commit                                        | -                   | Aug 28, 2024   |
+
+
+
+### [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5221-Sprint-Planning-2)
+
+
+| Repository                         | Branch | Commit Id | Commit Message                                        | Commit message body | Committed on   |
+|------------------------------------|--------|-----------|-------------------------------------------------------|---------------------|----------------|
+| VillaSystem/GrapeFlow-LandingPage  | master | 8226699   | Update index.html                                     | -                   | Sep 5, 2024    |
+| VillaSystem/GrapeFlow-LandingPage  | master | 27f7a38   | Add files via upload                                  | -                   | Sep 5, 2024    |
+| VillaSystem/GrapeFlow-LandingPage  | master | 36f19e6   | Update index.html                                     | -                   | Sep 5, 2024    |
+| VillaSystem/GrapeFlow-LandingPage  | master | ae9af5f   | feat(scroll-reveal): scroll reveal added.             | -                   | Sep 4, 2024    |
+| VillaSystem/GrapeFlow-LandingPage  | master | ae5a64e   | add images                                            | -                   | Aug 30, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | f740deb   | add photo Angelo                                      | -                   | Aug 29, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | 84cf263   | feat(integrates): Angelo photo added.                 | -                   | Aug 29, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | b2da8b9   | feat(docs): images added.                             | -                   | Aug 29, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | b2b8811   | feat(docs): structure changed.                        | -                   | Aug 29, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | 22484f8   | feat(landing-page): equipo code changed               | -                   | Aug 28, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | 4d73556   | feat(landing-page): landing page changed styles.      | -                   | Aug 28, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | 0c67d0d   | feat(landing-page): landing page changed styles.      | -                   | Aug 28, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | af6d968   | feat(docs): .idea eliminated                          | -                   | Aug 28, 2024   |
+| VillaSystem/GrapeFlow-LandingPage  | master | 4141e68   | Initial commit                                        | -                   | Aug 28, 2024   |
+
+
+
+### [5.2.2.5. Execution Evidence for Sprint Review.](#5221-Sprint-Planning-2)
+
+En el sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra
+diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles
+como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual
+permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias
+
+### [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5221-Sprint-Planning-2)
+
+Para el sprint 2 únicamente se planificó que el sprint abarcaría únicamente la landing page y el front-end y para no vernos
+limitados a probar las funcionalidades al no contar con un back-end, se utilizó un fake-api. Inicialmente se trabajó con una json
+server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web
+Application desplegada. Enlace para acceder al My Json Server.
+
+
+| Endpoint            | Details                                                                                                                                              |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| /stock              | Se implementaron las operaciones CRUD desde `base.service.ts` de las cuales se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock |
+| /preparation_area   | Se implementaron las operaciones CRUD desde `base.service.ts` de las cuales se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase preparation area |
+| /bunker             | Se implementaron las operaciones CRUD desde `base.service.ts` de las cuales se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase bunker |
+| /tunnel             | Se implementaron las operaciones CRUD desde `base.service.ts` de las cuales se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase tunnel |
+| /grow_room_record?  | Se implementaron las operaciones CRUD desde `base.service.ts` de las cuales se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase grow room record |
+
+
+### [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5221-Sprint-Planning-2)
+
+Para la entrega del segundo sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories
+correspondientes al entregable. De la misma forma se desplego la web application parcialmente completa, pues presenta ciertos
+bugs que será solucionados en el siguiente sprint.
+Landing page:
+El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama
+"develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
+
+### [5.2.2.8. Team Collaboration Insights during Sprint.](#5221-Sprint-Planning-2)
+
+Creamos una organización en Github, donde tendremos todos nuestros repositorios de manera pública.
+
+Link de la organización: https://github.com/VillaSystem
+
+Integrantes:
+
+
+
+Podemos visualizar todos los commits y probamos que todos participamos en la landing page:
+
+
 
 
 
