@@ -1740,19 +1740,29 @@ No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Te
 
 ### [5.2.1.5.	Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
 
+Después de completar el Sprint 1, logramos implementar todas las secciones de nuestra Landing Page para garantizar una visualización perfecta. Además, le dimos un formato atractivo que captura la atención del usuario hacia sus diferentes componentes. También agregamos métodos de navegación en la página, como botones ubicados al principio, que te permiten moverte fácilmente de una sección a otra. A continuación, te mostraremos los avances a través de imágenes del resultado obtenido.
+
+Es importante destacar que el objetivo principal de la Landing Page es convertir a los visitantes en futuros clientes o usuarios habituales de nuestro servicio. Para lograrlo, utilizamos llamados a la acción (Call To Action) que los guían hacia la aplicación web.
+A continuación, te presentamos capturas de pantalla del desarrollo de la Landing Page:
+
+Encabezado y botones de desplazamiento:
+
 Las vistas implementadas son el navbar con las secciones Inicio, Servicio, Funcionalidades, Planes, Nosotros y Contacto. Esa barra de navegación es fija y mientras el usuario se desplace se mueve junto con la pantalla.
 ![](images/navbar.PNG)
 
-En esta sección pueden conocer más sobre los servicios y funcionalidades de la plataforma:
+Se presenta la sección de servicio que ofrecemos para nuestros segmentos objetivos. En esta sección, se describen los beneficios y características de GrapeFlow, lo que permite a los visitantes conocer más sobre el servicio.
 ![](images/service.PNG) 
 
-En esta seccion se muestra los planes que tenemos y los beneficios de cada uno:
+En la sección de precios, se detallan los planes y precios de GrapeFlow. Esta información es esencial para que los visitantes conozcan las opciones disponibles y puedan elegir la que mejor se adapte a sus necesidades.
 ![](images/planes.PNG)
 
-En esta seccion se muestra los integrantes del equipo:
+En esta seccion se muestra los integrantes del equipo, se presenta información sobre el equipo de desarrollo de GrapeFlow. Esto permite a los visitantes conocer a las personas detrás del servicio y generar confianza en la calidad y profesionalismo del equipo.
 ![](images/equipo.PNG)
-En esta seccion se muestra las maneras de contacto ademas como enlaces adicionales:
+En la sección de contacto, se presenta un formulario que permite a los visitantes enviar consultas, comentarios o solicitudes de información sobre GrapeFlow. Esto facilita la comunicación con los usuarios y permite responder a sus necesidades de manera eficiente.
 ![](images/contacto.PNG)
+En el pie de página (Footer), se incluyen enlaces a las redes sociales de GrapeFlow, información de contacto y un botón para más opciones de la página. Esto permite a los visitantes acceder a más información y mantenerse conectados con el servicio.
+![](images/footer.PNG)
+
 
 
 
