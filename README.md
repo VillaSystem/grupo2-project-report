@@ -729,7 +729,8 @@ Asegurar que los precios para la instalación del sistema y las comisiones sean 
 
 *Duración de las entrevistas :* 10:46
 
-*Link de las entrevistas:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EZgaRdxilTFItaOvcLJ9H04BQfd9yFvxIKFR280blGHy4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CuTCG8
+[Link de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EZgaRdxilTFItaOvcLJ9H04BQfd9yFvxIKFR280blGHy4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CuTCG8](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EZgaRdxilTFItaOvcLJ9H04BQfd9yFvxIKFR280blGHy4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CuTCG8)
+
 
 ### *Entrevista 01*
 
@@ -753,7 +754,7 @@ Asegurar que los precios para la instalación del sistema y las comisiones sean 
 
 *Duración de la entrevista:* 03:59
 
-*Link de la entrevista:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EZgaRdxilTFItaOvcLJ9H04BQfd9yFvxIKFR280blGHy4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CuTCG8
+[Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EZgaRdxilTFItaOvcLJ9H04BQfd9yFvxIKFR280blGHy4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CuTCG8](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EZgaRdxilTFItaOvcLJ9H04BQfd9yFvxIKFR280blGHy4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CuTCG8)
 
 #### Resumen de la entrevista:
 Esau Huanca, dueño de una destilería artesanal en Arequipa, compartió que su principal desafío es mantener la calidad constante de sus productos mientras crece la demanda. Con más de 20 años en la industria, produce principalmente pisco y otros licores artesanales. Actualmente utiliza hojas de cálculo y un software básico de contabilidad para gestionar sus registros, pero reconoce que este proceso es lento y propenso a errores. Le gustaría implementar un sistema que automatice la recopilación de datos desde las etapas de producción y que le permita obtener informes detallados sobre la trazabilidad, la calidad de los lotes y las tendencias de ventas. Juan Carlos considera crucial que el sistema sea fácil de usar y que integre información de múltiples etapas del proceso de producción. Prefiere utilizar su ordenador de escritorio para trabajar, y accede a la web principalmente a través de Google Chrome. La entrevista duró 4 minutos y 33 segundos, y reveló su interés en digitalizar su gestión para mejorar la eficiencia y asegurar la calidad de sus productos.
@@ -788,12 +789,14 @@ Esau Huanca, dueño de una destilería artesanal en Arequipa, compartió que su 
 
 *Duración de la entrevista:* 5:33
 
-*Link de la entrevista:*https://1drv.ms/v/c/cab22ef84dc9095b/EQp2TBCX79VDga6Km9K3UAYBBW1aJqQYN0D_hkD2fA9U1g?e=u5XONF
+[Link de la entrevista: https://1drv.ms/v/c/cab22ef84dc9095b/EQp2TBCX79VDga6Km9K3UAYBBW1aJqQYN0D_hkD2fA9U1g?e=u5XONF](https://1drv.ms/v/c/cab22ef84dc9095b/EQp2TBCX79VDga6Km9K3UAYBBW1aJqQYN0D_hkD2fA9U1g?e=u5XONF)
 
 #### Resumen de la entrevista:
 El entrevistado, asistente en una bodega vitivinícola en Lunahuaná, explicó que su principal responsabilidad es la gestión del inventario. Actualmente, utiliza Excel para registrar los datos de su almacén, complementándolo con un cuaderno físico para notas que considera menos relevantes. Durante la entrevista, nos expresó su interés en una solución que le permita gestionar sus registros de manera más eficiente, con un control automatizado del inventario y mejor acceso a la información almacenada. Aunque su actual sistema manual le ha funcionado hasta ahora, reconoce que es propenso a errores y consume tiempo. Le gustaría implementar un programa que no solo facilite el almacenamiento de sus datos, sino que también le ofrezca reportes detallados y una visión más clara del estado de su inventario. La entrevista duró aproximadamente 5 minutos y reflejó su disposición a adoptar nuevas tecnologías para optimizar su trabajo.
 
 
+
+##### Segmento 2: Consumidores
 
 ### *Entrevista 01*
 
@@ -817,7 +820,7 @@ El entrevistado, asistente en una bodega vitivinícola en Lunahuaná, explicó q
 
 **Duración de la entrevista:** 3:59
 
-*Link de la entrevista:*https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EZgaRdxilTFItaOvcLJ9H04BQfd9yFvxIKFR280blGHy4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CNjd5h
+[Link de la entrevista:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EZgaRdxilTFItaOvcLJ9H04BQfd9yFvxIKFR280blGHy4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CNjd5h](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EZgaRdxilTFItaOvcLJ9H04BQfd9yFvxIKFR280blGHy4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CNjd5h)
 
 ### *Entrevista 02*
 
@@ -841,7 +844,7 @@ El entrevistado, asistente en una bodega vitivinícola en Lunahuaná, explicó q
 
 *Duración de la entrevista:* 2:46
 
-*Link de la entrevista:*https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EZgaRdxilTFItaOvcLJ9H04BQfd9yFvxIKFR280blGHy4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CNjd5h
+[Link de la entrevista:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EZgaRdxilTFItaOvcLJ9H04BQfd9yFvxIKFR280blGHy4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CNjd5h](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215285_upc_edu_pe/EZgaRdxilTFItaOvcLJ9H04BQfd9yFvxIKFR280blGHy4Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=CNjd5h)
 
 #### Resumen de la entrevista:
 Rosales, de 22 años y residente de Jesús María, Lima, es estudiante de arquitectura sin experiencia profesional en la industria de licores. Al elegir una marca de licor, menciona que valora mucho el reconocimiento de la marca, las recomendaciones de amigos y la información disponible en internet. Aunque prefiere adquirir licores en tiendas físicas, utiliza con frecuencia Instagram y TikTok para informarse sobre productos y tendencias.
@@ -872,8 +875,7 @@ En cuanto a las etiquetas de los productos, Rosales valora el diseño y que sean
 
 *Duración de la entrevista:* 3:58
 
-*Link de la entrevista:*https://1drv.ms/v/c/cab22ef84dc9095b/EQp2TBCX79VDga6Km9K3UAYBBW1aJqQYN0D_hkD2fA9U1g?e=Mbbugo
-
+[Link de la entrevista:https://1drv.ms/v/c/cab22ef84dc9095b/EQp2TBCX79VDga6Km9K3UAYBBW1aJqQYN0D_hkD2fA9U1g?e=Mbbugo](https://1drv.ms/v/c/cab22ef84dc9095b/EQp2TBCX79VDga6Km9K3UAYBBW1aJqQYN0D_hkD2fA9U1g?e=Mbbugo)
 #### Resumen de la entrevista:
 En la entrevista, el entrevistado nos comentó que se desempeña como Consumidor de vinos y piscos. Su labor principal consiste en gestionar la distribución de estos productos a diferentes puntos de venta y clientes. Para ello, utiliza herramientas como programas para llevar un control de los pedidos y la distribución de su inventario. Sin embargo, mencionó que le gustaría contar con un sistema más automatizado que le permitiera gestionar de manera más eficiente sus productos, realizar un seguimiento de las entregas, y mejorar la planificación de sus rutas de distribución.
 
