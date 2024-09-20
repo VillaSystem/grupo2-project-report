@@ -779,7 +779,7 @@ Esau Huanca, dueño de una destilería artesanal en Arequipa, compartió que su 
 *Segmento objetivo:* Productores
 
 
-![](images/entrevistaJoquin.PNG)
+![](images/entrevistaJoquin.png)
 
 
 *Minuto de inicio de la entrevista:* 00:05
@@ -863,7 +863,7 @@ En cuanto a las etiquetas de los productos, Rosales valora el diseño y que sean
 *Segmento objetivo:* Consumidores
 
 
-![](images/entrevistaJazzy.PNG)
+![](images/entrevistaJazzy.png)
 
 
 *Minuto de inicio de la entrevista:* 00:05
