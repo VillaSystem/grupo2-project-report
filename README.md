@@ -1243,6 +1243,82 @@ Los Wireflows se utilizan principalmente en el diseño UX o por sus siglas, expe
 <p align = "center"> <img src="images/GrapeFlow Wireframes.png" width="700"></img> </p>
 
 ### [4.4.3. Web Applications Mock-ups.](#web-applications-mock-ups)
+
+
+En esta sección se muestran los mock-ups realizados para nuestro Web Application.
+
+**Login - GrapeFlow**
+
+En esta sección se muestra el diseño del login de la aplicación web, con opciones para iniciar sesión como consumidor o productor de vinos y piscos artesanales.
+
+<p align = "center"> <img src="images\Captura de pantalla 2024-09-20 042303.png"width="700"></img> </p>
+
+**Login -Distribuidor - GrapeFlow** 
+
+En el caso del login de consumidor, se muestra un formulario de inicio de sesión con los campos negocio al que se encuentra asociado y código de usuario.
+
+<p align = "center"> <img src="images\Captura de pantalla 2024-09-20 042326.png"width="700"></img> </p>
+
+**Historial Pedido - GrapeFlow** 
+
+En esta sección se muestra el historial de pedidos realizados por los consumidores asociados, con la opción de ver detalles de cada pedido, actualizar el estado del mismo y eliminar pedidos.
+
+<p align = "center"> <img src="images\Captura de pantalla 2024-09-20 042345.png"width="700"></img> </p>
+
+**Realizar pedidos - GrapeFlow**
+
+Aquí se muestra el formulario para realizar pedidos de productos, con la opción de seleccionar el producto, cantidad y fecha de entrega, forma de transporte, medio de pago, etc.
+
+<p align = "center"> <img src="images\Captura de pantalla 2024-09-20 042410.png"width="700"></img> </p>
+
+**Inicio de sesión- Productor GrapeFlow**
+
+En el caso del login de productor de vinos y piscos artesanales, se muestra un formulario de inicio de sesión con los campos email y contraseña.
+
+<p align = "center"> <img src="images\Captura de pantalla 2024-09-20 042432.png"width="700"></img> </p>
+
+**Registrar - Productor  - GrapeFlow**
+
+En esta sección se muestra un formulario para registrar nuevos productores de vinos y piscos artesanales, con campos para ingresar información personal, de contacto y de la empresa.
+
+<p align = "center"> <img src="images\Captura de pantalla 2024-09-20 042443.png"width="700"></img> </p>
+
+**Inventario - GrapeFlow**
+
+Aquí el productor puede visualizar el inventario de insumos disponibles para el proceso productivo, con la opción de agregar, editar o eliminar productos, así como ver detalles de cada producto.
+
+<p align = "center"> <img src="images\Captura de pantalla 2024-09-20 042457.png"width="700"></img> </p>
+
+**Mis Clientes - GrapeFlow**
+
+En esta sección se muestra una lista de clientes asociados al productor, con la opción de ver detalles de cada cliente, editar la información y eliminar clientes.
+
+<p align = "center"> <img src="images\Captura de pantalla 2024-09-20 042518.png"width="700"></img> </p>
+
+**Agregar - Editar - Clientes -  GrapeFlow**
+
+En esta sección se muestra un formulario para agregar o editar clientes, con campos para ingresar información personal, de contacto y de la empresa.
+
+<p align = "center"> <img src="images\Captura de pantalla 2024-09-20 042537.png"width="700"></img> </p>
+
+Detalle Clientes - GrapeFlow
+
+En este apartado se muestra los detalles de un cliente específico, con la opción de editar la información, ver historial de pedidos y eliminar el cliente.
+
+<p align = "center"> <img src="images\Captura de pantalla 2024-09-20 042548.png"width="700"></img> </p>
+
+Mis Pedidos - GrapeFlow
+En esta sección se muestra el historial de pedidos realizados por los distribuidores asociados, con la opción de ver detalles de cada pedido, actualizar el estado del mismo y eliminar pedidos.
+
+<p align = "center"> <img src="images\Captura de pantalla 2024-09-20 042619.png"width="700"></img> </p>
+
+Detalle del Pedido - GrapeFlow
+
+En esta sección se muestra los detalles de un pedido específico, con la opción de actualizar el estado del pedido, ver información del cliente y productos solicitados.
+
+<p align = "center"> <img src="images\Captura de pantalla 2024-09-20 042627.png"width="700"></img> </p>
+
+
 ### [4.4.4. Web Applications User Flow Diagrams.](#web-applications-user-flow-diagrams)
 
 ## [4.5. Web Applications Prototyping.](#web-applications-prototyping)
