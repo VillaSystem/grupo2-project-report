@@ -1461,7 +1461,7 @@ En esta sección se deberá mostrar los detalles de un pedido específico, con l
 
 ### [4.4.2. Web Applications Wireflow Diagrams.](#web-applications-wireflow-diagrams)
 Los Wireflows se utilizan principalmente en el diseño UX o por sus siglas, experiencia de usuario y especialmente para aplicaciones que involucran flujos de trabajo e interacciones complejas.
-<p align = "center"> <img src="images/GrapeFlow Wireframes.png" width="700"></img> </p>
+<p align = "center"> <img src="images/GrapeFlow open.png" width="700"></img> </p>
 
 ### [4.4.3. Web Applications Mock-ups.](#web-applications-mock-ups)
 
