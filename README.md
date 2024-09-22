@@ -1376,7 +1376,83 @@ En esta sección se deberá mostrar los detalles de un pedido específico, con l
 
 <p align = "center"> <img src="images\capturaappwenwiframe (2).png"width="700"></img> </p>
 
-<!-- falta wireframe version mobile-->
+### Wireframe Version Mobile
+
+En esta sección se muestran los wireframe realizados para nuestro Web Application version Mobile.
+
+
+**Login - GrapeFlow**
+
+En este apartado se deberá mostrar opciones de inicio de sesión, las dos formas de inicio de sesión son como consumidor y como productor.
+
+<p align = "center"> <img src="images\mobile_weframes (11).png"width="700"></img> </p>
+
+**Login - Consumidor - GrapeFlow** 
+
+En el caso del login de consumidor, se deberá mostrar un formulario de inicio de sesión con los campos negocio al que se encuentra asociado y código de usuario.
+
+<p align = "center"> <img src="images\mobile_weframes (7).png"width="700"></img> </p>
+
+**Inicio de sesión - Productor GrapeFlow**
+
+En el caso del login de productor de vinos y piscos artesanales, se deberá mostrar un formulario de inicio de sesión con los campos email y contraseña.
+
+<p align = "center"> <img src="images\mobile_weframes (4).png"width="700"></img> </p>
+
+**Registrar - Productor  - GrapeFlow**
+
+En esta sección se deberá mostrar un formulario para registrar nuevos productores de vinos y piscos artesanales, con campos para ingresar información personal, de contacto y de la empresa.
+
+<p align = "center"> <img src="images\mobile_weframes (10).png"width="700"></img> </p>
+
+**Menu - GrapeFlow**
+
+En esta sección se deberá mostrar una barra a al derecha que emerge para poder ver las opciones que se presenta.
+
+<p align = "center"> <img src="images\mobile_weframes (9).png"width="700"></img> </p>
+
+**Historial Pedido - GrapeFlow**
+
+Este apartado deberá mostrar el historial de pedidos realizados por los consumidores asociados, con la opción de ver detalles de cada pedido, actualizar el estado del mismo y eliminar pedidos.
+
+<p align = "center"> <img src="images\mobile_weframes (2).png"width="700"></img> </p>
+
+**Realizar pedidos - GrapeFlow**
+
+En esta sección se deberá mostrar un formulario para realizar pedidos de productos, con la opción de seleccionar el producto, cantidad y fecha de entrega, forma de transporte, medio de pago, etc.
+
+<p align = "center"> <img src="images\mobile_weframes (9).png"width="700"></img> </p>
+
+
+**Inventario - GrapeFlow**
+
+En este apartado el productor podrá visualizar el inventario de productos disponibles, con la opción de agregar, editar o eliminar productos, así como ver detalles de cada producto.
+
+<p align = "center"> <img src="images\mobile_weframes (1).png"width="700"></img> </p>
+
+**Mis Clientes - GrapeFlow**
+
+En esta sección se deberá mostrar una lista de clientes asociados al productor, con la opción de ver detalles de cada cliente, editar la información y eliminar clientes.
+
+<p align = "center"> <img src="images\mobile_weframes (1).png"width="700"></img> </p>
+
+**Agregar - Editar - Clientes - GrapeFlow**
+
+En esta sección se deberá mostrar un formulario para agregar o editar clientes, con campos para ingresar información personal, de contacto y de la empresa.
+
+<p align = "center"> <img src="images\mobile_weframes (9).png"width="700"></img> </p>
+
+**Detalle Clientes - GrapeFlow**
+
+En este apartado se deberá mostrar los detalles de un cliente específico, con la opción de editar la información, ver historial de pedidos y eliminar el cliente.
+
+<p align = "center"> <img src="images\mobile_weframes (9).png"width="700"></img> </p>
+
+**Detalle del Pedido - GrapeFlow**
+
+En esta sección se deberá mostrar los detalles de un pedido específico, con la opción de actualizar el estado del pedido, ver información del cliente y productos solicitados.
+
+<p align = "center"> <img src="images\mobile_weframes (9).png"width="700"></img> </p>
 
 
 
