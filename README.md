@@ -1211,16 +1211,95 @@ Los sistemas de navegación principales en GrapeFlow incluyen menús ubicados en
 
 ## [4.3. Landing Page UI Design](#landing-page-ui-design)
 ### [4.3.1. Landing Page Wireframe.](#landing-page-wireframe)
+
+#### Landing page wireframe for desktop:
+
+**En esta primera seccion presentamos el titulo, las opciones de inicio de sesion y el servicios que ofrecemos**
 ![wireframe1](images/landingPageWireframePart1.png)
+
+
+**En esta segunda seccion se muestra el listado de servicios.**
 ![wireframe2](images/landingPageWireframePart2.png)
+
+
+**Se muestra los planes disponibles y los integrantes del equipo**
 ![wireframe3](images/landingPageWireframePart3.png)
+
+
+**En esta seccion se muestra el formulario de contacto**
 ![wireframe4](images/landingPageWireframePart4.png)
 
+
+#### Landing page wireframe for mobil:
+
+
+**En esta primera seccion presentamos el titulo, las opciones de inicio de sesion y el servicios que ofrecemos**
+![](images/mobil1.PNG)
+
+
+**En esta segunda seccion se muestra el listado de servicios.**
+![](images/mobil2.PNG)
+
+**Se muestra los planes disponibles**
+
+![](images/movil3.PNG)
+
+
+**En esta seccion se muestra el listado de servicios.**
+
+![](images/movil4.PNG)
+
+
+**En esta seccion se muestra el formulario de contacto**
+
+![](images/movil5.PNG)
+
 ### [4.3.2. Landing Page Mock-up.](#landing-page-mock-up)
+
+#### Landing Page Mock-up for Desktop
+
+**En esta primera seccion presentamos el titulo, las opciones de inicio de sesion y el servicios que ofrecemos**
+
 ![mockup1](images/landingpart1.png)
+
+**En esta segunda seccion se muestra el listado de servicios.**
+
 ![mockup2](images/landingpart2.png)
+
+**Se muestra los planes disponibles y los integrantes del equipo**
+
 ![mockup3](images/landingpart3.png)
+
+**En esta seccion se muestra el formulario de contacto**
+
 ![mockup4](images/landingpart4.png)
+
+#### Landing Page Mock-up for Mobil
+
+
+**En esta primera seccion presentamos el titulo, las opciones de inicio de sesion y el servicios que ofrecemos**
+
+![](images/lmobil.PNG)
+
+**En esta segunda seccion se muestra el listado de servicios.**
+
+![](images/lmobil2.PNG)
+
+
+**Se muestra los planes disponibles**
+
+![](images/lmobil3.PNG)
+
+
+**En esta seccion semuestra los integrantes del equipo**
+
+![](images/lmobil4.PNG)
+
+
+**En esta seccion se muestra el formulario de contacto**
+
+![](images/lmobil5.PNG)
+
 
 ## [4.4. Web Applications UX/UI Design.](#web-applications-uxui-design)
 ### [4.4.1. Web Applications Wireframes.](#web-applications-wireframes)
