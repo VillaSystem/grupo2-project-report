@@ -1539,6 +1539,30 @@ En esta sección se muestra los detalles de un pedido específico, con la opció
 
 <p align = "center"> <img src="images\Captura de pantalla 2024-09-20 042627.png"width="700"></img> </p>
 
+### Mock-ups Version Mobile
+En esta sección se muestran los mock-ups realizados para nuestro Web Application version Mobile.
+
+<p align = "center"> <img src="images\mobile_mock-ups (4).png"width="700"></img> </p>
+
+<p align = "center"> <img src="images\mobile_mock-ups (5).png"width="700"></img> </p>
+
+<p align = "center"> <img src="images\mobile_mock-ups (11).png"width="700"></img> </p>
+
+<p align = "center"> <img src="images\mobile_mock-ups (10).png"width="700"></img> </p>
+
+<p align = "center"> <img src="images\mobile_mock-ups (9).png"width="700"></img> </p>
+
+<p align = "center"> <img src="images\mobile_mock-ups (7).png"width="700"></img> </p>
+
+<p align = "center"> <img src="images\mobile_mock-ups (6).png"width="700"></img> </p>
+
+<p align = "center"> <img src="images\mobile_mock-ups (12).png"width="700"></img> </p>
+
+<p align = "center"> <img src="images\mobile_mock-ups (8).png"width="700"></img> </p>
+
+<p align = "center"> <img src="images\mobile_mock-ups (3).png"width="700"></img> </p>
+
+<p align = "center"> <img src="images\mobile_mock-ups (2).png"width="700"></img> </p>
 
 ### [4.4.4. Web Applications User Flow Diagrams.](#web-applications-user-flow-diagrams)
 
