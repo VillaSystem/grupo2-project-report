@@ -1218,18 +1218,22 @@ Los sistemas de navegación principales en GrapeFlow incluyen menús ubicados en
 #### Landing page wireframe for desktop:
 
 **En esta primera seccion presentamos el titulo, las opciones de inicio de sesion y el servicios que ofrecemos**
+
 ![wireframe1](images/landingPageWireframePart1.png)
 
 
 **En esta segunda seccion se muestra el listado de servicios.**
+
 ![wireframe2](images/landingPageWireframePart2.png)
 
 
 **Se muestra los planes disponibles y los integrantes del equipo**
+
 ![wireframe3](images/landingPageWireframePart3.png)
 
 
 **En esta seccion se muestra el formulario de contacto**
+
 ![wireframe4](images/landingPageWireframePart4.png)
 
 
