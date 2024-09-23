@@ -1241,11 +1241,15 @@ Los sistemas de navegación principales en GrapeFlow incluyen menús ubicados en
 
 
 **En esta primera seccion presentamos el titulo, las opciones de inicio de sesion y el servicios que ofrecemos**
+
+
 ![](images/mobil1.PNG)
 
 
 **En esta segunda seccion se muestra el listado de servicios.**
+
 ![](images/mobil2.PNG)
+
 
 **Se muestra los planes disponibles**
 
@@ -1260,6 +1264,8 @@ Los sistemas de navegación principales en GrapeFlow incluyen menús ubicados en
 **En esta seccion se muestra el formulario de contacto**
 
 ![](images/movil5.PNG)
+
+
 
 ### [4.3.2. Landing Page Mock-up.](#landing-page-mock-up)
 
