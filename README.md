@@ -762,6 +762,33 @@ Asegurar que los precios para la instalación del sistema y las comisiones sean 
 #### Resumen de la entrevista:
 Esau Huanca, dueño de una destilería artesanal en Arequipa, compartió que su principal desafío es mantener la calidad constante de sus productos mientras crece la demanda. Con más de 20 años en la industria, produce principalmente pisco y otros licores artesanales. Actualmente utiliza hojas de cálculo y un software básico de contabilidad para gestionar sus registros, pero reconoce que este proceso es lento y propenso a errores. Le gustaría implementar un sistema que automatice la recopilación de datos desde las etapas de producción y que le permita obtener informes detallados sobre la trazabilidad, la calidad de los lotes y las tendencias de ventas. Juan Carlos considera crucial que el sistema sea fácil de usar y que integre información de múltiples etapas del proceso de producción. Prefiere utilizar su ordenador de escritorio para trabajar, y accede a la web principalmente a través de Google Chrome. La entrevista duró 4 minutos y 33 segundos, y reveló su interés en digitalizar su gestión para mejorar la eficiencia y asegurar la calidad de sus productos.
 
+### *Entrevista 02*
+
+*Nombres:* Santos 
+
+*Apellidos:* Aquino Lopez
+
+*Edad:* 32
+
+*Distrito:* Lunahuaná
+
+*Segmento objetivo:* Productores
+
+
+![](images/santos.png)
+
+
+*Minuto de inicio de la entrevista:* 0:01
+
+*Minuto de fin de la entrevista:* 4:51
+
+*Duración de la entrevista:* 4:51
+
+[Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201622757_upc_edu_pe/Ef5ukSmGd8dEp-tjRD-Z7PEBBKpyX0CNvqCPRQ0KcYireg?e=TZ8T9z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201622757_upc_edu_pe/Ef5ukSmGd8dEp-tjRD-Z7PEBBKpyX0CNvqCPRQ0KcYireg?e=TZ8T9z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+#### Resumen de la entrevista:
+En la entrevista, Santos Aquino, un almacenero y acatador de vinos de 32 años residente en Lunahuaná, Cañete, comparte su experiencia en la industria de vinos y licores. Él trabaja en una empresa de producción de vino y derivados con el objetivo de ser el mejor viñedo y exportador de la región. Utiliza tecnología como un sistema de control de stock, Excel y bases de datos para gestionar el inventario, asegurando precisión en la cantidad, calidad y ubicación de los productos. Santos destaca la importancia de un sistema eficiente que le permita visualizar la información de inventario en tiempo real, solicitando funciones avanzadas como reportes detallados de ventas y productos más vendidos. Aunque la empresa utiliza dispositivos como laptops, celulares y tablets, enfrenta limitaciones en la obtención de datos, lo que hace que se dependa de ordenadores para imprimir documentos para su comparación. En cuanto a mejoras, Santos sugiere que sería útil un software que muestre gráficos y comparativas de ventas con la competencia para analizar el rendimiento en el mercado. También menciona la importancia de asegurar la calidad de los vinos mediante pruebas constantes durante el proceso de fermentación y el uso de una base de datos en la nube que facilita el acceso a la información desde cualquier dispositivo.
+
 #### Segmento 2: Comsumidores
 
 **Inicio de las entrevistas :** 00:00
