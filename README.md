@@ -1579,6 +1579,60 @@ En esta sección se muestran los mock-ups realizados para nuestro Web Applicatio
 
 ### [4.4.4. Web Applications User Flow Diagrams.](#web-applications-user-flow-diagrams)
 
+
+US20: Visualizar Información Detallada del Vino
+
+![](images/flow1.PNG)
+
+
+
+
+US19: Buscar Productos
+![](images/flow2.PNG)
+
+
+
+
+
+
+US18: Consultar Historial de Pedidos
+
+
+![](images/flow3.PNG)
+
+
+
+US16: Crear Cuenta de Consumidor
+
+
+![](images/flow4.PNG)
+
+
+
+US07: Registrar Inventario de Productos
+
+![](images/flow5.PNG)
+
+
+
+US03: Eliminar Producto
+
+![](images/flow6.PNG)
+
+
+
+US01: Registrar Datos del Lote
+
+![](images/flow7.PNG)
+
+
+
+US23: Crear Cuenta de productor
+
+![](images/flow8.PNG)
+
+
+
 ## [4.5. Web Applications Prototyping.](#web-applications-prototyping)
 
 Para el desarrollo del prototipado y diseño en general se utilizo figma, ademas para el prototipado se cuido que la aplicacion cumple una serie de criterios para que la experiencia del usuario pueda ser la mas optima.
