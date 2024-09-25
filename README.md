@@ -2592,6 +2592,10 @@ Landing page:
 El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama
 "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
 
+https://grapeflowweb.netlify.app
+
+https://villasystem.github.io/GrapeFlow-LandingPage/
+
 ### [5.2.2.8. Team Collaboration Insights during Sprint.](#5221-Sprint-Planning-2)
 
 Creamos una organización en Github, donde tendremos todos nuestros repositorios de manera pública.
