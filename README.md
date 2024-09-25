@@ -2557,15 +2557,26 @@ Creamos una organización en Github, donde tendremos todos nuestros repositorios
 
 Link de la organización: https://github.com/VillaSystem
 
-Integrantes:
+| **Alumno**                            | **Actividad**                                                                                           |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Armas Sánchez, Oscar Javier           | Reestructuración de la landing page. Elaborar componente header y componente popups de la web application para datos de la tabla. |
+| Curi Marcelo, Angelo Marcio           | Elaborar componente stepper, componente primary-button, routing entre pages.                             |
+| Huanca Navarro, Gustavo Esau          | Elaboración del json-server, componente profile. Despliegue de la aplicación. Conectar landing page con aplicación. |
+| Huincho Lapa, Diego Arturo            | Elaborar componente table, db.json, conectar componente dialog con botones. Elaboración del json-server. |
+| Salhuana Lopez, Fernando Jose         | Elaborar componente dialog para confirmar operación.                                                     |
 
 
-
-Podemos visualizar todos los commits y probamos que todos participamos en la landing page:
-
-
+#### Repositorio Landing
+![](images/github1.PNG)
 
 
+![](images/github2.PNG)
+
+
+#### Repositorio Web Application
+
+
+![](images/github3.PNG)
 
 # Concluciones
 
