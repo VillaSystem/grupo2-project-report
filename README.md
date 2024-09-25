@@ -2531,6 +2531,33 @@ permite al usuario navegar por ciertas funcionalidades. A continuación se muest
   
 ![](images/US44.png)
 
+- **US45**
+![](images/facebook.png)
+![](images/terminos.png)
+![](images/politica.png)
+
+- **US53**
+
+![](images/US53.png)
+- **US51**
+  
+![](images/US51.png)
+- **US50**
+  
+![](images/US50.png)
+- **US52**
+  
+![](images/US52.png)
+- **US01**
+  
+![](images/US01.png)
+- **US07**
+  
+![](images/US07.png)
+
+- **US22**
+![](images/US22.png)
+
 
 
 ### [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5221-Sprint-Planning-2)
