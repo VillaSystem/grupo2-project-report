@@ -1976,208 +1976,231 @@ Podemos visualizar todos los commits y probamos que todos participamos en la lan
 
 
 ### [5.2.2.1. Sprint Planning 2](#5221-Sprint-Planning-2)
-El Sprint #2 tiene como fecha de inicio el 18/09/2024 y como meta plantea resolver errores de la landing page y realizar el front
-end y fake API de la web application de manera que sea atractiva y funcional.
+El Sprint #2 tiene como fecha de inicio el 15/09/2024 y como meta plantea resolver errores de la landing page y realizar el front
+end y fake API de la web application de manera que sea atractiva y funcional
 
 
-| Sprint #                        | Sprint 1                                                                                                                                                                                                               |
-|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprint Planning Background      |                                                                                                                                                                                                                        |
-| Date                            | 18/09/2024                                                                                                                                                                                                             |
-| Time                            | 10:00 PM                                                                                                                                                                                                               |
-| Location                        | Servidor de Discord del Equipo                                                                                                                                                                                         |
-| Prepared By                     | Gustavo Esau Huanca Navarro                                                                                                                                                                                            |
-| Attendees (to planning meeting) | Diego Huincho/ Angelo/ Gustavo Huanca / Angelo Curi                                                                                                                                                                                                                                                                                |
-| Sprint Goal & User Stories      |
+| Sprint #                        | Sprint 1                                                                                                                   |
+|---------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background      |                                                                                                                            |
+| Date                            | 18/09/2024                                                                                                                 |
+| Time                            | 10:00 PM                                                                                                                   |
+| Location                        | Servidor de Discord del Equipo                                                                                             |
+| Prepared By                     | Gustavo Esau Huanca Navarro                                                                                                |
+| Attendees (to planning meeting) | Diego Huincho/ Angelo/ Gustavo Huanca / Angelo Curi                                                                        |
+| Sprint Goal & User Stories      |                                                                                                                            |
 | Sprint 1 Goal                   | Resolver errores de la landing page y realizar el front end de la web application de manera que sea atractiva y funcional. |
-| Sprint 1 Velocity               | 47  Velocity                                                                                                                                                                                                            |
-| Sum of Story Points             | 47 Story Points.                                                                                                                                                                                  
-
-
-
-
+| Sprint 1 Velocity               | 52  Velocity                                                                                                               |
+| Sum of Story Points             | 52 Story Points.                                                                                                           |
 
 ### [5.2.2.2.Sprint Backlog 2.](5222-Sprint-Backlog-2)
 
+En el segundo sprint backlog, el equipo completó la landing page y el MVP del frontend de la aplicación web. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Pivotal Tracker. Esta herramienta permitió dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros según sus habilidades. El objetivo principal del sprint era corregir los errores de la landing page y construir en su totalidad la aplicación web con su respectiva API simulada, logrando que fuera atractiva y funcional.
 
-<table border="1">
-  <tr>
-    <th>Sprint 1</th>
-    <th>Sprint 1</th>
-  </tr>
-  <tr>
-    <th>User Story</th>
-    <th>Work-Item/Task</th>
-  </tr>
-  <tr>
-    <th>Id</th>
-    <th>Title</th>
-    <th>Id</th>
-    <th>Title</th>
-    <th>Description</th>
-    <th>Estimación</th>
-    <th>Assigned to</th>
-    <th>Status</th>
-  </tr>
-  <tr>
-    <td>US37</td>
-    <td>Visualización del Título Principal</td>
-    <td>1</td>
-    <td>Mostrar Título y Subtítulo en la Parte Superior</td>
-    <td>Como visitante de la Landing Page, deseo ver claramente el nombre y subtítulo de la plataforma en la parte superior de la página, para comprender la propuesta de valor de GrapeFlow.</td>
-    <td>3 h</td>
-    <td>Angelo</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>US38</td>
-    <td>Descripción de GrapeFlow Service</td>
-    <td>2</td>
-    <td>Mostrar Descripción Detallada del Servicio</td>
-    <td>Como visitante de la Landing Page, deseo leer una explicación detallada de cómo GrapeFlow optimiza la producción y distribución de vinos y piscos, para evaluar si la plataforma es adecuada para mis necesidades.</td>
-    <td>3 h</td>
-    <td>Angelo</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>US39</td>
-    <td>Iconos Representativos de Funcionalidades Clave</td>
-    <td>3</td>
-    <td>Mostrar Iconos de Funcionalidades Clave</td>
-    <td>Como visitante de la Landing Page, deseo ver iconos que representen las funcionalidades clave del servicio, para obtener una visión rápida de lo que ofrece GrapeFlow.</td>
-    <td>2 h</td>
-    <td>Diego</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>US40</td>
-    <td>Menú de Navegación Visible</td>
-    <td>4</td>
-    <td>Proporcionar Menú de Navegación en la Parte Superior</td>
-    <td>Como visitante de la Landing Page, deseo acceder a un menú de navegación en la parte superior de la página, para explorar fácilmente otras secciones como "Log in", "Sign up", "Planes", y "Contacto".</td>
-    <td>1 h</td>
-    <td>Gustavo</td>
-    <td>Done</td>
-  </tr>
-<tr>
-    <td>US41</td>
-    <td>Visualización de Planes Disponibles</td>
-    <td>5</td>
-    <td>Mostrar Planes y Precios Disponibles</td>
-    <td>Como visitante de la Landing Page, deseo ver los diferentes planes de servicio con sus precios y características, para elegir el que mejor se adapte a mis necesidades.td>
-    <td>2 h</td>
-    <td>Diego</td>
-    <td>Done</td>
-  </tr>
-<tr>
-    <td>US42</td>
-    <td>Selección de Plan desde la Landing Page</td>
-    <td>6</td>
-    <td>Facilitar Selección de Plan desde la Página de Inicio</td>
-    <td>Como visitante de la Landing Page, deseo poder seleccionar y confirmar un plan desde la misma página, para simplificar el proceso de suscripción o registro.</td>
-    <td>2 h</td>
-    <td>Gustavo</td>
-    <td>Done</td>
-  </tr>
-<tr>
-    <td>US43</td>
-    <td>Formulario de Contacto</td>
-    <td>7</td>
-    <td>Acceso a Formulario de Contacto</td>
-    <td>Como visitante de la Landing Page, deseo acceder a un formulario de contacto donde pueda enviar mis consultas, para comunicarme fácilmente con el equipo de GrapeFlow.</td>
-    <td>2 h</td>
-    <td>Gustavo</td>
-    <td>Done</td>
-  </tr>
-<tr>
-    <td>US44</td>
-    <td>Información de Contacto Visible/td>
-    <td>8</td>
-    <td>Mostrar Información de Contacto de GrapeFlow</td>
-    <td>Como visitante de la Landing Page, deseo ver la información de contacto de GrapeFlow, como dirección, teléfono y correo electrónico, para comunicarme directamente si es necesario.</td>
-    <td>2 h</td>
-    <td>Gustavo</td>
-    <td>Done</td>
-  </tr>
-<tr>
-    <td>US45</td>
-    <td>Visualización de Redes Sociales y Enlaces Adicionales</td>
-    <td>9</td>
-    <td>Incluir Enlaces a Redes Sociales y Políticas</td>
-    <td>Como visitante de la Landing Page, deseo ver los enlaces a las redes sociales y políticas de la empresa en el pie de página, para seguirlos y entender mejor sus términos..td>
-    <td>2 h</td>
-    <td>Diego</td>
-    <td>Done</td>
-  </tr>
-</table>
+![](images/pivotal.PNG)
+
+
+Link del Pivotal: https://www.pivotaltracker.com/n/projects/2721206
+
+| Sprint 1   | Sprint 2                                              |                |                                                       |                                                                                                                                                                                                |                |                |                |
+|------------|-------------------------------------------------------|----------------|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------|----------------|
+| User Story | User Story                                            | Work-Item/Task | Work-Item/Task                                        | Work-Item/Task                                                                                                                                                                                 | Work-Item/Task | Work-Item/Task | Work-Item/Task |
+| Id         | Title                                                 | Id             | Title                                                 | Description                                                                                                                                                                                    | Estimación     | Assigned to    | Status         |
+| US39       | Iconos Representativos de Funcionalidades Clave       | 1              | Mostrar Iconos de Funcionalidades Clave               | Como visitante de la Landing Page, deseo ver iconos que representen las funcionalidades clave del servicio, para obtener una visión rápida de lo que ofrece GrapeFlow.                         | 2 h            | Diego          | Done           |
+| US45       | Visualización de Redes Sociales y Enlaces Adicionales | 2              | Incluir Enlaces a Redes Sociales y Políticas          | Como visitante de la Landing Page, deseo ver los enlaces a las redes sociales y políticas de la empresa en el pie de página, para seguirlos y entender mejor sus términos.                     | 2 h            | Diego          | Done           |
+| US42       | Selección de Plan desde la Landing Page               | 3              | Facilitar Selección de Plan desde la Página de Inicio | Como visitante de la Landing Page, deseo poder seleccionar y confirmar un plan desde la misma página, para simplificar el proceso de suscripción o registro.                                   | 2 h            | Gustavo        | Done           |
+| US04       | Visualizar Información del Producto                   | 4              | Mostrar Detalles del Producto                         | Como consumidor, quiero visualizar la información detallada de un producto para tomar decisiones informadas.                                                                                   | 3 h            | Diego          | Done           |
+| US53       | Ver Detalle de Cliente                                | 5              | Mostrar Detalle de Información de Clientes            | Como usuario, quiero ver los detalles completos de un cliente para tener toda la información relevante.                                                                                        | 3 h            | Angelo         | Done           |
+| US51       | Editar Cliente                                        | 6              | Permitir Modificación de Datos de Clientes            | Como usuario, quiero poder editar la información de un cliente para mantener los datos actualizados.                                                                                           | 4 h            | Diego          | Done           |
+| US52       | Agregar Cliente                                       | 7              | Agregar Nuevos Clientes                               | Como usuario, quiero poder agregar nuevos clientes al sistema para expandir la base de datos de clientes.                                                                                      | 2 h            | Angelo         | Done           |
+| US50       | Eliminar Cliente                                      | 8              | Eliminar Registro de Cliente                          | Como usuario, quiero poder eliminar un cliente del sistema cuando sea necesario.                                                                                                               | 1 h            | Gustavo        | Done           |
+| US01       | Registrar Datos del Lote                              | 9              | Permitir Registro de Lotes de Producción              | Como productor, quiero registrar los datos esenciales de mi lote para un seguimiento detallado.                                                                                                | 3 h            | Gustavo        | Done           |
+| US10       | Monitorear Parámetros de Producción                   | 10             | Implementar Sistema de Monitoreo                      | Como productor, quiero monitorear parámetros críticos para asegurar la calidad del producto.                                                                                                   | 5 h            | Angelo         | Done           |
+| US07       | Registrar Inventario de Productos                     | 11             | Crear Formulario de Registro de Inventario            | Como productor, quiero registrar el inventario de mis productos para un control eficiente.                                                                                                     | 4 h            | Diego          | Done           |
+| US22       | Ver Detalle del Pedido                                | 12             | Diseñar Página de Detalle de Pedido                   | Como consumidor, quiero ver el detalle de mi pedido para asegurarme de que toda la información es correcta antes de confirmar la compra.                                                       | 3 h            | Gustavo        | Done           |
+| US05       | Buscar Producto por Filtros                           | 13             | Implementar Sistema de Filtros                        | Como consumidor, quiero buscar productos utilizando filtros para encontrar opciones específicas.                                                                                               | 4 h            | Angelo         | Done           |
+| US19       | Buscar Productos                                      | 14             | Crear Barra de Búsqueda                               | Como consumidor, quiero buscar productos en la plataforma para encontrar rápidamente los vinos que me interesan.                                                                               | 2 h            | Diego          | Done           |
+| US04       | Visualizar Información del Producto                   | 15             | Diseñar Página de Producto                            | Como consumidor, quiero visualizar la información detallada de un producto para tomar decisiones informadas.                                                                                   | 3 h            | Gustavo        | Done           |
+| US54       | Consultar Pedidos                                     | 16             | Crear Lista de Pedidos                                | Como usuario, quiero poder consultar todos los pedidos realizados para tener un seguimiento de las ventas.                                                                                     | 3 h            | Angelo         | Done           |
+| US01       | Registrar Datos del Lote                              | 17             | Implementar Formulario de Registro de Lote            | Como productor, quiero registrar los datos esenciales de mi lote para un seguimiento detallado.                                                                                                | 4 h            | Diego          | Done           |
+| US03       | Eliminar Producto                                     | 18             | Agregar Función de Eliminación de Producto            | Como productor, quiero eliminar un producto para gestionar el inventario correctamente.                                                                                                        | 2 h            | Gustavo        | Done           |
+| US09       | Consultar Inventario                                  | 19             | Crear Página de Consulta de Inventario                | Como productor, quiero consultar el inventario de mis productos para tomar decisiones de producción.                                                                                           | 3 h            | Angelo         | Done           |
+| US18       | Consultar Historial de Pedidos                        | 20             | Implementar Historial de Pedidos                      | Como consumidor, quiero consultar mi historial de pedidos para revisar mis compras pasadas.                                                                                                    | 3 h            | Diego          | Done           |
+| US20       | Visualizar Información Detallada del Vino             | 21             | Diseñar Página de Detalle de Vino                     | Como consumidor, quiero ver la información detallada de cada vino para tomar decisiones informadas sobre mis compras.                                                                          | 4 h            | Gustavo        | Done           |
+| US39       | Iconos Representativos de Funcionalidades Clave       | 22             | Diseñar e Implementar Iconos                          | Como visitante de la Landing Page, quiero ver iconos que representen las funcionalidades clave del servicio, para tener una visión rápida de lo que ofrece GrapeFlow.                          | 3 h            | Angelo         | Done           |
+| US45       | Visualización de Redes Sociales y Enlaces Adicionales | 23             | Agregar Enlaces de Redes Sociales                     | Como visitante de la Landing Page, quiero ver los enlaces a las redes sociales y políticas de la empresa en el pie de página, para seguirlos en sus plataformas y entender mejor sus términos. | 2 h            | Diego          | Done           |
+| US42       | Selección de Plan desde la Landing Page               | 24             | Implementar Selección de Plan                         | Como visitante de la Landing Page, quiero poder seleccionar y confirmar un plan desde la misma página, para simplificar el proceso de suscripción o registro.                                  | 4 h            | Gustavo        | Done           |
+| US23       | Crear Cuenta de productor                             | 25             | Desarrollar Formulario de Registro de Productor       | Como productor, quiero crear una cuenta para poder tener acceso a las funcionalidades de la plataforma.                                                                                        | 3 h            | Angelo         | Done           |
+
 
 
 ### [5.2.2.3. Development Evidence for Sprint Review.](#5221-Sprint-Planning-2)
 
 
-| Repository                         | Branch | Commit Id | Commit Message                                        | Commit message body | Committed on   |
-|------------------------------------|--------|-----------|-------------------------------------------------------|---------------------|----------------|
-| VillaSystem/GrapeFlow-LandingPage  | master | 8226699   | Update index.html                                     | -                   | Sep 5, 2024    |
-| VillaSystem/GrapeFlow-LandingPage  | master | 27f7a38   | Add files via upload                                  | -                   | Sep 5, 2024    |
-| VillaSystem/GrapeFlow-LandingPage  | master | 36f19e6   | Update index.html                                     | -                   | Sep 5, 2024    |
-| VillaSystem/GrapeFlow-LandingPage  | master | ae9af5f   | feat(scroll-reveal): scroll reveal added.             | -                   | Sep 4, 2024    |
-| VillaSystem/GrapeFlow-LandingPage  | master | ae5a64e   | add images                                            | -                   | Aug 30, 2024   |
-| VillaSystem/GrapeFlow-LandingPage  | master | f740deb   | add photo Angelo                                      | -                   | Aug 29, 2024   |
-| VillaSystem/GrapeFlow-LandingPage  | master | 84cf263   | feat(integrates): Angelo photo added.                 | -                   | Aug 29, 2024   |
-| VillaSystem/GrapeFlow-LandingPage  | master | b2da8b9   | feat(docs): images added.                             | -                   | Aug 29, 2024   |
-| VillaSystem/GrapeFlow-LandingPage  | master | b2b8811   | feat(docs): structure changed.                        | -                   | Aug 29, 2024   |
-| VillaSystem/GrapeFlow-LandingPage  | master | 22484f8   | feat(landing-page): equipo code changed               | -                   | Aug 28, 2024   |
-| VillaSystem/GrapeFlow-LandingPage  | master | 4d73556   | feat(landing-page): landing page changed styles.      | -                   | Aug 28, 2024   |
-| VillaSystem/GrapeFlow-LandingPage  | master | 0c67d0d   | feat(landing-page): landing page changed styles.      | -                   | Aug 28, 2024   |
-| VillaSystem/GrapeFlow-LandingPage  | master | af6d968   | feat(docs): .idea eliminated                          | -                   | Aug 28, 2024   |
-| VillaSystem/GrapeFlow-LandingPage  | master | 4141e68   | Initial commit                                        | -                   | Aug 28, 2024   |
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla los commits realizados a lo largo de este
+segundo sprint. Como se establecio trabajar los arreglos finales de la landing page y el frontend de la web application, se
+muestran commits de diferentes repositorios donde se trabajo.
+
+| Repository                        | Branch  | Commit Id | Commit Message                                              | Commit message body                                                                                                                                                                    | Committed on |
+|-----------------------------------|---------|-----------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| VillaSystem/GrapeFlow-LandingPage | master  | 2625f87   | feat: added social network and terms of service             | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/GrapeFlow-LandingPage | master  | 9e23a3e   | feat: added images services                                 | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/GrapeFlow-LandingPage | master  | 9685793   | feat: added images services                                 | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/GrapeFlow-LandingPage | master  | fecdde0   | feat(services): services images added.                      | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/GrapeFlow-LandingPage | master  | 69e23fb   | Update index.html                                           | -                                                                                                                                                                                      | 2024-09-19   |----------------------------|---------|-----------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| VillaSystem/FontEnd-VillaSystem   | develop | 1fbf933   | app consumer-order css                                      | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | abb8814   | app-sidenav-consumer-order                                  | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 394f068   | Merge branch 'fernando' into develop                        | # Conflicts:\\n#       server/db.json                                                                                                                                                  | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | e7c227c   | app-sidenav-consumer-order                                  | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 8968511   | app-sidenav-consumer-order                                  | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 8d914cd   | app-sidenav-consumer-order                                  | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | cd542c5   | feat(footer): language switched.                            | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 99f62ec   | feat(footer): footer component added.                       | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 0670c8e   | feat(language): language changed.                           | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | c755e14   | feat(inventory): inventory css changed.                     | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 0df098c   | feat(inventory): inventory component fixed                  | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 4b83285   | Merge remote-tracking branch 'origin/angel' into develop    | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | d308166   | feat: added styles                                          | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 2a3acea   | feat(inventory): inventory component added.                 | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | c106410   | Merge remote-tracking branch 'origin/fernando' into develop | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 70f08ec   | feat(orders) orders details added ss                        | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | d7b50c6   | Merge remote-tracking branch 'origin/angel' into develop    | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 393ffd0   | feat: update fix details.client, added images user          | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 8e36752   | feat(orders) orders details added                           | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 686502f   | feat(orders) orders details added                           | -                                                                                                                                                                                      | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 015a1e4   | Merge remote-tracking branch 'origin/develop' into fernando | # Conflicts:\\n#       src/app/app.component.ts                                                                                                                                        | 2024-09-24   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 2e25181   | feat(json): routes.json added.                              | -                                                                                                                                                                                      | 2024-09-23   |
+| VillaSystem/FontEnd-VillaSystem   | develop | a354833   | feat(sidenav): consumer sidenav added.                      | -                                                                                                                                                                                      | 2024-09-23   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 33c71c0   | feat(wine): wine api added.                                 | -                                                                                                                                                                                      | 2024-09-23   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 3a41510   | feat(lote): lote add fixed.                                 | -                                                                                                                                                                                      | 2024-09-23   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 4d0577d   | feat: added orders component, order entity, order service   | -                                                                                                                                                                                      | 2024-09-23   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 22edb14   | feat: add inventory-edit component                          | -                                                                                                                                                                                      | 2024-09-23   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 4fd4e28   | feat(inventory): inventory fixed.                           | -                                                                                                                                                                                      | 2024-09-23   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 787ea32   | feat(inventory): inventory component added.                 | -                                                                                                                                                                                      | 2024-09-23   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 2be5311   | Merge remote-tracking branch 'origin/develop' into gustavo  | -                                                                                                                                                                                      | 2024-09-23   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 556ce3c   | feat(inventory): inventory component added.                 | -                                                                                                                                                                                      | 2024-09-23   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 1d2548c   | feat(inventory): inventory component added.                 | -                                                                                                                                                                                      | 2024-09-23   |
+| VillaSystem/FontEnd-VillaSystem   | develop | b015a9a   | feat(inventory): inventory component added.                 | -                                                                                                                                                                                      | 2024-09-23   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 38b42e0   | update: change status, add lote                             | -                                                                                                                                                                                      | 2024-09-23   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 272eba6   | feat: added lote-add component                              | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 93449af   | feat(inventory): inventory component added.                 | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 3f36727   | Merge remote-tracking branch 'origin/gustavo' into develop  | # Conflicts:\\n#       src/app/app.routes.ts                                                                                                                                           | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | f4ec207   | update: recent version                                      | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | a7f6c7f   | update: recent version                                      | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 4c39aaf   | feat: added styles                                          | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | deec884   | feat: added add-client                                      | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 573b7a8   | feat: added edit-clients                                    | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | e691de3   | feat: details clients component added                       | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 5780139   | feat(lote): lote route added.                               | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 19627cd   | feat(lote): lote route added.                               | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 1095be7   | feat(lote): lote api added.                                 | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 7d5b1fd   | feat(lote): lote component configured.                      | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 7bddc48   | feat(lote): lote service configured.                        | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | d1a216a   | feat(lote): route lote added.                               | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | d457aef   | feat(lote): entity added.                                   | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 93b718a   | feat(lote): lote details component added.                   | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 946d30f   | feat(lote): lote component added.                           | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | ada2946   | feat(lote): lote entity added.                              | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 8f54c35   | feat(lote): lote service added.                             | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | a2035d1   | feat(json): lote added.                                     | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 0674db2   | add into db.json order                                      | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 9bc4c69   | add into db.json order                                      | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 0d53faf   | add into db.json order                                      | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 11eba41   | Merge remote-tracking branch 'origin/develop' into fernando | -                                                                                                                                                                                      | 2024-09-22   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 6c31604   | feat: edit client component added                           | -                                                                                                                                                                                      | 2024-09-21   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 4b48b46   | feat(inventory): inventory component added.                 | -                                                                                                                                                                                      | 2024-09-21   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 15ca5d3   | feat(inventory): inventory entity added.                    | -                                                                                                                                                                                      | 2024-09-21   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 87f89cf   | feat(inventory): inventory service added.                   | -                                                                                                                                                                                      | 2024-09-21   |
+| VillaSystem/FontEnd-VillaSystem   | develop | f6fc80e   | feat(sidenav): inventory button added.                      | -                                                                                                                                                                                      | 2024-09-21   |
+| VillaSystem/FontEnd-VillaSystem   | develop | fcaaac4   | feat(inventory): inventory route added.                     | -                                                                                                                                                                                      | 2024-09-21   |
+| VillaSystem/FontEnd-VillaSystem   | develop | c9e3121   | feat(db): inventory items added.                            | -                                                                                                                                                                                      | 2024-09-21   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 021b6b3   | feat(db): inventory items added.                            | -                                                                                                                                                                                      | 2024-09-21   |
+| VillaSystem/FontEnd-VillaSystem   | develop | a7b5786   | Merge remote-tracking branch 'origin/gustavo' into develop  | # Conflicts:\\n#       src/app/GrapeFlow/producer/components/clients/clients.component.spec.ts\\n#       src/app/app.routes.ts\\n#       src/app/public/sidenav/sidenav.component.html | 2024-09-21   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 9f9163c   | feat(db): delete client added.                              | -                                                                                                                                                                                      | 2024-09-21   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 098782a   | feat(db): inventory items added.                            | -                                                                                                                                                                                      | 2024-09-21   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 935b376   | feat(app): http client added.                               | -                                                                                                                                                                                      | 2024-09-20   |
+| VillaSystem/FontEnd-VillaSystem   | develop | bf6127d   | feat(app): http client added.                               | -                                                                                                                                                                                      | 2024-09-20   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 9a98940   | feat(base): base service added.                             | -                                                                                                                                                                                      | 2024-09-20   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 13ace2c   | feat(clients): clients component added.                     | -                                                                                                                                                                                      | 2024-09-20   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 062ee1b   | feat(json): db.json added.                                  | -                                                                                                                                                                                      | 2024-09-20   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 871efe8   | feat(environment): environment.ts adde                      | -                                                                                                                                                                                      | 2024-09-20   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 64b36a8   | feat(json): package.json added.                             | -                                                                                                                                                                                      | 2024-09-20   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 64df00c   | feat(client): client service added.                         | -                                                                                                                                                                                      | 2024-09-20   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 238e960   | feat(client): client entity added.                          | -                                                                                                                                                                                      | 2024-09-20   |
+| VillaSystem/FontEnd-VillaSystem   | develop | cbdff87   | feat(base-form): base form component added.                 | -                                                                                                                                                                                      | 2024-09-20   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 0861ccb   | feat(json): db json added.                                  | -                                                                                                                                                                                      | 2024-09-20   |
+| VillaSystem/FontEnd-VillaSystem   | develop | d7518d7   | feat(producer):  clients added.                             | -                                                                                                                                                                                      | 2024-09-19   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 9533fd8   | feat(order): order details producer added.                  | -                                                                                                                                                                                      | 2024-09-19   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 196a98e   | feat(order): order details producer added.                  | -                                                                                                                                                                                      | 2024-09-19   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 67592cb   | feat(order): order details producer added.                  | -                                                                                                                                                                                      | 2024-09-19   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 9ec3844   | feat(order): order details producer added.                  | -                                                                                                                                                                                      | 2024-09-19   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 7727d42   | feat(clients): clients component added.                     | -                                                                                                                                                                                      | 2024-09-19   |
+| VillaSystem/FontEnd-VillaSystem   | develop | f7b8825   | inventory deleted                                           | -                                                                                                                                                                                      | 2024-09-19   |
+| VillaSystem/FontEnd-VillaSystem   | develop | 7c96636   | feat(client): clients component added.                      | -                                                                                                                                                                                      | 2024-09-19   |
+| VillaSystem/FontEnd-VillaSystem   | develop | e7c459f   | feat(inventory): tutor inventory added.                     | -                                                                                                                                                                                      | 2024-09-19   |
+| VillaSystem/FontEnd-VillaSystem   | develop | ba2e002   | initial_commit                                              | -                                                                                                                                                                                      | 2024-09-19   |
 
 
 
 ### [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5221-Sprint-Planning-2)
 
 
-| Repository                         | Branch | Commit Id | Commit Message                                        | Commit message body | Committed on   |
-|------------------------------------|--------|-----------|-------------------------------------------------------|---------------------|----------------|
-| VillaSystem/GrapeFlow-LandingPage  | master | 8226699   | Update index.html                                     | -                   | Sep 5, 2024    |
-| VillaSystem/GrapeFlow-LandingPage  | master | 27f7a38   | Add files via upload                                  | -                   | Sep 5, 2024    |
-| VillaSystem/GrapeFlow-LandingPage  | master | 36f19e6   | Update index.html                                     | -                   | Sep 5, 2024    |
-| VillaSystem/GrapeFlow-LandingPage  | master | ae9af5f   | feat(scroll-reveal): scroll reveal added.             | -                   | Sep 4, 2024    |
-| VillaSystem/GrapeFlow-LandingPage  | master | ae5a64e   | add images                                            | -                   | Aug 30, 2024   |
-| VillaSystem/GrapeFlow-LandingPage  | master | f740deb   | add photo Angelo                                      | -                   | Aug 29, 2024   |
-| VillaSystem/GrapeFlow-LandingPage  | master | 84cf263   | feat(integrates): Angelo photo added.                 | -                   | Aug 29, 2024   |
-| VillaSystem/GrapeFlow-LandingPage  | master | b2da8b9   | feat(docs): images added.                             | -                   | Aug 29, 2024   |
-| VillaSystem/GrapeFlow-LandingPage  | master | b2b8811   | feat(docs): structure changed.                        | -                   | Aug 29, 2024   |
-| VillaSystem/GrapeFlow-LandingPage  | master | 22484f8   | feat(landing-page): equipo code changed               | -                   | Aug 28, 2024   |
-| VillaSystem/GrapeFlow-LandingPage  | master | 4d73556   | feat(landing-page): landing page changed styles.      | -                   | Aug 28, 2024   |
-| VillaSystem/GrapeFlow-LandingPage  | master | 0c67d0d   | feat(landing-page): landing page changed styles.      | -                   | Aug 28, 2024   |
-| VillaSystem/GrapeFlow-LandingPage  | master | af6d968   | feat(docs): .idea eliminated                          | -                   | Aug 28, 2024   |
-| VillaSystem/GrapeFlow-LandingPage  | master | 4141e68   | Initial commit                                        | -                   | Aug 28, 2024   |
+En esta sección se explica y presenta el conjunto de Unit Tests, Integration Tests y Acceptance Tests automatizados, para Web Services relacionados con los User Stories especificados en el Sprint. En el caso de los tests de BDD, se elaboran los archivos `.feature` utilizando el lenguaje Gherkin y los archivos Steps en el lenguaje de programación correspondiente.
+
+A continuación, se incluye la relación de tests diseñados:
+
+- **Unit Tests**: Se especifican las clases y comportamientos con los que se relacionan.
+- **Integration Tests** y **Acceptance Tests** (enfoque BDD): Se muestra el código de los archivos `.feature` y su relación con las User Stories correspondientes.
+
+Además, se incluye la ruta del repositorio de control de versiones para los proyectos de Testing, junto con los ID de commits relacionados con los avances en Testing para este Sprint.
+
+
+| Repository                         | Branch    | Commit Id | Commit Message         | Commit Message Body                                   | Committed on (Date) |
+|------------------------------------|-----------|-----------|------------------------|-------------------------------------------------------|---------------------|
+| `VillaSystem/FontEnd-VillaSystem ` | `develop` | abc123    | Add unit tests         | Implemented unit tests for service A                  | 2024-09-25          |
+| `VillaSystem/FontEnd-VillaSystem ` | `develop` | def456    | Add BDD feature file   | Added .feature file for US001 and implemented steps   | 2024-09-25          |
+| `VillaSystem/FontEnd-VillaSystem ` | `develop` | ghi789    | Integration test setup | Initial setup for integration tests for Web Service B | 2024-09-24          |
 
 
 
 ### [5.2.2.5. Execution Evidence for Sprint Review.](#5221-Sprint-Planning-2)
 
 En el sprint 2 se alcanzo un desarrollo completo en la implementación del despliegue del landing page. La cual muestra
-diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up, tanto en ingles
-como en español, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual
-permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias
+diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up
+, asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual
+permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
+
+
+
+
+
+
+
+
+
+
 
 ### [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5221-Sprint-Planning-2)
 
 Para el sprint 2 únicamente se planificó que el sprint abarcaría únicamente la landing page y el front-end y para no vernos
 limitados a probar las funcionalidades al no contar con un back-end, se utilizó un fake-api. Inicialmente se trabajó con una json
 server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web
-Application desplegada. Enlace para acceder al My Json Server.
+Application desplegada. Enlace para acceder al [My Json Server:https:  //my-json-server.typicode.com/Villasystem/Grapeflow ](https://my-json-server.typicode.com/Villasystem/Grapeflow).
 
 
-| Endpoint            | Details                                                                                                                                              |
-|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| /stock              | Se implementaron las operaciones CRUD desde `base.service.ts` de las cuales se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock |
-| /preparation_area   | Se implementaron las operaciones CRUD desde `base.service.ts` de las cuales se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase preparation area |
-| /bunker             | Se implementaron las operaciones CRUD desde `base.service.ts` de las cuales se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase bunker |
-| /tunnel             | Se implementaron las operaciones CRUD desde `base.service.ts` de las cuales se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase tunnel |
-| /grow_room_record?  | Se implementaron las operaciones CRUD desde `base.service.ts` de las cuales se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase grow room record |
+| Endpoint   | Details                                                                                                                                                                                                        |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| /clients   | Se implementaron las operaciones CRUD desde `base.service.ts` de las cuales se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase stock            |
+| /inventory | Se implementaron las operaciones CRUD desde `base.service.ts` de las cuales se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase preparation area |
+| /lotes     | Se implementaron las operaciones CRUD desde `base.service.ts` de las cuales se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase bunker           |
+| /orders    | Se implementaron las operaciones CRUD desde `base.service.ts` de las cuales se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase tunnel           |
+| /vinos     | Se implementaron las operaciones CRUD desde `base.service.ts` de las cuales se logró el funcionamiento del create de manera local y el getAll desde Json Placeholder para la tabla de la fase grow room record |
+
+
+| Repository               | Branch | Commit Id | Commit Message             | Commit Message Body | Committed on (Date) |
+|--------------------------|--------|-----------|----------------------------|---------------------|---------------------|
+| `VillaSystem/GrapeFlow ` | `main` | 9651b18   | feat(json): db.json added. |                     | 2024-09-25          |
+| `VillaSystem/GrapeFlow ` | `main` | 6f40a9f   | add new clients            |                     | 2024-09-25          |    
 
 
 ### [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5221-Sprint-Planning-2)
