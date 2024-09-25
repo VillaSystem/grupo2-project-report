@@ -2509,13 +2509,20 @@ diferentes secciones donde el usuario puede encontrar información relevante ace
 , asi como su version responsive. Por otro lado, se realizo un desarrollo parcial de la aplciación web, la cual
 permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
 
-
-
-
-
-
-
-
+- **US37**
+![](images/US37.PNG)
+- **US38**
+![](images/US38.PNG)
+- **US39**
+![](images/US39.PNG)
+- **US40**
+![](images/US40.PNG)
+- **US41**
+![](images/US41.PNG)
+- **US43**
+![](images/US43.PNG)
+- **US44**
+![](images/US44.PNG)
 
 
 
