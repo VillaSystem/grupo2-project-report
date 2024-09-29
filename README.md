@@ -512,18 +512,18 @@ En la entrevista, el entrevistado nos comentó que se desempeña como Consumidor
 
 El enfoque de la matriz de tareas del usuario es examinar las tareas que ambos segmentos llevan a cabo antes de recibir el producto, para identificar si alguna de estas tareas podría ser asistida por nuestro producto.
 
-| **Task**                                                                                  | **Productor**          | **consumidor**       |
-|-------------------------------------------------------------------------------------------|------------------------|------------------------|
-|                                                                                           | Frecuencia/Importancia | Frecuencia/Importancia |
-| Registrar entradas y salidas de inventario                                                | Media / Alta           | Alta / Alta            |
-| Monitorear niveles de inventario                                                          | Alta / Alta            | Alta / Alta            |
-| Generar informes de inventario                                                            | Media / Media          | Alta / Alta            |
-| Generación de reportes de seguimiento                                                     | -                      | Alta / Alta            |
-| Realizar ajustes de inventario                                                            | Media / Media          | Alta / Alta            |
-| Prever y planificar reabastecimientos                                                     | -                      | Alta / Alta            |
-| Actualizar y mantener la base de datos de productos                                       | -                      | Alta / Alta            |
-| Preguntar al productor/consumidor cuando sería la mejor fecha para negociar el producto | Media / Alta           | Media / Alta           |
-| Integración con sistemas de seguimiento de proveedores                                    | Media / Media          | Media / Media          |
+| **Task**                                            | **Productor**          | **consumidor**         |
+|-----------------------------------------------------|------------------------|------------------------|
+|                                                     | Frecuencia/Importancia | Frecuencia/Importancia |
+| Registrar entradas y salidas de inventario          | N/A                    | Alta / Alta            |
+| Monitorear niveles de inventario                    | N/A                    | Alta / Alta            |
+| Generar informes de inventario                      | N/A                    | Alta / Alta            |
+| Generación de reportes de seguimiento               | N/A                    | Alta / Alta            |
+| Realizar ajustes de inventario                      | N/A                    | Alta / Alta            |
+| Prever y planificar reabastecimientos               | N/A                    | Alta / Alta            |
+| Actualizar y mantener la base de datos de productos | N/A                    | Alta / Alta            |
+| Consultar detalles del Vino                         | Alta/Alta              | N/A                    |
+| Consultar inventario disponible                     | Alta/Alta              | Media / Media          |
 
 ### [2.3.3 User Journey Mapping](#user-journey-mapping)
 
