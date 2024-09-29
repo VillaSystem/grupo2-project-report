@@ -485,7 +485,7 @@ Este primer sprimt solo trata de la landing page, por lo que no se ha desarrolla
 
 ### [5.2.1.7.	Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
 
-En el Sprint 1, hemos llevado a cabo una serie de actividades relacionadas con el Deployment de nuestros productos, que incluyen la Landing Page, las Web Applications.A continuación, se detallan las acciones clave realizadas durante este Sprint en relación con el despliegue.
+En el Sprint 1, hemos llevado a cabo una serie de actividades relacionadas con el Deployment de nuestros productos, que incluyen la Landing Page.A continuación, se detallan las acciones clave realizadas durante este Sprint en relación con el despliegue.
 https://villasystem.github.io/GrapeFlow-LandingPage/index.html
 
 Para el desarrollo del Landing Page de GrapeFlow se han utilizado las siguientes herramientas:
@@ -822,13 +822,57 @@ Application desplegada. Enlace para acceder al [My Json Server:https:  //my-json
 Para la entrega del segundo sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories
 correspondientes al entregable. De la misma forma se desplego la web application parcialmente completa, pues presenta ciertos
 bugs que será solucionados en el siguiente sprint.
-Landing page:
-El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama
-"develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
+
+**Despliege de la Landing Page**
+
+LandingPage: https://villasystem.github.io/GrapeFlow-LandingPage/
+
+
+Se implemento el call to action en la landing page, el cual redirige a la web application.
+
+![](images/landing.PNG)
+
+![](images/landing2.PNG)
+
+![](images/landing3.PNG)
+
+![](images/landing4.PNG)
+
+
+**Despliege de la web application**
+
 
 WebAplication: https://grapeflowweb.netlify.app
 
-LandingPage: https://villasystem.github.io/GrapeFlow-LandingPage/
+
+**/login:**
+
+![](images/web.PNG)
+
+**/producer/inventory:**
+
+![](images/web22.PNG)
+
+**/producer/lote:**
+
+![](images/web3.PNG)
+
+**/producer/clients:**
+
+**![](images/web4.PNG)**
+
+/producer/orders:
+
+**![](images/web5.PNG)**
+
+**/consumer/product:**
+
+**![](images/web6.PNG)**
+
+**/consumer/orders:**
+
+![](images/web7.PNG)
+
 
 ### [5.2.2.8. Team Collaboration Insights during Sprint.](#5221-Sprint-Planning-2)
 
