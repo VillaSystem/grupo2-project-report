@@ -51,7 +51,6 @@ Esta expresión abarca todas las acciones vinculadas con la concepción, elabora
 
 **Software Documentation:** Para la documentación del software, empleamos dos herramientas:
 * **GitHub:** Utilizamos esta plataforma colaborativa para añadir toda la documentación relacionada en esta entrega en formato Markdown.
-* **Google Drive:** Hemos utilizado Google Docs para las tareas que requieren el desarrollo de un artefacto entre dos o más personas en tiempo real, antes de pasarlo a nuestro repositorio en formato Markdown.
 
 ### [5.1.2. Source Code Management.](#source-code-management)
 La metodología y el sistema de gestión utilizados para seguir los cambios durante la evolución de nuestro proyecto se pusieron en práctica en GitHub, empleando repositorios específicos para cada parte de la arquitectura de desarrollo. En esta fase inicial, hemos compartido el repositorio de nuestra Landing Page.
@@ -62,6 +61,24 @@ Para los commits de nuestro repositorio se tomó en cuenta el modelo concebido e
 
 
 ![](https://media.discordapp.net/attachments/1038166788619370537/1278202046348136489/image.png?ex=66cff1eb&is=66cea06b&hm=9c5d4a38c18c7e653afe9c32443a888f3ece582e0aac42d8cfc3f621e304f9b1&=&format=webp&quality=lossless&width=320&height=424)
+El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones,
+utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará
+GitFlow como Workflow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada
+producto: Landing Page, Web Services y Frontend Web Applications.
+
+Repositorio de GitHub: https://github.com/VillaSystem/grupo2-project-report
+
+Enlace para acceder a la organización en GitHub: https://github.com/VillaSystem
+
+Enlace para acceder al repositorio de la Landing Page: https://github.com/VillaSystem/GrapeFlow-LandingPage
+
+Enlace para acceder al repositorio del Frontend Web Application: https://github.com/VillaSystem/FontEnd-VillaSystem
+
+
+Flujo de trabajo GitFlow: El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado por Vincent Driessen en
+"A successful Git branching model"
+
+![](images/github.PNG)
 
 La manera que se plantea usar git flow es seguir su concepto de crear ramas a parte de la principal (main branch). Las ramas que se planea crear:
 * Main Branches:
