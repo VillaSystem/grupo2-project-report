@@ -909,7 +909,7 @@ GRAPEFLOW representa una solución innovadora para la industria vitivinícola y 
 
 ## Videos de Exposiciones
 
-### Exposición del (TB1)
+### Exposición del (TP1)
 **Título del Proyecto**: Grapeflow
 
 **Participantes**: Diego Huincho, Angelo Curi, Gustavo Huanca,Oscar Armas,Fernando Salhuana
