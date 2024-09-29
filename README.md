@@ -525,11 +525,30 @@ US23: Crear Cuenta de productor
 
 ## [4.5. Web Applications Prototyping.](#web-applications-prototyping)
 
-Para el desarrollo del prototipado y diseño en general se utilizo figma, ademas para el prototipado se cuido que la aplicacion cumple una serie de criterios para que la experiencia del usuario pueda ser la mas optima.
+Para poder elaborar los prototipos de la interfaz de usuario destinados a Desktop y Mobile Web Browser, se siguieron una serie
+de criterios fundamentales, entre ellos:
+1. Claridad y Facilidad: El enfoque fue lograr que la navegación en la aplicación sea intuitiva y comprensible, con el objetivo
+   de que los usuarios puedan comprender plenamente las funciones de la aplicación, como son el registro de procesos y la
+   visualización de reportes estadísticos.
+2. Diseño Responsive: Se ha tenido en cuenta la importancia del diseño "responsive" para garantizar que la aplicación web
+   sea compatible con una variedad tamaños de pantalla, de tal manera que los usuarios no se vean limitados por el
+   dispositivo que utilicen.
+3. Priorización de Información Relevante: El diseño de la aplicación se enfoca en mostrar únicamente la información más
+   importante para los usuarios pertenecientes al segmento objetivo
 
-Prototipado Web:
 
-Prototipado Mobile:
+**DESKTOP**
+
+![](images/prototype.PNG)
+
+[Prototype desktop video url en Microsoft Stream](https://upcedupe-my.sharepoint.com/personal/u202215285_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215285%5Fupc%5Fedu%5Fpe%2FDocuments%2F202409291508%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E551fcd02%2Dbfb3%2D48f8%2Dbde5%2D377b5b3f6eff)
+
+
+**MOBILE**
+
+![](images/prototype2.PNG)
+
+[Prototype desktop video url en Microsoft Stream](https://upcedupe-my.sharepoint.com/personal/u202215285_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215285%5Fupc%5Fedu%5Fpe%2FDocuments%2F2024%2D09%2D29%2015%2D23%2D46%201%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6894500d%2D6c46%2D4259%2Da08d%2D5828d6de0361)
 
 ## [4.6. Domain-Driven Software Architecture.](#domain-driven-software-architecture)
 ### [4.6.1. Software Architecture Context Diagram.](#software-architecture-context-diagram)
