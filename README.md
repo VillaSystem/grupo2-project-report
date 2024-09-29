@@ -224,7 +224,7 @@ MiClase(){}
 Utilizar punto y coma al final de una sentencia, aunque javaScript permite omitir el uso de estas se considera buena práctica incluirlo para evitar posibles errores.
 
 ### [5.1.4.	Software Deployment Configuration.](#software-deployment-configuration)
-
+**Landing page deployment:**
 
 Para el despliegue de nuestra Landing Page, accedemos al repositorio donde tenemos nuestro proyecto:
 
@@ -235,6 +235,34 @@ Nos dirigimos a la sección Settings de nuestro repositorio, nos dirigimos al ap
 
 Nos derigimos al apartado de Pages. Definimos la rama desde donde vamos despegar nuestro proyecto y guardamos. Con esto se genera el URL del despliegue de nuestra landing page.
 ![](https://raw.githubusercontent.com/VillaSystem/GrapeFlow-LandingPage/master/images/pgs.PNG)
+
+**Front End Web Application deployment**
+
+Para poder desplegar el Front End Web Application resulta necesario contar con una serie de requisitos, entre ellos, es necesario
+contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es
+posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+Ingresar a Netlify
+Luego de registrarse con github nos dirigimos a la seccion de Add new site:
+
+![](images/netlify.PNG)
+
+Elejimos hacer el deploy desde github:
+
+![](images/netlify2.PNG)
+
+Elejimos nuestra organizacion y repositorio:
+
+![](images/netlify3.PNG)
+
+Elejimos la rama de la cual queremos hacer el deploy:
+
+![](images/netlify4.PNG)
+
+Finalmente, se genera el URL de despliegue de nuestra web application:
+
+![](images/netlify5.PNG)
+
+
 
 
 ## [5.2.	Landing Page, Services & Applications Implementation.](#landing-page-services--applications-implementation)
