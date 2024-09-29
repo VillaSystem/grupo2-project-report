@@ -511,7 +511,7 @@ El Sprint #2 tiene como fecha de inicio el 15/09/2024 y como meta plantea resolv
 end y fake API de la web application de manera que sea atractiva y funcional
 
 
-| Sprint #                        | Sprint 1                                                                                                                   |
+| Sprint #                        | Sprint 2                                                                                                                   |
 |---------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | Sprint Planning Background      |                                                                                                                            |
 | Date                            | 18/09/2024                                                                                                                 |
@@ -520,8 +520,8 @@ end y fake API de la web application de manera que sea atractiva y funcional
 | Prepared By                     | Gustavo Esau Huanca Navarro                                                                                                |
 | Attendees (to planning meeting) | Diego Huincho/ Angelo/ Gustavo Huanca / Angelo Curi                                                                        |
 | Sprint Goal & User Stories      |                                                                                                                            |
-| Sprint 1 Goal                   | Resolver errores de la landing page y realizar el front end de la web application de manera que sea atractiva y funcional. |
-| Sprint 1 Velocity               | 52  Velocity                                                                                                               |
+| Sprint 2 Goal                   | Resolver errores de la landing page y realizar el front end de la web application de manera que sea atractiva y funcional. |
+| Sprint 2 Velocity               | 52  Velocity                                                                                                               |
 | Sum of Story Points             | 52 Story Points.                                                                                                           |
 
 ### [5.2.2.2.Sprint Backlog 2.](5222-Sprint-Backlog-2)
@@ -828,6 +828,6 @@ GRAPEFLOW representa una solución innovadora para la industria vitivinícola y 
 
 **Participantes**: Diego Huincho, Angelo Curi, Gustavo Huanca,Oscar Armas,Fernando Salhuana
 
-**Link a la Exposición en Microsoft Stream**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/EcPVzHIIgr5KqZ5yiGLenJcBzp5pBvDNHs-lK7ia4nwn1g?e=kfNFAF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+[**Link a la Exposición en Microsoft Stream:**](https://1drv.ms/v/c/cab22ef84dc9095b/EeCxgVGovAdApEIfrwFcbGABQAaK_N1rVCTqXEAAw8Mddg?e=xdXUHR)
 
 **Descripción**: El video muestra la presentación completa del proyecto Grapeflow, donde se exponen los cinco capítulos requeridos, incluyendo todos los artefactos y el trabajo completo solicitado.
