@@ -2652,7 +2652,21 @@ Link de la organización: https://github.com/VillaSystem
 
 # Concluciones
 
-GRAPEFLOW representa una solución innovadora para la industria vitivinícola y de pisco, beneficiando tanto a productores como a consumidores. Para los productores, la plataforma ofrece herramientas avanzadas para la gestión integral de la producción, control de inventarios y administración de pedidos, mejorando la eficiencia y la calidad del producto. Los consumidores se benefician de una interfaz accesible y detallada que les permite tomar decisiones informadas mediante la visualización completa de la información del producto. GRAPEFLOW no solo optimiza la operación interna de los productores, sino que también enriquece la experiencia de compra del consumidor, promoviendo una conexión más transparente y eficiente entre ambos.
+- La plataforma GRAPEFLOW ha demostrado un impacto positivo en la industria vitivinícola, facilitando un aumento en la eficiencia operativa y la optimización de la gestión de inventarios y pedidos, lo que resulta en una mayor calidad y rentabilidad para los productores.
+- Los sprints son necesarios para avanzar de forma continua y ordenada. Es bueno tener un límite de user story points para
+no sobrecargar de tareas al equipo y poder desarrollar de manera correcta el Landing Page.
+- El diseño y desarrollo de entrevistas proporciona la comprensión, comunicación y validación de requisitos y expectativas
+de los stakeholders. Gracias a ello, se identifican las frustraciones, objetivos, pensamientos y percepciones relacionados al
+dilema a atender por la propuesta de solución y, así, alcanzar la satisfacción adecuada de sus necesidades.
+- Se concluye que es importante sentar las bases del diseño antes de comenzar a codificar. En ese sentido, realizar el
+diagrama de clases respectivo para visualizar la interacción de las entidades implementadas
+- El desarrollo de los User Stories y del Product Backlog, prioriza las características de la solución software para que el
+equipo de desarrollo sepa que hay que entregar primero.
+- Los repositorios y funcionalidades de la herramienta GitHub aumentaron la eficiencia, calidad y colaboración del equipo
+en el desarrollo de software. Aseguraron la gestión de activos y versiones con un control riguroso de código fuente y
+documentación. Es así que, se lograron cumplir las demandas del segmento objetivo.
+
+
 
 # Anexos
 
