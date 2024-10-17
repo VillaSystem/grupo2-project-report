@@ -2653,7 +2653,7 @@ Link de la organización: https://github.com/VillaSystem
 
 # Technical User Story 
 
-<table>
+<table border="1">
   <tr>
     <td rowspan="3">TS01</td>
     <td rowspan="3">Crear cuenta de Consumidor</td>
@@ -2680,22 +2680,16 @@ Link de la organización: https://github.com/VillaSystem
     <td>Diego Huincho</td>
     <td>Done</td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td rowspan="3">TS01</td>
     <td rowspan="3">Obtener datos de cliente</td>
     <td>TS04</td>
-    <td>Otener clientes</td>
-    <td>Haciendo uso de un endpoint mediante una solicitud get que se obtendrá la lista de los emprealdos registrados en la base de datos</td>
+    <td>Obtener clientes</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get que se obtendrá la lista de los empleados registrados en la base de datos</td>
     <td>4</td>
     <td>Angelo Curi</td>
     <td>Done</td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td rowspan="3">TS01</td>
     <td rowspan="3">Crear nuevo lote</td>
@@ -2709,14 +2703,11 @@ Link de la organización: https://github.com/VillaSystem
   <tr>
     <td>TS06</td>
     <td>Validar existencia de un lote con id de producto</td>
-    <td>Recorrer la base de datos en busca de un id de una determinado producto para verificar su existencia</td>
+    <td>Recorrer la base de datos en busca de un id de un determinado producto para verificar su existencia</td>
     <td>4</td>
     <td>Gustavo Huanca</td>
     <td>Done</td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td rowspan="3">TS01</td>
     <td rowspan="3">Crear funcionalidad de login</td>
@@ -2743,9 +2734,6 @@ Link de la organización: https://github.com/VillaSystem
     <td>Oscar Armas</td>
     <td>To-Review</td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td rowspan="3">TS02</td>
     <td rowspan="3">Obtener Productos</td>
@@ -2773,6 +2761,7 @@ Link de la organización: https://github.com/VillaSystem
     <td>Done</td>
   </tr>
 </table>
+
 
 
 
