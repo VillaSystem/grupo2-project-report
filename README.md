@@ -74,16 +74,15 @@ Para elaborar el informe correspondiente a la entrega TB1, se distribuyó la res
 | Integrante        | Tareas Asignadas                                                                                                                                                                                                                                                                         |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Oscar Armas       | Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores. User Personas. Information
-Architecture. User Stories. Diagrama de base de datos.
-                                                                                                                                                                                                                                                                                          |
-| Angelo Curi       |    Diseño de mockups y wireframes. Descripción de user flows. Capítulo V, Software Development Environment Configuration, Source
-Code Management, Style Guide & Conventions. User Stories. Product Backlog                                                                                                                                                                                                                                                                                     |
+Architecture. User Stories. Diagrama de base de datos.       |
+| Angelo Curi       |     Diseño de mockups y wireframes. Descripción de user flows. Capítulo V, Software Development Environment Configuration, Source
+Code Management, Style Guide & Conventions. User Stories. Product Backlog     |
 | Gustavo Huanca    | Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User
-Stories. User Stories. Product Backlog. Bibliografía.
-                                                                                                                                     |
-| Diego Huincho     | Antecedentes y problemática 5W y 2H. Lean UX Process, Problem Statement, Assumptions e Hypothesis statements. Lean UX
+Stories. User Stories. Product Backlog. Bibliografía.     |
+| Diego Huincho     | 
+Antecedentes y problemática 5W y 2H. Lean UX Process, Problem Statement, Assumptions e Hypothesis statements. Lean UX
 Canvas. Segmentos Objetivos. Análisis de competidores. Diseño de entrevistas. Conclusiones y recomendaciones |
-| Fernando Salhuana | General Style Guidelines. Landing Page, Services & Applications implementation. Software Deployment Configuration.                                                                                                                                                                     |
+| Fernando Salhuana | General Style Guidelines. Landing Page, Services & Applications implementation. Software Deployment Configuration.  |
 
 **TP**
 Para elaborar el informe correspondiente a la entrega TP, se distribuyó la responsabilidad de redactar las distintas secciones de la siguiente manera entre cada miembro del equipo:
@@ -91,13 +90,12 @@ Para elaborar el informe correspondiente a la entrega TP, se distribuyó la resp
 
 | Integrante        | Tareas Asignadas                                                                                                                                                                                                                                                                         |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Oscar Armas       | Mejora del diagrama de clases. Avance de conclusiones                                                                                                                                                                                                                                                                                       |
-| Angelo Curi       |     Corrección del modelo de base de datos. Completar explicaciones de flows. Sprint Backlog 2.                                                                                                                                                                                                                                                                                     |
-| Gustavo Huanca    | Corrección de impact map. Documentation Evidence for Sprint Review                                                                                                                                    |
-| Diego Huincho     | Correcciones en Lean UX, completar explicación de collaboration
- |
+| Oscar Armas       | Mejora del diagrama de clases. Avance de conclusiones                                   |
+| Angelo Curi       |     Corrección del modelo de base de datos. Completar explicaciones de flows. Sprint Backlog 2.        |
+| Gustavo Huanca    | Corrección de impact map. Documentation Evidence for Sprint Review      |
+| Diego Huincho     | Correcciones en Lean UX, completar explicación de collaboration |
 | Fernando Salhuana |Sprint Planning 2, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for
-Sprint Review                                                                                                                                                                       |
+Sprint Review     |
 
 
 
