@@ -2653,79 +2653,128 @@ Link de la organización: https://github.com/VillaSystem
 
 # Technical User Story 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sprint 3</title>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid #000;
-            padding: 8px;
-            text-align: left;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
-</head>
-<body>
-
-<h1>Sprint 3</h1>
-
 <table>
-    <tr>
-        <th colspan="5">Technical User Story</th>
-        <th colspan="4">Work Item / Task</th>
-        <th>Estimation (Hours)</th>
-        <th>Assigned To</th>
-        <th>Status (To-do/In-Process/To-Review/Done)</th>
-    </tr>
-    <tr>
-        <th>Id</th>
-        <th>Title</th>
-        <th>Id</th>
-        <th>Title</th>
-        <th>Description</th>
-        <th>Hours</th>
-        <th>Assigned</th>
-        <th>Status</th>
-    </tr>
-    <tr>
-        <td rowspan="3">TS01</td>
-        <td rowspan="3">Crear cuenta de empleado</td>
-        <td>TK13</td>
-        <td>Crear endpoint que permita ejecutar get employee</td>
-        <td>Crear endpoint que permite la comunicación para obtener los valores necesitados</td>
-        <td>4</td>
-        <td>Alan Galavis</td>
-        <td>Done</td>
-    </tr>
-    <tr>
-        <td>TK14</td>
-        <td>Validar correo</td>
-        <td>Recorrer los correos existentes para validar que no exista el mismo ingresado actualmente</td>
-        <td>4</td>
-        <td>Alan Galavis</td>
-        <td>Done</td>
-    </tr>
-    <tr>
-        <td>TK15</td>
-        <td>Validar id</td>
-        <td>Recorrer los id existentes para validar que no exista el mismo ingresado actualmente</td>
-        <td>4</td>
-        <td>Alan Galavis</td>
-        <td>Done</td>
-    </tr>
+  <tr>
+    <td rowspan="3">TS01</td>
+    <td rowspan="3">Crear cuenta de Consumidor</td>
+    <td>TS01</td>
+    <td>Crear endpoint que permita ejecutar get consumer</td>
+    <td>Crear endpoint que permite la comunicación para obtener los valores necesitados</td>
+    <td>4</td>
+    <td>Diego Huincho</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td>Validar correo</td>
+    <td>Recorrer los correos existentes para validar que no exista el mismo ingresado actualmente</td>
+    <td>4</td>
+    <td>Diego Huincho</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS03</td>
+    <td>Validar id</td>
+    <td>Recorrer los id existentes para validar que no exista el mismo ingresado actualmente</td>
+    <td>4</td>
+    <td>Diego Huincho</td>
+    <td>Done</td>
+  </tr>
 </table>
 
-</body>
-</html>
+<table>
+  <tr>
+    <td rowspan="3">TS01</td>
+    <td rowspan="3">Obtener datos de cliente</td>
+    <td>TS04</td>
+    <td>Otener clientes</td>
+    <td>Haciendo uso de un endpoint mediante una solicitud get que se obtendrá la lista de los emprealdos registrados en la base de datos</td>
+    <td>4</td>
+    <td>Angelo Curi</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="3">TS01</td>
+    <td rowspan="3">Crear nuevo lote</td>
+    <td>TS05</td>
+    <td>Crear lote</td>
+    <td>Crear endpoint que permite la comunicación para obtener los valores necesitados</td>
+    <td>4</td>
+    <td>Angelo Curi</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS06</td>
+    <td>Validar existencia de un lote con id de producto</td>
+    <td>Recorrer la base de datos en busca de un id de una determinado producto para verificar su existencia</td>
+    <td>4</td>
+    <td>Gustavo Huanca</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="3">TS01</td>
+    <td rowspan="3">Crear funcionalidad de login</td>
+    <td>TK07</td>
+    <td>Crear endpoint de autenticación</td>
+    <td>Crear un endpoint que permita a los usuarios autenticarse con sus credenciales.</td>
+    <td>5</td>
+    <td>Gustavo Huanca</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TK08</td>
+    <td>Validar credenciales</td>
+    <td>Verificar que las credenciales proporcionadas sean correctas y estén en la base de datos.</td>
+    <td>3</td>
+    <td>Gustavo Huanca</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>TK09</td>
+    <td>Gestionar sesión</td>
+    <td>Implementar la lógica para crear y gestionar sesiones de usuario después del login exitoso.</td>
+    <td>4</td>
+    <td>Oscar Armas</td>
+    <td>To-Review</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="3">TS02</td>
+    <td rowspan="3">Obtener Productos</td>
+    <td>TK10</td>
+    <td>Listar Productos</td>
+    <td>Crear un endpoint para obtener la lista de productos disponibles.</td>
+    <td>4</td>
+    <td>Fernando Salhuana</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TK11</td>
+    <td>Filtrar Productos</td>
+    <td>Agregar funcionalidad para filtrar productos por categoría y disponibilidad.</td>
+    <td>3</td>
+    <td>Oscar Armas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TK12</td>
+    <td>Detalles del Producto</td>
+    <td>Implementar endpoint para obtener detalles específicos del producto seleccionado.</td>
+    <td>5</td>
+    <td>Gustavo Huanca</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+
 
 
 # Concluciones
