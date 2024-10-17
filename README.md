@@ -73,16 +73,11 @@ Para elaborar el informe correspondiente a la entrega TB1, se distribuyó la res
 
 | Integrante        | Tareas Asignadas                                                                                                                                                                                                                                                                         |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Oscar Armas       | Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores. User Personas. Information
-Architecture. User Stories. Diagrama de base de datos.       |
-| Angelo Curi       |     Diseño de mockups y wireframes. Descripción de user flows. Capítulo V, Software Development Environment Configuration, Source
-Code Management, Style Guide & Conventions. User Stories. Product Backlog     |
-| Gustavo Huanca    | Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User
-Stories. User Stories. Product Backlog. Bibliografía.     |
-| Diego Huincho     | 
-Antecedentes y problemática 5W y 2H. Lean UX Process, Problem Statement, Assumptions e Hypothesis statements. Lean UX
-Canvas. Segmentos Objetivos. Análisis de competidores. Diseño de entrevistas. Conclusiones y recomendaciones |
-| Fernando Salhuana | General Style Guidelines. Landing Page, Services & Applications implementation. Software Deployment Configuration.  |
+| Oscar Armas       | Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores. User Personas. Information Architecture. User Stories. Diagrama de base de datos.       |
+| Angelo Curi       |     Diseño de mockups y wireframes. Descripción de user flows. Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions. User Stories. Product Backlog     |
+| Gustavo Huanca    | Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.     |
+| Diego Huincho     | Antecedentes y problemática 5W y 2H. Lean UX Process, Problem Statement, Assumptions e Hypothesis statements. Lean UX Canvas. Segmentos Objetivos. Análisis de competidores. Diseño de entrevistas. Conclusiones y recomendaciones |
+| Fernando Salhuana | General Style Guidelines. Landing Page, Services & Applications implementation. Software Deployment configuration.  |
 
 **TP**
 Para elaborar el informe correspondiente a la entrega TP, se distribuyó la responsabilidad de redactar las distintas secciones de la siguiente manera entre cada miembro del equipo:
