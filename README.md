@@ -2669,7 +2669,7 @@ documentación. Es así que, se lograron cumplir las demandas del segmento objet
 # Bibliografía
 - PymeTV(2024). "CONCURSO NACIONAL DE VINO PERUANO: PRODUCE REAFIRMA SU COMPROMISO EL SECTOR VITIVINÍCOLA". PymeTV. https://pymetv.pe/concurso-nacional-de-vino-peruano-produce-reafirma-su-compromiso-el-sector-vitivinicola#:~:text=Adem%C3%A1s%2C%20se%C3%B1al%C3%B3%20que%20la%20industria,el%20motor%20de%20la%20industria [Consulta: 10 de octubre]
 - Ana Gutiérrez Chisvert(2023). "El mercado de vino en Perú". ICEX España Exportación e Inversiones, E.P.E. https://www.icex.es/content/dam/es/icex/oficinas/065/documentos/2023/11/anexos/RE_El%20mercado%20del%20vino%20en%20Peru_2023.pdf [Consulta: 22 de setiembre]
-- Shwaber, K., & Sutherland, J. The Scrum Guide. https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-GuideUS.pdf#zoom=100 [Consulta: 15 de septiembre]
+- Shwaber, K., & Sutherland, J. The Scrum Guide. https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100 [Consulta: 15 de septiembre]
 - Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/ [Consulta: 6 de septiembre].
 
 
