@@ -89,11 +89,18 @@ Para elaborar el informe correspondiente a la entrega TP, se distribuyó la resp
 | Angelo Curi       |     Corrección del modelo de base de datos. Completar explicaciones de flows. Sprint Backlog 2.        |
 | Gustavo Huanca    | Corrección de impact map. Documentation Evidence for Sprint Review      |
 | Diego Huincho     | Correcciones en Lean UX, completar explicación de collaboration |
-| Fernando Salhuana |Sprint Planning 2, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for
-Sprint Review     |
+| Fernando Salhuana |Sprint Planning 2, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review     |
 
 
+**TB2**
 
+| Integrante        | Tareas Asignadas                                                                                                                                                                                                                                                                         |
+|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Oscar Armas       | Corrección del diagrama de base de datos. Corrección de diagramas C4.                                   |
+| Angelo Curi       |    Corrección del diagrama de base de datos. Corrección de diagramas C4. Elaboración de video about the product. Elaboración de entrevistas de validación.      |
+| Gustavo Huanca    | Software deployment configuration. Documentation Evidence for Sprint Review.    |
+| Diego Huincho     | Evaluación según heurísticas, análisis de entrevistas de validación |
+| Fernando Salhuana | Sprint Planning 3, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review   |
 
 
 
