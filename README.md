@@ -2650,6 +2650,84 @@ Link de la organización: https://github.com/VillaSystem
 
 ![](images/github3.PNG)
 
+
+# Technical User Story 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sprint 3</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #000;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Sprint 3</h1>
+
+<table>
+    <tr>
+        <th colspan="5">Technical User Story</th>
+        <th colspan="4">Work Item / Task</th>
+        <th>Estimation (Hours)</th>
+        <th>Assigned To</th>
+        <th>Status (To-do/In-Process/To-Review/Done)</th>
+    </tr>
+    <tr>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Hours</th>
+        <th>Assigned</th>
+        <th>Status</th>
+    </tr>
+    <tr>
+        <td rowspan="3">TS01</td>
+        <td rowspan="3">Crear cuenta de empleado</td>
+        <td>TK13</td>
+        <td>Crear endpoint que permita ejecutar get employee</td>
+        <td>Crear endpoint que permite la comunicación para obtener los valores necesitados</td>
+        <td>4</td>
+        <td>Alan Galavis</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TK14</td>
+        <td>Validar correo</td>
+        <td>Recorrer los correos existentes para validar que no exista el mismo ingresado actualmente</td>
+        <td>4</td>
+        <td>Alan Galavis</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>TK15</td>
+        <td>Validar id</td>
+        <td>Recorrer los id existentes para validar que no exista el mismo ingresado actualmente</td>
+        <td>4</td>
+        <td>Alan Galavis</td>
+        <td>Done</td>
+    </tr>
+</table>
+
+</body>
+</html>
+
+
 # Concluciones
 
 - La plataforma GRAPEFLOW ha demostrado un impacto positivo en la industria vitivinícola, facilitando un aumento en la eficiencia operativa y la optimización de la gestión de inventarios y pedidos, lo que resulta en una mayor calidad y rentabilidad para los productores.
