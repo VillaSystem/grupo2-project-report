@@ -1913,7 +1913,6 @@ Esta expresión abarca todas las acciones vinculadas con la concepción, elabora
 
 **Software Documentation:** Para la documentación del software, empleamos dos herramientas:
 * **GitHub:** Utilizamos esta plataforma colaborativa para añadir toda la documentación relacionada en esta entrega en formato Markdown.
-* **Google Drive:** Hemos utilizado Google Docs para las tareas que requieren el desarrollo de un artefacto entre dos o más personas en tiempo real, antes de pasarlo a nuestro repositorio en formato Markdown.
 
 ### [5.1.2. Source Code Management.](#source-code-management)
 La metodología y el sistema de gestión utilizados para seguir los cambios durante la evolución de nuestro proyecto se pusieron en práctica en GitHub, empleando repositorios específicos para cada parte de la arquitectura de desarrollo. En esta fase inicial, hemos compartido el repositorio de nuestra Landing Page.
@@ -1924,6 +1923,24 @@ Para los commits de nuestro repositorio se tomó en cuenta el modelo concebido e
 
 
 ![](https://media.discordapp.net/attachments/1038166788619370537/1278202046348136489/image.png?ex=66cff1eb&is=66cea06b&hm=9c5d4a38c18c7e653afe9c32443a888f3ece582e0aac42d8cfc3f621e304f9b1&=&format=webp&quality=lossless&width=320&height=424)
+El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones,
+utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará
+GitFlow como Workflow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada
+producto: Landing Page, Web Services y Frontend Web Applications.
+
+Repositorio de GitHub: https://github.com/VillaSystem/grupo2-project-report
+
+Enlace para acceder a la organización en GitHub: https://github.com/VillaSystem
+
+Enlace para acceder al repositorio de la Landing Page: https://github.com/VillaSystem/GrapeFlow-LandingPage
+
+Enlace para acceder al repositorio del Frontend Web Application: https://github.com/VillaSystem/FontEnd-VillaSystem
+
+
+Flujo de trabajo GitFlow: El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado por Vincent Driessen en
+"A successful Git branching model"
+
+![](images/github.PNG)
 
 La manera que se plantea usar git flow es seguir su concepto de crear ramas a parte de la principal (main branch). Las ramas que se planea crear:
 * Main Branches:
@@ -2086,7 +2103,7 @@ MiClase(){}
 Utilizar punto y coma al final de una sentencia, aunque javaScript permite omitir el uso de estas se considera buena práctica incluirlo para evitar posibles errores.
 
 ### [5.1.4.	Software Deployment Configuration.](#software-deployment-configuration)
-
+**Landing page deployment:**
 
 Para el despliegue de nuestra Landing Page, accedemos al repositorio donde tenemos nuestro proyecto:
 
@@ -2097,6 +2114,34 @@ Nos dirigimos a la sección Settings de nuestro repositorio, nos dirigimos al ap
 
 Nos derigimos al apartado de Pages. Definimos la rama desde donde vamos despegar nuestro proyecto y guardamos. Con esto se genera el URL del despliegue de nuestra landing page.
 ![](https://raw.githubusercontent.com/VillaSystem/GrapeFlow-LandingPage/master/images/pgs.PNG)
+
+**Front End Web Application deployment**
+
+Para poder desplegar el Front End Web Application resulta necesario contar con una serie de requisitos, entre ellos, es necesario
+contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es
+posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+Ingresar a Netlify
+Luego de registrarse con github nos dirigimos a la seccion de Add new site:
+
+![](images/netlify.PNG)
+
+Elejimos hacer el deploy desde github:
+
+![](images/netlify2.PNG)
+
+Elejimos nuestra organizacion y repositorio:
+
+![](images/netlify3.PNG)
+
+Elejimos la rama de la cual queremos hacer el deploy:
+
+![](images/netlify4.PNG)
+
+Finalmente, se genera el URL de despliegue de nuestra web application:
+
+![](images/netlify5.PNG)
+
+
 
 
 ## [5.2.	Landing Page, Services & Applications Implementation.](#landing-page-services--applications-implementation)
@@ -2281,7 +2326,7 @@ Las vistas implementadas son el navbar con las secciones Inicio, Servicio, Funci
 ![](images/navbar.PNG)
 
 Se presenta la sección de servicio que ofrecemos para nuestros segmentos objetivos. En esta sección, se describen los beneficios y características de GrapeFlow, lo que permite a los visitantes conocer más sobre el servicio.
-![](images/service.PNG) 
+![](images/service.PNG)
 
 En la sección de precios, se detallan los planes y precios de GrapeFlow. Esta información es esencial para que los visitantes conozcan las opciones disponibles y puedan elegir la que mejor se adapte a sus necesidades.
 ![](images/planes.PNG)
@@ -2302,19 +2347,19 @@ Este primer sprimt solo trata de la landing page, por lo que no se ha desarrolla
 
 ### [5.2.1.7.	Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
 
-En el Sprint 1, hemos llevado a cabo una serie de actividades relacionadas con el Deployment de nuestros productos, que incluyen la Landing Page, las Web Applications.A continuación, se detallan las acciones clave realizadas durante este Sprint en relación con el despliegue.
+En el Sprint 1, hemos llevado a cabo una serie de actividades relacionadas con el Deployment de nuestros productos, que incluyen la Landing Page.A continuación, se detallan las acciones clave realizadas durante este Sprint en relación con el despliegue.
 https://villasystem.github.io/GrapeFlow-LandingPage/index.html
 
 Para el desarrollo del Landing Page de GrapeFlow se han utilizado las siguientes herramientas:
 
 * html: Es el lenguaje de marcado que estructuró nuestro Landing Page.
-![](images/html.PNG)
+  ![](images/html.PNG)
 
 * css: Es el lenguaje de estilos que le dio formato y diseño a nuestro Landing Page.
-![](images/css.PNG)
+  ![](images/css.PNG)
 
 * JavaScript: Es el lenguaje de programación que le dio interactividad a nuestro Landing Page.
-![](images/js.PNG)
+  ![](images/js.PNG)
 
 
 El despliegue del Landing Page de GrapeFlow se realizó gracias a:
@@ -2337,10 +2382,10 @@ Los pasos que se realizaron fueron:
 
 ![](images/pages.PNG)]
 
-- Luego, dentro de la sección “pages” tenemos que seleccionar la rama que se va a deployear, en nuestro caso 
-es la rama “main”. Asimismo, tenemos que elegir una carpeta para
-localizar la publicación, que en nuestro caso será root. Finalmente 
-tendremos el link en la parte superior.
+- Luego, dentro de la sección “pages” tenemos que seleccionar la rama que se va a deployear, en nuestro caso
+  es la rama “main”. Asimismo, tenemos que elegir una carpeta para
+  localizar la publicación, que en nuestro caso será root. Finalmente
+  tendremos el link en la parte superior.
 
 ![](images/pages.PNG)
 
@@ -2373,7 +2418,7 @@ El Sprint #2 tiene como fecha de inicio el 15/09/2024 y como meta plantea resolv
 end y fake API de la web application de manera que sea atractiva y funcional
 
 
-| Sprint #                        | Sprint 1                                                                                                                   |
+| Sprint #                        | Sprint 2                                                                                                                   |
 |---------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | Sprint Planning Background      |                                                                                                                            |
 | Date                            | 18/09/2024                                                                                                                 |
@@ -2382,8 +2427,8 @@ end y fake API de la web application de manera que sea atractiva y funcional
 | Prepared By                     | Gustavo Esau Huanca Navarro                                                                                                |
 | Attendees (to planning meeting) | Diego Huincho/ Angelo/ Gustavo Huanca / Angelo Curi                                                                        |
 | Sprint Goal & User Stories      |                                                                                                                            |
-| Sprint 1 Goal                   | Resolver errores de la landing page y realizar el front end de la web application de manera que sea atractiva y funcional. |
-| Sprint 1 Velocity               | 52  Velocity                                                                                                               |
+| Sprint 2 Goal                   | Resolver errores de la landing page y realizar el front end de la web application de manera que sea atractiva y funcional. |
+| Sprint 2 Velocity               | 52  Velocity                                                                                                               |
 | Sum of Story Points             | 52 Story Points.                                                                                                           |
 
 ### [5.2.2.2.Sprint Backlog 2.](5222-Sprint-Backlog-2)
@@ -2395,35 +2440,32 @@ En el segundo sprint backlog, el equipo completó la landing page y el MVP del f
 
 Link del Pivotal: https://www.pivotaltracker.com/n/projects/2721206
 
-| Sprint 1   | Sprint 2                                              |                |                                                       |                                                                                                                                                                                                |                |                |                |
-|------------|-------------------------------------------------------|----------------|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------|----------------|
-| User Story | User Story                                            | Work-Item/Task | Work-Item/Task                                        | Work-Item/Task                                                                                                                                                                                 | Work-Item/Task | Work-Item/Task | Work-Item/Task |
-| Id         | Title                                                 | Id             | Title                                                 | Description                                                                                                                                                                                    | Estimación     | Assigned to    | Status         |
-| US39       | Iconos Representativos de Funcionalidades Clave       | 1              | Mostrar Iconos de Funcionalidades Clave               | Como visitante de la Landing Page, deseo ver iconos que representen las funcionalidades clave del servicio, para obtener una visión rápida de lo que ofrece GrapeFlow.                         | 4 h            | Diego          | Done           |
-| US45       | Visualización de Redes Sociales y Enlaces Adicionales | 2              | Incluir Enlaces a Redes Sociales y Políticas          | Como visitante de la Landing Page, deseo ver los enlaces a las redes sociales y políticas de la empresa en el pie de página, para seguirlos y entender mejor sus términos.                     | 4 h            | Diego          | Done           |
-| US42       | Selección de Plan desde la Landing Page               | 3              | Facilitar Selección de Plan desde la Página de Inicio | Como visitante de la Landing Page, deseo poder seleccionar y confirmar un plan desde la misma página, para simplificar el proceso de suscripción o registro.                                   | 4 h            | Gustavo        | Done           |
-| US04       | Visualizar Información del Producto                   | 4              | Mostrar Detalles del Producto                         | Como consumidor, quiero visualizar la información detallada de un producto para tomar decisiones informadas.                                                                                   | 5 h            | Diego          | Done           |
-| US53       | Ver Detalle de Cliente                                | 5              | Mostrar Detalle de Información de Clientes            | Como usuario, quiero ver los detalles completos de un cliente para tener toda la información relevante.                                                                                        | 5 h            | Angelo         | Done           |
-| US51       | Editar Cliente                                        | 6              | Permitir Modificación de Datos de Clientes            | Como usuario, quiero poder editar la información de un cliente para mantener los datos actualizados.                                                                                           | 4 h            | Diego          | Done           |
-| US52       | Agregar Cliente                                       | 7              | Agregar Nuevos Clientes                               | Como usuario, quiero poder agregar nuevos clientes al sistema para expandir la base de datos de clientes.                                                                                      | 4 h            | Angelo         | Done           |
-| US50       | Eliminar Cliente                                      | 8              | Eliminar Registro de Cliente                          | Como usuario, quiero poder eliminar un cliente del sistema cuando sea necesario.                                                                                                               | 4 h            | Gustavo        | Done           |
-| US01       | Registrar Datos del Lote                              | 9              | Permitir Registro de Lotes de Producción              | Como productor, quiero registrar los datos esenciales de mi lote para un seguimiento detallado.                                                                                                | 4 h            | Gustavo        | Done           |
-| US10       | Monitorear Parámetros de Producción                   | 10             | Implementar Sistema de Monitoreo                      | Como productor, quiero monitorear parámetros críticos para asegurar la calidad del producto.                                                                                                   | 5 h            | Angelo         | Done           |
-| US07       | Registrar Inventario de Productos                     | 11             | Crear Formulario de Registro de Inventario            | Como productor, quiero registrar el inventario de mis productos para un control eficiente.                                                                                                     | 4 h            | Diego          | Done           |
-| US22       | Ver Detalle del Pedido                                | 12             | Diseñar Página de Detalle de Pedido                   | Como consumidor, quiero ver el detalle de mi pedido para asegurarme de que toda la información es correcta antes de confirmar la compra.                                                       | 5 h            | Fernando        | Done           |
-| US05       | Buscar Producto por Filtros                           | 13             | Implementar Sistema de Filtros                        | Como consumidor, quiero buscar productos utilizando filtros para encontrar opciones específicas.                                                                                               | 4 h            | Angelo         | Done           |
-| US19       | Buscar Productos                                      | 14             | Crear Barra de Búsqueda                               | Como consumidor, quiero buscar productos en la plataforma para encontrar rápidamente los vinos que me interesan.                                                                               | 4 h            | Diego          | Done           |
-| US04       | Visualizar Información del Producto                   | 15             | Diseñar Página de Producto                            | Como consumidor, quiero visualizar la información detallada de un producto para tomar decisiones informadas.                                                                                   | 5 h            | Gustavo        | Done           |
-| US54       | Consultar Pedidos                                     | 16             | Crear Lista de Pedidos                                | Como usuario, quiero poder consultar todos los pedidos realizados para tener un seguimiento de las ventas.                                                                                     | 5 h            | Angelo         | Done           |
-| US01       | Registrar Datos del Lote                              | 17             | Implementar Formulario de Registro de Lote            | Como productor, quiero registrar los datos esenciales de mi lote para un seguimiento detallado.                                                                                                | 6 h            | Diego          | Done           |
-| US03       | Eliminar Producto                                     | 18             | Agregar Función de Eliminación de Producto            | Como productor, quiero eliminar un producto para gestionar el inventario correctamente.                                                                                                        | 4 h            | Gustavo        | Done           |
-| US09       | Consultar Inventario                                  | 19             | Crear Página de Consulta de Inventario                | Como productor, quiero consultar el inventario de mis productos para tomar decisiones de producción.                                                                                           | 5 h            | Angelo         | Done           |
-| US18       | Consultar Historial de Pedidos                        | 20             | Implementar Historial de Pedidos                      | Como consumidor, quiero consultar mi historial de pedidos para revisar mis compras pasadas.                                                                                                    | 5 h            | Diego          | Done           |
-| US20       | Visualizar Información Detallada del Vino             | 21             | Diseñar Página de Detalle de Vino                     | Como consumidor, quiero ver la información detallada de cada vino para tomar decisiones informadas sobre mis compras.                                                                          | 5 h            | Gustavo        | Done           |
-| US39       | Iconos Representativos de Funcionalidades Clave       | 22             | Diseñar e Implementar Iconos                          | Como visitante de la Landing Page, quiero ver iconos que representen las funcionalidades clave del servicio, para tener una visión rápida de lo que ofrece GrapeFlow.                          | 5 h            | Angelo         | Done           |
-| US45       | Visualización de Redes Sociales y Enlaces Adicionales | 23             | Agregar Enlaces de Redes Sociales                     | Como visitante de la Landing Page, quiero ver los enlaces a las redes sociales y políticas de la empresa en el pie de página, para seguirlos en sus plataformas y entender mejor sus términos. | 4 h            | Diego          | Done           |
-| US42       | Selección de Plan desde la Landing Page               | 24             | Implementar Selección de Plan                         | Como visitante de la Landing Page, quiero poder seleccionar y confirmar un plan desde la misma página, para simplificar el proceso de suscripción o registro.                                  | 4 h            | Gustavo        | Done           |
-| US23       | Crear Cuenta de productor                             | 25             | Desarrollar Formulario de Registro de Productor       | Como productor, quiero crear una cuenta para poder tener acceso a las funcionalidades de la plataforma.                                                                                        | 5 h            | Angelo         | Done           |
+| Sprint 2   | Sprint 2                                              |                |                                                       |                                                                                                                                                                            |                |                |                |
+|------------|-------------------------------------------------------|----------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------|----------------|
+| User Story | User Story                                            | Work-Item/Task | Work-Item/Task                                        | Work-Item/Task                                                                                                                                                             | Work-Item/Task | Work-Item/Task | Work-Item/Task |
+| Id         | Title                                                 | Id             | Title                                                 | Description                                                                                                                                                                | Estimación     | Assigned to    | Status         |
+| US39       | Iconos Representativos de Funcionalidades Clave       | 1              | Mostrar Iconos de Funcionalidades Clave               | Como visitante de la Landing Page, deseo ver iconos que representen las funcionalidades clave del servicio, para obtener una visión rápida de lo que ofrece GrapeFlow.     | 4 h            | Diego          | Done           |
+| US45       | Visualización de Redes Sociales y Enlaces Adicionales | 2              | Incluir Enlaces a Redes Sociales y Políticas          | Como visitante de la Landing Page, deseo ver los enlaces a las redes sociales y políticas de la empresa en el pie de página, para seguirlos y entender mejor sus términos. | 4 h            | Diego          | Done           |
+| US42       | Selección de Plan desde la Landing Page               | 3              | Facilitar Selección de Plan desde la Página de Inicio | Como visitante de la Landing Page, deseo poder seleccionar y confirmar un plan desde la misma página, para simplificar el proceso de suscripción o registro.               | 4 h            | Gustavo        | Done           |
+| US04       | Visualizar Información del Producto                   | 4              | Mostrar Detalles del Producto                         | Como consumidor, quiero visualizar la información detallada de un producto para tomar decisiones informadas.                                                               | 5 h            | Diego          | Done           |
+| US53       | Ver Detalle de Cliente                                | 5              | Mostrar Detalle de Información de Clientes            | Como usuario, quiero ver los detalles completos de un cliente para tener toda la información relevante.                                                                    | 5 h            | Angelo         | Done           |
+| US51       | Editar Cliente                                        | 6              | Permitir Modificación de Datos de Clientes            | Como usuario, quiero poder editar la información de un cliente para mantener los datos actualizados.                                                                       | 4 h            | Diego          | Done           |
+| US52       | Agregar Cliente                                       | 7              | Agregar Nuevos Clientes                               | Como usuario, quiero poder agregar nuevos clientes al sistema para expandir la base de datos de clientes.                                                                  | 4 h            | Angelo         | Done           |
+| US50       | Eliminar Cliente                                      | 8              | Eliminar Registro de Cliente                          | Como usuario, quiero poder eliminar un cliente del sistema cuando sea necesario.                                                                                           | 4 h            | Gustavo        | Done           |
+| US01       | Registrar Datos del Lote                              | 9              | Permitir Registro de Lotes de Producción              | Como productor, quiero registrar los datos esenciales de mi lote para un seguimiento detallado.                                                                            | 4 h            | Gustavo        | Done           |
+| US10       | Monitorear Parámetros de Producción                   | 10             | Implementar Sistema de Monitoreo                      | Como productor, quiero monitorear parámetros críticos para asegurar la calidad del producto.                                                                               | 5 h            | Angelo         | Done           |
+| US07       | Registrar Inventario de Productos                     | 11             | Crear Formulario de Registro de Inventario            | Como productor, quiero registrar el inventario de mis productos para un control eficiente.                                                                                 | 4 h            | Diego          | Done           |
+| US22       | Ver Detalle del Pedido                                | 12             | Diseñar Página de Detalle de Pedido                   | Como consumidor, quiero ver el detalle de mi pedido para asegurarme de que toda la información es correcta antes de confirmar la compra.                                   | 5 h            | Fernando       | Done           |
+| US05       | Buscar Producto por Filtros                           | 13             | Implementar Sistema de Filtros                        | Como consumidor, quiero buscar productos utilizando filtros para encontrar opciones específicas.                                                                           | 4 h            | Angelo         | Done           |
+| US19       | Buscar Productos                                      | 14             | Crear Barra de Búsqueda                               | Como consumidor, quiero buscar productos en la plataforma para encontrar rápidamente los vinos que me interesan.                                                           | 4 h            | Diego          | Done           |
+| US04       | Visualizar Información del Producto                   | 15             | Diseñar Página de Producto                            | Como consumidor, quiero visualizar la información detallada de un producto para tomar decisiones informadas.                                                               | 5 h            | Gustavo        | Done           |
+| US54       | Consultar Pedidos                                     | 16             | Crear Lista de Pedidos                                | Como usuario, quiero poder consultar todos los pedidos realizados para tener un seguimiento de las ventas.                                                                 | 5 h            | Angelo         | Done           |
+| US01       | Registrar Datos del Lote                              | 17             | Implementar Formulario de Registro de Lote            | Como productor, quiero registrar los datos esenciales de mi lote para un seguimiento detallado.                                                                            | 6 h            | Diego          | Done           |
+| US03       | Eliminar Producto                                     | 18             | Agregar Función de Eliminación de Producto            | Como productor, quiero eliminar un producto para gestionar el inventario correctamente.                                                                                    | 4 h            | Gustavo        | Done           |
+| US09       | Consultar Inventario                                  | 19             | Crear Página de Consulta de Inventario                | Como productor, quiero consultar el inventario de mis productos para tomar decisiones de producción.                                                                       | 5 h            | Angelo         | Done           |
+| US18       | Consultar Historial de Pedidos                        | 20             | Implementar Historial de Pedidos                      | Como consumidor, quiero consultar mi historial de pedidos para revisar mis compras pasadas.                                                                                | 5 h            | Diego          | Done           |
+| US20       | Visualizar Información Detallada del Vino             | 21             | Diseñar Página de Detalle de Vino                     | Como consumidor, quiero ver la información detallada de cada vino para tomar decisiones informadas sobre mis compras.                                                      | 5 h            | Gustavo        | Done           |
+| US23       | Crear Cuenta de productor                             | 25             | Desarrollar Formulario de Registro de Productor       | Como productor, quiero crear una cuenta para poder tener acceso a las funcionalidades de la plataforma.                                                                    | 5 h            | Angelo         | Done           |
 
 
 
@@ -2564,53 +2606,53 @@ diferentes secciones donde el usuario puede encontrar información relevante ace
 permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
 
 - **US37**
-![](images/US37.png)
+  ![](images/US37.png)
 
 - **US38**
 
 ![](images/US38.png)
 - **US39**
-  
+
 ![](images/US39.png)
 - **US40**
-  
+
 ![](images/US40.png)
 - **US41**
-  
+
 ![](images/US41.png)
 - **US43**
-  
+
 ![](images/US43.png)
 - **US44**
-  
+
 ![](images/US44.png)
 
 - **US45**
-![](images/facebook.png)
-![](images/terminos.png)
-![](images/politica.png)
+  ![](images/facebook.png)
+  ![](images/terminos.png)
+  ![](images/politica.png)
 
 - **US53**
 
 ![](images/US53.png)
 - **US51**
-  
+
 ![](images/US51.png)
 - **US50**
-  
+
 ![](images/US50.png)
 - **US52**
-  
+
 ![](images/US52.png)
 - **US01**
-  
+
 ![](images/US01.png)
 - **US07**
-  
+
 ![](images/US07.png)
 
 - **US22**
-![](images/US22.png)
+  ![](images/US22.png)
 
 
 
@@ -2642,13 +2684,57 @@ Application desplegada. Enlace para acceder al [My Json Server:https:  //my-json
 Para la entrega del segundo sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories
 correspondientes al entregable. De la misma forma se desplego la web application parcialmente completa, pues presenta ciertos
 bugs que será solucionados en el siguiente sprint.
-Landing page:
-El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama
-"develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
+
+**Despliege de la Landing Page**
+
+LandingPage: https://villasystem.github.io/GrapeFlow-LandingPage/
+
+
+Se implemento el call to action en la landing page, el cual redirige a la web application.
+
+![](images/landing.PNG)
+
+![](images/landing2.PNG)
+
+![](images/landing3.PNG)
+
+![](images/landing4.PNG)
+
+
+**Despliege de la web application**
+
 
 WebAplication: https://grapeflowweb.netlify.app
 
-LandingPage: https://villasystem.github.io/GrapeFlow-LandingPage/
+
+**/login:**
+
+![](images/web.PNG)
+
+**/producer/inventory:**
+
+![](images/web22.PNG)
+
+**/producer/lote:**
+
+![](images/web3.PNG)
+
+**/producer/clients:**
+
+**![](images/web4.PNG)**
+
+/producer/orders:
+
+**![](images/web5.PNG)**
+
+**/consumer/product:**
+
+**![](images/web6.PNG)**
+
+**/consumer/orders:**
+
+![](images/web7.PNG)
+
 
 ### [5.2.2.8. Team Collaboration Insights during Sprint.](#5221-Sprint-Planning-2)
 
@@ -2835,11 +2921,11 @@ documentación. Es así que, se lograron cumplir las demandas del segmento objet
 
 ## Videos de Exposiciones
 
-### Exposición del (TB1)
+### Exposición del (TP1)
 **Título del Proyecto**: Grapeflow
 
 **Participantes**: Diego Huincho, Angelo Curi, Gustavo Huanca,Oscar Armas,Fernando Salhuana
 
-**Link a la Exposición en Microsoft Stream**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/EcPVzHIIgr5KqZ5yiGLenJcBzp5pBvDNHs-lK7ia4nwn1g?e=kfNFAF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+[**Link a la Exposición en Microsoft Stream:**](https://1drv.ms/v/c/cab22ef84dc9095b/EeCxgVGovAdApEIfrwFcbGABQAaK_N1rVCTqXEAAw8Mddg?e=xdXUHR)
 
 **Descripción**: El video muestra la presentación completa del proyecto Grapeflow, donde se exponen los cinco capítulos requeridos, incluyendo todos los artefactos y el trabajo completo solicitado.
