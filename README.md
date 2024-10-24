@@ -1395,7 +1395,7 @@ En este apartado se deberá mostrar opciones de inicio de sesión, las dos forma
 
 <p align = "center"> <img src="images\capturaappwenwiframe (13).png"width="700"></img> </p>
 
-**Login - Consumidor - GrapeFlow** 
+**Login - Consumidor - GrapeFlow**
 
 En el caso del login de consumidor, se deberá mostrar un formulario de inicio de sesión con los campos negocio al que se encuentra asociado y código de usuario.
 
@@ -1467,7 +1467,7 @@ En este apartado se deberá mostrar opciones de inicio de sesión, las dos forma
 
 <p align = "center"> <img src="images\mobile_weframes (11).png"width="700"></img> </p>
 
-**Login - Consumidor - GrapeFlow** 
+**Login - Consumidor - GrapeFlow**
 
 En el caso del login de consumidor, se deberá mostrar un formulario de inicio de sesión con los campos negocio al que se encuentra asociado y código de usuario.
 
@@ -1554,13 +1554,13 @@ En esta sección se muestra el diseño del login de la aplicación web, con opci
 
 <p align = "center"> <img src="images\Captura de pantalla 2024-09-20 042303.png"width="700"></img> </p>
 
-**Login - Consumidor - GrapeFlow** 
+**Login - Consumidor - GrapeFlow**
 
 En el caso del login de consumidor, se muestra un formulario de inicio de sesión con los campos negocio al que se encuentra asociado y código de usuario.
 
 <p align = "center"> <img src="images\Captura de pantalla 2024-09-20 042326.png"width="700"></img> </p>
 
-**Historial Pedido - GrapeFlow** 
+**Historial Pedido - GrapeFlow**
 
 En esta sección se muestra el historial de pedidos realizados por los consumidores asociados, con la opción de ver detalles de cada pedido, actualizar el estado del mismo y eliminar pedidos.
 
@@ -1702,25 +1702,44 @@ US23: Crear Cuenta de productor
 
 ## [4.5. Web Applications Prototyping.](#web-applications-prototyping)
 
-Para el desarrollo del prototipado y diseño en general se utilizo figma, ademas para el prototipado se cuido que la aplicacion cumple una serie de criterios para que la experiencia del usuario pueda ser la mas optima.
+Para poder elaborar los prototipos de la interfaz de usuario destinados a Desktop y Mobile Web Browser, se siguieron una serie
+de criterios fundamentales, entre ellos:
+1. Claridad y Facilidad: El enfoque fue lograr que la navegación en la aplicación sea intuitiva y comprensible, con el objetivo
+   de que los usuarios puedan comprender plenamente las funciones de la aplicación, como son el registro de procesos y la
+   visualización de reportes estadísticos.
+2. Diseño Responsive: Se ha tenido en cuenta la importancia del diseño "responsive" para garantizar que la aplicación web
+   sea compatible con una variedad tamaños de pantalla, de tal manera que los usuarios no se vean limitados por el
+   dispositivo que utilicen.
+3. Priorización de Información Relevante: El diseño de la aplicación se enfoca en mostrar únicamente la información más
+   importante para los usuarios pertenecientes al segmento objetivo
 
-Prototipado Web:
 
-Prototipado Mobile:
+**DESKTOP**
+
+![](images/prototype.PNG)
+
+[Prototype desktop video url en Microsoft Stream](https://upcedupe-my.sharepoint.com/personal/u202215285_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215285%5Fupc%5Fedu%5Fpe%2FDocuments%2F202409291508%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E551fcd02%2Dbfb3%2D48f8%2Dbde5%2D377b5b3f6eff)
+
+
+**MOBILE**
+
+![](images/prototype2.PNG)
+
+[Prototype desktop video url en Microsoft Stream](https://upcedupe-my.sharepoint.com/personal/u202215285_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215285%5Fupc%5Fedu%5Fpe%2FDocuments%2F2024%2D09%2D29%2015%2D23%2D46%201%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6894500d%2D6c46%2D4259%2Da08d%2D5828d6de0361)
 
 ## [4.6. Domain-Driven Software Architecture.](#domain-driven-software-architecture)
 ### [4.6.1. Software Architecture Context Diagram.](#software-architecture-context-diagram)
- ![ContextDiagramGrapeFlow](images/ContainerDiagram.png) 
+![ContextDiagramGrapeFlow](images/ContainerDiagram.png)
 ### [4.6.2. Software Architecture Container Diagrams.](#software-architecture-container-diagram)
- ![ContainerDiagramGrapeFlow](images/diagramContext.png) 
+![ContainerDiagramGrapeFlow](images/diagramContext.png)
 ### [4.6.3. Software Architecture Components Diagrams.](#software-architecture-components-diagram)
- ![ContainerDiagramGrapeFlow](images/componentDiagram.png)
+![ContainerDiagramGrapeFlow](images/componentDiagram.png)
 ## [4.7. Software Object-Oriented Design.](#software-object-oriented-design)
 
 Implementar un diseño basado en objetos será fundamental para nuestro proyecto. Este enfoque nos ayudará a construir un sistema modular y escalable, aprovechando conceptos como encapsulación, herencia y polimorfismo para desarrollar componentes que sean reutilizables y fáciles de mantener.
 
 ### [4.7.1. Class Diagrams.](#class-diagram)
- ![ClassDiagrams](images/classDiagram.png)
+![ClassDiagrams](images/classDiagram.png)
 ### [4.7.2. Class Dictionary.](#class-dictionary)
 
 #### Platform
