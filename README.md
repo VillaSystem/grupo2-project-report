@@ -3,7 +3,7 @@
 <div align="center">
     <h1> Universidad Peruana de Ciencias Aplicadas </h1>
 
- ![LogoUpc](images/upcLogo.png) 
+![LogoUpc](images/upcLogo.png)
 
   <p align="center">
     Ingeniería de Software - 202402
@@ -204,7 +204,7 @@ Los integrantes del equipo son:
       - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
       - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
       - [**5.2.2. Sprint 2.**](#522-Sprint-2)
-      - 
+      -
 
 - [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 - [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
@@ -378,7 +378,7 @@ _¿Qué problemas enfrenta nuestro producto? ¿Cómo los resolveremos?_
 
 * _**Problema para Consumidores:**_ Falta de acceso a información detallada sobre los licores, lo que dificulta tomar decisiones de compra informadas.
 * _**Solución:**_ Crear una aplicación que muestre información detallada y verificada sobre cada licor, mejorando la experiencia de compra.
-  
+
 _¿Qué características son importantes?_
 
 * Componentes que recopilen y analicen datos en tiempo real sobre el proceso de producción de licores.
@@ -413,13 +413,13 @@ _**Creemos**_ que los consumidores apreciarán tener acceso a información detal
 
 - **Hypothesis Statement 01:**
   <br><br>
-_**Creemos**_ que los fabricantes de licores mejorarán la calidad y eficiencia de su producción si tienen acceso a componentes especializados que les permitan monitorear variables críticas como pH, temperatura, y tiempo de añejamiento en tiempo real.
-_**Sabremos**_ que esta hipótesis es cierta _**cuando**_ observemos una reducción en los errores de producción, un incremento en la calidad del producto final, y un aumento en la satisfacción de los fabricantes con nuestra plataforma.
+  _**Creemos**_ que los fabricantes de licores mejorarán la calidad y eficiencia de su producción si tienen acceso a componentes especializados que les permitan monitorear variables críticas como pH, temperatura, y tiempo de añejamiento en tiempo real.
+  _**Sabremos**_ que esta hipótesis es cierta _**cuando**_ observemos una reducción en los errores de producción, un incremento en la calidad del producto final, y un aumento en la satisfacción de los fabricantes con nuestra plataforma.
   <br><br>
 - **Hypothesis Statement 02:**
   <br><br>
-_**Creemos**_ que los consumidores estarán más dispuestos a comprar licores si tienen acceso a una aplicación que les proporcione información detallada y confiable sobre cada producto, como el tipo de uva, el origen de los ingredientes, y las condiciones de añejamiento.
-_**Sabremos**_ que esta hipótesis es _**cierta**_ cuando veamos un aumento en el uso de la aplicación, un incremento en las ventas de los productos destacados, y una mayor satisfacción de los usuarios en sus decisiones de compra.
+  _**Creemos**_ que los consumidores estarán más dispuestos a comprar licores si tienen acceso a una aplicación que les proporcione información detallada y confiable sobre cada producto, como el tipo de uva, el origen de los ingredientes, y las condiciones de añejamiento.
+  _**Sabremos**_ que esta hipótesis es _**cierta**_ cuando veamos un aumento en el uso de la aplicación, un incremento en las ventas de los productos destacados, y una mayor satisfacción de los usuarios en sus decisiones de compra.
   <br><br>
 
 #### [1.2.2.4 Lean UX Canvas](#lean-ux-canvas)
