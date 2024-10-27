@@ -2466,7 +2466,8 @@ Link del Pivotal: https://www.pivotaltracker.com/n/projects/2721206
 | US18       | Consultar Historial de Pedidos                        | 20             | Implementar Historial de Pedidos                      | Como consumidor, quiero consultar mi historial de pedidos para revisar mis compras pasadas.                                                                                | 5 h            | Diego          | Done           |
 | US20       | Visualizar Información Detallada del Vino             | 21             | Diseñar Página de Detalle de Vino                     | Como consumidor, quiero ver la información detallada de cada vino para tomar decisiones informadas sobre mis compras.                                                      | 5 h            | Gustavo        | Done           |
 | US23       | Crear Cuenta de productor                             | 25             | Desarrollar Formulario de Registro de Productor       | Como productor, quiero crear una cuenta para poder tener acceso a las funcionalidades de la plataforma.                                                                    | 5 h            | Angelo         | Done           |
-
+| US18       | Filtrar Vinos por Tipo               | 26             | Implementar la funcionalidad de filtrar los vinos                         | Como productor, quiero filtrar los vinos disponibles por tipo (tinto, blanco, rosado).                                  | 3 h            | Fernando        | Done           |
+| US19       | Ver Detalles de Vino                             | 27             | Implementar la visualización de información detallada de un vino       | Como productor, quiero visualizar la información detallada de un vino en específico.                                                                                        | 5 h            | Fernando         | Done           |
 
 
 ### [5.2.2.3. Development Evidence for Sprint Review.](#5221-Sprint-Planning-2)
@@ -2887,8 +2888,66 @@ Link de la organización: https://github.com/VillaSystem
   </tr>
 </table>
 
+## [5.3.	Validation Interviews.](#validation-Interviews)
 
+Dentro de la sección **"Validation Interviews"** de nuestro proyecto, nos enfocamos en perfeccionar la aplicación web destinada a optimizar la gestión de producción y venta de vino. Esta fase crítica del proyecto implica un diálogo interactivo con nuestros usuarios primordiales: los productores de vino y los clientes de la plataforma. A través de entrevistas estructuradas, nos proponemos captar sus impresiones y sugerencias. Lo mencionado garantiza que la aplicación no solo cumpla con los estándares técnicos, sino que también resuene con las dinámicas operativas y las expectativas tanto de los productores como de los consumidores. A continuación, se especifican los user goals necesarios para la ejecución de las entrevistas:
 
+### [5.3.1.	Diseño de Entrevistas](#531-diseño-de-entrevistas)
+
+Esta sección presenta los objetivos de usuario clave que guiarán nuestras entrevistas. Estos ‘user goals’ son fundamentales para asegurar que "GrapeFlow" cumpla con las expectativas y necesidades reales de los usuarios en el sector de producción y distribución de vino. A continuación, se detallan los objetivos de usuario relevantes:
+
+## User Goal: Iniciar sesión
+**User persona:** Productores y Clientes.
+
+### Explicación del flujo:
+Primero, el usuario accederá a la aplicación GrapeFlow desplegada. Visualizará en pantalla un formulario solicitando los datos de inicio de sesión, como correo electrónico y contraseña. Si las credenciales ingresadas son válidas, el sistema redirigirá al usuario al dashboard principal. En caso de que no sean correctas, permanecerá en la pantalla de inicio de sesión, solicitando al usuario que reingrese sus credenciales para poder continuar.
+
+---
+
+## User Goal: Navegar por el dashboard
+**User persona:** Productores y Clientes.
+
+### Explicación del flujo:
+Tras iniciar sesión, el usuario es redirigido al dashboard, donde tiene acceso a varias secciones del sistema GrapeFlow. Entre las opciones disponibles, se encuentra:
+
+- **Inventario:** permite visualizar y gestionar el stock de productos.
+- **Vinificación:** proporciona información detallada sobre el proceso de elaboración de vinos en curso.
+- **Mis clientes:** permite gestionar la lista de clientes.
+- **Mis pedidos:** accede a los pedidos registrados.
+- **Soporte:** facilita la conexión con el área de soporte en caso de problemas técnicos o preguntas.
+- **Vinos:** despliega una lista de los vinos en el sistema.
+
+---
+
+## User Goal: Crear un nuevo pedido
+**User persona:** Clientes.
+
+### Explicación del flujo:
+Para crear un nuevo pedido, el usuario debe ingresar a la sección **Mis pedidos** en el dashboard. Aquí, verá un listado de pedidos anteriores con su estado. Al seleccionar el botón **"Nuevo Pedido"**, se abre un formulario emergente que solicita la información necesaria para el pedido. Una vez completados los datos, el sistema confirmará la creación del pedido y lo almacenará en la lista de pedidos activos.
+
+---
+
+## User Goal: Registrar procesos de vinificación
+**User persona:** Productores.
+
+### Explicación del flujo:
+Dentro de la sección **Vinificación**, el usuario seleccionará un proceso de elaboración de vinos activo. Luego, tendrá la opción de crear un nuevo registro dentro del proceso, a través de un botón que abre un formulario emergente. En este formulario, los usuarios pueden ingresar detalles específicos del proceso de vinificación en cada una de sus etapas, incluyendo datos como la calidad de las uvas, aditivos utilizados y el tiempo de fermentación.
+
+---
+
+## User Goal: Ver perfil
+**User persona:** Productores y Clientes.
+
+### Explicación del flujo:
+El usuario puede ver su perfil en cualquier momento haciendo clic en su nombre o foto, ubicado en el extremo derecho de la barra de navegación superior. En su perfil, puede ver su rol dentro de la organización, editar información personal y actualizar su contraseña si es necesario.
+
+---
+
+## User Goal: Ver información de la empresa
+**User persona:** Clientes.
+
+### Explicación del flujo:
+El usuario puede acceder a la información de la empresa de dos maneras: a través del botón en la barra de navegación superior o seleccionando la opción **Mi organización** en el dashboard. Aquí, los usuarios pueden ver información general de la empresa, como los detalles del inventario, clientes activos, pedidos recientes y estadísticas clave de producción.
 
 
 # Concluciones
