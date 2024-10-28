@@ -2798,7 +2798,7 @@ Capturas de pantalla landing page:
 ![](images/LandingPage2.png)
 
 
-![](images/LandingPage3.png)
+![](images/LandingPage33.png)
 
 
 ![](images/LandingPage4.png)
