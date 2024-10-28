@@ -2783,6 +2783,18 @@ Link de la organización: https://github.com/VillaSystem
   </tr>
 </table>
 
+### 5.2.3.7. Software  Deployment Evidence for Sprint Review
+
+En el tercer sprint, se lanzó una versión completamente operativa de la landing page, cumpliendo con las historias de usuario previstas para este entregable. Asimismo, se desplegó parcialmente la aplicación web, que aún presenta algunos errores a ser corregidos en el siguiente sprint. El back-end también fue implementado de forma parcial, ya que aún falta finalizar ciertos componentes.
+
+Landing page:
+Se actualizó el despliegue de la página de destino en GitHub Pages tras fusionar la rama "develop" con la rama principal ("main"), lo cual permitió incorporar las nuevas implementaciones de la landing page.
+
+Capturas de pantalla landing page: 
+
+
+
+
 ## [5.3.	Validation Interviews.](#validation-Interviews)
 ### [5.3.1.	Diseño de Entrevistas](#531-diseño-de-entrevistas)
 
