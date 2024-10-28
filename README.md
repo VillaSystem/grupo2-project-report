@@ -2787,7 +2787,7 @@ Link de la organización: https://github.com/VillaSystem
 
 En el tercer sprint, se lanzó una versión completamente operativa de la landing page, cumpliendo con las historias de usuario previstas para este entregable. Asimismo, se desplegó parcialmente la aplicación web, que aún presenta algunos errores a ser corregidos en el siguiente sprint. El back-end también fue implementado de forma parcial, ya que aún falta finalizar ciertos componentes.
 
-Landing page:
+#### Landing page:
 Se actualizó el despliegue de la página de destino en GitHub Pages tras fusionar la rama "develop" con la rama principal ("main"), lo cual permitió incorporar las nuevas implementaciones de la landing page.
 
 Capturas de pantalla landing page: 
@@ -2805,6 +2805,52 @@ Capturas de pantalla landing page:
 
 
 ![](images/LandingPage5.png)
+
+#### Web application Front-end.
+
+![](images/fron1.png)
+
+![](images/fron2.png)
+
+![](images/fron3.png)
+
+![](images/fron4.png)
+
+![](images/fron5.png)
+
+![](images/fron6.png)
+
+![](images/fron7.png)
+
+![](images/fron8.png)
+
+![](images/fron9.png)
+
+![](images/fron10.png)
+
+![](images/fron11.png)
+
+![](images/fron12.png)
+
+![](images/fron13.png)
+
+![](images/fron14.png)
+
+![](images/fron15.png)
+
+![](images/fron16.png)
+
+![](images/fron17.png)
+
+![](images/fron18.png)
+
+![](images/fron19.png)
+
+![](images/fron20.png)
+
+![](images/fron21.png)
+
+#### Web Services Back-end.
 
 
 ## [5.3.	Validation Interviews.](#validation-Interviews)
