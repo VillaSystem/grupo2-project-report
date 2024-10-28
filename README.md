@@ -2792,7 +2792,19 @@ Se actualizó el despliegue de la página de destino en GitHub Pages tras fusion
 
 Capturas de pantalla landing page: 
 
+![](images/LandingPage1.png)
 
+
+![](images/LandingPage2.png)
+
+
+![](images/LandingPage3.png)
+
+
+![](images/LandingPage4.png)
+
+
+![](images/LandingPage5.png)
 
 
 ## [5.3.	Validation Interviews.](#validation-Interviews)
