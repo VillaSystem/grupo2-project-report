@@ -2911,7 +2911,7 @@ Dentro de la sección **"Validation Interviews"** de nuestro proyecto, nos enfoc
 Esta sección presenta los objetivos de usuario clave que guiarán nuestras entrevistas. Estos ‘user goals’ son fundamentales para asegurar que "GrapeFlow" cumpla con las expectativas y necesidades reales de los usuarios en el sector de producción y distribución de vino. A continuación, se detallan los objetivos de usuario relevantes:
 
 
-## Landing Page: Navegación y acceso a información general
+### Navegación y acceso a información general
 **User Goal:** Navegar por la landing page
 
 **User Persona:** Productores y Consumidores
@@ -2920,53 +2920,204 @@ Esta sección presenta los objetivos de usuario clave que guiarán nuestras entr
 
 ---
 
-## User Goals para Productores
+### User Goals para Productores
 
-### Home: Acceso rápido a órdenes de compra
+#### Acceso rápido a órdenes de compra
 - **User Goal:** Como productor, quiero ver las órdenes de compra que tengo para llevar un seguimiento rápido de los pedidos recibidos.
 - **Explicación del flujo:** En la sección Home, el productor visualiza un resumen de las órdenes de compra activas, permitiendo gestionar de forma eficiente la producción y la distribución en función de la demanda.
 
-### Inventory: Gestión de productos en inventario
+#### Gestión de productos en inventario
 - **User Goal:** Como productor, quiero añadir, eliminar y visualizar productos en inventario para controlar los materiales disponibles.
 - **Explicación del flujo:** En Inventory, el productor puede gestionar productos añadiéndolos, eliminándolos y revisando los insumos almacenados para mantener actualizados los niveles de inventario.
 
-### Winemaking: Registro detallado de cada lote en proceso
+#### Registro detallado de cada lote en proceso
 - **User Goal:** Como productor, quiero gestionar información de cada lote de vino en producción para llevar un seguimiento detallado del proceso de elaboración.
 - **Explicación del flujo:** En Winemaking, el productor añade detalles como número de lote, tipo de uva, fecha de inicio, cantidad en litros, pH, temperatura y estado del proceso, y actualiza el estado de cada fase conforme avanza la producción.
 
-### My Clients: Visualización de información de clientes
+#### Visualización de información de clientes
 - **User Goal:** Como productor, quiero poder ver la información de mis clientes para mantener actualizada la lista de contactos y detalles relevantes.
 - **Explicación del flujo:** En My Clients, el productor puede visualizar información de clientes como nombres, contactos, nombre de negocio y RUC, facilitando la consulta y gestión de los clientes sin la opción de añadir nuevos clientes.
 
-### My Orders: Visualización de pedidos recibidos
+#### Visualización de pedidos recibidos
 - **User Goal:** Como productor, quiero ver los pedidos recibidos para gestionar su estado y tiempos de entrega.
 - **Explicación del flujo:** En My Orders, el productor puede ver detalles de cada pedido, como número de pedido, cliente, productos solicitados, método de pago y estado del pedido, lo cual facilita una organización adecuada de las entregas.
 
-### Wines: Gestión de productos disponibles para la venta
+#### Gestión de productos disponibles para la venta
 - **User Goal:** Como productor, quiero ver detalles de los vinos disponibles y poder eliminar o editar sus características.
 - **Explicación del flujo:** En Wines, el productor visualiza los vinos listos para la venta, con detalles como la foto, el lote de origen y características específicas, y puede editar o eliminar productos según sea necesario.
 
 ---
 
-## User Goals para Consumidores
+### User Goals para Consumidores
 
-### Inicio: Visualización de los vinos con mayor calificación
+#### Visualización de los vinos con mayor calificación
 - **User Goal:** Como consumidor, quiero ver los vinos con mayor rating para descubrir los productos mejor valorados.
 - **Explicación del flujo:** En la pantalla de inicio, el consumidor puede visualizar los vinos destacados por su calificación, lo cual le permite encontrar opciones recomendadas por otros usuarios.
 
-### My Orders: Gestión de las compras realizadas
+#### Gestión de las compras realizadas
 - **User Goal:** Como consumidor, quiero ver mis órdenes de compra para hacer un seguimiento de las compras realizadas.
 - **Explicación del flujo:** En My Orders, el consumidor puede visualizar todos los detalles de sus compras, incluyendo número de pedido, nombre y contacto del productor, productos adquiridos, método de pago, fecha de solicitud y entrega, estado y condiciones de transporte, permitiéndole gestionar sus pedidos.
 
-### Wines: Visualización de detalles de los vinos
+#### Visualización de detalles de los vinos
 - **User Goal:** Como consumidor, quiero ver los detalles de cada vino disponible para tomar una decisión informada al comprar.
 - **Explicación del flujo:** En Wines, el consumidor puede ver información detallada de los vinos, como la foto, detalles del lote y origen, y cuenta con la opción de comprar directamente desde la vista de producto.
+
 
 
 ### 5.3.2. Registro de Entrevistas.
 
 
-### 5.3.3. Evaluaciones según heurísticas.
+#### Segmento objetivo productor
+
+**Entrevistado: 1**
+
+
+**Nombre :**
+
+
+**Apellidos:**
+
+
+**Edad :**
+
+
+**Distrito:**
+
+
+**Imagen:**
+
+
+  | Resumen de la Entrevista                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Timing          | URL                                                                    |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------------------------------------------------------------|
+| Julio Du Bois participó en una entrevista para evaluar la interfaz de usuario del administrador de la empresa. A lo largo de la conversación, se abordaron temas como la creación de cuentas, el ajuste del idioma, el registro de empresas, el inicio de sesión y la configuración de perfiles tanto de usuario como de empresa, junto con la monitorización de los cultivos en curso. Julio consideró que, aunque la interfaz es simple, resulta incompleta, recomendando su mejora para incrementar su potencial comercial y optimización.Tras iniciar sesión en la aplicación, Julio propuso la inclusión de colores más vivos y que contrasten mejor con el estilo de la empresa, además de mejorar el tamaño de la fuente para facilitar la lectura. Al registrar una empresa, se introdujo la denominación social entre otros datos necesarios. En cuanto al acceso a los perfiles de usuario y de empresa, las políticas de privacidad impiden al administrador entrar en la cuenta de un trabajador. Julio sugirió entonces permitir que el supervisor técnico otorgue permisos para que el administrador pueda acceder a su perfil, lo que facilitaría la verificación del progreso del empleado sin comprometer datos personales o privados. El entrevistado recomendó establecer el español como idioma predeterminado de la aplicación para evitar dificultades con el personal técnico que no domina el inglés. Al intentar acceder a la sección de cultivos en curso, encontró dificultades, aunque las tablas de registro resultaron ser claras y ofrecían información pertinente. Simuló también la entrada de datos en una tabla, como la fecha y la temperatura del aire, pero señaló que esta función no parece prioritaria para la gestión del administrador. La entrevista concluyó destacando la simplicidad y facilidad de uso de la interfaz. Julio subrayó que, con las mejoras adecuadas, la aplicación tiene el potencial de convertirse en una herramienta de gran valor para la gestión de cultivos. | 59:14 – 1:14:04 | upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4 |
+
+
+**Entrevistado: 2**
+
+
+**Nombre :**
+
+
+**Apellidos:**
+
+
+**Edad :**
+
+
+**Distrito:**
+
+
+**Imagen:**
+
+
+| Resumen de la Entrevista  | Timing | URL |
+|---------------------------|--------|-----|
+|                           |        |     | 
+
+
+
+**Entrevistado: 3**
+
+
+**Nombre :**
+
+
+**Apellidos:**
+
+
+**Edad :**
+
+
+**Distrito:**
+
+
+**Imagen:**
+
+
+| Resumen de la Entrevista  | Timing | URL |
+|---------------------------|--------|-----|
+|                           |        |     | 
+
+
+
+#### Segmento objetivo consumidor
+
+
+**Entrevistado: 1**
+
+
+**Nombre :**
+
+
+**Apellidos:**
+
+
+**Edad :**
+
+
+**Distrito:**
+
+
+**Imagen:**
+
+
+
+| Resumen de la Entrevista                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Timing          | URL                                                                    |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------------------------------------------------------------|
+| Julio Du Bois participó en una entrevista para evaluar la interfaz de usuario del administrador de la empresa. A lo largo de la conversación, se abordaron temas como la creación de cuentas, el ajuste del idioma, el registro de empresas, el inicio de sesión y la configuración de perfiles tanto de usuario como de empresa, junto con la monitorización de los cultivos en curso. Julio consideró que, aunque la interfaz es simple, resulta incompleta, recomendando su mejora para incrementar su potencial comercial y optimización.Tras iniciar sesión en la aplicación, Julio propuso la inclusión de colores más vivos y que contrasten mejor con el estilo de la empresa, además de mejorar el tamaño de la fuente para facilitar la lectura. Al registrar una empresa, se introdujo la denominación social entre otros datos necesarios. En cuanto al acceso a los perfiles de usuario y de empresa, las políticas de privacidad impiden al administrador entrar en la cuenta de un trabajador. Julio sugirió entonces permitir que el supervisor técnico otorgue permisos para que el administrador pueda acceder a su perfil, lo que facilitaría la verificación del progreso del empleado sin comprometer datos personales o privados. El entrevistado recomendó establecer el español como idioma predeterminado de la aplicación para evitar dificultades con el personal técnico que no domina el inglés. Al intentar acceder a la sección de cultivos en curso, encontró dificultades, aunque las tablas de registro resultaron ser claras y ofrecían información pertinente. Simuló también la entrada de datos en una tabla, como la fecha y la temperatura del aire, pero señaló que esta función no parece prioritaria para la gestión del administrador. La entrevista concluyó destacando la simplicidad y facilidad de uso de la interfaz. Julio subrayó que, con las mejoras adecuadas, la aplicación tiene el potencial de convertirse en una herramienta de gran valor para la gestión de cultivos. | 59:14 – 1:14:04 | upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4 |
+
+
+
+**Entrevistado: 2**
+
+
+**Nombre :**
+
+
+**Apellidos:**
+
+
+**Edad :**
+
+
+**Distrito:**
+
+
+**Imagen:**
+
+
+
+| Resumen de la Entrevista  | Timing | URL |
+|---------------------------|--------|-----|
+|                           |        |     | 
+
+
+
+**Entrevistado: 3**
+
+
+**Nombre :**
+
+
+**Apellidos:**
+
+
+**Edad :**
+
+
+**Distrito:**
+
+
+**Imagen:**
+
+
+| Resumen de la Entrevista  | Timing | URL |
+|---------------------------|--------|-----|
+|                           |        |     | 
+                   
+
+
+## 5.3.3. Evaluaciones según heurísticas.
 
 __________________________________________________________________________________________
 
@@ -3166,6 +3317,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 
 **_Recomendación:_**
+
 
 
 ## 5.4. Video About-the-Product.
