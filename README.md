@@ -2995,24 +2995,24 @@ Esta sección presenta los objetivos de usuario clave que guiarán nuestras entr
 **Entrevistado: 2**
 
 
-**Nombre :**
+**Nombre :**  Giancarlo
 
 
-**Apellidos:**
+**Apellidos:**  Lapa Cunias
 
 
-**Edad :**
+**Edad :**  24
 
 
-**Distrito:**
+**Distrito:**  Lince
 
 
-**Imagen:**
+**Imagen:**  
 
 
 | Resumen de la Entrevista  | Timing | URL |
 |---------------------------|--------|-----|
-|                           |        |     | 
+| Giancarlo Lapa Cunias participó en una entrevista para evaluar la interfaz de usuario del consumidor. En la entrevista el nos menciona, que las cards de los servicios que mostramos en la landing page es muy acertada, debido a que rapidamente puede saber los servicios que ofrecemos como empresa. Ademas el nos menciona que deberiamos incluir la internacionalización en la landing page para las personas que hablan otro lenguaje y que están en nuestro pais y quisieran comprar o vender sus productos. Al iniciar la sesión, Giancarlo se da cuenta rapidamente al tipo de usuario al cual debe ingresar, seguidamente se muestra la pagina "home/inicio" y nos comenta que la pagina es muy amigable, pero deberiamos mejorar con la estilización para que se vea mas profesional. Con respecto al uso de la web, Giancarlo pudo ver los vinos populares y rapidamente pudo ver los detalles del vino que queria ver con el uso del filtro que está incorporado en nuestra web en la pagina "vinos/wines". El entrevistado nos comenta que podriamos incorporar un apartado de carrito de compras para que el usuario pueda comprar mas de un producto. La entrevista concluyó destacandotelas la simplicidad y la facilidad de uso de la interfaz. Giancarlo nos comenta que si tomamos en cuenta los feedbacks y lo realizamos, podemoste hacer que la aplicación tenga el potencial de convertirse en una herramienta de gran valor, para los consumidores y fanatícos del vino y pisco.                        |        |     | 
 
 
 
