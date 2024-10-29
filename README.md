@@ -2888,6 +2888,9 @@ Link de la organización: https://github.com/VillaSystem
   </tr>
 </table>
 
+
+
+
 ## [5.3.	Validation Interviews.](#validation-Interviews)
 
 Dentro de la sección **"Validation Interviews"** de nuestro proyecto, nos enfocamos en perfeccionar la aplicación web destinada a optimizar la gestión de producción y venta de vino. Esta fase crítica del proyecto implica un diálogo interactivo con nuestros usuarios primordiales: los productores de vino y los clientes de la plataforma. A través de entrevistas estructuradas, nos proponemos captar sus impresiones y sugerencias. Lo mencionado garantiza que la aplicación no solo cumpla con los estándares técnicos, sino que también resuene con las dinámicas operativas y las expectativas tanto de los productores como de los consumidores. A continuación, se especifican los user goals necesarios para la ejecución de las entrevistas:
@@ -2896,58 +2899,269 @@ Dentro de la sección **"Validation Interviews"** de nuestro proyecto, nos enfoc
 
 Esta sección presenta los objetivos de usuario clave que guiarán nuestras entrevistas. Estos ‘user goals’ son fundamentales para asegurar que "GrapeFlow" cumpla con las expectativas y necesidades reales de los usuarios en el sector de producción y distribución de vino. A continuación, se detallan los objetivos de usuario relevantes:
 
-## User Goal: Iniciar sesión
-**User persona:** Productores y Clientes.
 
-### Explicación del flujo:
-Primero, el usuario accederá a la aplicación GrapeFlow desplegada. Visualizará en pantalla un formulario solicitando los datos de inicio de sesión, como correo electrónico y contraseña. Si las credenciales ingresadas son válidas, el sistema redirigirá al usuario al dashboard principal. En caso de que no sean correctas, permanecerá en la pantalla de inicio de sesión, solicitando al usuario que reingrese sus credenciales para poder continuar.
+## Landing Page: Navegación y acceso a información general
+**User Goal:** Navegar por la landing page
 
----
+**User Persona:** Productores y Consumidores
 
-## User Goal: Navegar por el dashboard
-**User persona:** Productores y Clientes.
-
-### Explicación del flujo:
-Tras iniciar sesión, el usuario es redirigido al dashboard, donde tiene acceso a varias secciones del sistema GrapeFlow. Entre las opciones disponibles, se encuentra:
-
-- **Inventario:** permite visualizar y gestionar el stock de productos.
-- **Vinificación:** proporciona información detallada sobre el proceso de elaboración de vinos en curso.
-- **Mis clientes:** permite gestionar la lista de clientes.
-- **Mis pedidos:** accede a los pedidos registrados.
-- **Soporte:** facilita la conexión con el área de soporte en caso de problemas técnicos o preguntas.
-- **Vinos:** despliega una lista de los vinos en el sistema.
+**Explicación del flujo:** El usuario ingresa a la landing page de la aplicación web, donde puede desplazarse para ver información general sobre los servicios y beneficios de utilizar la plataforma. Puede cambiar el idioma entre inglés y español mediante un botón y acceder directamente a la aplicación web a través de un Call To Action (CTA) en la vista principal.
 
 ---
 
-## User Goal: Crear un nuevo pedido
-**User persona:** Clientes.
+## User Goals para Productores
 
-### Explicación del flujo:
-Para crear un nuevo pedido, el usuario debe ingresar a la sección **Mis pedidos** en el dashboard. Aquí, verá un listado de pedidos anteriores con su estado. Al seleccionar el botón **"Nuevo Pedido"**, se abre un formulario emergente que solicita la información necesaria para el pedido. Una vez completados los datos, el sistema confirmará la creación del pedido y lo almacenará en la lista de pedidos activos.
+### Home: Acceso rápido a órdenes de compra
+- **User Goal:** Como productor, quiero ver las órdenes de compra que tengo para llevar un seguimiento rápido de los pedidos recibidos.
+- **Explicación del flujo:** En la sección Home, el productor visualiza un resumen de las órdenes de compra activas, permitiendo gestionar de forma eficiente la producción y la distribución en función de la demanda.
+
+### Inventory: Gestión de productos en inventario
+- **User Goal:** Como productor, quiero añadir, eliminar y visualizar productos en inventario para controlar los materiales disponibles.
+- **Explicación del flujo:** En Inventory, el productor puede gestionar productos añadiéndolos, eliminándolos y revisando los insumos almacenados para mantener actualizados los niveles de inventario.
+
+### Winemaking: Registro detallado de cada lote en proceso
+- **User Goal:** Como productor, quiero gestionar información de cada lote de vino en producción para llevar un seguimiento detallado del proceso de elaboración.
+- **Explicación del flujo:** En Winemaking, el productor añade detalles como número de lote, tipo de uva, fecha de inicio, cantidad en litros, pH, temperatura y estado del proceso, y actualiza el estado de cada fase conforme avanza la producción.
+
+### My Clients: Visualización de información de clientes
+- **User Goal:** Como productor, quiero poder ver la información de mis clientes para mantener actualizada la lista de contactos y detalles relevantes.
+- **Explicación del flujo:** En My Clients, el productor puede visualizar información de clientes como nombres, contactos, nombre de negocio y RUC, facilitando la consulta y gestión de los clientes sin la opción de añadir nuevos clientes.
+
+### My Orders: Visualización de pedidos recibidos
+- **User Goal:** Como productor, quiero ver los pedidos recibidos para gestionar su estado y tiempos de entrega.
+- **Explicación del flujo:** En My Orders, el productor puede ver detalles de cada pedido, como número de pedido, cliente, productos solicitados, método de pago y estado del pedido, lo cual facilita una organización adecuada de las entregas.
+
+### Wines: Gestión de productos disponibles para la venta
+- **User Goal:** Como productor, quiero ver detalles de los vinos disponibles y poder eliminar o editar sus características.
+- **Explicación del flujo:** En Wines, el productor visualiza los vinos listos para la venta, con detalles como la foto, el lote de origen y características específicas, y puede editar o eliminar productos según sea necesario.
 
 ---
 
-## User Goal: Registrar procesos de vinificación
-**User persona:** Productores.
+## User Goals para Consumidores
 
-### Explicación del flujo:
-Dentro de la sección **Vinificación**, el usuario seleccionará un proceso de elaboración de vinos activo. Luego, tendrá la opción de crear un nuevo registro dentro del proceso, a través de un botón que abre un formulario emergente. En este formulario, los usuarios pueden ingresar detalles específicos del proceso de vinificación en cada una de sus etapas, incluyendo datos como la calidad de las uvas, aditivos utilizados y el tiempo de fermentación.
+### Inicio: Visualización de los vinos con mayor calificación
+- **User Goal:** Como consumidor, quiero ver los vinos con mayor rating para descubrir los productos mejor valorados.
+- **Explicación del flujo:** En la pantalla de inicio, el consumidor puede visualizar los vinos destacados por su calificación, lo cual le permite encontrar opciones recomendadas por otros usuarios.
 
----
+### My Orders: Gestión de las compras realizadas
+- **User Goal:** Como consumidor, quiero ver mis órdenes de compra para hacer un seguimiento de las compras realizadas.
+- **Explicación del flujo:** En My Orders, el consumidor puede visualizar todos los detalles de sus compras, incluyendo número de pedido, nombre y contacto del productor, productos adquiridos, método de pago, fecha de solicitud y entrega, estado y condiciones de transporte, permitiéndole gestionar sus pedidos.
 
-## User Goal: Ver perfil
-**User persona:** Productores y Clientes.
+### Wines: Visualización de detalles de los vinos
+- **User Goal:** Como consumidor, quiero ver los detalles de cada vino disponible para tomar una decisión informada al comprar.
+- **Explicación del flujo:** En Wines, el consumidor puede ver información detallada de los vinos, como la foto, detalles del lote y origen, y cuenta con la opción de comprar directamente desde la vista de producto.
 
-### Explicación del flujo:
-El usuario puede ver su perfil en cualquier momento haciendo clic en su nombre o foto, ubicado en el extremo derecho de la barra de navegación superior. En su perfil, puede ver su rol dentro de la organización, editar información personal y actualizar su contraseña si es necesario.
 
----
+### 5.3.2. Registro de Entrevistas.
 
-## User Goal: Ver información de la empresa
-**User persona:** Clientes.
 
-### Explicación del flujo:
-El usuario puede acceder a la información de la empresa de dos maneras: a través del botón en la barra de navegación superior o seleccionando la opción **Mi organización** en el dashboard. Aquí, los usuarios pueden ver información general de la empresa, como los detalles del inventario, clientes activos, pedidos recientes y estadísticas clave de producción.
+### 5.3.3. Evaluaciones según heurísticas.
+
+__________________________________________________________________________________________
+
+<strong> <p style="text-align: center;"> UX Heuristics & Principles Evaluation </p> </strong> 
+
+<p style="text-align: center; font-weight: bold;   font-style: italic;"> Usability – Inclusive Design – Information Architecture </p>
+
+**_CARRERA:_** Ingeniería de Software
+
+**_CURSO:_** Desarrollo de aplicaciones open source
+
+**_SECCIÓN:_** SV54
+
+**_PROFESOR:_** Hugo Allan Mori Paiva
+
+**_AUDITOR:_** VillaSystem
+
+**_CLIENTE:_** VillaSystem
+
+__________________________________________________________________________________________
+
+**SITE o APP A EVALUAR:** GrapeFlow
+
+**TAREAS A EVALUAR:**
+
+**_Landing Page: GrapeFlow:_**
+
+1. Definir Tarea 1
+2. Definir Tarea 2
+3. Definir Tarea 3
+4. Definir Tarea 4
+
+**_Web Application: GrapeFlow:_**
+
+1. Definir Tarea 1
+2. Definir Tarea 2
+3. Definir Tarea 3
+4. Definir Tarea 4
+
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table>
+<thead>
+  <tr>
+    <th> Nivel </th>
+    <th> Descripción </th>
+  </tr>
+</thead>
+
+<tbody>
+  <!--========================================= FILA 1 ======================================-->
+  <tr>
+    <td> 1 </td>
+    <td> 
+      Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco
+      frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo 
+    </td>
+  </tr>
+  <!--========================================= FILA 2 ======================================-->
+  <tr>
+    <td> 2 </td>
+    <td> 
+      Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de
+      superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente
+      reléase
+    </td>
+  </tr>
+  <!--========================================= FILA 3 ======================================-->
+  <tr>
+    <td> 3 </td>
+    <td> 
+      Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es
+      importante que sean corregidos y se les debe asignar una prioridad alta.
+    </td>
+  </tr>
+  <!--========================================= FILA 4 ======================================-->
+  <tr>
+    <td> 4 </td>
+    <td> 
+      Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de
+      la herramienta. Es imperativo que sea corregido antes del lanzamiento
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+**TABLA DE RESUMEN - LANDING PAGE:**
+
+<table>
+<thead>
+ <tr>
+  <th> # </th>
+  <th> Problema </th>
+  <th> Escala de severidad </th>
+  <th> Heurística/Principio violada(o) </th>
+</tr>
+</thead>
+<tbody>
+<!--========================================= FILA 1 ======================================-->
+<tr>
+  <td> 1 </td>
+  <td> Contenido del Problema </td>
+  <td> Contenido de la Escala de severidad </td>
+  <td> Contenido de Heurística/Principio violada(o) </td>
+</tr>
+<!--========================================= FILA 2 ======================================-->
+<tr>
+  <td> 2 </td>
+  <td> Contenido del Problema </td>
+  <td> Contenido de la Escala de severidad </td>
+  <td> Contenido de Heurística/Principio violada(o) </td>
+</tr>
+<!--========================================= FILA 3 ======================================-->
+<tr>
+  <td> 3 </td>
+  <td> Contenido del Problema </td>
+  <td> Contenido de la Escala de severidad </td>
+  <td> Contenido de Heurística/Principio violada(o) </td>
+</tr>
+<!--========================================= FILA 4 ======================================-->
+<tr>
+  <td> 4 </td>
+  <td> Contenido del Problema </td>
+  <td> Contenido de la Escala de severidad </td>
+  <td> Contenido de Heurística/Principio violada(o) </td>
+</tr>
+</tbody>
+</table>
+
+
+**_DESCRIPCIÓN DE PROBLEMAS - LANDING PAGE:_**
+
+**_PROBLEMA #1:_**
+
+**_Severidad: 3_**
+
+**_Problema:_**
+
+
+**_Recomendación:_**
+
+
+**TABLA DE RESUMEN - WEB APPLICATION:**
+<table>
+<thead>
+ <tr>
+  <th> # </th>
+  <th> Problema </th>
+  <th> Escala de severidad </th>
+  <th> Heurística/Principio violada(o) </th>
+</tr>
+</thead>
+<tbody>
+<!--========================================= FILA 1 ======================================-->
+<tr>
+  <td> 1 </td>
+  <td> Contenido del Problema </td>
+  <td> Contenido de la Escala de severidad </td>
+  <td> Contenido de Heurística/Principio violada(o) </td>
+</tr>
+<!--========================================= FILA 2 ======================================-->
+<tr>
+  <td> 2 </td>
+  <td> Contenido del Problema </td>
+  <td> Contenido de la Escala de severidad </td>
+  <td> Contenido de Heurística/Principio violada(o) </td>
+</tr>
+<!--========================================= FILA 3 ======================================-->
+<tr>
+  <td> 3 </td>
+  <td> Contenido del Problema </td>
+  <td> Contenido de la Escala de severidad </td>
+  <td> Contenido de Heurística/Principio violada(o) </td>
+</tr>
+<!--========================================= FILA 4 ======================================-->
+<tr>
+  <td> 4 </td>
+  <td> Contenido del Problema </td>
+  <td> Contenido de la Escala de severidad </td>
+  <td> Contenido de Heurística/Principio violada(o) </td>
+</tr>
+</tbody>
+</table>
+
+
+**_DESCRIPCIÓN DE PROBLEMAS - WEB APPLICATION:_**
+
+**_PROBLEMA #1:_**
+
+**_Severidad: 3_**
+
+**_Problema:_**
+
+
+**_Recomendación:_**
+
+
+## 5.4. Video About-the-Product.
+
+
+
+## 6. Conclusiones, Bibliografía y Anexos.
 
 
 # Concluciones
