@@ -2660,128 +2660,6 @@ Link de la organización: https://github.com/VillaSystem
 ![](images/github3.PNG)
 
 
-# Technical User Story 
-
-<table>
-  <tr>
-    <td rowspan="3">TS01</td>
-    <td rowspan="3">Crear cuenta de Consumidor</td>
-    <td>TS01</td>
-    <td>Crear endpoint que permita ejecutar get consumer</td>
-    <td>Crear endpoint que permite la comunicación para obtener los valores necesitados</td>
-    <td>4</td>
-    <td>Diego Huincho</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>TS02</td>
-    <td>Validar correo</td>
-    <td>Recorrer los correos existentes para validar que no exista el mismo ingresado actualmente</td>
-    <td>4</td>
-    <td>Diego Huincho</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>TS03</td>
-    <td>Validar id</td>
-    <td>Recorrer los id existentes para validar que no exista el mismo ingresado actualmente</td>
-    <td>4</td>
-    <td>Diego Huincho</td>
-    <td>Done</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td rowspan="3">TS01</td>
-    <td rowspan="3">Obtener datos de cliente</td>
-    <td>TS04</td>
-    <td>Otener clientes</td>
-    <td>Haciendo uso de un endpoint mediante una solicitud get que se obtendrá la lista de los emprealdos registrados en la base de datos</td>
-    <td>4</td>
-    <td>Angelo Curi</td>
-    <td>Done</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td rowspan="3">TS01</td>
-    <td rowspan="3">Crear nuevo lote</td>
-    <td>TS05</td>
-    <td>Crear lote</td>
-    <td>Crear endpoint que permite la comunicación para obtener los valores necesitados</td>
-    <td>4</td>
-    <td>Angelo Curi</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>TS06</td>
-    <td>Validar existencia de un lote con id de producto</td>
-    <td>Recorrer la base de datos en busca de un id de una determinado producto para verificar su existencia</td>
-    <td>4</td>
-    <td>Gustavo Huanca</td>
-    <td>Done</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td rowspan="3">TS01</td>
-    <td rowspan="3">Crear funcionalidad de login</td>
-    <td>TK07</td>
-    <td>Crear endpoint de autenticación</td>
-    <td>Crear un endpoint que permita a los usuarios autenticarse con sus credenciales.</td>
-    <td>5</td>
-    <td>Gustavo Huanca</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>TK08</td>
-    <td>Validar credenciales</td>
-    <td>Verificar que las credenciales proporcionadas sean correctas y estén en la base de datos.</td>
-    <td>3</td>
-    <td>Gustavo Huanca</td>
-    <td>In-Process</td>
-  </tr>
-  <tr>
-    <td>TK09</td>
-    <td>Gestionar sesión</td>
-    <td>Implementar la lógica para crear y gestionar sesiones de usuario después del login exitoso.</td>
-    <td>4</td>
-    <td>Oscar Armas</td>
-    <td>To-Review</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td rowspan="3">TS02</td>
-    <td rowspan="3">Obtener Productos</td>
-    <td>TK10</td>
-    <td>Listar Productos</td>
-    <td>Crear un endpoint para obtener la lista de productos disponibles.</td>
-    <td>4</td>
-    <td>Fernando Salhuana</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>TK11</td>
-    <td>Filtrar Productos</td>
-    <td>Agregar funcionalidad para filtrar productos por categoría y disponibilidad.</td>
-    <td>3</td>
-    <td>Oscar Armas</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>TK12</td>
-    <td>Detalles del Producto</td>
-    <td>Implementar endpoint para obtener detalles específicos del producto seleccionado.</td>
-    <td>5</td>
-    <td>Gustavo Huanca</td>
-    <td>Done</td>
-  </tr>
-</table>
 
 ### 5.2.3.7. Software  Deployment Evidence for Sprint Review
 
@@ -2897,7 +2775,7 @@ documentación. Es así que, se lograron cumplir las demandas del segmento objet
 
 **Descripción**: El video muestra la presentación completa del proyecto Grapeflow, donde se exponen los cinco capítulos requeridos, incluyendo todos los artefactos y el trabajo completo solicitado.
 
-### Exposición del (TB1)
+### Exposición del (TP)
 **Título del Proyecto**: Grapeflow
 
 **Participantes**: Diego Huincho, Angelo Curi, Gustavo Huanca,Oscar Armas,Fernando Salhuana
