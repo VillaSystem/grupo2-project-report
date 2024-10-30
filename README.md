@@ -1060,7 +1060,17 @@ En el backend del proyecto VillaSystem/backend, se crearon durante este sprint l
 
 # Concluciones
 
-GRAPEFLOW representa una solución innovadora para la industria vitivinícola y de pisco, beneficiando tanto a productores como a consumidores. Para los productores, la plataforma ofrece herramientas avanzadas para la gestión integral de la producción, control de inventarios y administración de pedidos, mejorando la eficiencia y la calidad del producto. Los consumidores se benefician de una interfaz accesible y detallada que les permite tomar decisiones informadas mediante la visualización completa de la información del producto. GRAPEFLOW no solo optimiza la operación interna de los productores, sino que también enriquece la experiencia de compra del consumidor, promoviendo una conexión más transparente y eficiente entre ambos.
+- La plataforma GRAPEFLOW ha avanzado significativamente en su desarrollo, centrándose en la implementación del backend para mejorar la gestión de inventarios y pedidos en la industria vitivinícola. Estas mejoras están diseñadas para optimizar la operativa diaria de los productores, aunque el frontend aún no está conectado al backend.
+
+- El desarrollo del backend ha sido fundamental para proporcionar una base sólida para futuras integraciones con el frontend. Las nuevas funcionalidades y la estructura del backend permitirán una gestión más eficiente de los procesos, una vez que se establezca la conexión entre ambos.
+
+- La planificación de sprints ha facilitado un avance organizado y metódico en el desarrollo del backend. Al establecer límites en los user story points, el equipo ha podido concentrarse en tareas específicas sin sobrecargas, asegurando una implementación fluida y efectiva.
+
+- La implementación de una API robusta ha permitido preparar la interacción entre el frontend y el backend, facilitando la gestión de datos en tiempo real en el futuro. Esto no solo mejorará la experiencia del usuario, sino que también sentará las bases para futuras integraciones con otras plataformas y servicios.
+
+- Durante el desarrollo del backend, se ha priorizado la accesibilidad de la plataforma, asegurando que todos los usuarios, independientemente de sus habilidades técnicas, puedan interactuar con ella de manera intuitiva. Esta atención a la accesibilidad es clave para aumentar la adopción del sistema en la industria vitivinícola y garantizar que todos los productores puedan beneficiarse de las mejoras.
+
+- El enfoque en pruebas exhaustivas del backend ha sido esencial para garantizar la calidad y estabilidad del sistema. La implementación de una suite de pruebas rigurosa ha permitido identificar y resolver problemas antes de la implementación, asegurando un lanzamiento más fluido y una reducción en el tiempo de inactividad de la plataforma.
 
 # Anexos
 
