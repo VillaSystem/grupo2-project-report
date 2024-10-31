@@ -2980,6 +2980,52 @@ No se realizaron tests durante este Sprint.
 
 ### [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
 
+En el sprint se alcanzo un desarrollo en la implementación del despliegue del frontend. La cual muestra diferentes paginas donde el usuario puede interactúar acerca del start up dependiendo del tipo de usuario que es. A continuación semuestran algunas evidencias:
+
+- Pagina home producer/consumer: En la sección home, el usuario puede visualizar dependiendo el tipo de usuario que es, si es consumer se le mostrará los vinos mas populares y si es producer se le mostrarán sus ordenes que todavia no ha realizado("en proceso"). Ademas en el toolbar se implementó la internacionalización para que el usuario pueda elegir si quiere ver la web en español o en ingles. 
+  ![](images/evidence-front/home-producer-en.png)
+  ![](images/evidence-front/home-producer-es.png)
+  ![](images/evidence-front/home-consumer-en.png)
+  ![](images/evidence-front/home-consumer-es.png)
+  ![](images/evidence-front/recent-orders-producer.png)
+
+- Seccion filtros producer/consumer: Hemos implementado un apartado de filter a nuestras paginas para que al usuario se le facilite la busqueda.
+  ![](images/evidence-front/batch-registration-filter-producer.png)
+  ![](images/evidence-front/orders-filter-producer.png)
+  ![](images/evidence-front/wines-filter-consumer.png)
+  ![](images/evidence-front/wines-filter-producer.png)
+
+- Pagina vinos producer/consumer: Hemos mejorado la estilización de la pagina vinos tanto para consumidores como productores, hemos impleado una card para cada vino, esto hace que se vea mucho mejor y podamos ver la imagen y parte de los datos del producto.
+  ![](images/evidence-front/wines-consumer.png)
+  ![](images/evidence-front/wines-producer.png)
+  ![](images/evidence-front/wines-details-producer.png)
+  ![](images/evidence-front/wines-buy-consumer.png)
+
+- Bounded Context Clients: Hemos creado los endpoints de los clientes teniendo get,post y get por id.
+  ![](images/evidence-back/clients-post.png)
+  ![](images/evidence-back/clients-get.png)
+  ![](images/evidence-back/clients-get-id.png)
+
+- Bounded Context Inventories: Hemos creado los endpoints de inventories teniendo get,post y get por id.
+  ![](images/evidence-back/inventories-post.png)
+  ![](images/evidence-back/inventories-get.png)
+  ![](images/evidence-back/inventories-get-id.png)
+
+- Bounded Context Batch: Hemos creado los endpoints de batch teniendo get,post y get por id.
+  ![](images/evidence-back/batch-post.png)
+  ![](images/evidence-back/batch-get.png)
+  ![](images/evidence-back/batch-get-id.png)
+  
+- Bounded Context Orders: Hemos creado los endpoints de las ordenes teniendo get, post, get por id, get por estado, patch.
+  ![](images/evidence-back/orders-post.png)
+  ![](images/evidence-back/orders-get.png)
+  ![](images/evidence-back/orders-get-id.png)
+  ![](images/evidence-back/orders-get-estado.png)
+  ![](images/evidence-back/orders-patch.png)
+
+- Bounded Context wine: Hemos creado los endpoints de wine teniendo post y get por id.
+  ![](images/evidence-back/wine-post.png)
+  ![](images/evidence-back/wine-get-id.png)
 
 
 ### [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
