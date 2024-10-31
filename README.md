@@ -3123,32 +3123,33 @@ Esta sección presenta los objetivos de usuario clave que guiarán nuestras entr
 **Imagen:**
 
 
-  | Resumen de la Entrevista                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Timing          | URL                                                                    |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------------------------------------------------------------|
-| Julio Du Bois participó en una entrevista para evaluar la interfaz de usuario del administrador de la empresa. A lo largo de la conversación, se abordaron temas como la creación de cuentas, el ajuste del idioma, el registro de empresas, el inicio de sesión y la configuración de perfiles tanto de usuario como de empresa, junto con la monitorización de los cultivos en curso. Julio consideró que, aunque la interfaz es simple, resulta incompleta, recomendando su mejora para incrementar su potencial comercial y optimización.Tras iniciar sesión en la aplicación, Julio propuso la inclusión de colores más vivos y que contrasten mejor con el estilo de la empresa, además de mejorar el tamaño de la fuente para facilitar la lectura. Al registrar una empresa, se introdujo la denominación social entre otros datos necesarios. En cuanto al acceso a los perfiles de usuario y de empresa, las políticas de privacidad impiden al administrador entrar en la cuenta de un trabajador. Julio sugirió entonces permitir que el supervisor técnico otorgue permisos para que el administrador pueda acceder a su perfil, lo que facilitaría la verificación del progreso del empleado sin comprometer datos personales o privados. El entrevistado recomendó establecer el español como idioma predeterminado de la aplicación para evitar dificultades con el personal técnico que no domina el inglés. Al intentar acceder a la sección de cultivos en curso, encontró dificultades, aunque las tablas de registro resultaron ser claras y ofrecían información pertinente. Simuló también la entrada de datos en una tabla, como la fecha y la temperatura del aire, pero señaló que esta función no parece prioritaria para la gestión del administrador. La entrevista concluyó destacando la simplicidad y facilidad de uso de la interfaz. Julio subrayó que, con las mejoras adecuadas, la aplicación tiene el potencial de convertirse en una herramienta de gran valor para la gestión de cultivos. | 59:14 – 1:14:04 | upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4 |
+| Resumen de la Entrevista  | Timing | URL |
+|---------------------------|--------|-----|
+|                           |        |     | 
 
 
 **Entrevistado: 2**
 
 
-**Nombre :**  Giancarlo
+**Nombre :**
 
 
-**Apellidos:**  Lapa Cunias
+**Apellidos:**
 
 
-**Edad :**  24
+**Edad :**
 
 
-**Distrito:**  Lince
+**Distrito:**
 
 
-**Imagen:**  
+**Imagen:**
+
 
 
 | Resumen de la Entrevista  | Timing | URL |
 |---------------------------|--------|-----|
-| Giancarlo Lapa Cunias participó en una entrevista para evaluar la interfaz de usuario del consumidor. En la entrevista el nos menciona, que las cards de los servicios que mostramos en la landing page es muy acertada, debido a que rapidamente puede saber los servicios que ofrecemos como empresa. Ademas el nos menciona que deberiamos incluir la internacionalización en la landing page para las personas que hablan otro lenguaje y que están en nuestro pais y quisieran comprar o vender sus productos. Al iniciar la sesión, Giancarlo se da cuenta rapidamente al tipo de usuario al cual debe ingresar, seguidamente se muestra la pagina "home/inicio" y nos comenta que la pagina es muy amigable, pero deberiamos mejorar con la estilización para que se vea mas profesional. Con respecto al uso de la web, Giancarlo pudo ver los vinos populares y rapidamente pudo ver los detalles del vino que queria ver con el uso del filtro que está incorporado en nuestra web en la pagina "vinos/wines". El entrevistado nos comenta que podriamos incorporar un apartado de carrito de compras para que el usuario pueda comprar mas de un producto. La entrevista concluyó destacandotelas la simplicidad y la facilidad de uso de la interfaz. Giancarlo nos comenta que si tomamos en cuenta los feedbacks y lo realizamos, podemoste hacer que la aplicación tenga el potencial de convertirse en una herramienta de gran valor, para los consumidores y fanatícos del vino y pisco.                        |        |     | 
+|                           |        |     | 
 
 
 
@@ -3182,50 +3183,42 @@ Esta sección presenta los objetivos de usuario clave que guiarán nuestras entr
 **Entrevistado: 1**
 
 
-**Nombre :**
+**Nombre :**  Giancarlo
 
 
-**Apellidos:**
+**Apellidos:**  Lapa Cunias
 
 
-**Edad :**
+**Edad :**  24
 
 
-**Distrito:**
+**Distrito:**  Lince
 
 
 **Imagen:**
 
 
-
-| Resumen de la Entrevista                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Timing          | URL                                                                    |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------------------------------------------------------------|
-| Julio Du Bois participó en una entrevista para evaluar la interfaz de usuario del administrador de la empresa. A lo largo de la conversación, se abordaron temas como la creación de cuentas, el ajuste del idioma, el registro de empresas, el inicio de sesión y la configuración de perfiles tanto de usuario como de empresa, junto con la monitorización de los cultivos en curso. Julio consideró que, aunque la interfaz es simple, resulta incompleta, recomendando su mejora para incrementar su potencial comercial y optimización.Tras iniciar sesión en la aplicación, Julio propuso la inclusión de colores más vivos y que contrasten mejor con el estilo de la empresa, además de mejorar el tamaño de la fuente para facilitar la lectura. Al registrar una empresa, se introdujo la denominación social entre otros datos necesarios. En cuanto al acceso a los perfiles de usuario y de empresa, las políticas de privacidad impiden al administrador entrar en la cuenta de un trabajador. Julio sugirió entonces permitir que el supervisor técnico otorgue permisos para que el administrador pueda acceder a su perfil, lo que facilitaría la verificación del progreso del empleado sin comprometer datos personales o privados. El entrevistado recomendó establecer el español como idioma predeterminado de la aplicación para evitar dificultades con el personal técnico que no domina el inglés. Al intentar acceder a la sección de cultivos en curso, encontró dificultades, aunque las tablas de registro resultaron ser claras y ofrecían información pertinente. Simuló también la entrada de datos en una tabla, como la fecha y la temperatura del aire, pero señaló que esta función no parece prioritaria para la gestión del administrador. La entrevista concluyó destacando la simplicidad y facilidad de uso de la interfaz. Julio subrayó que, con las mejoras adecuadas, la aplicación tiene el potencial de convertirse en una herramienta de gran valor para la gestión de cultivos. | 59:14 – 1:14:04 | upc-pre-202302-si729-SW51-Integradis-about-the-validation-sprint-3.mp4 |
-
+| Resumen de la Entrevista  | Timing | URL |
+|---------------------------|--------|-----|
+| Giancarlo Lapa Cunias participó en una entrevista para evaluar la interfaz de usuario del consumidor. En la entrevista el nos menciona, que las cards de los servicios que mostramos en la landing page es muy acertada, debido a que rapidamente puede saber los servicios que ofrecemos como empresa. Ademas el nos menciona que deberiamos incluir la internacionalización en la landing page para las personas que hablan otro lenguaje y que están en nuestro pais y quisieran comprar o vender sus productos. Al iniciar la sesión, Giancarlo se da cuenta rapidamente al tipo de usuario al cual debe ingresar, seguidamente se muestra la pagina "home/inicio" y nos comenta que la pagina es muy amigable, pero deberiamos mejorar con la estilización para que se vea mas profesional. Con respecto al uso de la web, Giancarlo pudo ver los vinos populares y rapidamente pudo ver los detalles del vino que queria ver con el uso del filtro que está incorporado en nuestra web en la pagina "vinos/wines". El entrevistado nos comenta que podriamos incorporar un apartado de carrito de compras para que el usuario pueda comprar mas de un producto. La entrevista concluyó destacandotelas la simplicidad y la facilidad de uso de la interfaz. Giancarlo nos comenta que si tomamos en cuenta los feedbacks y lo realizamos, podemoste hacer que la aplicación tenga el potencial de convertirse en una herramienta de gran valor, para los consumidores y fanatícos del vino y pisco.                        |        |     | 
 
 
 **Entrevistado: 2**
 
 
-**Nombre :**
+**Nombre:** María
 
+**Apellidos:** Perza Vásquez
 
-**Apellidos:**
+**Edad:** 27 años
 
+**Distrito:** Villa El Salvador
 
-**Edad :**
+**Imagen:** ![](images/maria.PNG)
 
-
-**Distrito:**
-
-
-**Imagen:**
-
-
-
-| Resumen de la Entrevista  | Timing | URL |
-|---------------------------|--------|-----|
-|                           |        |     | 
+| Resumen de la Entrevista                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Timing          | URL                           |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|-------------------------------|
+| La señora María, de 27 años, tuvo una experiencia inicial positiva con la navegación en la página web orientada tanto a productores como consumidores de vino. Al ingresar a la landing page, María mencionó que la información dirigida a los productores es adecuada y detallada, pero sugirió mejorar la visibilidad para consumidores, especialmente añadiendo un título que especifique los servicios dirigidos a este público. Durante la interacción con la funcionalidad de idioma, ella señaló que algunas palabras no estaban completamente traducidas al español, lo que podría causar confusión para usuarios que solo hablan español. María valoró la información detallada de los vinos, indicando su preferencia por los vinos tintos y resaltó que los detalles del producto como el país de origen, año y uva son muy útiles. Para el proceso de compra, notó que algunos textos estaban en inglés y que esto podría dificultar la navegación para quienes no dominan el idioma. Finalmente, María accedió a la sección de órdenes donde pudo ver el historial de sus pedidos, pero mencionó que sería útil visualizar la compra finalizada en la misma pantalla de detalles del vino. | `0:00` - `5:30` | [URL de entrevista si aplica] |
 
 
 
