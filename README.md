@@ -1093,7 +1093,7 @@ En el backend del proyecto VillaSystem/backend, se crearon durante este sprint l
 
 ### [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
 
-
+No se realizaron tests durante este Sprint.
 
 ### [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
 
