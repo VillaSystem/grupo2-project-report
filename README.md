@@ -3082,6 +3082,11 @@ En este sprint, desplegamos la base de datos en Amazon Lightsail y el backend en
 
 ### [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
 
+Para la realización de los commits de nuestro Sprint, hemos hecho uso de la herramienta IntelliJ IDE y Web Storm, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Web Storm/ IntelliJ IDE y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
+
+![](images/insights1.png)
+![](images/insights1.png)
+![](images/insights1.png)
 
 
 ## [5.3.	Validation Interviews.](#validation-Interviews)
