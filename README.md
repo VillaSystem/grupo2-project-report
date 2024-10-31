@@ -2578,6 +2578,7 @@ muestran commits de diferentes repositorios donde se trabajo.
 
 
 
+
 ### [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5221-Sprint-Planning-2)
 
 
@@ -2769,7 +2770,22 @@ Link de la organización: https://github.com/VillaSystem
 
 ### [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
 
-
+| Sprint #                               | Sprint 3                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**         |                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Date**                               | 18/10/2024                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Time**                               | 10:00 PM                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Location**                           | Servidor de Discord del Equipo                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Prepared By**                        | Gustavo Esau Huanca Navarro                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Attendees (to planning meeting)**    | Diego Huincho, Fernando Salhuana, Gustavo Huanca, Angelo Curi, Oscar Armas                                                                                                                                                                                                                                                                                                                                                                          |
+| **Sprint n – 1 Review Summary**        | En el Sprint 1, se completó el diseño y la implementación de la landing page, enfocándose en la presentación visual y la experiencia del usuario para atraer a los clientes potenciales. Se recibieron comentarios positivos sobre el diseño, pero también sugerencias de mejora en la optimización para dispositivos móviles.                                                                                                                      |
+| **Sprint n – 1 Retrospective Summary** | En la retrospectiva del Sprint 1, el equipo discutió la necesidad de realizar pruebas en diferentes dispositivos desde el inicio para evitar problemas de compatibilidad. También se decidió establecer guías de diseño claras para mantener la coherencia en futuras iteraciones.                                                                                                                                                                  |
+| **Sprint n – 2 Review Summary**        | Durante el Sprint 2, se trabajó en la implementación del frontend, con énfasis en la interfaz de usuario para componentes clave como la gestión de clientes e inventario. Sin embargo, algunos elementos de la interfaz no fueron tan intuitivos como se esperaba, según el feedback inicial de los usuarios, lo que generó oportunidades de mejora en la usabilidad.                                                                               |
+| **Sprint n – 2 Retrospective Summary** | En la retrospectiva del Sprint 2, el equipo reconoció la necesidad de mejorar la comunicación entre diseño y desarrollo para asegurar que los elementos de la interfaz cumplan con los estándares de usabilidad. También se decidió aumentar el tiempo de pruebas de usuario en la fase de desarrollo.                                                                                                                                              |
+| **Sprint Goal & User Stories**         |                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Sprint 3 Goal**                      | Our focus is on fixing the issues from the previous sprint related to the Bonded Context for wines and batches, while also adding backend functionalities for getAll, getById, and post for batches, wines, clients, inventory, and orders. We believe this delivers improved system stability and functionality for wine producers and consumers. This will be confirmed when the backend handles these requests and previous issues are resolved. |
+| **Sprint 3 Velocity**                  | 66 Velocity                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Sum of Story Points**                | 76 Story Points                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 ### [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
 
@@ -2921,9 +2937,65 @@ En el backend del proyecto VillaSystem/backend, se crearon durante este sprint l
 | VillaSystem/backend | master | 90fb7be   | feat(clients): Client Command Service added.                        |                     | 2024-10-17 18:25:06 -0500 |
 | VillaSystem/backend | master | 2a8d4d0   | feat(properties): aplicattion properties added.                     |                     | 2024-10-17 18:24:35 -0500 |
 | VillaSystem/backend | master | 6e2c5ac   | Initial commit                                                      |                     | 2024-10-17 18:17:39 -0500 |
+| VillaSystem/backend | master | 4b0f207 | feat(clients): client controller fixed.                          |                     | 2024-10-18 12:21:36 -0500 |
+| VillaSystem/backend | master | e4464c0  | feat(clients): get all clients added.                            |                     | 2024-10-18 12:21:53 -0500 |
+| VillaSystem/backend | master | 3720687  | feat(clients): get all clients added.                            |                     | 2024-10-18 12:21:59 -0500 |
+| VillaSystem/backend | master | 8f4ac4f  | feat(clients): structure fixed                                    |                     | 2024-10-18 12:22:20 -0500 |
+| VillaSystem/backend | master | d33bd56  | feat(snake-case): SnakeCasePhysicalNamingStrategy added.        |                     | 2024-10-18 12:23:33 -0500 |
+| VillaSystem/backend | master | ce33a5f  | feat(OpenApi): Description added.                                 |                     | 2024-10-18 12:37:15 -0500 |
+| VillaSystem/backend | master | 83d63bf  | feat(clients): attribute role fixed.                             |                     | 2024-10-18 13:02:07 -0500 |
+| VillaSystem/backend | master | 60d7f32  | feat: create interface InventoryRepository                        |                     | 2024-10-20 16:44:46 -0500 |
+| VillaSystem/backend | master | 4712219  | feat: create interface InventoryQueryService                     |                     | 2024-10-20 16:45:04 -0500 |
+| VillaSystem/backend | master | 0edc5e5  | feat: create class Inventories                                    |                     | 2024-10-20 16:45:21 -0500 |
+| VillaSystem/backend | master | 65a9e0c  | feat: create Interface inventoryCommandService                   |                     | 2024-10-20 16:45:40 -0500 |
+| VillaSystem/backend | master | fbca6ef  | feat: create class InventoryResourceFromEntity                   |                     | 2024-10-20 16:46:27 -0500 |
+| VillaSystem/backend | master | e120cb3  | feat: create class CreateInventoryCommand and Resource           |                     | 2024-10-20 16:46:07 -0500 |
+| VillaSystem/backend | master | 3b52117  | feat: create record GetInventoriesByIdQuery                      |                     | 2024-10-20 16:46:51 -0500 |
+| VillaSystem/backend | master | 069142b  | feat: create InventoryCommandService,Controller,QueryService     |                     | 2024-10-20 16:47:15 -0500 |
+| VillaSystem/backend | master | 491978a  | feat: added configuration for GetInventoriesProducerId           |                     | 2024-10-21 16:39:26 -0500 |
+| VillaSystem/backend | master | ecdee9c  | feat(inventory-management): route fixed                           |                     | 2024-10-21 19:29:47 -0500 |
+| VillaSystem/backend | master | 10f857d  | Merge remote-tracking branch 'origin/inventory'                  |                     | 2024-10-21 19:30:31 -0500 |
+| VillaSystem/backend | master | 8a1f3e0  | feat(client-management): imports added.                           |                     | 2024-10-21 22:18:01 -0500 |
+| VillaSystem/backend | master | 4a03b2b  | feat(client-management): get mapping of get clients by role added.|                     | 2024-10-21 22:18:50 -0500 |
+| VillaSystem/backend | master | 173847e  | add orders service                                               |                     | 2024-10-21 22:38:01 -0500 |
+| VillaSystem/backend | master | 92a4fe7  | feat(client-management): List of get clients by role query added.|                     | 2024-10-22 17:05:15 -0500 |
+| VillaSystem/backend | master | ba44b49  | feat(client-management): get clients by role implemented.        |                     | 2024-10-22 17:05:49 -0500 |
+| VillaSystem/backend | master | 722039d  | feat(client-management): fin by role added on client repository.  |                     | 2024-10-22 17:06:14 -0500 |
+| VillaSystem/backend | master | 5d6a2d3  | feat(client-management): name of the bounded context fixed.      |                     | 2024-10-22 17:07:12 -0500 |
+| VillaSystem/backend | master | 8aed4f7  | feat(inventory-management): name of the bounded context fixed.   |                     | 2024-10-22 17:07:51 -0500 |
+| VillaSystem/backend | master | dff675b  | update order and add Dtos order                                  |                     | 2024-10-25 16:20:05 -0500 |
+| VillaSystem/backend | master | ed5f566  | feat(client-management): controller fixed.                       |                     | 2024-10-25 17:00:47 -0500 |
+| VillaSystem/backend | master | b08e4ef  | fix createOrderCommand and orderCommandServiceImpl files        |                     | 2024-10-27 20:42:11 -0500 |
+| VillaSystem/backend | master | 1ef982d  | feat(Batch): Batch aggregate added.                              |                     | 2024-10-28 18:24:10 -0500 |
+| VillaSystem/backend | master | 8a11f09  | feat(Batch): BatchCommandService aggregate added.                |                     | 2024-10-28 18:24:50 -0500 |
+| VillaSystem/backend | master | 6fbe3ed  | feat(Batch): BatchCommandServiceImpl aggregate added.            |                     | 2024-10-28 18:25:32 -0500 |
+| VillaSystem/backend | master | ab35baf  | feat(Batch): BatchQueryService aggregate added.                  |                     | 2024-10-28 18:26:07 -0500 |
+| VillaSystem/backend | master | fc19f93  | feat(Batch): BatchQueryServiceImpl added.                        |                     | 2024-10-28 18:26:29 -0500 |
+| VillaSystem/backend | master | 4b85609  | feat(Batch): Batch Repository added.                             |                     | 2024-10-28 18:26:59 -0500 |
+| VillaSystem/backend | master | 0a786a7  | feat(Batch): Batch Resource added.                               |                     | 2024-10-28 18:27:18 -0500 |
+| VillaSystem/backend | master | 2b4a45a  | feat(Batch): Batch Resource From Entity Assembler added.        |                     | 2024-10-28 18:27:48 -0500 |
+| VillaSystem/backend | master | 8e46dd2  | feat(Batch): Create Batch Command added.                        |                     | 2024-10-28 18:28:16 -0500 |
+| VillaSystem/backend | master | c904d23  | feat(Batch): Create Batch Command From Resource Assembler added. |                     | 2024-10-28 18:28:55 -0500 |
+| VillaSystem/backend | master | caf7971  | feat(Batch): Create Batch Resource added.                       |                     | 2024-10-28 18:29:15 -0500 |
+| VillaSystem/backend | master | 11996b2  | feat(Batch): Get Batches By Id Query added.                    |                     | 2024-10-28 18:29:51 -0500 |
+| VillaSystem/backend | master | 3e000a2  | feat(Batch): Endpoints added.                                   |                     | 2024-10-28 18:30:36 -0500 |
+| VillaSystem/backend | master | 72c9d72  | feat(Batch): Batch Query Service update.                        |                     | 2024-10-28 20:31:37 -0500 |
+| VillaSystem/backend | master | cec3987  | feat(Batch): Batch Query Service Impl update.                  |                     | 2024-10-28 20:32:10 -0500 |
+| VillaSystem/backend | master | 7ab18b4  | feat(Batch): Batch Repository update.                           |                     | 2024-10-28 20:32:56 -0500 |
+| VillaSystem/backend | master | 5669e80  | Merge remote-tracking branch 'origin/lotes'                     |                     | 2024-10-28 20:35:17 -0500 |
+| VillaSystem/backend | master | 3ca5b74  | update order                                                  |                     | 2024-10-28 20:01:25 -0500 |
+| VillaSystem/backend | master | 2103594  | Merge remote-tracking branch 'origin/orders'                   |                     | 2024-10-30 00:32:03 -0500 |
+| VillaSystem/backend | master | 4ca1e82  | Merge remote-tracking branch 'origin/wines'                    |                     | 2024-10-30 00:35:14 -0500 |
+| VillaSystem/backend | master | ca2ac00  | feat(orders): command fixed.                                   |                     | 2024-10-30 00:45:10 -0500 |
+
+
+
+
+
+
 ### [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
 
-
+No se realizaron tests durante este Sprint.
 
 ### [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
 
@@ -2934,6 +3006,50 @@ En el backend del proyecto VillaSystem/backend, se crearon durante este sprint l
 
 
 ### [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+En este sprint, desplegamos la base de datos en Amazon Lightsail y el backend en Railway. A continuación, se describe la configuración detallada del despliegue de cada componente de la solución, estableciendo los pasos necesarios para que, a partir de los repositorios de código fuente, se logre la publicación satisfactoria de los productos digitales involucrados, como la Landing Page, los Web Services y las aplicaciones web del frontend.
+
+
+#### Despliegue de la Base de Datos en Amazon Lightsail
+
+1. Ingresar a la consola de Amazon Lightsail y seleccionar la opción "Crear database".
+![](images/despliegued.PNG)
+
+2. Seleccionar el motor de base de datos deseado, en este caso, MySQL.
+![](images/despliegued2.PNG)
+
+3. Configurar las opciones de la base de datos, como el plan de capacidad, la zona de disponibilidad y el nombre de la base de datos.
+![](images/despliegued3.PNG)
+![](images/despliegued4.PNG)
+
+4. Crear la base de datos y esperar a que se complete el proceso de despliegue, lo que generará una instancia de base de datos en Amazon Lightsail, luego de esperar unos minutos, se podrá acceder a la base de datos a través de la consola de administración de Amazon Lightsail.
+![](images/despliegued5.PNG)
+
+5. Una vez que la base de datos esté disponible, nuestra backend podrá conectarse a ella para almacenar y recuperar datos de manera segura y eficiente.
+
+![](images/despliegued6.PNG)
+
+#### Despliegue del Backend en Railway
+
+1. Ingresar a la consola de Railway y seleccionar la opción "Crear nuevo proyecto".
+![](images/despliegue.PNG)
+
+2. Elegir deploy from github repo
+![](images/despliegue2.PNG)
+
+3. Selecciona configure github app
+![](images/despliegue3.PNG)
+
+4. Selecciona la organización y el repositorio y le damos a  deploy now
+![](images/despliegue4.PNG)
+![](images/despliegue5.PNG)
+![](images/despliegue6.PNG)
+5. Seleccionamos la rama, ingresamos las variables de entorno como database pasword y username, y esperamos que se termine el deploy
+![](images/despliegue7.PNG)
+6. Nos dirigimos al link que nos dan y verificamos que el backend este funcionando correctamente.
+
+
+![](images/despliegue8.PNG)
+
 
 
 
@@ -3393,6 +3509,25 @@ documentación. Es así que, se lograron cumplir las demandas del segmento objet
 
 
 
+- La plataforma GRAPEFLOW ha avanzado significativamente en su desarrollo, centrándose en la implementación del backend para mejorar la gestión de inventarios y pedidos en la industria vitivinícola. Estas mejoras están diseñadas para optimizar la operativa diaria de los productores, aunque el frontend aún no está conectado al backend.
+
+- El desarrollo del backend ha sido fundamental para proporcionar una base sólida para futuras integraciones con el frontend. Las nuevas funcionalidades y la estructura del backend permitirán una gestión más eficiente de los procesos, una vez que se establezca la conexión entre ambos.
+
+- La planificación de sprints ha facilitado un avance organizado y metódico en el desarrollo del backend. Al establecer límites en los user story points, el equipo ha podido concentrarse en tareas específicas sin sobrecargas, asegurando una implementación fluida y efectiva.
+
+- La implementación de una API robusta ha permitido preparar la interacción entre el frontend y el backend, facilitando la gestión de datos en tiempo real en el futuro. Esto no solo mejorará la experiencia del usuario, sino que también sentará las bases para futuras integraciones con otras plataformas y servicios.
+
+- Durante el desarrollo del backend, se ha priorizado la accesibilidad de la plataforma, asegurando que todos los usuarios, independientemente de sus habilidades técnicas, puedan interactuar con ella de manera intuitiva. Esta atención a la accesibilidad es clave para aumentar la adopción del sistema en la industria vitivinícola y garantizar que todos los productores puedan beneficiarse de las mejoras.
+
+- El enfoque en pruebas exhaustivas del backend ha sido esencial para garantizar la calidad y estabilidad del sistema. La implementación de una suite de pruebas rigurosa ha permitido identificar y resolver problemas antes de la implementación, asegurando un lanzamiento más fluido y una reducción en el tiempo de inactividad de la plataforma.
+
+# Bibliografía
+
+- PymeTV(2024). "CONCURSO NACIONAL DE VINO PERUANO: PRODUCE REAFIRMA SU COMPROMISO EL SECTOR VITIVINÍCOLA". PymeTV. https://pymetv.pe/concurso-nacional-de-vino-peruano-produce-reafirma-su-compromiso-el-sector-vitivinicola#:~:text=Adem%C3%A1s%2C%20se%C3%B1al%C3%B3%20que%20la%20industria,el%20motor%20de%20la%20industria [Consulta: 10 de octubre]
+- Ana Gutiérrez Chisvert(2023). "El mercado de vino en Perú". ICEX España Exportación e Inversiones, E.P.E. https://www.icex.es/content/dam/es/icex/oficinas/065/documentos/2023/11/anexos/RE_El%20mercado%20del%20vino%20en%20Peru_2023.pdf [Consulta: 22 de setiembre]
+- Shwaber, K., & Sutherland, J. The Scrum Guide. https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100 [Consulta: 15 de septiembre]
+- Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/ [Consulta: 6 de septiembre].
+
 
 # Anexos
 
@@ -3406,3 +3541,14 @@ documentación. Es así que, se lograron cumplir las demandas del segmento objet
 [**Link a la Exposición en Microsoft Stream:**](https://1drv.ms/v/c/cab22ef84dc9095b/EeCxgVGovAdApEIfrwFcbGABQAaK_N1rVCTqXEAAw8Mddg?e=xdXUHR)
 
 **Descripción**: El video muestra la presentación completa del proyecto Grapeflow, donde se exponen los cinco capítulos requeridos, incluyendo todos los artefactos y el trabajo completo solicitado.
+
+### Exposición del (TP)
+**Título del Proyecto**: Grapeflow
+
+**Participantes**: Diego Huincho, Angelo Curi, Gustavo Huanca,Oscar Armas,Fernando Salhuana
+
+**Link a la Exposición en Microsoft Stream**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/EU1TFQDpDDdFk_2HcwRmcj8BBE6g-AAJECtNz8sADVZNLg?e=M8rj2v 
+
+**Descripción**: El video muestra la presentación completa del proyecto Grapeflow, donde se expone el Sprint 2 incluyendo todos los artefactos y el trabajo completo solicitado.
+
+
