@@ -1089,6 +1089,50 @@ En el backend del proyecto VillaSystem/backend, se crearon durante este sprint l
 
 
 ### [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+En este sprint, desplegamos la base de datos en Amazon Lightsail y el backend en Railway. A continuación, se describe la configuración detallada del despliegue de cada componente de la solución, estableciendo los pasos necesarios para que, a partir de los repositorios de código fuente, se logre la publicación satisfactoria de los productos digitales involucrados, como la Landing Page, los Web Services y las aplicaciones web del frontend.
+
+
+#### Despliegue de la Base de Datos en Amazon Lightsail
+
+1. Ingresar a la consola de Amazon Lightsail y seleccionar la opción "Crear database".
+![](images/despliegued.PNG)
+
+2. Seleccionar el motor de base de datos deseado, en este caso, MySQL.
+![](images/despliegued2.PNG)
+
+3. Configurar las opciones de la base de datos, como el plan de capacidad, la zona de disponibilidad y el nombre de la base de datos.
+![](images/despliegued3.PNG)
+![](images/despliegued4.PNG)
+
+4. Crear la base de datos y esperar a que se complete el proceso de despliegue, lo que generará una instancia de base de datos en Amazon Lightsail, luego de esperar unos minutos, se podrá acceder a la base de datos a través de la consola de administración de Amazon Lightsail.
+![](images/despliegued5.PNG)
+
+5. Una vez que la base de datos esté disponible, nuestra backend podrá conectarse a ella para almacenar y recuperar datos de manera segura y eficiente.
+
+![](images/despliegued6.PNG)
+
+#### Despliegue del Backend en Railway
+
+1. Ingresar a la consola de Railway y seleccionar la opción "Crear nuevo proyecto".
+![](images/despliegue.PNG)
+
+2. Elegir deploy from github repo
+![](images/despliegue2.PNG)
+
+3. Selecciona configure github app
+![](images/despliegue3.PNG)
+
+4. Selecciona la organización y el repositorio y le damos a  deploy now
+![](images/despliegue4.PNG)
+![](images/despliegue5.PNG)
+![](images/despliegue6.PNG)
+5. Seleccionamos la rama, ingresamos las variables de entorno como database pasword y username, y esperamos que se termine el deploy
+![](images/despliegue7.PNG)
+6. Nos dirigimos al link que nos dan y verificamos que el backend este funcionando correctamente.
+
+
+![](images/despliegue8.PNG)
+
 
 
 
