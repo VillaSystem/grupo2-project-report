@@ -1020,24 +1020,56 @@ En el backend del proyecto VillaSystem/backend, se crearon durante este sprint l
 | VillaSystem/backend | master | 90fb7be   | feat(clients): Client Command Service added.                        |                     | 2024-10-17 18:25:06 -0500 |
 | VillaSystem/backend | master | 2a8d4d0   | feat(properties): aplicattion properties added.                     |                     | 2024-10-17 18:24:35 -0500 |
 | VillaSystem/backend | master | 6e2c5ac   | Initial commit                                                      |                     | 2024-10-17 18:17:39 -0500 |
-| VillaSystem/backend | master | 83d63bf   | feat(clients): attribute role fixed.                                                   |                     | 2024-10-18 13:02:07 -0500 |
-| VillaSystem/backend | master | ce33a5f   | feat(OpenApi): Description added.                                                        |                     | 2024-10-18 12:37:15 -0500 |
-| VillaSystem/backend | master | d33bd56   | feat(snake-case): SnakeCasePhysicalNamingStrategy added.                                 |                     | 2024-10-18 12:23:33 -0500 |
-| VillaSystem/backend | master | 2a62497   | feat(pom): github encryptorcode dependency added.                                        |                     | 2024-10-18 12:23:05 -0500 |
-| VillaSystem/backend | master | 8f4ac4f   | feat(clients): structure fixed                                                            |                     | 2024-10-18 12:22:20 -0500 |
-| VillaSystem/backend | master | 3720687   | feat(clients): get all clients added.                                                    |                     | 2024-10-18 12:21:59 -0500 |
-| VillaSystem/backend | master | e4464c0   | feat(clients): get all clients added.                                                    |                     | 2024-10-18 12:21:53 -0500 |
-| VillaSystem/backend | master | 4b0f207   | feat(clients): client controller fixed.                                                  |                     | 2024-10-18 12:21:36 -0500 |
-| VillaSystem/backend | master | 491978a   | Merge remote-tracking branch 'origin/inventory'                                          |                     | 2024-10-20 17:19:01 -0500 |
-| VillaSystem/backend | master | 069142b   | feat: create InventoryCommandService, Controller, QueryService                          |                     | 2024-10-20 16:47:15 -0500 |
-| VillaSystem/backend | master | 3b52117   | feat: create record GetInventoriesByIdQuery                                             |                     | 2024-10-20 16:46:51 -0500 |
-| VillaSystem/backend | master | fbca6ef   | feat: create class InventoryResourceFromEntity                                          |                     | 2024-10-20 16:46:27 -0500 |
-| VillaSystem/backend | master | e120cb3   | feat: create class CreateInventoryCommand and Resource                                   |                     | 2024-10-20 16:46:07 -0500 |
-| VillaSystem/backend | master | 65a9e0c   | feat: create Interface inventoryCommandService                                           |                     | 2024-10-20 16:45:40 -0500 |
-| VillaSystem/backend | master | 0edc5e5   | feat: create class Inventories                                                            |                     | 2024-10-20 16:45:21 -0500 |
-| VillaSystem/backend | master | 4712219   | feat: create interface InventoryQueryService                                              |                     | 2024-10-20 16:45:04 -0500 |
-| VillaSystem/backend | master | 60d7f32   | feat: create interface InventoryRepository                                                |                     | 2024-10-20 16:44:46 -0500 |
-
+| VillaSystem/backend | master | 4b0f207 | feat(clients): client controller fixed.                          |                     | 2024-10-18 12:21:36 -0500 |
+| VillaSystem/backend | master | e4464c0  | feat(clients): get all clients added.                            |                     | 2024-10-18 12:21:53 -0500 |
+| VillaSystem/backend | master | 3720687  | feat(clients): get all clients added.                            |                     | 2024-10-18 12:21:59 -0500 |
+| VillaSystem/backend | master | 8f4ac4f  | feat(clients): structure fixed                                    |                     | 2024-10-18 12:22:20 -0500 |
+| VillaSystem/backend | master | d33bd56  | feat(snake-case): SnakeCasePhysicalNamingStrategy added.        |                     | 2024-10-18 12:23:33 -0500 |
+| VillaSystem/backend | master | ce33a5f  | feat(OpenApi): Description added.                                 |                     | 2024-10-18 12:37:15 -0500 |
+| VillaSystem/backend | master | 83d63bf  | feat(clients): attribute role fixed.                             |                     | 2024-10-18 13:02:07 -0500 |
+| VillaSystem/backend | master | 60d7f32  | feat: create interface InventoryRepository                        |                     | 2024-10-20 16:44:46 -0500 |
+| VillaSystem/backend | master | 4712219  | feat: create interface InventoryQueryService                     |                     | 2024-10-20 16:45:04 -0500 |
+| VillaSystem/backend | master | 0edc5e5  | feat: create class Inventories                                    |                     | 2024-10-20 16:45:21 -0500 |
+| VillaSystem/backend | master | 65a9e0c  | feat: create Interface inventoryCommandService                   |                     | 2024-10-20 16:45:40 -0500 |
+| VillaSystem/backend | master | fbca6ef  | feat: create class InventoryResourceFromEntity                   |                     | 2024-10-20 16:46:27 -0500 |
+| VillaSystem/backend | master | e120cb3  | feat: create class CreateInventoryCommand and Resource           |                     | 2024-10-20 16:46:07 -0500 |
+| VillaSystem/backend | master | 3b52117  | feat: create record GetInventoriesByIdQuery                      |                     | 2024-10-20 16:46:51 -0500 |
+| VillaSystem/backend | master | 069142b  | feat: create InventoryCommandService,Controller,QueryService     |                     | 2024-10-20 16:47:15 -0500 |
+| VillaSystem/backend | master | 491978a  | feat: added configuration for GetInventoriesProducerId           |                     | 2024-10-21 16:39:26 -0500 |
+| VillaSystem/backend | master | ecdee9c  | feat(inventory-management): route fixed                           |                     | 2024-10-21 19:29:47 -0500 |
+| VillaSystem/backend | master | 10f857d  | Merge remote-tracking branch 'origin/inventory'                  |                     | 2024-10-21 19:30:31 -0500 |
+| VillaSystem/backend | master | 8a1f3e0  | feat(client-management): imports added.                           |                     | 2024-10-21 22:18:01 -0500 |
+| VillaSystem/backend | master | 4a03b2b  | feat(client-management): get mapping of get clients by role added.|                     | 2024-10-21 22:18:50 -0500 |
+| VillaSystem/backend | master | 173847e  | add orders service                                               |                     | 2024-10-21 22:38:01 -0500 |
+| VillaSystem/backend | master | 92a4fe7  | feat(client-management): List of get clients by role query added.|                     | 2024-10-22 17:05:15 -0500 |
+| VillaSystem/backend | master | ba44b49  | feat(client-management): get clients by role implemented.        |                     | 2024-10-22 17:05:49 -0500 |
+| VillaSystem/backend | master | 722039d  | feat(client-management): fin by role added on client repository.  |                     | 2024-10-22 17:06:14 -0500 |
+| VillaSystem/backend | master | 5d6a2d3  | feat(client-management): name of the bounded context fixed.      |                     | 2024-10-22 17:07:12 -0500 |
+| VillaSystem/backend | master | 8aed4f7  | feat(inventory-management): name of the bounded context fixed.   |                     | 2024-10-22 17:07:51 -0500 |
+| VillaSystem/backend | master | dff675b  | update order and add Dtos order                                  |                     | 2024-10-25 16:20:05 -0500 |
+| VillaSystem/backend | master | ed5f566  | feat(client-management): controller fixed.                       |                     | 2024-10-25 17:00:47 -0500 |
+| VillaSystem/backend | master | b08e4ef  | fix createOrderCommand and orderCommandServiceImpl files        |                     | 2024-10-27 20:42:11 -0500 |
+| VillaSystem/backend | master | 1ef982d  | feat(Batch): Batch aggregate added.                              |                     | 2024-10-28 18:24:10 -0500 |
+| VillaSystem/backend | master | 8a11f09  | feat(Batch): BatchCommandService aggregate added.                |                     | 2024-10-28 18:24:50 -0500 |
+| VillaSystem/backend | master | 6fbe3ed  | feat(Batch): BatchCommandServiceImpl aggregate added.            |                     | 2024-10-28 18:25:32 -0500 |
+| VillaSystem/backend | master | ab35baf  | feat(Batch): BatchQueryService aggregate added.                  |                     | 2024-10-28 18:26:07 -0500 |
+| VillaSystem/backend | master | fc19f93  | feat(Batch): BatchQueryServiceImpl added.                        |                     | 2024-10-28 18:26:29 -0500 |
+| VillaSystem/backend | master | 4b85609  | feat(Batch): Batch Repository added.                             |                     | 2024-10-28 18:26:59 -0500 |
+| VillaSystem/backend | master | 0a786a7  | feat(Batch): Batch Resource added.                               |                     | 2024-10-28 18:27:18 -0500 |
+| VillaSystem/backend | master | 2b4a45a  | feat(Batch): Batch Resource From Entity Assembler added.        |                     | 2024-10-28 18:27:48 -0500 |
+| VillaSystem/backend | master | 8e46dd2  | feat(Batch): Create Batch Command added.                        |                     | 2024-10-28 18:28:16 -0500 |
+| VillaSystem/backend | master | c904d23  | feat(Batch): Create Batch Command From Resource Assembler added. |                     | 2024-10-28 18:28:55 -0500 |
+| VillaSystem/backend | master | caf7971  | feat(Batch): Create Batch Resource added.                       |                     | 2024-10-28 18:29:15 -0500 |
+| VillaSystem/backend | master | 11996b2  | feat(Batch): Get Batches By Id Query added.                    |                     | 2024-10-28 18:29:51 -0500 |
+| VillaSystem/backend | master | 3e000a2  | feat(Batch): Endpoints added.                                   |                     | 2024-10-28 18:30:36 -0500 |
+| VillaSystem/backend | master | 72c9d72  | feat(Batch): Batch Query Service update.                        |                     | 2024-10-28 20:31:37 -0500 |
+| VillaSystem/backend | master | cec3987  | feat(Batch): Batch Query Service Impl update.                  |                     | 2024-10-28 20:32:10 -0500 |
+| VillaSystem/backend | master | 7ab18b4  | feat(Batch): Batch Repository update.                           |                     | 2024-10-28 20:32:56 -0500 |
+| VillaSystem/backend | master | 5669e80  | Merge remote-tracking branch 'origin/lotes'                     |                     | 2024-10-28 20:35:17 -0500 |
+| VillaSystem/backend | master | 3ca5b74  | update order                                                  |                     | 2024-10-28 20:01:25 -0500 |
+| VillaSystem/backend | master | 2103594  | Merge remote-tracking branch 'origin/orders'                   |                     | 2024-10-30 00:32:03 -0500 |
+| VillaSystem/backend | master | 4ca1e82  | Merge remote-tracking branch 'origin/wines'                    |                     | 2024-10-30 00:35:14 -0500 |
+| VillaSystem/backend | master | ca2ac00  | feat(orders): command fixed.                                   |                     | 2024-10-30 00:45:10 -0500 |
 
 
 
