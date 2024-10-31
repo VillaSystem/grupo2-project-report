@@ -907,7 +907,22 @@ Link de la organización: https://github.com/VillaSystem
 
 ### [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
 
-
+| Sprint #                         | Sprint 3                                                                                                                   |
+|----------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**   |                                                                                                                            |
+| **Date**                         | 18/10/2024                                                                                                                 |
+| **Time**                         | 10:00 PM                                                                                                                   |
+| **Location**                     | Servidor de Discord del Equipo                                                                                             |
+| **Prepared By**                  | Gustavo Esau Huanca Navarro                                                                                                |
+| **Attendees (to planning meeting)** | Diego Huincho, Angelo, Gustavo Huanca, Angelo Curi, Oscar Armas                                                          |
+| **Sprint n – 1 Review Summary**  | En el Sprint 1, se completó el diseño y la implementación de la landing page, enfocándose en la presentación visual y la experiencia del usuario para atraer a los clientes potenciales. Se recibieron comentarios positivos sobre el diseño, pero también sugerencias de mejora en la optimización para dispositivos móviles. |
+| **Sprint n – 1 Retrospective Summary** | En la retrospectiva del Sprint 1, el equipo discutió la necesidad de realizar pruebas en diferentes dispositivos desde el inicio para evitar problemas de compatibilidad. También se decidió establecer guías de diseño claras para mantener la coherencia en futuras iteraciones. |
+| **Sprint n – 2 Review Summary**  | Durante el Sprint 2, se trabajó en la implementación del frontend, con énfasis en la interfaz de usuario para componentes clave como la gestión de clientes e inventario. Sin embargo, algunos elementos de la interfaz no fueron tan intuitivos como se esperaba, según el feedback inicial de los usuarios, lo que generó oportunidades de mejora en la usabilidad. |
+| **Sprint n – 2 Retrospective Summary** | En la retrospectiva del Sprint 2, el equipo reconoció la necesidad de mejorar la comunicación entre diseño y desarrollo para asegurar que los elementos de la interfaz cumplan con los estándares de usabilidad. También se decidió aumentar el tiempo de pruebas de usuario en la fase de desarrollo. |
+| **Sprint Goal & User Stories**   |                                                                                                                            |
+| **Sprint 3 Goal**                | Our focus is on fixing the issues from the previous sprint related to the Bonded Context for wines and batches, while also adding backend functionalities for getAll, getById, and post for batches, wines, clients, inventory, and orders. We believe this delivers improved system stability and functionality for wine producers and consumers. This will be confirmed when the backend handles these requests and previous issues are resolved. |
+| **Sprint 3 Velocity**            | 66 Velocity                                                                                                               |
+| **Sum of Story Points**          | 76 Story Points  
 
 ### [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
 
