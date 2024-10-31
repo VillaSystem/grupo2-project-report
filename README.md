@@ -715,6 +715,7 @@ muestran commits de diferentes repositorios donde se trabajo.
 
 
 
+
 ### [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5221-Sprint-Planning-2)
 
 
@@ -1019,6 +1020,30 @@ En el backend del proyecto VillaSystem/backend, se crearon durante este sprint l
 | VillaSystem/backend | master | 90fb7be   | feat(clients): Client Command Service added.                        |                     | 2024-10-17 18:25:06 -0500 |
 | VillaSystem/backend | master | 2a8d4d0   | feat(properties): aplicattion properties added.                     |                     | 2024-10-17 18:24:35 -0500 |
 | VillaSystem/backend | master | 6e2c5ac   | Initial commit                                                      |                     | 2024-10-17 18:17:39 -0500 |
+| VillaSystem/backend | master | 83d63bf   | feat(clients): attribute role fixed.                                                   |                     | 2024-10-18 13:02:07 -0500 |
+| VillaSystem/backend | master | ce33a5f   | feat(OpenApi): Description added.                                                        |                     | 2024-10-18 12:37:15 -0500 |
+| VillaSystem/backend | master | d33bd56   | feat(snake-case): SnakeCasePhysicalNamingStrategy added.                                 |                     | 2024-10-18 12:23:33 -0500 |
+| VillaSystem/backend | master | 2a62497   | feat(pom): github encryptorcode dependency added.                                        |                     | 2024-10-18 12:23:05 -0500 |
+| VillaSystem/backend | master | 8f4ac4f   | feat(clients): structure fixed                                                            |                     | 2024-10-18 12:22:20 -0500 |
+| VillaSystem/backend | master | 3720687   | feat(clients): get all clients added.                                                    |                     | 2024-10-18 12:21:59 -0500 |
+| VillaSystem/backend | master | e4464c0   | feat(clients): get all clients added.                                                    |                     | 2024-10-18 12:21:53 -0500 |
+| VillaSystem/backend | master | 4b0f207   | feat(clients): client controller fixed.                                                  |                     | 2024-10-18 12:21:36 -0500 |
+| VillaSystem/backend | master | 491978a   | Merge remote-tracking branch 'origin/inventory'                                          |                     | 2024-10-20 17:19:01 -0500 |
+| VillaSystem/backend | master | 069142b   | feat: create InventoryCommandService, Controller, QueryService                          |                     | 2024-10-20 16:47:15 -0500 |
+| VillaSystem/backend | master | 3b52117   | feat: create record GetInventoriesByIdQuery                                             |                     | 2024-10-20 16:46:51 -0500 |
+| VillaSystem/backend | master | fbca6ef   | feat: create class InventoryResourceFromEntity                                          |                     | 2024-10-20 16:46:27 -0500 |
+| VillaSystem/backend | master | e120cb3   | feat: create class CreateInventoryCommand and Resource                                   |                     | 2024-10-20 16:46:07 -0500 |
+| VillaSystem/backend | master | 65a9e0c   | feat: create Interface inventoryCommandService                                           |                     | 2024-10-20 16:45:40 -0500 |
+| VillaSystem/backend | master | 0edc5e5   | feat: create class Inventories                                                            |                     | 2024-10-20 16:45:21 -0500 |
+| VillaSystem/backend | master | 4712219   | feat: create interface InventoryQueryService                                              |                     | 2024-10-20 16:45:04 -0500 |
+| VillaSystem/backend | master | 60d7f32   | feat: create interface InventoryRepository                                                |                     | 2024-10-20 16:44:46 -0500 |
+
+
+
+
+
+
+
 ### [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
 
 
