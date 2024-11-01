@@ -3720,8 +3720,18 @@ Para solucionar este problema, se recomienda realizar una revisión del código 
 
 A continuación, se presenta el video "About the product," el cual muestra el propósito, los beneficios y las características clave de la aplicación. Además, incluye testimonios de usuarios principales que avalan la calidad del software desarrollado, proporcionando una validación de su valor y efectividad a través de sus experiencias.
 
+![](images/product.PNG)
+
+Timing: 1:32 minutos
 enlace para acceder al video del About the product:
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/EZGAN9tRgY1Ni6bwNiEXwJYBujqo6x8eR85xUlo2MMza7A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qJXatH
+
+
+[Microsoft Stream:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/EZGAN9tRgY1Ni6bwNiEXwJYBujqo6x8eR85xUlo2MMza7A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qJXatH)
+
+Youtube:
+
+https://youtu.be/_sFboHi3KK4
+
 
 
 ## 6. Conclusiones, Bibliografía y Anexos.
@@ -3749,6 +3759,17 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/EZGAN9tR
 - Durante el desarrollo del backend, se ha priorizado la accesibilidad de la plataforma, asegurando que todos los usuarios, independientemente de sus habilidades técnicas, puedan interactuar con ella de manera intuitiva. Esta atención a la accesibilidad es clave para aumentar la adopción del sistema en la industria vitivinícola y garantizar que todos los productores puedan beneficiarse de las mejoras.
 
 - El enfoque en pruebas exhaustivas del backend ha sido esencial para garantizar la calidad y estabilidad del sistema. La implementación de una suite de pruebas rigurosa ha permitido identificar y resolver problemas antes de la implementación, asegurando un lanzamiento más fluido y una reducción en el tiempo de inactividad de la plataforma.
+
+
+### Video About-the-Team.
+
+![](images/team.PNG)
+
+Enlace para acceder al video About the team subido a Stream: [video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/Eet1KxRERGFIo0aIUu4ekKEBI1cKHv1gT5Zhz9_ZV-NDlQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=X3LFa9)
+
+Enlace para acceder al video About the team subido a Youtube: https://www.youtube.com/watch?v=TstY7e_AEvY
+
+
 
 # Bibliografía
 - PymeTV(2024). "CONCURSO NACIONAL DE VINO PERUANO: PRODUCE REAFIRMA SU COMPROMISO EL SECTOR VITIVINÍCOLA". PymeTV. https://pymetv.pe/concurso-nacional-de-vino-peruano-produce-reafirma-su-compromiso-el-sector-vitivinicola#:~:text=Adem%C3%A1s%2C%20se%C3%B1al%C3%B3%20que%20la%20industria,el%20motor%20de%20la%20industria [Consulta: 10 de octubre]
