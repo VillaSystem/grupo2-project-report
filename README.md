@@ -3507,7 +3507,7 @@ Heurística violada:  Usability: Visibilidad del estado del sistema
 El problema detectado radica en que el formulario de contacto en el sitio web o aplicación carece de funcionalidad. Esto impide que los usuarios lo utilicen para enviar consultas, comentarios o mensajes, restringiendo su capacidad de comunicación con el sitio o la empresa. Esta falta de funcionalidad en el formulario obstaculiza una comunicación efectiva, generando una experiencia frustrante y dificultando la realización de tareas esenciales, como hacer preguntas o brindar retroalimentación.
 
 
-![](images/heuristica4.PNG)
+![](images/heuristica4.png)
 
 **_Recomendación:_**
 
