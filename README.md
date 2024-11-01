@@ -3720,16 +3720,16 @@ Es importante garantizar que el formulario de contacto funcione adecuadamente y 
 <!--========================================= FILA 3 ======================================-->
 <tr>
   <td> 3 </td>
-  <td> Contenido del Problema </td>
-  <td> Contenido de la Escala de severidad </td>
-  <td> Contenido de Heurística/Principio violada(o) </td>
+  <td> Falta de registro e inicio de sesión individualizado </td>
+  <td> 3 </td>
+  <td> Usabilidad - Eficiencia y flexibilidad de uso </td>
 </tr>
 <!--========================================= FILA 4 ======================================-->
 <tr>
   <td> 4 </td>
-  <td> Contenido del Problema </td>
-  <td> Contenido de la Escala de severidad </td>
-  <td> Contenido de Heurística/Principio violada(o) </td>
+  <td> Visibilidad indiscriminada de órdenes de todos los usuarios </td>
+  <td> Arquitectura de Información - Organización y estructura de la información </td>
+  <td> 4 </td>
 </tr>
 </tbody>
 </table>
@@ -3769,6 +3769,53 @@ En la sección "Mis Pedidos", el botón de internacionalización está presente,
 
 Para solucionar este problema, se recomienda realizar una revisión del código asociado al botón de internacionalización para identificar y corregir cualquier error que impida su funcionamiento. Asegurarse de que el botón esté correctamente vinculado a la lógica de cambio de idioma y que el contenido se actualice de manera efectiva al seleccionar una opción diferente.
 
+
+
+ **PROBLEMA #3:** Falta de registro e inicio de sesión individualizado
+
+**Severidad: 3**
+
+**Heurística violada:** Usabilidad - Eficiencia y flexibilidad de uso
+
+ **Problema:**
+
+La aplicación web carece de un sistema de registro e inicio de sesión individualizado para cada usuario. Actualmente, todos los usuarios comparten los mismos datos de acceso, lo que limita severamente la eficiencia y flexibilidad de uso. Esta situación impide que los usuarios tengan acceso a su información específica y personalizada, reduciendo la funcionalidad de la aplicación y creando una experiencia de usuario poco eficiente y confusa.
+
+![Problema de registro e inicio de sesión](images/heuristicaWeb3.PNG)
+
+ **Recomendación:**
+
+Se recomienda implementar un sistema de registro e inicio de sesión que permita a cada usuario crear y acceder a su cuenta individual. Esto debe incluir:
+
+1. Un formulario de registro que capture información única del usuario.
+2. Un proceso de autenticación para el inicio de sesión.
+3. Perfiles de usuario personalizados.
+4. Implementación de sesiones individuales para mantener la información personalizada de cada usuario.
+
+Esta mejora aumentará la eficiencia y flexibilidad de uso, permitiendo una experiencia más personalizada y efectiva para cada usuario.
+
+ **PROBLEMA #4:** Visibilidad indiscriminada de órdenes de todos los usuarios
+
+**Severidad: 4**
+
+**Heurística violada:** Arquitectura de Información - Organización y estructura de la información
+
+**Problema:**
+
+En la sección de órdenes, la aplicación muestra todas las órdenes de todos los usuarios, sin distinción o filtrado basado en la identidad del usuario actual. Esta falta de organización en la estructura de la información genera una sobrecarga cognitiva para los usuarios, dificultando la tarea de encontrar y gestionar sus propias órdenes. Además, esta situación crea una experiencia confusa y poco intuitiva para los usuarios.
+
+![Problema de visibilidad de órdenes](images/heuristicaWeb4.PNG)
+
+ **Recomendación:**
+
+Para resolver este problema, se recomienda:
+
+1. Implementar un sistema de filtrado de órdenes basado en la identidad del usuario.
+2. Mostrar únicamente las órdenes asociadas al usuario que ha iniciado sesión.
+3. Organizar las órdenes de manera clara y estructurada (por ejemplo, por fecha, estado, etc.).
+4. Incluir opciones de búsqueda y filtrado para que los usuarios puedan encontrar fácilmente órdenes específicas.
+
+Estas mejoras en la arquitectura de información permitirán a los usuarios navegar y gestionar sus órdenes de manera más eficiente, mejorando significativamente la experiencia del usuario y la usabilidad de la aplicación.
 
 
 ## [5.4. Video About-the-Product.](#54-video-about-the-product)
