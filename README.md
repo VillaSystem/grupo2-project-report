@@ -3607,14 +3607,14 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 <!--========================================= FILA 5 ======================================-->
 <tr>
   <td> 5 </td>
-  <td> Contenido del Problema </td>
+  <td> Botones de navegación no se muestran en móviles </td>
   <td> 4 </td>
   <td> Usabilidad: Flexibilidad y eficiencia de uso </td>
 </tr>
 <!--========================================= FILA 5 ======================================-->
 <tr>
   <td> 6 </td>
-  <td> Contenido del Problema </td>
+  <td> Landing page estática: falta de dinamismo y atractivo visual </td>
   <td> 1 </td>
   <td> Visibilidad del estado del sistema </td>
 </tr>
@@ -3701,6 +3701,7 @@ Es importante garantizar que el formulario de contacto funcione adecuadamente y 
 **_PROBLEMA #5:_** Botones de navegación no se muestran en móviles.
 
 **_Severidad: 4_**
+
 Heurística violada: Usabilidad - Flexibilidad y eficiencia de uso
 
 **_Problema:_**
@@ -3718,6 +3719,7 @@ La solución a este problema radica en optimizar el diseño del landing page par
 **_PROBLEMA #6:_** Problema de un landing page estático.
 
 **_Severidad: 1_**
+
 Heurística violada: Estética y diseño minimalista
 
 **_Problema:_**
