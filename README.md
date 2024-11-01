@@ -3633,6 +3633,7 @@ La landing page no cuenta con un botón de internacionalización, lo que limita 
 
 Implementar un botón de cambio de idioma en un lugar visible, preferiblemente en la esquina superior derecha de la página. Este botón debería permitir a los usuarios seleccionar entre al menos dos idiomas, como español e inglés, y hacer que la página actualice el contenido de manera fluida y sin interrupciones.
 
+---
 
 **_PROBLEMA #2:** Ausencia de información sobre los servicios ofrecidos para los consumidores
 
@@ -3650,7 +3651,7 @@ La landing page no incluye una sección dedicada a describir los servicios que l
 
 Añadir una sección en la landing page que resuma los servicios específicos que la plataforma ofrece a los consumidores. Esta sección debe incluir una lista de los beneficios clave y estar ubicada en una posición prominente de la página, idealmente justo debajo del encabezado principal o en un área destacada para captar la atención de los visitantes
 
-
+---
 
 **_PROBLEMA #3:_**  La sección "Nuestros Planes" se solapa con la barra de navegación al desplazarse hacia abajo
 
@@ -3669,8 +3670,7 @@ Al desplazarse hacia la sección "Nuestros Planes," el contenido se superpone pa
 
  Ajustar el espaciado y la disposición de la sección "Nuestros Planes" para evitar que el contenido se superponga con la barra de navegación. Asegurarse de que cada sección tenga un margen superior adecuado o que la barra de navegación se mantenga fija y no interfiera con el contenido al desplazarse. Esto proporcionará una experiencia visual más ordenada y profesional.
 
-
-
+---
 
 **_PROBLEMA #4:_**  La sección “Contact” del footer de la página no muestra interacción al redireccionar el correo del startup mediante Gmail.
 
@@ -3689,6 +3689,8 @@ El problema detectado radica en que el formulario de contacto en el sitio web o 
 
 Es importante garantizar que el formulario de contacto funcione adecuadamente y que los usuarios reciban retroalimentación tras enviar su mensaje, ya sea mediante un mensaje de confirmación o redirigiéndolos a una página de agradecimiento.
 
+---
+
 **_PROBLEMA #5:_** Botones de navegación no se muestran en móviles.
 
 **_Severidad: 3_**
@@ -3703,6 +3705,23 @@ El problema que se percibe, donde los botones de navegación ("Home", "Servicios
 **_Recomendación:_**
 
 La solución a este problema radica en optimizar el diseño del landing page para dispositivos móviles. Se podría implementar un menú hamburguesa (el icono con tres líneas horizontales) en la versión móvil; al hacer clic en ese icono, se despliega un menú con todas las opciones de navegación. Es una solución común y efectiva para ahorrar espacio en pantallas pequeñas. Una vez realizado, se pondría a prueba en diferentes dispositivos móviles (con diferentes tamaños de pantalla y sistemas operativos) para asegurar de que la navegación funciona correctamente en todos ellos.
+
+---
+
+**_PROBLEMA #6:_** Problema de un landing page estático.
+
+**_Severidad: 3_**
+Heurística violada: Estética y diseño minimalista
+
+**_Problema:_**
+
+Una página estática, con solo texto e imágenes fijas, puede resultar aburrida y poco atractiva para el usuario moderno, acostumbrado a la interactividad y el dinamismo. La falta de elementos dinámicos puede disminuir el interés del usuario y hacer que abandone la página rápidamente. Un landing page estático no invita a la exploración ni a la interacción.
+
+![](images/videopresentativo.png)
+
+**_Recomendación:_**
+
+ Un video de fondo con imágenes atractivas y relevantes capta la atención del usuario desde el primer momento, generando un mayor impacto visual. También, invita a la interacción y mantiene al usuario interesado en la página por más tiempo. Además, un video bien producido puede transmitir la esencia de tu marca, generar confianza y conectar emocionalmente con el usuario.
 
 
 **TABLA DE RESUMEN - WEB APPLICATION:**
@@ -3808,6 +3827,8 @@ La falta de actualización visual inmediata tras la eliminación de un vino en l
 
 Para resolver este problema, se recomienda implementar una lógica que permita la actualización en tiempo real de la lista de vinos tras cualquier acción de eliminación. Esta mejora no solo garantizará una representación precisa de los datos, sino que también contribuirá a una experiencia de usuario más fluida y coherente.
 
+---
+
 **_PROBLEMA #2:_**  El botón de internacionalización en la sección "Mis Pedidos" no funciona correctamente
 
 **_Severidad: 3_**
@@ -3824,7 +3845,7 @@ En la sección "Mis Pedidos", el botón de internacionalización está presente,
 
 Para solucionar este problema, se recomienda realizar una revisión del código asociado al botón de internacionalización para identificar y corregir cualquier error que impida su funcionamiento. Asegurarse de que el botón esté correctamente vinculado a la lógica de cambio de idioma y que el contenido se actualice de manera efectiva al seleccionar una opción diferente.
 
-
+---
 
  **PROBLEMA #3:** Falta de registro e inicio de sesión individualizado
 
@@ -3848,6 +3869,8 @@ Se recomienda implementar un sistema de registro e inicio de sesión que permita
 4. Implementación de sesiones individuales para mantener la información personalizada de cada usuario.
 
 Esta mejora aumentará la eficiencia y flexibilidad de uso, permitiendo una experiencia más personalizada y efectiva para cada usuario.
+
+---
 
  **PROBLEMA #4:** Visibilidad indiscriminada de órdenes de todos los usuarios
 
@@ -3919,6 +3942,8 @@ Se recomienda implementar un sistema de confirmación para acciones críticas, q
 3. Opciones para cancelar o confirmar la acción, dándole al usuario control adicional.
 
 Este cambio reducirá la probabilidad de errores y garantizará una experiencia de usuario más segura y confiable, alineándose con las mejores prácticas de usabilidad.
+
+---
 
 **_PROBLEMA #7:_**  Falta de agregado de barra de autocompletado o cuadro de sugerencias.
 
