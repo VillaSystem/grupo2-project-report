@@ -3956,6 +3956,21 @@ Heurística violada: Visibilidad del estado del sistema
 
 En la página de detalles del producto, las imágenes de los vinos no siempre se cargan correctamente, mostrando un marcador de "imagen no disponible" en su lugar. Esta inconsistencia afecta la visibilidad del estado del sistema, ya que los usuarios no reciben ninguna notificación sobre el error de carga ni tienen claro si se trata de un problema temporal o de falta de imagen. La ausencia de imágenes reduce la efectividad de la presentación del producto y limita la experiencia del usuario al navegar la información de los vinos.
 
+
+**_PROBLEMA #10:_** Fondo blanco en la cartilla de cliente afecta la experiencia de usuario.
+
+**_Severidad: 3_**
+Heurística violada: Usabilidad - Flexibilidad y eficiencia de uso
+
+**_Problema:_**
+
+Un fondo blanco sólido puede resultar aburrido y poco atractivo, especialmente si la información en la cartilla no es muy extensa. Esto puede generar una sensación de monotonía y falta de interés en el usuario.
+
+![](images/difuminacion.png)
+
+**_Recomendación:_**
+
+Un fondo transparente con una ligera reducción de brillo crea un efecto visual más sofisticado y moderno. Esto puede aumentar el interés del usuario y hacer que la cartilla sea más atractiva.  Este permite que la cartilla se integre mejor con el resto de la interfaz, creando una experiencia visual más fluida y cohesiva. Además, puede ser más suave para la vista que un fondo blanco sólido, lo que reduce la fatiga visual.
 ![](images/fron15.png)
 
 **_Recomendación:_**
