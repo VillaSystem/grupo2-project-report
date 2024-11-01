@@ -3285,24 +3285,24 @@ Esta sección presenta los objetivos de usuario clave que guiarán nuestras entr
 **Entrevistado: 1**
 
 
-**Nombre :**
+**Nombre :** Jazzy Adolfo
 
 
-**Apellidos:**
+**Apellidos:** Benites Morales
 
 
-**Edad :**
+**Edad :** 32
 
 
-**Distrito:**
+**Distrito:** Chincha 
 
 
-**Imagen:**
+**Imagen:** [](images/EntrevistaJazzyv2.png)
 
 
-| Resumen de la Entrevista  | Timing | URL |
-|---------------------------|--------|-----|
-|                           |        |     | 
+| Resumen de la Entrevista                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Timing | URL  |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|------|
+| Jazzy Benítez, de 32 años, participó en una entrevista centrada en la evaluación de la interfaz de usuario de nuestra aplicación. Durante la conversación, Jazzy destacó que las tarjetas de los servicios en la página de inicio son una excelente forma de presentar la oferta de la empresa, permitiendo a los usuarios identificar rápidamente los servicios disponibles. También sugirió incluir opciones de internacionalización para atender a personas que hablan diferentes idiomas y que están en el país, facilitando así la compra o venta de productos.Al iniciar sesión, Jazzy notó de inmediato el tipo de usuario que debía seleccionar y comentó que la página de inicio es muy accesible. Sin embargo, recomendó mejorar el diseño visual para que la interfaz luzca más profesional. En cuanto a la navegación, mencionó que pudo explorar fácilmente los vinos populares y acceder a los detalles de los productos gracias a los filtros disponibles en la sección de "vinos". Además, sugirió la incorporación de un carrito de compras, lo que permitiría a los usuarios adquirir múltiples productos a la vez. La entrevista concluyó con Jazzy destacando la simplicidad y facilidad de uso de la interfaz, sugiriendo que al implementar los comentarios proporcionados, la aplicación podría convertirse en una herramienta valiosa para los consumidores y entusiastas del vino y pisco. | 4:00   |      | 
 
 
 **Entrevistado: 2**
@@ -3324,7 +3324,7 @@ Esta sección presenta los objetivos de usuario clave que guiarán nuestras entr
 
 
 
-| Resumen de la Entrevista  | Timing | URL |
+| Resumen de la Entrevista                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Timing | URL  |
 |---------------------------|--------|-----|
 |                           |        |     | 
 
