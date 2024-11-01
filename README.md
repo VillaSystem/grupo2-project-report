@@ -3917,3 +3917,8 @@ Enlace para acceder al video About the team subido a Youtube: https://www.youtub
 
 Enlace para acceder al video About the team subido a Stream: 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/Eet1KxRERGFIo0aIUu4ekKEBI1cKHv1gT5Zhz9_ZV-NDlQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=X3LFa9
+
+
+## Videos de Entrevistas
+
+### [Entrevistas sprint 3](https://upcedupe-my.sharepoint.com/personal/u202022387_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202022387%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2DSV54%2DVillaSystem%2Dvalidation%2Dsprint3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea2a74ad8%2Df687%2D4943%2Da423%2D61e1e6fb1098) 
