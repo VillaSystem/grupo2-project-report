@@ -3558,9 +3558,9 @@ Es importante garantizar que el formulario de contacto funcione adecuadamente y 
 <!--========================================= FILA 2 ======================================-->
 <tr>
   <td> 2 </td>
-  <td> Contenido del Problema </td>
-  <td> Contenido de la Escala de severidad </td>
-  <td> Contenido de Heurística/Principio violada(o) </td>
+  <td> El botón de internacionalización en la sección "My Orders" no funciona correctamente </td>
+  <td> 3 </td>
+  <td> Usability – Flexibilidad y eficiencia de uso </td>
 </tr>
 <!--========================================= FILA 3 ======================================-->
 <tr>
@@ -3597,6 +3597,24 @@ La falta de actualización visual inmediata tras la eliminación de un vino en l
 **_Recomendación:_**
 
 Para resolver este problema, se recomienda implementar una lógica que permita la actualización en tiempo real de la lista de vinos tras cualquier acción de eliminación. Esta mejora no solo garantizará una representación precisa de los datos, sino que también contribuirá a una experiencia de usuario más fluida y coherente.
+
+**_PROBLEMA #2:_**  El botón de internacionalización en la sección "Mis Pedidos" no funciona correctamente
+
+**_Severidad: 3_**
+
+Heurística violada:  Usability – Flexibilidad y eficiencia de uso
+
+**_Problema:_**
+
+En la sección "Mis Pedidos", el botón de internacionalización está presente, pero no funciona como se esperaba. Aunque los usuarios pueden ver el botón, al hacer clic en él, no se produce ninguna acción para cambiar el idioma de la interfaz. Esta falta de funcionalidad limita la accesibilidad para los usuarios que prefieren navegar en un idioma diferente, afectando negativamente la usabilidad de la aplicación y causando frustración entre los usuarios internacionales.
+
+![](images/heuristicaWeb2.png)
+
+**_Recomendación:_**
+
+Para solucionar este problema, se recomienda realizar una revisión del código asociado al botón de internacionalización para identificar y corregir cualquier error que impida su funcionamiento. Asegurarse de que el botón esté correctamente vinculado a la lógica de cambio de idioma y que el contenido se actualice de manera efectiva al seleccionar una opción diferente.
+
+
 
 ## 5.4. Video About-the-Product.
 
