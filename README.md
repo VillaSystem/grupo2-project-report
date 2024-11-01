@@ -3640,6 +3640,10 @@ Para solucionar este problema, se recomienda realizar una revisión del código 
 
 ## 5.4. Video About-the-Product.
 
+A continuación, se presenta el video "About the product," el cual muestra el propósito, los beneficios y las características clave de la aplicación. Además, incluye testimonios de usuarios principales que avalan la calidad del software desarrollado, proporcionando una validación de su valor y efectividad a través de sus experiencias.
+
+enlace para acceder al video del About the product:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/EZGAN9tRgY1Ni6bwNiEXwJYBujqo6x8eR85xUlo2MMza7A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qJXatH
 
 
 ## 6. Conclusiones, Bibliografía y Anexos.
