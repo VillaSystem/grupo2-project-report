@@ -3207,24 +3207,24 @@ Esta sección presenta los objetivos de usuario clave que guiarán nuestras entr
 **Entrevistado: 3**
 
 
-**Nombre :**
+**Nombre :** Luis 
 
 
-**Apellidos:**
+**Apellidos:** Marcelo Osorio
 
 
-**Edad :**
+**Edad :** 28
 
 
-**Distrito:**
+**Distrito:** Chorrillos
 
 
-**Imagen:**
+**Imagen:** ![](images/luiss.PNG) 
 
 
 | Resumen de la Entrevista  | Timing | URL |
 |---------------------------|--------|-----|
-|                           |        |     | 
+|Luis Marcelo Santillana, de 28 años, participó en una entrevista para evaluar la interfaz de usuario dirigida a productores. Durante la entrevista, destacó que la funcionalidad de la aplicación es simple y fácil de usar, lo que permite a los usuarios navegar sin complicaciones. Sin embargo, mencionó que el diseño es muy básico y repetitivo en todas las secciones, lo que podría resultar poco atractivo a largo plazo. También apreció la inclusión de la internacionalización en la landing page, lo que facilita a los productores que hablan otros idiomas, comentó que aunque la interfaz es amigable, sería beneficioso mejorar la estilización para que se vea más profesional.  |     |     | 
 
 
 
