@@ -3558,7 +3558,7 @@ Es importante garantizar que el formulario de contacto funcione adecuadamente y 
 <!--========================================= FILA 2 ======================================-->
 <tr>
   <td> 2 </td>
-  <td> El botón de internacionalización en la sección "My Orders" no funciona correctamente </td>
+  <td> El botón de internacionalización en la sección "Mis Pedidos" no funciona correctamente </td>
   <td> 3 </td>
   <td> Usability – Flexibilidad y eficiencia de uso </td>
 </tr>
