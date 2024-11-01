@@ -3956,6 +3956,19 @@ Heurística violada: Visibilidad del estado del sistema
 
 En la página de detalles del producto, las imágenes de los vinos no siempre se cargan correctamente, mostrando un marcador de "imagen no disponible" en su lugar. Esta inconsistencia afecta la visibilidad del estado del sistema, ya que los usuarios no reciben ninguna notificación sobre el error de carga ni tienen claro si se trata de un problema temporal o de falta de imagen. La ausencia de imágenes reduce la efectividad de la presentación del producto y limita la experiencia del usuario al navegar la información de los vinos.
 
+![](images/fron15.png)
+
+**_Recomendación:_**
+
+Para resolver este problema, se sugiere implementar una lógica de carga que incluya:
+
+- Un mensaje de error claro o un placeholder visual que indique que la imagen está en proceso de carga o que actualmente no está disponible.
+- Verificación previa de la disponibilidad de la imagen y una actualización dinámica en caso de que el recurso no esté accesible.
+- Mantenimiento de la coherencia visual, utilizando una imagen genérica de vino como fallback si la imagen específica no se carga correctamente.
+
+Esta mejora permitirá una experiencia más informativa y atractiva, ayudando a que los usuarios naveguen los detalles del producto con mayor confianza.
+
+---
 
 **_PROBLEMA #10:_** Fondo blanco en la cartilla de cliente afecta la experiencia de usuario.
 
@@ -3971,22 +3984,8 @@ Un fondo blanco sólido puede resultar aburrido y poco atractivo, especialmente 
 **_Recomendación:_**
 
 Un fondo transparente con una ligera reducción de brillo crea un efecto visual más sofisticado y moderno. Esto puede aumentar el interés del usuario y hacer que la cartilla sea más atractiva.  Este permite que la cartilla se integre mejor con el resto de la interfaz, creando una experiencia visual más fluida y cohesiva. Además, puede ser más suave para la vista que un fondo blanco sólido, lo que reduce la fatiga visual.
-![](images/fron15.png)
-
-**_Recomendación:_**
-
-Para resolver este problema, se sugiere implementar una lógica de carga que incluya:
-
-- Un mensaje de error claro o un placeholder visual que indique que la imagen está en proceso de carga o que actualmente no está disponible.
-- Verificación previa de la disponibilidad de la imagen y una actualización dinámica en caso de que el recurso no esté accesible.
-- Mantenimiento de la coherencia visual, utilizando una imagen genérica de vino como fallback si la imagen específica no se carga correctamente.
-
-Esta mejora permitirá una experiencia más informativa y atractiva, ayudando a que los usuarios naveguen los detalles del producto con mayor confianza.
 
 ---
-
-
-
 ## [5.4. Video About-the-Product.](#54-video-about-the-product)
 
 A continuación, se presenta el video "About the product," el cual muestra el propósito, los beneficios y las características clave de la aplicación. Además, incluye testimonios de usuarios principales que avalan la calidad del software desarrollado, proporcionando una validación de su valor y efectividad a través de sus experiencias.
