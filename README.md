@@ -3436,26 +3436,19 @@ Esta sección presenta los objetivos de usuario clave que guiarán nuestras entr
 
 **Entrevistado: 3**
 
+**Nombre:** Rene
 
-**Nombre :**
+**Apellidos:** Palomino
 
+**Edad:** 25 años
 
-**Apellidos:**
+**Distrito:** Villa María del Triunfo
 
+**Imagen:** ![](images/interview.PNG)
 
-**Edad :**
-
-
-**Distrito:**
-
-
-**Imagen:**
-
-
-| Resumen de la Entrevista  | Timing | URL |
-|---------------------------|--------|-----|
-|                           |        |     | 
-                   
+| Resumen de la Entrevista                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Timing      | URL |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-----|
+| Rene Palomino, de 25 años, exploró la página web orientada a productores y consumidores de vino. Inicialmente, notó que faltaba la configuración para cambiar el idioma, sugiriendo que esto sería útil para usuarios de otros países. Comentó que la presentación inicial era muy blanca y sugirió añadir más color o un fondo. Sin embargo, encontró que la oferta de servicios estaba bien lograda y era interesante para distintos visitantes. Al acceder a la aplicación, Rene encontró el botón de cambio de idioma muy accesible, destacando el contraste de colores y el tamaño del botón. En la sección de vinos, observó que solo había un vino popular mostrado inicialmente, pero al ver los detalles, pudo acceder a información completa sobre todos los vinos disponibles. Rene consideró que la información proporcionada sobre los vinos era muy completa y acertada. Navegó fácilmente por el menú desplegable, encontrándolo llamativo. Sin embargo, al llegar a la sección de registro de pedidos, mencionó que no encontraba algo específico, aunque no se detalla qué estaba buscando exactamente. En general, Rene pareció tener una experiencia positiva con la navegación y el diseño de la página, con algunas sugerencias para mejorar la presentación inicial y la accesibilidad en términos de idioma. | 0:00 - 3:51 |     |          
 
 
 ## [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
