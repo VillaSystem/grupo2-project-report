@@ -3946,6 +3946,31 @@ Se recomienda implementar un indicador visual en el menú de navegación para se
 
 ---
 
+**_PROBLEMA #9:_** La página de detalles del producto no carga correctamente las imágenes de los vinos
+
+**_Severidad: 3_**
+
+Heurística violada: Visibilidad del estado del sistema
+
+**_Problema:_**
+
+En la página de detalles del producto, las imágenes de los vinos no siempre se cargan correctamente, mostrando un marcador de "imagen no disponible" en su lugar. Esta inconsistencia afecta la visibilidad del estado del sistema, ya que los usuarios no reciben ninguna notificación sobre el error de carga ni tienen claro si se trata de un problema temporal o de falta de imagen. La ausencia de imágenes reduce la efectividad de la presentación del producto y limita la experiencia del usuario al navegar la información de los vinos.
+
+![](images/fron15.png)
+
+**_Recomendación:_**
+
+Para resolver este problema, se sugiere implementar una lógica de carga que incluya:
+
+- Un mensaje de error claro o un placeholder visual que indique que la imagen está en proceso de carga o que actualmente no está disponible.
+- Verificación previa de la disponibilidad de la imagen y una actualización dinámica en caso de que el recurso no esté accesible.
+- Mantenimiento de la coherencia visual, utilizando una imagen genérica de vino como fallback si la imagen específica no se carga correctamente.
+
+Esta mejora permitirá una experiencia más informativa y atractiva, ayudando a que los usuarios naveguen los detalles del producto con mayor confianza.
+
+---
+
+
 
 ## [5.4. Video About-the-Product.](#54-video-about-the-product)
 
