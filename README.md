@@ -3728,8 +3728,22 @@ Es importante garantizar que el formulario de contacto funcione adecuadamente y 
 <tr>
   <td> 4 </td>
   <td> Visibilidad indiscriminada de órdenes de todos los usuarios </td>
-  <td> Arquitectura de Información - Organización y estructura de la información </td>
   <td> 4 </td>
+  <td> Arquitectura de Información - Organización y estructura de la información </td>
+</tr>
+<!--========================================= FILA 5 ======================================-->
+<tr>
+  <td> 5 </td>
+  <td> Ausencia de opción para deshacer la eliminación de vinos </td>
+  <td> 3 </td>
+  <td> Control y libertad del usuario </td>
+</tr>
+<!--========================================= FILA 6 ======================================-->
+<tr>
+  <td> 6 </td>
+  <td> No hay advertencia antes de realizar acciones críticas, como eliminar pedidos o productos </td>
+  <td> 4 </td>
+  <td> Prevención de errores </td>
 </tr>
 </tbody>
 </table>
@@ -3816,6 +3830,52 @@ Para resolver este problema, se recomienda:
 4. Incluir opciones de búsqueda y filtrado para que los usuarios puedan encontrar fácilmente órdenes específicas.
 
 Estas mejoras en la arquitectura de información permitirán a los usuarios navegar y gestionar sus órdenes de manera más eficiente, mejorando significativamente la experiencia del usuario y la usabilidad de la aplicación.
+
+---
+
+**PROBLEMA #5:** Ausencia de opción para deshacer la eliminación de vinos
+
+**Severidad: 3**
+
+**Heurística violada:** Control y libertad del usuario
+
+**Problema:**
+
+La aplicación web no ofrece la opción de deshacer la acción de eliminación de vinos. Una vez que un usuario elimina un vino, esta acción es irreversible, lo cual puede causar inconvenientes si el usuario elimina un vino por error. La falta de una opción de deshacer limita el control que el usuario tiene sobre sus acciones y puede generar frustración, afectando negativamente la experiencia de uso.
+
+**Recomendación:**
+
+Se recomienda implementar una funcionalidad de "deshacer" para la eliminación de vinos, lo que podría incluir:
+
+1. Una notificación temporal que permita al usuario deshacer la acción inmediatamente después de la eliminación.
+2. Un historial de cambios recientes, donde el usuario pueda recuperar elementos eliminados.
+3. Confirmación adicional antes de completar la acción de eliminación para reducir errores.
+
+Esta mejora permitirá al usuario tener mayor control sobre sus acciones y reducirá la probabilidad de errores irremediables, mejorando así la usabilidad de la aplicación.
+
+---
+
+**PROBLEMA #6:** No hay advertencia antes de realizar acciones críticas, como eliminar pedidos o productos
+
+**Severidad: 4**
+
+**Heurística violada:** Prevención de errores
+
+**Problema:**
+
+La aplicación web permite la eliminación de pedidos o productos sin mostrar ninguna advertencia o mensaje de confirmación antes de completar la acción. Esto aumenta el riesgo de que los usuarios realicen eliminaciones por error, lo que puede resultar en pérdida de información importante o interrupciones en su flujo de trabajo. La falta de advertencia limita la seguridad y fiabilidad de la aplicación, creando una experiencia de usuario menos satisfactoria.
+
+**Recomendación:**
+
+Se recomienda implementar un sistema de confirmación para acciones críticas, que incluya:
+
+1. Un mensaje de confirmación antes de eliminar pedidos o productos, solicitando al usuario que confirme la acción.
+2. Un mensaje de advertencia visual destacando que esta acción es irreversible.
+3. Opciones para cancelar o confirmar la acción, dándole al usuario control adicional.
+
+Este cambio reducirá la probabilidad de errores y garantizará una experiencia de usuario más segura y confiable, alineándose con las mejores prácticas de usabilidad.
+
+---
 
 
 ## [5.4. Video About-the-Product.](#54-video-about-the-product)
