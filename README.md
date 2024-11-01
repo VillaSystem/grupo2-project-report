@@ -3014,7 +3014,7 @@ En el sprint se alcanzo un desarrollo en la implementación del despliegue del f
 - Bounded Context Batch: Hemos creado los endpoints de batch teniendo get,post y get por id.
   ![](images/evidence-back/batch-post.png)
   ![](images/evidence-back/batch-get.png)
-  ![](images/evidence-back/batch-get-id.png)
+  ![](images/evidence-  back/batch-get-id.png)
   
 - Bounded Context Orders: Hemos creado los endpoints de las ordenes teniendo get, post, get por id, get por estado, patch.
   ![](images/evidence-back/orders-post.png)
@@ -3319,23 +3319,44 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________
 
-**SITE o APP A EVALUAR:** GrapeFlow
+**SITE o APP A EVALUAR:**
+GrapeFlow
 
-**TAREAS A EVALUAR:**
+---
 
-**_Landing Page: GrapeFlow:_**
+### TAREAS A EVALUAR:
 
-1. Definir Tarea 1
-2. Definir Tarea 2
-3. Definir Tarea 3
-4. Definir Tarea 4
+#### Landing Page
+1. Información y descripción de la aplicación y sus funcionalidades
+2. Visualización de planes de pago y precio de la aplicación
+3. Header y footer apropiado para la landing page
+4. Interacción de la landing page con la aplicación
+5. Internacionalización (cambio de idioma)
 
-**_Web Application: GrapeFlow:_**
+---
 
-1. Definir Tarea 1
-2. Definir Tarea 2
-3. Definir Tarea 3
-4. Definir Tarea 4
+#### Web Application
+1. Inicio de sesión
+2. Acceso rápido a órdenes de compra
+3. Gestión de productos en inventario
+4. Registro detallado de cada lote en proceso
+5. Visualización de pedidos recibidos
+6. Visualización de vinos destacados por calificación
+7. Gestión de compras realizadas
+8. Visualización de detalles de los vinos disponibles
+9. Estética general de la interfaz atractiva y agradable visualmente
+10. Internacionalización (cambio de idioma)
+11.  Registro de nuevo usuario
+
+#### NO INCLUIDAS EN LA EVALUACIÓN:
+
+1. Comparación de vinos entre diferentes productores
+2. Integración con redes sociales para compartir productos
+3. Consulta de análisis y estadísticas de consumo
+4. Redes sociales asociadas al startup
+5. Política de privacidad y condiciones de uso
+
+---
 
 
 **ESCALA DE SEVERIDAD:**
@@ -3402,18 +3423,18 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 <tbody>
 <!--========================================= FILA 1 ======================================-->
 <tr>
-  <td> 1 </td>
-  <td> Contenido del Problema </td>
-  <td> Contenido de la Escala de severidad </td>
-  <td> Contenido de Heurística/Principio violada(o) </td>
-</tr>
-<!--========================================= FILA 2 ======================================-->
-<tr>
-  <td> 2 </td>
-  <td> Contenido del Problema </td>
-  <td> Contenido de la Escala de severidad </td>
-  <td> Contenido de Heurística/Principio violada(o) </td>
-</tr>
+    <td> 1 </td>
+    <td> Falta de un botón de internacionalización en la landing page</td>
+    <td> 3 </td>
+    <td> Usabilidad: Flexibilidad y eficiencia de uso </td>
+  </tr>
+  <!--========================================= FILA 2 ======================================-->
+  <tr>
+    <td> 2 </td>
+    <td> Ausencia de información sobre los servicios ofrecidos para los consumidores </td>
+    <td> 4 </td>
+    <td> Arquitectura de Información: Claridad en la presentación de contenido </td>
+  </tr>
 <!--========================================= FILA 3 ======================================-->
 <tr>
   <td> 3 </td>
@@ -3434,15 +3455,39 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 **_DESCRIPCIÓN DE PROBLEMAS - LANDING PAGE:_**
 
-**_PROBLEMA #1:_**
+**_PROBLEMA #1:_** Falta de un botón de internacionalización en la landing page
 
 **_Severidad: 3_**
+Heurística violada: Usabilidad - Flexibilidad y eficiencia de uso
 
 **_Problema:_**
 
+La landing page no cuenta con un botón de internacionalización, lo que limita la accesibilidad para usuarios que prefieren navegar en un idioma diferente. La ausencia de esta funcionalidad afecta la experiencia de los usuarios internacionales, ya que se ven forzados a navegar en un solo idioma, lo que puede causar frustración o desinterés si no entienden bien el contenido.
+
+
+![](images/problema1.PNG)
 
 **_Recomendación:_**
 
+Implementar un botón de cambio de idioma en un lugar visible, preferiblemente en la esquina superior derecha de la página. Este botón debería permitir a los usuarios seleccionar entre al menos dos idiomas, como español e inglés, y hacer que la página actualice el contenido de manera fluida y sin interrupciones.
+
+
+
+**_PROBLEMA #2:** Ausencia de información sobre los servicios ofrecidos para los consumidores
+
+**_Severidad: 4_**
+
+Heurística violada: Arquitectura de Información - Claridad en la presentación de contenido
+
+**_Problema:_**
+
+La landing page no incluye una sección dedicada a describir los servicios que la plataforma ofrece a los consumidores. Esta falta de información básica reduce la claridad y dificulta que los usuarios comprendan el propósito de la plataforma y los beneficios de registrarse. En consecuencia, los usuarios podrían perder interés en explorar o utilizar el sitio.
+
+![](images/problema2.PNG)
+
+**_Recomendación:_**
+
+Añadir una sección en la landing page que resuma los servicios específicos que la plataforma ofrece a los consumidores. Esta sección debe incluir una lista de los beneficios clave y estar ubicada en una posición prominente de la página, idealmente justo debajo del encabezado principal o en un área destacada para captar la atención de los visitantes
 
 **TABLA DE RESUMEN - WEB APPLICATION:**
 <table>
