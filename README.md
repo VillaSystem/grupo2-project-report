@@ -2841,7 +2841,9 @@ Link de la organización: https://github.com/VillaSystem
 
 En el Sprint Backlog 3, el equipo completó gran parte del front end y el back end de la web application. La herramienta que fue utilizada para organizar y gestionar las tareas de los miembros del equipo fue Pivotaltracker. Esta herramienta permitió que se pueda dividir todas las User Stories en tareas manejables y asignarlas a los diferentes miembros según sus diferentes habilidades.
 ![](images/pivotal2.png)
-Link del pivotaltracker: https://www.pivotaltracker.com/n/projects/2721383
+Link del pivotaltracker:
+Task sprint 3: https://www.pivotaltracker.com/n/projects/2724037
+
 
 | Technical User Story | WorkItem / Task | ID   | Title                                                                        | Description                                                                                                                                                                                       | Estimation (Hours) | Assigned To | Status     |
 |----------------------|-----------------|------|------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|------------|
