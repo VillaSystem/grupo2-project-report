@@ -3698,7 +3698,7 @@ Heurística violada: Usabilidad - Flexibilidad y eficiencia de uso
 
 El problema que se percibe, donde los botones de navegación ("Home", "Servicios", etc.) desaparecen en la versión móvil del landing page, es un problema grave de usabilidad que puede afectar significativamente a los usuarios y a la efectividad del sitio web. Los usuarios no pueden encontrar fácilmente las secciones principales, se sentirán perdidos y frustrados. No podrán acceder a la información que buscan ni realizar las acciones que desean, como registrarse o contactar contigo.
 
-![](images/landingM.png)
+![](images/heuristica5.png)
 
 **_Recomendación:_**
 
@@ -3901,7 +3901,7 @@ Heurística violada:  Usability – Flexibilidad y eficiencia de uso
 **_Problema:_**
 
 En el caso específico de una web que conecta productores y consumidores de vino, la falta de autocompletado puede ser aún más problemática, ya que la variedad de vinos y productores puede ser muy amplia.  La barra de autocompletado se vuelve esencial para facilitar la búsqueda, el descubrimiento de vinos específicos y registro de inventarios, entre otros. Así como para conectar a los usuarios con los productores que buscan.
-![](images/heuristicaWebBarra.png)
+![Problema de autocompletado](images/heuristicaWebBarra.png)
 
 **_Recomendación:_**
 
