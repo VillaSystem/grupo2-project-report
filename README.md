@@ -3438,16 +3438,16 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 <!--========================================= FILA 3 ======================================-->
 <tr>
   <td> 3 </td>
-  <td> La sección “Contact” del footer de la página no muestra interacción al redireccionar el correo del startup mediante Gmail. </td>
-  <td> 1 </td>
-  <td> Usability: Visibilidad del estado del sistema </td>
+  <td> La sección "Nuestros Planes" se solapa con la barra de navegación al desplazarse hacia abajo </td>
+  <td> 3 </td>
+  <td> Usability: Estética y diseño minimalista y Visibilidad del estado del sistema </td>
 </tr>
 <!--========================================= FILA 4 ======================================-->
 <tr>
   <td> 4 </td>
-  <td> Contenido del Problema </td>
-  <td> Contenido de la Escala de severidad </td>
-  <td> Contenido de Heurística/Principio violada(o) </td>
+  <td> La sección “Contact” del footer de la página no muestra interacción al redireccionar el correo del startup mediante Gmail. </td>
+  <td> 1 </td>
+  <td> Usability: Visibilidad del estado del sistema </td>
 </tr>
 <!--========================================= FILA 5 ======================================-->
 <tr>
@@ -3479,7 +3479,6 @@ La landing page no cuenta con un botón de internacionalización, lo que limita 
 Implementar un botón de cambio de idioma en un lugar visible, preferiblemente en la esquina superior derecha de la página. Este botón debería permitir a los usuarios seleccionar entre al menos dos idiomas, como español e inglés, y hacer que la página actualice el contenido de manera fluida y sin interrupciones.
 
 
-
 **_PROBLEMA #2:** Ausencia de información sobre los servicios ofrecidos para los consumidores
 
 **_Severidad: 4_**
@@ -3495,6 +3494,26 @@ La landing page no incluye una sección dedicada a describir los servicios que l
 **_Recomendación:_**
 
 Añadir una sección en la landing page que resuma los servicios específicos que la plataforma ofrece a los consumidores. Esta sección debe incluir una lista de los beneficios clave y estar ubicada en una posición prominente de la página, idealmente justo debajo del encabezado principal o en un área destacada para captar la atención de los visitantes
+
+
+
+**_PROBLEMA #3:_**  La sección "Nuestros Planes" se solapa con la barra de navegación al desplazarse hacia abajo
+
+**_Severidad: 3_**
+Heurística violada:  Estética y diseño minimalista y Visibilidad del estado del sistema
+
+**_Problema:_**
+
+Al desplazarse hacia la sección "Nuestros Planes," el contenido se superpone parcialmente con la barra de navegación superior, lo que puede causar confusión visual o distraer a los usuarios. Este solapamiento genera una apariencia desorganizada y dificulta la lectura y exploración del contenido en esa sección.
+
+
+![](images/heuristica3.png)
+
+**_Recomendación:_**
+
+ Ajustar el espaciado y la disposición de la sección "Nuestros Planes" para evitar que el contenido se superponga con la barra de navegación. Asegurarse de que cada sección tenga un margen superior adecuado o que la barra de navegación se mantenga fija y no interfiera con el contenido al desplazarse. Esto proporcionará una experiencia visual más ordenada y profesional.
+
+
 
 
 **_PROBLEMA #4:_**  La sección “Contact” del footer de la página no muestra interacción al redireccionar el correo del startup mediante Gmail.
