@@ -3734,9 +3734,9 @@ Es importante garantizar que el formulario de contacto funcione adecuadamente y 
 <!--========================================= FILA 5 ======================================-->
 <tr>
   <td> 5 </td>
-  <td> Ausencia de opción para deshacer la eliminación de vinos </td>
+  <td> Inconsistencias visuales y de interacción entre secciones de la aplicación </td>
   <td> 3 </td>
-  <td> Control y libertad del usuario </td>
+  <td> Consistencia y estándares </td>
 </tr>
 <!--========================================= FILA 6 ======================================-->
 <tr>
@@ -3833,25 +3833,25 @@ Estas mejoras en la arquitectura de información permitirán a los usuarios nave
 
 ---
 
-**PROBLEMA #5:** Ausencia de opción para deshacer la eliminación de vinos
+**PROBLEMA #5:** Inconsistencias visuales y de interacción entre secciones de la aplicación
 
 **Severidad: 3**
 
-**Heurística violada:** Control y libertad del usuario
+**Heurística violada:** Consistencia y estándares
 
 **Problema:**
 
-La aplicación web no ofrece la opción de deshacer la acción de eliminación de vinos. Una vez que un usuario elimina un vino, esta acción es irreversible, lo cual puede causar inconvenientes si el usuario elimina un vino por error. La falta de una opción de deshacer limita el control que el usuario tiene sobre sus acciones y puede generar frustración, afectando negativamente la experiencia de uso.
+La aplicación web presenta inconsistencias en el diseño visual y en las interacciones entre diferentes secciones, como "Mis Pedidos" y "Vinos Populares". Estas inconsistencias incluyen variaciones en el estilo de los botones, iconos y mensajes, lo que puede confundir a los usuarios y reducir la eficiencia de uso. La falta de uniformidad afecta la experiencia de usuario al requerir que los usuarios se adapten a diferentes diseños y comportamientos dentro de la misma aplicación.
 
 **Recomendación:**
 
-Se recomienda implementar una funcionalidad de "deshacer" para la eliminación de vinos, lo que podría incluir:
+Se recomienda establecer un conjunto de estándares visuales y de interacción para la aplicación, lo cual podría incluir:
 
-1. Una notificación temporal que permita al usuario deshacer la acción inmediatamente después de la eliminación.
-2. Un historial de cambios recientes, donde el usuario pueda recuperar elementos eliminados.
-3. Confirmación adicional antes de completar la acción de eliminación para reducir errores.
+1. Un diseño uniforme para botones, iconos y colores en todas las secciones.
+2. Consistencia en el lenguaje y estilo de los mensajes de confirmación, advertencias y notificaciones.
+3. Estandarización de los efectos de interacción (como el cambio de color al hacer hover) para que los usuarios tengan una experiencia predecible y coherente.
 
-Esta mejora permitirá al usuario tener mayor control sobre sus acciones y reducirá la probabilidad de errores irremediables, mejorando así la usabilidad de la aplicación.
+Implementar estas recomendaciones ayudará a mejorar la coherencia y profesionalidad de la interfaz, permitiendo a los usuarios navegar y utilizar la aplicación de manera más fluida y eficiente.
 
 ---
 
