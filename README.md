@@ -3219,7 +3219,7 @@ Esta sección presenta los objetivos de usuario clave que guiarán nuestras entr
 **Distrito:** Chorrillos
 
 
-**Imagen:** ![](images/luiss.PNG) 
+**Imagen:** ![](images/luiss.png) 
 
 
 | Resumen de la Entrevista  | Timing | URL |
