@@ -2812,42 +2812,42 @@ En el Sprint Backlog 3, el equipo completó gran parte del front end y el back e
 ![](images/pivotal2.png)
 Link del pivotaltracker: https://www.pivotaltracker.com/n/projects/2721383
 
-| Technical User Story | WorkItem / Task | ID   | Title                                                | Description                                                                                                                             | Estimation (Hours) | Assigned To | Status           |
-|----------------------|-----------------|------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------|------------------|
-| TS03                 | TK02            | TK02 | Validar Autenticación del Rol Producer para Consultar Detalles de un Cliente | Implementar validación que permita solo a los usuarios autenticados con el rol producer acceder a los detalles de un cliente.          | 3                   | Gustavo     | Done             |
-|                      | TK04            | TK04 | Manejo de Respuesta de Error para Acceso Denegado    | Configurar el response con status 403 si un usuario no autorizado (por ejemplo, con el rol consumer) intenta acceder a los detalles de un cliente. | 4                   | Gustavo     | Done             |
-| TS04                 | TK01            | TK01 | Definir Lógica para Editar Información de Cliente por ID | Implementar la lógica en el servicio para permitir la edición de los datos de un cliente específico mediante su id.                    | 3                   | Gustavo     | In Process       |
-|                      | TK02            | TK02 | Validar Autenticación del Rol Producer para Editar Información de Clientes | Implementar la validación que permita solo a los usuarios autenticados con el rol producer modificar los datos de un cliente.          | 2                   | Gustavo     | In Process       |
-|                      | TK03            | TK03 | Construir Respuesta para Edición Exitosa del Cliente  | Configurar el response para retornar status 200 cuando los datos de un cliente se actualicen exitosamente.                             | 3                   | Gustavo     | In Process       |
-|                      | TK04            | TK04 | Implementar Validación de Unicidad para Correo y DNI al Editar Cliente | Asegurar que el correo y el DNI del cliente sean únicos en la base de datos durante la edición.                                        | 4                   | Gustavo     | In Process       |
-|                      | TK05            | TK05 | Agregar Lógica en el Controlador para Actualizar Información del Cliente | Modificar el controlador ClientsController para agregar el método PUT que permita la actualización de los datos de un cliente a través del endpoint /api/v1/clients/{id}. | 5                   | Gustavo     | In Process       |
-|                      | TK06            | TK06 | Definir la Ruta PUT para Editar Información de un Cliente Específico | Agregar la ruta PUT /api/v1/clients/{id} en el sistema de enrutamiento, apuntando al método de actualización en el controlador.         | 3                   | Gustavo     | In Process       |
-| TS06                 | TK01            | TK01 | Definir la Lógica para Obtener el Inventario Asociado a un Productor | Implementar la lógica necesaria para consultar y obtener los productos del inventario que pertenecen a un productor.                    | 4                   | Angelo      | Done             |
-|                      | TK02            | TK02 | Modificar el Controlador de Inventario para Incluir la Lógica del Método GET | Actualizar el controlador de inventario para invocar la lógica que obtiene los productos del inventario filtrados por productor.        | 4                   | Angelo      | Done             |
-|                      | TK03            | TK03 | Agregar la Ruta GET para Listar el Inventario Asociado al Productor | Definir una ruta /api/v1/inventories con el método GET que permita listar el inventario del productor.                                  | 3                   | Angelo      | Done             |
-| TS07                 | TK01            | TK01 | Definir la Lógica para Agregar Nuevos Productos al Inventario | Implementar la lógica necesaria para agregar nuevos productos al inventario. Esta lógica debe validar los datos de entrada.            | 4                   | Angelo      | Done             |
-|                      | TK02            | TK02 | Definir el Endpoint para Registrar Nuevos Productos en el Inventario | Crear un endpoint RESTful en el controlador para permitir al productor agregar nuevos productos al inventario. La ruta es /api/v1/inventories | 4                   | Angelo      | Done             |
-|                      | TK03            | TK03 | Validar Datos Obligatorios                           | Implementar validaciones para los campos obligatorios, asegurando que se proporcionen correctamente antes de proceder con el registro en el inventario. | 2                   | Angelo      | Done             |
-| TS010                | TK01            | TK01 | Definir la Lógica para Obtener Productos Asociados a un Producer ID | Implementar la lógica necesaria para consultar y obtener todos los productos que están asociados a un Producer ID específico.           | 4                   | Angelo      | Done             |
-|                      | TK02            | TK02 | Modificar el Controlador de Productos para Incluir la Lógica del Método GET | Actualizar el controlador de productos para manejar las solicitudes GET y que invoque la lógica definida para obtener los productos filtrados por el Producer ID. | 4                   | Angelo      | Done             |
-|                      | TK03            | TK03 | Agregar la Ruta GET para Listar Productos por Producer ID | Definir una ruta RESTful que permita listar los productos asociados a un Producer ID específico. La ruta debe incluir el Producer ID, api/v1/inventories/{producerId} | 4                   | Angelo      | Done             |
-| TS011                | TK01            | TK01 | Implementar Lógica de Autenticación y Asignación de Roles | Desarrollar la lógica para autenticar a los clientes (producers o consumers) y asignarles el rol correspondiente.                       | 3                   | Gustavo     | In Process       |
-|                      | TK02            | TK02 | Desarrollar la Vista y Funcionalidades Personalizadas para el Rol Producer | Asegurar que solo los producers puedan ver y acceder a las secciones que le corresponden.                                               | 3                   | Gustavo     | In Process       |
-|                      | TK03            | TK03 | Desarrollar la Vista y Funcionalidades Personalizadas para el Rol Consumer | Asegurar que solo los consumer puedan ver y acceder a las secciones que le corresponden.                                                | 4                   | Gustavo     | In Process       |
-|                      | TK04            | TK04 | Modificar Controlador para Retornar Información Basada en Rol | Facilitar la autenticación y autorización al obtener la lista de clientes y sus roles, permitiendo al sistema gestionar el acceso a funcionalidades específicas según el rol del cliente. | 3                   | Gustavo     | In Process       |
-| TS012                | TK01            | TK01 | Definir Lógica para agregar nuevos lotes             | Implementar la lógica en el backend para agregar nuevos lotes, asegurando que el id y el correo sean únicos, y retornar el resultado de la operación. | 4                   | Oscar       | Done             |
-|                      | TK02            | TK02 | Implementar endpoint GET para obtener la lista de lotes | Crear un endpoint en el servidor que permita realizar una solicitud GET y devuelva una lista de lotes con la información relevante (ID, nombre, fecha de creación, estado, etc.) en formato JSON. | 4                   | Oscar       | Done             |
-|                      | TK03            | TK03 | Configurar capa de servicio para la obtención de lotes | Desarrollar la capa de servicio que interactúa con la base de datos para obtener los lotes, asegurando que el resultado esté filtrado y ordenado correctamente. | 3                   | Oscar       | Done             |
-|                      | TK04            | TK04 | Crear pruebas unitarias para el endpoint de listar lotes | Implementar pruebas unitarias para el endpoint GET, validando que los datos devueltos sean correctos y que se manejen adecuadamente los casos de error, como cuando no hay lotes disponibles. | 3                   | Oscar       | Done             |
-| TS013                | TK01            | TK01 | Definir Lógica para agregar nuevos lotes             | Implementar la lógica en el backend para añadir lotes, asegurando que batchNumber y grape sean únicos en la base de datos.             | 4                   | Oscar       | Done             |
-|                      | TK02            | TK02 | Configurar Endpoint para creación de lotes           | Crear el endpoint /api/v1/lots con método POST, permitiendo recibir y registrar nuevos lotes en la base de datos.                       | 3                   | Oscar       | Done             |
-|                      | TK03            | TK03 | Validación de respuesta y manejo de errores          | Implementar validación para casos de duplicidad en batchNumber o grape, devolviendo un código 400 con el mensaje de error adecuado.    | 2                   | Oscar       | Done             |
-| TS014                | TK01            | TK01 | Crear Endpoint para obtener detalles de lote         | Configurar el endpoint /api/v1/lots/{id} con el método GET para retornar detalles del lote especificado.                               | 3                   | Oscar       | Done             |
-|                      | TK02            | TK02 | Configurar permisos de acceso por rol                | Asegurar que solo el rol producer pueda acceder a los detalles del lote; devolver un error 403 para otros roles.                      | 3                   | Oscar       | In Process       |
-| TS015                | TK01            | TK01 | Implementar lógica de actualización de lotes         | Desarrollar la lógica en el backend para actualizar la información de un lote, incluyendo validaciones de unicidad en batchNumber y grape. | 4                   | Oscar       | In Process       |
-|                      | TK02            | TK02 | Configurar Endpoint de edición de lotes              | Crear el endpoint /api/v1/lots/{id} con el método PUT para recibir y procesar las solicitudes de actualización.                        | 4                   | Oscar       | In Process       |
-| TS016                | TK01            | TK01 | Crear lógica para eliminación de lotes               | Implementar la lógica para eliminar un lote en la base de datos al recibir un request DELETE con el ID de lote válido.                 | 3                   | Oscar       | In Process       |
-|                      | TK02            | TK02 | Configurar Endpoint para eliminación de lotes        | Configurar el endpoint /api/v1/lots/{id} con el método DELETE, y devolver un 204 si la eliminación es exitosa o un 404 si el lote no existe. | 3                   | Oscar       | In Process       |
+| Technical User Story | WorkItem / Task | ID   | Title                                                                        | Description                                                                                                                                                                                       | Estimation (Hours) | Assigned To | Status     |
+|----------------------|-----------------|------|------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|------------|
+| TS03                 | TK02            | TK02 | Validar Autenticación del Rol Producer para Consultar Detalles de un Cliente | Implementar validación que permita solo a los usuarios autenticados con el rol producer acceder a los detalles de un cliente.                                                                     | 3                  | Gustavo     | Done       |
+|                      | TK04            | TK04 | Manejo de Respuesta de Error para Acceso Denegado                            | Configurar el response con status 403 si un usuario no autorizado (por ejemplo, con el rol consumer) intenta acceder a los detalles de un cliente.                                                | 4                  | Gustavo     | Done       |
+| TS04                 | TK01            | TK01 | Definir Lógica para Editar Información de Cliente por ID                     | Implementar la lógica en el servicio para permitir la edición de los datos de un cliente específico mediante su id.                                                                               | 3                  | Gustavo     | In Process |
+|                      | TK02            | TK02 | Validar Autenticación del Rol Producer para Editar Información de Clientes   | Implementar la validación que permita solo a los usuarios autenticados con el rol producer modificar los datos de un cliente.                                                                     | 2                  | Gustavo     | In Process |
+|                      | TK03            | TK03 | Construir Respuesta para Edición Exitosa del Cliente                         | Configurar el response para retornar status 200 cuando los datos de un cliente se actualicen exitosamente.                                                                                        | 3                  | Gustavo     | In Process |
+|                      | TK04            | TK04 | Implementar Validación de Unicidad para Correo y DNI al Editar Cliente       | Asegurar que el correo y el DNI del cliente sean únicos en la base de datos durante la edición.                                                                                                   | 4                  | Gustavo     | In Process |
+|                      | TK05            | TK05 | Agregar Lógica en el Controlador para Actualizar Información del Cliente     | Modificar el controlador ClientsController para agregar el método PUT que permita la actualización de los datos de un cliente a través del endpoint /api/v1/clients/{id}.                         | 5                  | Gustavo     | In Process |
+|                      | TK06            | TK06 | Definir la Ruta PUT para Editar Información de un Cliente Específico         | Agregar la ruta PUT /api/v1/clients/{id} en el sistema de enrutamiento, apuntando al método de actualización en el controlador.                                                                   | 3                  | Gustavo     | In Process |
+| TS06                 | TK01            | TK01 | Definir la Lógica para Obtener el Inventario Asociado a un Productor         | Implementar la lógica necesaria para consultar y obtener los productos del inventario que pertenecen a un productor.                                                                              | 4                  | Angelo      | Done       |
+|                      | TK02            | TK02 | Modificar el Controlador de Inventario para Incluir la Lógica del Método GET | Actualizar el controlador de inventario para invocar la lógica que obtiene los productos del inventario filtrados por productor.                                                                  | 4                  | Angelo      | Done       |
+|                      | TK03            | TK03 | Agregar la Ruta GET para Listar el Inventario Asociado al Productor          | Definir una ruta /api/v1/inventories con el método GET que permita listar el inventario del productor.                                                                                            | 3                  | Angelo      | Done       |
+| TS07                 | TK01            | TK01 | Definir la Lógica para Agregar Nuevos Productos al Inventario                | Implementar la lógica necesaria para agregar nuevos productos al inventario. Esta lógica debe validar los datos de entrada.                                                                       | 4                  | Angelo      | Done       |
+|                      | TK02            | TK02 | Definir el Endpoint para Registrar Nuevos Productos en el Inventario         | Crear un endpoint RESTful en el controlador para permitir al productor agregar nuevos productos al inventario. La ruta es /api/v1/inventories                                                     | 4                  | Angelo      | Done       |
+|                      | TK03            | TK03 | Validar Datos Obligatorios                                                   | Implementar validaciones para los campos obligatorios, asegurando que se proporcionen correctamente antes de proceder con el registro en el inventario.                                           | 2                  | Angelo      | Done       |
+| TS010                | TK01            | TK01 | Definir la Lógica para Obtener Productos Asociados a un Producer ID          | Implementar la lógica necesaria para consultar y obtener todos los productos que están asociados a un Producer ID específico.                                                                     | 4                  | Angelo      | Done       |
+|                      | TK02            | TK02 | Modificar el Controlador de Productos para Incluir la Lógica del Método GET  | Actualizar el controlador de productos para manejar las solicitudes GET y que invoque la lógica definida para obtener los productos filtrados por el Producer ID.                                 | 4                  | Angelo      | Done       |
+|                      | TK03            | TK03 | Agregar la Ruta GET para Listar Productos por Producer ID                    | Definir una ruta RESTful que permita listar los productos asociados a un Producer ID específico. La ruta debe incluir el Producer ID, api/v1/inventories/{producerId}                             | 4                  | Angelo      | Done       |
+| TS011                | TK01            | TK01 | Implementar Lógica de Autenticación y Asignación de Roles                    | Desarrollar la lógica para autenticar a los clientes (producers o consumers) y asignarles el rol correspondiente.                                                                                 | 3                  | Gustavo     | In Process |
+|                      | TK02            | TK02 | Desarrollar la Vista y Funcionalidades Personalizadas para el Rol Producer   | Asegurar que solo los producers puedan ver y acceder a las secciones que le corresponden.                                                                                                         | 3                  | Gustavo     | In Process |
+|                      | TK03            | TK03 | Desarrollar la Vista y Funcionalidades Personalizadas para el Rol Consumer   | Asegurar que solo los consumer puedan ver y acceder a las secciones que le corresponden.                                                                                                          | 4                  | Gustavo     | In Process |
+|                      | TK04            | TK04 | Modificar Controlador para Retornar Información Basada en Rol                | Facilitar la autenticación y autorización al obtener la lista de clientes y sus roles, permitiendo al sistema gestionar el acceso a funcionalidades específicas según el rol del cliente.         | 3                  | Gustavo     | In Process |
+| TS012                | TK01            | TK01 | Definir Lógica para agregar nuevos lotes                                     | Implementar la lógica en el backend para agregar nuevos lotes, asegurando que el id y el correo sean únicos, y retornar el resultado de la operación.                                             | 4                  | Oscar       | Done       |
+|                      | TK02            | TK02 | Implementar endpoint GET para obtener la lista de lotes                      | Crear un endpoint en el servidor que permita realizar una solicitud GET y devuelva una lista de lotes con la información relevante (ID, nombre, fecha de creación, estado, etc.) en formato JSON. | 4                  | Oscar       | Done       |
+|                      | TK03            | TK03 | Configurar capa de servicio para la obtención de lotes                       | Desarrollar la capa de servicio que interactúa con la base de datos para obtener los lotes, asegurando que el resultado esté filtrado y ordenado correctamente.                                   | 3                  | Oscar       | Done       |
+|                      | TK04            | TK04 | Crear pruebas unitarias para el endpoint de listar lotes                     | Implementar pruebas unitarias para el endpoint GET, validando que los datos devueltos sean correctos y que se manejen adecuadamente los casos de error, como cuando no hay lotes disponibles.     | 3                  | Oscar       | Done       |
+| TS013                | TK01            | TK01 | Definir Lógica para agregar nuevos lotes                                     | Implementar la lógica en el backend para añadir lotes, asegurando que batchNumber y grape sean únicos en la base de datos.                                                                        | 4                  | Oscar       | Done       |
+|                      | TK02            | TK02 | Configurar Endpoint para creación de lotes                                   | Crear el endpoint /api/v1/lots con método POST, permitiendo recibir y registrar nuevos lotes en la base de datos.                                                                                 | 3                  | Oscar       | Done       |
+|                      | TK03            | TK03 | Validación de respuesta y manejo de errores                                  | Implementar validación para casos de duplicidad en batchNumber o grape, devolviendo un código 400 con el mensaje de error adecuado.                                                               | 2                  | Oscar       | Done       |
+| TS014                | TK01            | TK01 | Crear Endpoint para obtener detalles de lote                                 | Configurar el endpoint /api/v1/lots/{id} con el método GET para retornar detalles del lote especificado.                                                                                          | 3                  | Oscar       | Done       |
+|                      | TK02            | TK02 | Configurar permisos de acceso por rol                                        | Asegurar que solo el rol producer pueda acceder a los detalles del lote; devolver un error 403 para otros roles.                                                                                  | 3                  | Oscar       | In Process |
+| TS015                | TK01            | TK01 | Implementar lógica de actualización de lotes                                 | Desarrollar la lógica en el backend para actualizar la información de un lote, incluyendo validaciones de unicidad en batchNumber y grape.                                                        | 4                  | Oscar       | In Process |
+|                      | TK02            | TK02 | Configurar Endpoint de edición de lotes                                      | Crear el endpoint /api/v1/lots/{id} con el método PUT para recibir y procesar las solicitudes de actualización.                                                                                   | 4                  | Oscar       | In Process |
+| TS016                | TK01            | TK01 | Crear lógica para eliminación de lotes                                       | Implementar la lógica para eliminar un lote en la base de datos al recibir un request DELETE con el ID de lote válido.                                                                            | 3                  | Oscar       | In Process |
+|                      | TK02            | TK02 | Configurar Endpoint para eliminación de lotes                                | Configurar el endpoint /api/v1/lots/{id} con el método DELETE, y devolver un 204 si la eliminación es exitosa o un 404 si el lote no existe.                                                      | 3                  | Oscar       | In Process |
 
 ### [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
 
@@ -3003,48 +3003,34 @@ En el sprint se alcanzo un desarrollo en la implementación del despliegue del f
 
 - Pagina home producer/consumer: En la sección home, el usuario puede visualizar dependiendo el tipo de usuario que es, si es consumer se le mostrará los vinos mas populares y si es producer se le mostrarán sus ordenes que todavia no ha realizado("en proceso"). Ademas en el toolbar se implementó la internacionalización para que el usuario pueda elegir si quiere ver la web en español o en ingles. 
   ![](images/evidence-front/home-producer-en.png)
-  ![](images/evidence-front/home-producer-es.png)
-  ![](images/evidence-front/home-consumer-en.png)
-  ![](images/evidence-front/home-consumer-es.png)
-  ![](images/evidence-front/recent-orders-producer.png)
+  
 
 - Seccion filtros producer/consumer: Hemos implementado un apartado de filter a nuestras paginas para que al usuario se le facilite la busqueda.
   ![](images/evidence-front/batch-registration-filter-producer.png)
-  ![](images/evidence-front/orders-filter-producer.png)
-  ![](images/evidence-front/wines-filter-consumer.png)
-  ![](images/evidence-front/wines-filter-producer.png)
+
 
 - Pagina vinos producer/consumer: Hemos mejorado la estilización de la pagina vinos tanto para consumidores como productores, hemos impleado una card para cada vino, esto hace que se vea mucho mejor y podamos ver la imagen y parte de los datos del producto.
   ![](images/evidence-front/wines-consumer.png)
-  ![](images/evidence-front/wines-producer.png)
-  ![](images/evidence-front/wines-details-producer.png)
-  ![](images/evidence-front/wines-buy-consumer.png)
+
 
 - Bounded Context Clients: Hemos creado los endpoints de los clientes teniendo get,post y get por id.
   ![](images/evidence-back/clients-post.png)
-  ![](images/evidence-back/clients-get.png)
-  ![](images/evidence-back/clients-get-id.png)
 
 - Bounded Context Inventories: Hemos creado los endpoints de inventories teniendo get,post y get por id.
   ![](images/evidence-back/inventories-post.png)
-  ![](images/evidence-back/inventories-get.png)
-  ![](images/evidence-back/inventories-get-id.png)
+
 
 - Bounded Context Batch: Hemos creado los endpoints de batch teniendo get,post y get por id.
   ![](images/evidence-back/batch-post.png)
-  ![](images/evidence-back/batch-get.png)
-  ![](images/evidence-  back/batch-get-id.png)
   
 - Bounded Context Orders: Hemos creado los endpoints de las ordenes teniendo get, post, get por id, get por estado, patch.
   ![](images/evidence-back/orders-post.png)
-  ![](images/evidence-back/orders-get.png)
-  ![](images/evidence-back/orders-get-id.png)
-  ![](images/evidence-back/orders-get-estado.png)
-  ![](images/evidence-back/orders-patch.png)
 
 - Bounded Context wine: Hemos creado los endpoints de wine teniendo post y get por id.
   ![](images/evidence-back/wine-post.png)
-  ![](images/evidence-back/wine-get-id.png)
+
+**Video de evidencia de ejecución del Sprint:**  [video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923466_upc_edu_pe/EQCW18FYMedFm27vAohW-zUB63haTe3e63DiiNlVyhYQiQ?e=rmcZej&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 
 
 ### [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
@@ -3072,6 +3058,37 @@ Esta sección muestra los logros alcanzados en la documentación de Web Services
 | https://backend-villasystem-production-36d5.up.railway.app/swagger-ui/index.html#/Orders/updateOrderStatus                 | /api/orders/{orderId}    | PATCH     | Actualizar el estado de un pedido               | 'Content-Type: application/json' -d '{"newStatus": "en proceso"}'                       | `orderId` (path parameter), JSON con nuevo estado | `{"id": 5, "estado": "en proceso", ...}`                                 | Retorna el objeto pedido actualizado    |
 | https://backend-villasystem-production-36d5.up.railway.app/swagger-ui/index.html#/wine-controller/createWine               | /api/v1/wines            | POST      | Crear un nuevo vino                             | 'Content-Type: application/json' -d '{"name": "Reserva Especial", "year": "2018", ...}' | JSON con datos del vino                           | `{"id": 3, "name": "Reserva Especial", "year": "2018", ...}`             | Retorna el objeto vino creado           |
 | https://backend-villasystem-production-36d5.up.railway.app/swagger-ui/index.html#/wine-controller/getWineById              | /api/v1/wines/{id}       | GET       | Obtener un vino por ID                          | 'accept: */*'                                                                           | `id` (path parameter)                             | `{"id": 1, "name": "Gran Reserva", "year": "2015", ...}`                 | Retorna un objeto vino específico       |
+
+
+- Bounded Context Clients: Hemos creado los endpoints de los clientes teniendo get,post y get por id.
+  ![](images/evidence-back/clients-post.png)
+  ![](images/evidence-back/clients-get.png)
+  ![](images/evidence-back/clients-get-id.png)
+
+- Bounded Context Inventories: Hemos creado los endpoints de inventories teniendo get,post y get por id.
+  ![](images/evidence-back/inventories-post.png)
+  ![](images/evidence-back/inventories-get.png)
+  ![](images/evidence-back/inventories-get-id.png)
+
+- Bounded Context Batch: Hemos creado los endpoints de batch teniendo get,post y get por id.
+  ![](images/evidence-back/batch-post.png)
+  ![](images/evidence-back/batch-get.png)
+  ![](images/evidence-  back/batch-get-id.png)
+
+- Bounded Context Orders: Hemos creado los endpoints de las ordenes teniendo get, post, get por id, get por estado, patch.
+  ![](images/evidence-back/orders-post.png)
+  ![](images/evidence-back/orders-get.png)
+  ![](images/evidence-back/orders-get-id.png)
+  ![](images/evidence-back/orders-get-estado.png)
+  ![](images/evidence-back/orders-patch.png)
+
+- Bounded Context wine: Hemos creado los endpoints de wine teniendo post y get por id.
+  ![](images/evidence-back/wine-post.png)
+  ![](images/evidence-back/wine-get-id.png)
+
+[Link repositorio web services](https://github.com/VillaSystem/backend-villasystem):https://github.com/VillaSystem/backend-villasystem
+
+commits id: 4b0f207 - d043e15 - 3e000a2
 
 ### [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
 En este sprint, desplegamos la base de datos en Amazon Lightsail y el backend en Railway. A continuación, se describe la configuración detallada del despliegue de cada componente de la solución, estableciendo los pasos necesarios para que, a partir de los repositorios de código fuente, se logre la publicación satisfactoria de los productos digitales involucrados, como la Landing Page, los Web Services y las aplicaciones web del frontend.
@@ -3125,9 +3142,20 @@ En este sprint, desplegamos la base de datos en Amazon Lightsail y el backend en
 
 Para la realización de los commits de nuestro Sprint, hemos hecho uso de la herramienta IntelliJ IDE y Web Storm, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Web Storm/ IntelliJ IDE y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
 
-![](images/insights1.png)
-![](images/insights1.png)
-![](images/insights1.png)
+
+**Web Service**
+
+![](images/backend1.PNG)
+
+![](images/backend2.PNG)
+
+**Web Application**
+
+![](images/front1.PNG)
+
+![](images/front2.PNG)
+
+
 
 
 ## [5.3.	Validation Interviews.](#validation-Interviews)
