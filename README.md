@@ -3696,7 +3696,7 @@ Heurística violada: Usabilidad - Flexibilidad y eficiencia de uso
 
 **_Problema:_**
 
-El problema que se percibe, donde los botones de navegación ("Home", "Servicios", etc.) desaparecen en la versión móvil del landing page, es un problema grave de usabilidad que puede afectar significativamente a los usuarios y a la efectividad del sitio web. Los usuarios no pueden encontrar fácilmente las secciones principales, se sentirán perdidos y frustrados. No podrán acceder a la información que buscan ni realizar las acciones que desean, como registrarse o contactar contigo.
+El problema que se percibe, donde los botones de navegación ("Home", "Servicios", etc.) desaparecen en la versión móvil del landing page, es un problema grave de usabilidad que puede afectar significativamente a los usuarios y a la efectividad del sitio web. Los usuarios no pueden encontrar fácilmente las secciones principales, se sentirán perdidos y frustrados. No podrán acceder a la información que buscan ni realizar las acciones que desean, como registrarse o contactarnos.
 
 ![](images/heuristica5.png)
 
