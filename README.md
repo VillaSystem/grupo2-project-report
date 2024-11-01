@@ -3608,8 +3608,15 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 <tr>
   <td> 5 </td>
   <td> Contenido del Problema </td>
-  <td> Contenido de la Escala de severidad </td>
-  <td> Contenido de Heurística/Principio violada(o) </td>
+  <td> 4 </td>
+  <td> Usabilidad: Flexibilidad y eficiencia de uso </td>
+</tr>
+<!--========================================= FILA 5 ======================================-->
+<tr>
+  <td> 6 </td>
+  <td> Contenido del Problema </td>
+  <td> 1 </td>
+  <td> Visibilidad del estado del sistema </td>
 </tr>
 </tbody>
 </table>
@@ -3693,7 +3700,7 @@ Es importante garantizar que el formulario de contacto funcione adecuadamente y 
 
 **_PROBLEMA #5:_** Botones de navegación no se muestran en móviles.
 
-**_Severidad: 3_**
+**_Severidad: 4_**
 Heurística violada: Usabilidad - Flexibilidad y eficiencia de uso
 
 **_Problema:_**
@@ -3710,7 +3717,7 @@ La solución a este problema radica en optimizar el diseño del landing page par
 
 **_PROBLEMA #6:_** Problema de un landing page estático.
 
-**_Severidad: 3_**
+**_Severidad: 1_**
 Heurística violada: Estética y diseño minimalista
 
 **_Problema:_**
@@ -3721,7 +3728,7 @@ Una página estática, con solo texto e imágenes fijas, puede resultar aburrida
 
 **_Recomendación:_**
 
- Un video de fondo con imágenes atractivas y relevantes capta la atención del usuario desde el primer momento, generando un mayor impacto visual. También, invita a la interacción y mantiene al usuario interesado en la página por más tiempo. Además, un video bien producido puede transmitir la esencia de tu marca, generar confianza y conectar emocionalmente con el usuario.
+ Un video de fondo con imágenes atractivas y relevantes capta la atención del usuario desde el primer momento, generando un mayor impacto visual. También, invita a la interacción y mantiene al usuario interesado en la página por más tiempo. Además, un video bien producido puede transmitir la esencia de la marca, generar confianza y conectar emocionalmente con el usuario.
 
 
 **TABLA DE RESUMEN - WEB APPLICATION:**
