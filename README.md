@@ -3772,6 +3772,20 @@ La solución a este problema radica en optimizar el diseño del landing page par
   <td> 2 </td>
   <td> Visibilidad del estado del sistema </td>
 </tr>
+<!--========================================= FILA 7 ======================================-->
+<tr>
+  <td> 9 </td>
+  <td> Detalles del producto no carga correctamente las imágenes de los vinos </td>
+  <td> 3 </td>
+  <td> Visibilidad del estado del sistema </td>
+</tr>
+<!--========================================= FILA 7 ======================================-->
+<tr>
+  <td> 10 </td>
+  <td> Fondo blanco en la cartilla de cliente afecta la experiencia de usuario </td>
+  <td> 2 </td>
+  <td> Usability – Flexibilidad y eficiencia de uso </td>
+</tr>
 </tbody>
 </table>
 
@@ -3946,7 +3960,7 @@ Se recomienda implementar un indicador visual en el menú de navegación para se
 
 ---
 
-**_PROBLEMA #9:_** La página de detalles del producto no carga correctamente las imágenes de los vinos
+**_PROBLEMA #9:_** La página de detalles del producto no carga correctamente las imágenes de los vinos.
 
 **_Severidad: 3_**
 
