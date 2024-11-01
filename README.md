@@ -3758,6 +3758,20 @@ La solución a este problema radica en optimizar el diseño del landing page par
   <td> 4 </td>
   <td> Prevención de errores </td>
 </tr>
+<!--========================================= FILA 7 ======================================-->
+<tr>
+  <td> 7 </td>
+  <td> Falta de agregado de barra de autocompletado o cuadro de sugerencias </td>
+  <td> 3 </td>
+  <td> Usability – Flexibilidad y eficiencia de uso </td>
+</tr>
+<!--========================================= FILA 8 ======================================-->
+<tr>
+  <td> 8 </td>
+  <td> Falta de retroalimentación visual para indicar la sección activa en la landing page </td>
+  <td> 2 </td>
+  <td> Visibilidad del estado del sistema </td>
+</tr>
 </tbody>
 </table>
 
@@ -3912,6 +3926,24 @@ Incluir una barra de autocompletado en la página web puede mejorar significativ
 2. Mejor usabilidad: Un sitio web fácil de usar es clave para el éxito. La barra de autocompletado contribuye a una navegación más fluida e intuitiva.
    
 2. Imagen profesional:** Incluir funciones modernas como la barra de autocompletado muestra que te preocupas por la experiencia de tus usuarios y que tu sitio web está actualizado.
+---
+
+**_PROBLEMA #8:_** Falta de retroalimentación visual para indicar la sección activa en la landing page
+
+**_Severidad: 2_**
+
+Heurística violada: Visibilidad del estado del sistema
+
+**_Problema:_**
+
+La landing page no proporciona retroalimentación visual para indicar a los usuarios en qué sección se encuentran al navegar, como "Funcionalidades" o "Planes". Esta falta de indicación puede desorientar a los usuarios, especialmente en una página con varias secciones importantes. La ausencia de retroalimentación limita la claridad y afecta la eficiencia de la navegación, haciendo que la experiencia de usuario sea menos intuitiva.
+
+![](images/)
+
+**_Recomendación:_**
+
+Se recomienda implementar un indicador visual en el menú de navegación para señalar la sección activa, permitiendo que los usuarios sepan su ubicación en la página. Además, se pueden añadir efectos de transición suaves al desplazarse entre secciones, proporcionando un contexto visual claro y mejorando la usabilidad general.
+
 ---
 
 
