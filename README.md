@@ -3551,9 +3551,9 @@ Es importante garantizar que el formulario de contacto funcione adecuadamente y 
 <!--========================================= FILA 1 ======================================-->
 <tr>
   <td> 1 </td>
-  <td> Contenido del Problema </td>
-  <td> Contenido de la Escala de severidad </td>
-  <td> Contenido de Heurística/Principio violada(o) </td>
+  <td> Falta de actualización visual tras la eliminación de vinos </td>
+  <td> 3 </td>
+  <td> Usability – Visibilidad del estado del sistema </td>
 </tr>
 <!--========================================= FILA 2 ======================================-->
 <tr>
@@ -3582,16 +3582,21 @@ Es importante garantizar que el formulario de contacto funcione adecuadamente y 
 
 **_DESCRIPCIÓN DE PROBLEMAS - WEB APPLICATION:_**
 
-**_PROBLEMA #1:_**
+**_PROBLEMA #1:_**  Falta de actualización visual tras la eliminación de vinos
 
-**_Severidad: 3_**
+**_Severidad: 2_**
+
+Heurística violada:  Usability – Visibilidad del estado del sistema
 
 **_Problema:_**
 
+La falta de actualización visual inmediata tras la eliminación de un vino en la sección afecta la usabilidad, ya que los usuarios deben actualizar manualmente la sección para observar los cambios. Esta limitación no solo genera confusión, sino que también puede llevar a errores, dado que los usuarios pueden pensar que la eliminación no se ha llevado a cabo. Esto impacta negativamente la experiencia general y la percepción de la aplicación.
+
+![](images/heuristicaWeb1.png)
 
 **_Recomendación:_**
 
-
+Para resolver este problema, se recomienda implementar una lógica que permita la actualización en tiempo real de la lista de vinos tras cualquier acción de eliminación. Esta mejora no solo garantizará una representación precisa de los datos, sino que también contribuirá a una experiencia de usuario más fluida y coherente.
 
 ## 5.4. Video About-the-Product.
 
