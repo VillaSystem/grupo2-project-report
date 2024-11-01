@@ -113,13 +113,13 @@ Para elaborar el informe correspondiente a la entrega TP, se distribuyó la resp
 
 **TB2**
 
-| Integrante     | Tareas Asignadas                                                                                                                                        |
-|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Oscar Armas    | Corrección del diagrama de base de datos. Corrección de diagramas C4.                                                                                   |
-| Angelo Curi    | Corrección del diagrama de base de datos. Corrección de diagramas C4. Elaboración de video about the product. Elaboración de entrevistas de validación. |
-| Fernando       | Spring Backlog 3                                                                                                                                        |
-| Diego Huincho  | Evaluación según heurísticas, análisis de entrevistas de validación                                                                                     |
-| Gustavo Huanca | Sprint Planning 3, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review               |
+| Integrante     | Tareas Asignadas                                                                                                                                             |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Oscar Armas    | PPT, Tecnical stories, product backlog, entrevista, testing, desarrollo del bounded context lotes.                                                           |
+| Angelo Curi    | Corrección del diagrama de base de datos. Corrección de diagramas C4. Elaboración de video about the product. Elaboración de entrevistas de validación, PPT. |
+| Fernando       | Spring Backlog 3, desarrollo del bounded context orders.                                                                                                     |
+| Diego Huincho  | Evaluación según heurísticas, análisis de entrevistas de validación                                                                                          |
+| Gustavo Huanca | Sprint Planning 3, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review                    |
 
 
 
@@ -223,7 +223,7 @@ Los integrantes del equipo son:
       - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
       - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
       - [**5.2.2. Sprint 2.**](#522-Sprint-2)
-      -
+      - [**5.2.2.
 
 - [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
 - [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
@@ -3324,9 +3324,10 @@ Esta sección presenta los objetivos de usuario clave que guiarán nuestras entr
 **Imagen:** ![](images/luiss.png) 
 
 
-| Resumen de la Entrevista  | Timing | URL |
-|---------------------------|--------|-----|
-|Luis Marcelo Santillana, de 28 años, participó en una entrevista para evaluar la interfaz de usuario dirigida a productores. Durante la entrevista, destacó que la funcionalidad de la aplicación es simple y fácil de usar, lo que permite a los usuarios navegar sin complicaciones. Sin embargo, mencionó que el diseño es muy básico y repetitivo en todas las secciones, lo que podría resultar poco atractivo a largo plazo. También apreció la inclusión de la internacionalización en la landing page, lo que facilita a los productores que hablan otros idiomas, comentó que aunque la interfaz es amigable, sería beneficioso mejorar la estilización para que se vea más profesional.  |     |     | 
+| Resumen de la Entrevista                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Timing | URL |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-----|
+| Luis Marcelo Santillana, de 28 años, participó en una entrevista para evaluar la interfaz de usuario dirigida a productores. Durante la entrevista, destacó que la funcionalidad de la aplicación es simple y fácil de usar, lo que permite a los usuarios navegar sin complicaciones. Sin embargo, mencionó que el diseño es muy básico y repetitivo en todas las secciones, lo que podría resultar poco atractivo a largo plazo. También apreció la inclusión de la internacionalización en la landing page, lo que facilita a los productores que hablan otros idiomas, comentó que aunque la interfaz es amigable, sería beneficioso mejorar la estilización para que se vea más profesional. |        |     | 
+
 
 
 
@@ -3762,6 +3763,21 @@ https://youtu.be/_sFboHi3KK4
 
 - El enfoque en pruebas exhaustivas del backend ha sido esencial para garantizar la calidad y estabilidad del sistema. La implementación de una suite de pruebas rigurosa ha permitido identificar y resolver problemas antes de la implementación, asegurando un lanzamiento más fluido y una reducción en el tiempo de inactividad de la plataforma.
 
+## Recomendaciones
+
+- Conectar el frontend con el backend para asegurar una experiencia de usuario fluida y mejorar la eficiencia operativa de la plataforma en tiempo real.
+
+- Optimizar la accesibilidad de la plataforma para que sea intuitiva y fácil de usar, garantizando una adopción más amplia en la industria.
+
+- Mantener límites claros en los user story points de cada sprint para evitar sobrecargas y asegurar un desarrollo continuo y ordenado.
+
+- Realizar pruebas exhaustivas en puntos de interacción crítica entre el frontend y el backend para reducir riesgos en el lanzamiento y mejorar la estabilidad del sistema.
+
+- Documentar las funcionalidades y estructura del backend de manera detallada, facilitando futuras integraciones y mejoras.
+
+- Completar y documentar el diseño de clases antes de continuar con nuevas implementaciones para establecer una base sólida y estructurada.
+
+- Medir la satisfacción de los stakeholders a través de métricas claras para evaluar cómo la plataforma cumple con sus expectativas y necesidades.
 
 ### Video About-the-Team.
 
