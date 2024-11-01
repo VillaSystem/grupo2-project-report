@@ -3490,7 +3490,7 @@ Heurística violada: Arquitectura de Información - Claridad en la presentación
 
 La landing page no incluye una sección dedicada a describir los servicios que la plataforma ofrece a los consumidores. Esta falta de información básica reduce la claridad y dificulta que los usuarios comprendan el propósito de la plataforma y los beneficios de registrarse. En consecuencia, los usuarios podrían perder interés en explorar o utilizar el sitio.
 
-![](images/heuristica4.PNG)
+![](images/problema2.PNG)
 
 **_Recomendación:_**
 
@@ -3507,7 +3507,7 @@ Heurística violada:  Usability: Visibilidad del estado del sistema
 El problema detectado radica en que el formulario de contacto en el sitio web o aplicación carece de funcionalidad. Esto impide que los usuarios lo utilicen para enviar consultas, comentarios o mensajes, restringiendo su capacidad de comunicación con el sitio o la empresa. Esta falta de funcionalidad en el formulario obstaculiza una comunicación efectiva, generando una experiencia frustrante y dificultando la realización de tareas esenciales, como hacer preguntas o brindar retroalimentación.
 
 
-![](images/problema1.PNG)
+![](images/heuristica4.PNG)
 
 **_Recomendación:_**
 
