@@ -3438,13 +3438,20 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 <!--========================================= FILA 3 ======================================-->
 <tr>
   <td> 3 </td>
-  <td> Contenido del Problema </td>
-  <td> Contenido de la Escala de severidad </td>
-  <td> Contenido de Heurística/Principio violada(o) </td>
+  <td> La sección “Contact” del footer de la página no muestra interacción al redireccionar el correo del startup mediante Gmail. </td>
+  <td> 1 </td>
+  <td> Usability: Visibilidad del estado del sistema </td>
 </tr>
 <!--========================================= FILA 4 ======================================-->
 <tr>
   <td> 4 </td>
+  <td> Contenido del Problema </td>
+  <td> Contenido de la Escala de severidad </td>
+  <td> Contenido de Heurística/Principio violada(o) </td>
+</tr>
+<!--========================================= FILA 5 ======================================-->
+<tr>
+  <td> 5 </td>
   <td> Contenido del Problema </td>
   <td> Contenido de la Escala de severidad </td>
   <td> Contenido de Heurística/Principio violada(o) </td>
@@ -3488,6 +3495,26 @@ La landing page no incluye una sección dedicada a describir los servicios que l
 **_Recomendación:_**
 
 Añadir una sección en la landing page que resuma los servicios específicos que la plataforma ofrece a los consumidores. Esta sección debe incluir una lista de los beneficios clave y estar ubicada en una posición prominente de la página, idealmente justo debajo del encabezado principal o en un área destacada para captar la atención de los visitantes
+
+
+**_PROBLEMA #4:_**  La sección “Contact” del footer de la página no muestra interacción al redireccionar el correo del startup mediante Gmail.
+
+**_Severidad: 3_**
+Heurística violada:  Usability: Visibilidad del estado del sistema
+
+**_Problema:_**
+
+El problema detectado radica en que el formulario de contacto en el sitio web o aplicación carece de funcionalidad. Esto impide que los usuarios lo utilicen para enviar consultas, comentarios o mensajes, restringiendo su capacidad de comunicación con el sitio o la empresa. Esta falta de funcionalidad en el formulario obstaculiza una comunicación efectiva, generando una experiencia frustrante y dificultando la realización de tareas esenciales, como hacer preguntas o brindar retroalimentación.
+
+
+![](images/problema1.PNG)
+
+**_Recomendación:_**
+
+Es importante garantizar que el formulario de contacto funcione adecuadamente y que los usuarios reciban retroalimentación tras enviar su mensaje, ya sea mediante un mensaje de confirmación o redirigiéndolos a una página de agradecimiento.
+
+
+
 
 **TABLA DE RESUMEN - WEB APPLICATION:**
 <table>
