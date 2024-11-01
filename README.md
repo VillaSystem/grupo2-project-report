@@ -3251,7 +3251,7 @@ Para la realización de los commits de nuestro Sprint, hemos hecho uso de la her
 
 ## [5.3.	Validation Interviews.](#validation-Interviews)
 
-Dentro de la sección **"Validation Interviews"** de nuestro proyecto, nos enfocamos en perfeccionar la aplicación web destinada a optimizar la gestión de producción y venta de vino. Esta fase crítica del proyecto implica un diálogo interactivo con nuestros usuarios primordiales: los productores de vino y los clientes de la plataforma. A través de entrevistas estructuradas, nos proponemos captar sus impresiones y sugerencias. Lo mencionado garantiza que la aplicación no solo cumpla con los estándares técnicos, sino que también resuene con las dinámicas operativas y las expectativas tanto de los productores como de los consumidores. A continuación, se especifican los user goals necesarios para la ejecución de las entrevistas:
+Dentro de la sección **"Validation Interviews"** de nuestro proyecto, nos enfocamos en perfeccionar la aplicación web destinada a optimizar la gestión de producción y venta de vino. Esta fase crítica del proyecto implica un diálogo interactivo con nuestros usuarios primordiales: los productores de vino y los clientes de la plataforma. A través de s estructuradas, nos proponemos captar sus impresiones y sugerencias. Lo mencionado garantiza que la aplicación no solo cumpla con los estándares técnicos, sino que también resuene con las dinámicas operativas y las expectativas tanto de los productores como de los consumidores. A continuación, se especifican los user goals necesarios para la ejecución de las entrevistas:
 
 ### [5.3.1.	Diseño de Entrevistas](#531-diseño-de-entrevistas)
 
@@ -3339,28 +3339,28 @@ Esta sección presenta los objetivos de usuario clave que guiarán nuestras entr
 | Jazzy Benítez, de 32 años, participó en una entrevista centrada en la evaluación de la interfaz de usuario de nuestra aplicación. Durante la conversación, Jazzy destacó que las tarjetas de los servicios en la página de inicio son una excelente forma de presentar la oferta de la empresa, permitiendo a los usuarios identificar rápidamente los servicios disponibles. También sugirió incluir opciones de internacionalización para atender a personas que hablan diferentes idiomas y que están en el país, facilitando así la compra o venta de productos.Al iniciar sesión, Jazzy notó de inmediato el tipo de usuario que debía seleccionar y comentó que la página de inicio es muy accesible. Sin embargo, recomendó mejorar el diseño visual para que la interfaz luzca más profesional. En cuanto a la navegación, mencionó que pudo explorar fácilmente los vinos populares y acceder a los detalles de los productos gracias a los filtros disponibles en la sección de "vinos". Además, sugirió la incorporación de un carrito de compras, lo que permitiría a los usuarios adquirir múltiples productos a la vez. La entrevista concluyó con Jazzy destacando la simplicidad y facilidad de uso de la interfaz, sugiriendo que al implementar los comentarios proporcionados, la aplicación podría convertirse en una herramienta valiosa para los consumidores y entusiastas del vino y pisco. | 13:54-17:53   |   [entrevista 1Producer](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/EaNxvqmWNpxFnJkQ-NRFFsYBrtVlh7tnCwjo1DKH590l9g?e=Es5cJV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)    | 
 
 
-**Entrevistado: 2**
+**Entrevistado: 2** 
 
-
-**Nombre :**
-
-
-**Apellidos:**
-
-
-**Edad :**
-
-
-**Distrito:**
-
-
-**Imagen:**
+**Nombre :** Max Dayson
 
 
 
-| Resumen de la Entrevista | Timing | URL |
-|--------------------------|--------|-----|
-|                          |        |     | 
+**Apellidos:** Sabino Arostegui
+
+
+**Edad :** 36
+
+
+**Distrito:** Pisco
+
+
+**Imagen:** ![](images/EntrevistaMaxv2.png)
+
+
+
+| Resumen de la Entrevista                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Timing | URL  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-----|
+| Max Dayson Sabino Arostegui, de 36 años, participó en una entrevista centrada en la evaluación de la interfaz de usuario de nuestra aplicación. Durante la conversación, Max destacó que las tarjetas de los servicios en la página de inicio son una excelente forma de presentar la oferta de la empresa, permitiendo a los usuarios identificar rápidamente los servicios disponibles. También sugirió incluir opciones de internacionalización para atender a personas que hablan diferentes idiomas y que están en el país, facilitando así la compra o venta de productos. Al iniciar sesión, Max notó de inmediato el tipo de usuario que debía seleccionar y comentó que la página de inicio es muy accesible. Sin embargo, recomendó mejorar el diseño visual para que la interfaz luzca más profesional. En cuanto a la navegación, mencionó que pudo explorar fácilmente los vinos populares y acceder a los detalles de los productos gracias a los filtros disponibles en la sección de "vinos". Además, sugirió la incorporación de un carrito de compras, lo que permitiría a los usuarios adquirir múltiples productos a la vez. La entrevista concluyó con Max destacando la simplicidad y facilidad de uso de la interfaz, sugiriendo que al implementar los comentarios proporcionados, la aplicación podría convertirse en una herramienta valiosa para los consumidores y entusiastas del vino y pisco. | 7:00   | |
 
 
 
