@@ -3297,7 +3297,7 @@ Esta sección presenta los objetivos de usuario clave que guiarán nuestras entr
 **Distrito:** Chincha 
 
 
-**Imagen:** [](images/EntrevistaJazzyv2.png)
+**Imagen:** ![](images/EntrevistaJazzyv2.png)
 
 
 | Resumen de la Entrevista                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Timing | URL  |
