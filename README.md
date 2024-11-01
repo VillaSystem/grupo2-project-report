@@ -3879,6 +3879,23 @@ Se recomienda implementar un sistema de confirmación para acciones críticas, q
 
 Este cambio reducirá la probabilidad de errores y garantizará una experiencia de usuario más segura y confiable, alineándose con las mejores prácticas de usabilidad.
 
+**_PROBLEMA #7:_**  Falta de agregado de barra de autocompletado o cuadro de sugerencias.
+
+**_Severidad: 3_**
+
+Heurística violada:  Usability – Flexibilidad y eficiencia de uso
+
+**_Problema:_**
+
+En el caso específico de una web que conecta productores y consumidores de vino, la falta de autocompletado puede ser aún más problemática, ya que la variedad de vinos y productores puede ser muy amplia.  La barra de autocompletado se vuelve esencial para facilitar la búsqueda, el descubrimiento de vinos específicos y registro de inventarios, entre otros. Así como para conectar a los usuarios con los productores que buscan.
+![](images/heuristicaWebBarra.png)
+
+**_Recomendación:_**
+
+Incluir una barra de autocompletado en la página web puede mejorar significativamente la experiencia de los usuarios y aumentar la eficiencia del sitio:
+**1. Reducción de errores:** Todos cometemos errores al escribir. La barra de autocompletado ayuda a prevenir y corregir errores ortográficos, evitando frustraciones y asegurando que los usuarios lleguen al destino correcto.
+**2. Mejor usabilidad:** Un sitio web fácil de usar es clave para el éxito. La barra de autocompletado contribuye a una navegación más fluida e intuitiva.
+**3. Imagen profesional:** Incluir funciones modernas como la barra de autocompletado muestra que te preocupas por la experiencia de tus usuarios y que tu sitio web está actualizado.
 ---
 
 
