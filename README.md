@@ -3689,7 +3689,20 @@ El problema detectado radica en que el formulario de contacto en el sitio web o 
 
 Es importante garantizar que el formulario de contacto funcione adecuadamente y que los usuarios reciban retroalimentación tras enviar su mensaje, ya sea mediante un mensaje de confirmación o redirigiéndolos a una página de agradecimiento.
 
+**_PROBLEMA #5:_** Botones de navegación no se muestran en móviles.
 
+**_Severidad: 3_**
+Heurística violada: Usabilidad - Flexibilidad y eficiencia de uso
+
+**_Problema:_**
+
+El problema que se percibe, donde los botones de navegación ("Home", "Servicios", etc.) desaparecen en la versión móvil del landing page, es un problema grave de usabilidad que puede afectar significativamente a los usuarios y a la efectividad del sitio web. Los usuarios no pueden encontrar fácilmente las secciones principales, se sentirán perdidos y frustrados. No podrán acceder a la información que buscan ni realizar las acciones que desean, como registrarse o contactar contigo.
+
+![](images/landingM.png)
+
+**_Recomendación:_**
+
+La solución a este problema radica en optimizar el diseño del landing page para dispositivos móviles. Se podría implementar un menú hamburguesa (el icono con tres líneas horizontales) en la versión móvil; al hacer clic en ese icono, se despliega un menú con todas las opciones de navegación. Es una solución común y efectiva para ahorrar espacio en pantallas pequeñas. Una vez realizado, se pondría a prueba en diferentes dispositivos móviles (con diferentes tamaños de pantalla y sistemas operativos) para asegurar de que la navegación funciona correctamente en todos ellos.
 
 
 **TABLA DE RESUMEN - WEB APPLICATION:**
