@@ -3680,4 +3680,7 @@ Para solucionar este problema, se recomienda realizar una revisión del código 
 
 **Descripción**: El video muestra la presentación completa del proyecto Grapeflow, donde se expone el Sprint 2 incluyendo todos los artefactos y el trabajo completo solicitado.
 
+### About The Team 
 
+Enlace para acceder al video About the team subido a Stream: 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/Eet1KxRERGFIo0aIUu4ekKEBI1cKHv1gT5Zhz9_ZV-NDlQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=X3LFa9
