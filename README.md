@@ -3843,6 +3843,8 @@ Estas mejoras en la arquitectura de información permitirán a los usuarios nave
 
 La aplicación web presenta inconsistencias en el diseño visual y en las interacciones entre diferentes secciones, como "Mis Pedidos" y "Vinos Populares". Estas inconsistencias incluyen variaciones en el estilo de los botones, iconos y mensajes, lo que puede confundir a los usuarios y reducir la eficiencia de uso. La falta de uniformidad afecta la experiencia de usuario al requerir que los usuarios se adapten a diferentes diseños y comportamientos dentro de la misma aplicación.
 
+![Problema de inconsistencia](images/heuristica5.png)
+
 **Recomendación:**
 
 Se recomienda establecer un conjunto de estándares visuales y de interacción para la aplicación, lo cual podría incluir:
@@ -3864,6 +3866,8 @@ Implementar estas recomendaciones ayudará a mejorar la coherencia y profesional
 **Problema:**
 
 La aplicación web permite la eliminación de pedidos o productos sin mostrar ninguna advertencia o mensaje de confirmación antes de completar la acción. Esto aumenta el riesgo de que los usuarios realicen eliminaciones por error, lo que puede resultar en pérdida de información importante o interrupciones en su flujo de trabajo. La falta de advertencia limita la seguridad y fiabilidad de la aplicación, creando una experiencia de usuario menos satisfactoria.
+
+![Problema de advertencia](images/heuristica6.png)
 
 **Recomendación:**
 
