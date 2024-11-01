@@ -3500,6 +3500,7 @@ Añadir una sección en la landing page que resuma los servicios específicos qu
 **_PROBLEMA #3:_**  La sección "Nuestros Planes" se solapa con la barra de navegación al desplazarse hacia abajo
 
 **_Severidad: 3_**
+
 Heurística violada:  Estética y diseño minimalista y Visibilidad del estado del sistema
 
 **_Problema:_**
@@ -3518,7 +3519,8 @@ Al desplazarse hacia la sección "Nuestros Planes," el contenido se superpone pa
 
 **_PROBLEMA #4:_**  La sección “Contact” del footer de la página no muestra interacción al redireccionar el correo del startup mediante Gmail.
 
-**_Severidad: 3_**
+**_Severidad: 1_**
+
 Heurística violada:  Usability: Visibilidad del estado del sistema
 
 **_Problema:_**
