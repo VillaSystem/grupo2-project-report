@@ -3893,9 +3893,12 @@ En el caso específico de una web que conecta productores y consumidores de vino
 **_Recomendación:_**
 
 Incluir una barra de autocompletado en la página web puede mejorar significativamente la experiencia de los usuarios y aumentar la eficiencia del sitio:
-**1. Reducción de errores:** Todos cometemos errores al escribir. La barra de autocompletado ayuda a prevenir y corregir errores ortográficos, evitando frustraciones y asegurando que los usuarios lleguen al destino correcto.
-**2. Mejor usabilidad:** Un sitio web fácil de usar es clave para el éxito. La barra de autocompletado contribuye a una navegación más fluida e intuitiva.
-**3. Imagen profesional:** Incluir funciones modernas como la barra de autocompletado muestra que te preocupas por la experiencia de tus usuarios y que tu sitio web está actualizado.
+
+1. Reducción de errores: Todos cometemos errores al escribir. La barra de autocompletado ayuda a prevenir y corregir errores ortográficos, evitando frustraciones y asegurando que los usuarios lleguen al destino correcto.
+   
+2. Mejor usabilidad: Un sitio web fácil de usar es clave para el éxito. La barra de autocompletado contribuye a una navegación más fluida e intuitiva.
+   
+2. Imagen profesional:** Incluir funciones modernas como la barra de autocompletado muestra que te preocupas por la experiencia de tus usuarios y que tu sitio web está actualizado.
 ---
 
 
