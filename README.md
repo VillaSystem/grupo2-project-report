@@ -3335,13 +3335,13 @@ Task sprint 4: [https://www.pivotaltracker.com/n/projects/2724037](https://www.p
 | TS18 | TK01 | TK01 | Actualizar el controlador WineController. | Crear un nuevo endpoint GET /api/v1/wines?type={tipo} para filtrar vinos por tipo.  | 3 | Fernando | Done |
 |      | TK02 | TK02 | Implementar lógica en el servicio WineQueryService. | Añadir un método que filtre vinos según el tipo en la base de datos. | 4 | Fernando | Done |
 |      | TK03 | TK03 | Actualizar el repositorio WineRepository. | Implementar una query personalizada o un método con Spring Data JPA (findByType(String type)). | 4| Fernando | Done |
-|      | TK04 | TK04 | Escribir pruebas unitarias. | Validar que se devuelvan los vinos correctos para cada tipo. | Fernando | Done |
+|      | TK04 | TK04 | Escribir pruebas unitarias. | Validar que se devuelvan los vinos correctos para cada tipo. | 4 | Fernando | Done |
 |      | TK05 | TK05 | Actualizar documentación Swagger. | Documentar el nuevo endpoint en la API. | 2 | Fernando | Done |
 | TS19 | TK01 | TK01 | Actualizar el controlador WineController. | Implementar el endpoint POST /api/v1/wines para la creación de un vino.| 4 | Fernando | Done |
 |      | TK02 | TK02 | Implementar lógica en WineCommandService. | Crear un método para mapear los datos del recurso recibido (SaveWineResource) al modelo Wine. | 4 | Fernando | Done |
 |      | TK03 | TK03 | Actualizar validaciones en SaveWineResource. | Validar atributos obligatorios como name, type, year, etc. | 3 | Fernando | Done |
-|      | TK04 | TK04 | Escribir pruebas unitarias | Probar la creación exitosa de un vino con datos válidos. | Fernando     | Done |
-|      | TK05 | TK05 | Actualizar documentación Swagger. | Documentar el endpoint de creación en la API. | Fernando | Done |
+|      | TK04 | TK04 | Escribir pruebas unitarias | Probar la creación exitosa de un vino con datos válidos. | 4 | Fernand | Done |
+|      | TK05 | TK05 | Actualizar documentación Swagger. | Documentar el endpoint de creación en la API. | 4 | Fernando | Done |
 | TS13 | TK01 | TK01 | Definir Lógica para agregar nuevos lotes. | Implementar la lógica en el backend para añadir lotes, asegurando que batchNumber y grape sean únicos en la base de datos. | 3 | Oscar | Done  |
 |      | TK02 | TK02 | Configurar Endpoint para creación de lotes | Crear el endpoint /api/v1/lots con método POST, permitiendo recibir y registrar nuevos lotes en la base de datos. | 4 | Oscar | Done |
 |      | TK03 | TK03 | Validación de respuesta y manejo de errores. | Implementar validación para casos de duplicidad en batchNumber o grape, devolviendo un código 400 con el mensaje de error adecuado. | 2 | Oscar | Done |
