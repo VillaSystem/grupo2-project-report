@@ -3270,6 +3270,25 @@ Para la realización de los commits de nuestro Sprint, hemos hecho uso de la her
 
 ### 5.2.4.1 Sprint Planning 4
 
+| **Sprint #**              | **Sprint 4**                                                                                           |
+|-----------------------|----------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background** |                                                                                            |
+| **Date**              | 2024-11-12                                                                                        |
+| **Time**              | 20:00                                                                                            |
+| **Location**          | Discord meeting                                                                                  |
+| **Prepared by**       | Gustavo Huanca                                                                                   |
+| **Attendees**         | Angelo Curi, Oscar Armas, Diego Huincho, Fernando Salhuana                                        |
+| **Sprint 4 Review Summary** | El sprint anterior se propuso continuar el desarrollo de los detalles del front end de la aplicación, y desplegar una primera versión del back end con endpoints funcionales. Se evidencia que el equipo logró cumplir con los objetivos propuestos. |
+| **Sprint 4 Retrospective Summary** |                                                                                       |
+| **¿Qué funciona bien?** | Los story points fueron correctos. A su vez, la comunicación activa y fluida durante el sprint permitió que los integrantes del grupo se mantengan informados sobre el proceso de desarrollo del proyecto. |
+| **¿Qué no salió bien o cómo se esperaba?** | El testing pudo haber sido documentado de mejor manera. Sintaxis de historias de usuario poco claras. |
+| **¿Qué deberíamos intentar hacer a continuación?** | Investigar sobre testing y documentarlo de manera apropiada. Revisar las user stories y reestructurarlas para que todos los developers comprendan con simplicidad su propósito. |
+| **Sprint Goal & User Stories** |                                                                                            |
+| **Sprint 4 Goal**     | Elaborar la sección "Sprint 4", conectar la aplicación con un DB para validar los testing de los atributos, culminar los endpoints restantes, implementar el security e inicio de sesión del usuario, y finalmente conectar el front end y el back end. |
+| **Sprint 4 Velocity** | 40                                                                                                |
+| **Sum of story points** | 40                                                                                              |
+
+
 ### 5.2.4.2 Sprint Backlog 4
 
 En el Sprint Backlog 4, el equipo completó el back end de la web application y lo conectó con el frontend. La herramienta que fue utilizada para organizar y gestionar las tareas de los miembros del equipo fue Pivotaltracker. Esta herramienta permitió que se pueda dividir todas las User Stories en tareas manejables y asignarlas a los diferentes miembros según sus diferentes habilidades.
