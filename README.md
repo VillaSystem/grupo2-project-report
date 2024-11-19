@@ -3272,7 +3272,7 @@ Para la realización de los commits de nuestro Sprint, hemos hecho uso de la her
 
 | **Sprint #**              | **Sprint 4**                                                                                           |
 |-----------------------|----------------------------------------------------------------------------------------------------|
-| **Sprint Planning Background** |                                                                                            |
+| **Sprint Planning Background**                                                                                             |
 | **Date**              | 2024-11-12                                                                                        |
 | **Time**              | 20:00                                                                                            |
 | **Location**          | Discord meeting                                                                                  |
@@ -3281,9 +3281,9 @@ Para la realización de los commits de nuestro Sprint, hemos hecho uso de la her
 | **Sprint 4 Review Summary** | El sprint anterior se propuso continuar el desarrollo de los detalles del front end de la aplicación, y desplegar una primera versión del back end con endpoints funcionales. Se evidencia que el equipo logró cumplir con los objetivos propuestos. |
 | **Sprint 4 Retrospective Summary** |                                                                                       |
 | **¿Qué funciona bien?** | Los story points fueron correctos. A su vez, la comunicación activa y fluida durante el sprint permitió que los integrantes del grupo se mantengan informados sobre el proceso de desarrollo del proyecto. |
-| **¿Qué no salió bien o cómo se esperaba?** | El testing pudo haber sido documentado de mejor manera. Sintaxis de historias de usuario poco claras. |
+| **¿Qué no salió bien o cómo se esperaba?** | El testing pudo haber sido manejado de mejor manera con mejora en el código. |
 | **¿Qué deberíamos intentar hacer a continuación?** | Investigar sobre testing y documentarlo de manera apropiada. Revisar las user stories y reestructurarlas para que todos los developers comprendan con simplicidad su propósito. |
-| **Sprint Goal & User Stories** |                                                                                            |
+| **Sprint Goal & User Stories**                                                                                             |
 | **Sprint 4 Goal**     | Elaborar la sección "Sprint 4", conectar la aplicación con un DB para validar los testing de los atributos, culminar los endpoints restantes, implementar el security e inicio de sesión del usuario, y finalmente conectar el front end y el back end. |
 | **Sprint 4 Velocity** | 40                                                                                                |
 | **Sum of story points** | 40                                                                                              |
