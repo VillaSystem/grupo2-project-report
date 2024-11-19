@@ -3557,6 +3557,201 @@ NUnit: Para ejecutar pruebas en C#, proporcionando una estructura clara para las
 Moq: Para crear mocks y facilitar la simulación de dependencias en las pruebas. Si tu sistema depende de servicios externos o bases de datos, usar mocks con Moq puede hacer que las pruebas sean más rápidas y aisladas.
 
 
+## Pruebas de Integración para gestión de inventarios
+
+### 1. Actualizar Información de Inventario Exitosamente
+
+Objetivo: Verificar que el sistema guarde correctamente la nueva información del inventario.
+
+Descripción:
+
+- Dado que un inventario tiene un artículo con nombre "Vino Tinto",
+- Y la cantidad actual es 50 unidades.
+- Cuando el usuario actualiza la cantidad del inventario a 60 unidades.
+- Entonces, el sistema debe guardar la nueva cantidad en el inventario.
+
+Resultado Esperado: La cantidad del artículo "Vino Tinto" debe actualizarse a 60 unidades.
+
+Código de Prueba:
+
+```csharp
+using NUnit.Framework;
+
+[TestFixture]
+public class InventoryTests
+{
+    private InventoryManager inventoryManager;
+
+    [SetUp]
+    public void SetUp()
+    {
+        // Inicializar InventoryManager antes de cada prueba
+        inventoryManager = new InventoryManager();
+
+        // Agregar inventario para la prueba
+        var inventory = new Inventory
+        {
+            id = 1,
+            name = "Vino Tinto",
+            type = "Beverage",
+            unit = "Bottle",
+            expirationDate = "2025-12-31",
+            supplier = "Proveedor A",
+            unitCost = 15.99,
+            quantity = 50
+        };
+
+        inventoryManager.AddInventory(inventory); // Añadir inventario al sistema
+    }
+
+    [Test]
+    public void TestActualizarInformacionDeInventarioExitosamente()
+    {
+        // Arrange
+        var inventory = inventoryManager.GetInventoryById(1);
+
+        // Act
+        inventory.quantity = 60; // Actualizando la cantidad
+        inventoryManager.UpdateInventory(inventory); // Guardando los nuevos detalles
+
+        // Assert
+        var updatedInventory = inventoryManager.GetInventoryById(1);
+        Assert.AreEqual(60, updatedInventory.quantity); // Verificando que la cantidad se haya actualizado
+    }
+}
+```
+
+### 2. Intentar Actualizar Información con Datos Inválidos
+
+Objetivo: Asegurar que el sistema rechace la actualización cuando se ingresan datos inválidos.
+
+Descripción:
+
+- Dado que un inventario tiene un artículo con nombre "Vino Tinto",
+- Cuando el usuario intenta actualizar el costo unitario del artículo a un valor negativo (-5).
+- Entonces, el sistema debe rechazar la operación y mostrar un mensaje de error.
+
+Resultado Esperado: El sistema debe mostrar un mensaje de error indicando que el costo unitario no puede ser negativo.
+
+Código de Prueba:
+
+```csharp
+using NUnit.Framework;
+
+[TestFixture]
+public class InventoryTests
+{
+    private InventoryManager inventoryManager;
+
+    [SetUp]
+    public void SetUp()
+    {
+        // Inicializar InventoryManager antes de cada prueba
+        inventoryManager = new InventoryManager();
+
+        // Agregar inventario para la prueba
+        var inventory = new Inventory
+        {
+            id = 1,
+            name = "Vino Tinto",
+            type = "Beverage",
+            unit = "Bottle",
+            expirationDate = "2025-12-31",
+            supplier = "Proveedor A",
+            unitCost = 15.99,
+            quantity = 50
+        };
+
+        inventoryManager.AddInventory(inventory); // Añadir inventario al sistema
+    }
+
+    [Test]
+    public void TestIntentarActualizarInformacionConDatosInvalidos()
+    {
+        // Arrange
+        var inventory = inventoryManager.GetInventoryById(1);
+
+        // Act & Assert
+        var ex = Assert.Throws<Exception>(() => 
+        {
+            inventory.unitCost = -5; // Intentando establecer un costo negativo
+            inventoryManager.UpdateInventory(inventory);
+        });
+
+        Assert.AreEqual("Unit cost cannot be negative", ex.Message); // Verificando que se lance la excepción correcta
+    }
+}
+```
+### 3. Verificar Información de Inventario
+
+Objetivo: Confirmar que el sistema muestre correctamente la información del inventario.
+
+Descripción:
+
+- Dado que un inventario tiene un artículo con nombre "Vino Tinto",
+- Y la cantidad es 50 unidades,
+- Cuando el usuario solicita ver el inventario,
+- Entonces, el sistema debe mostrar correctamente el nombre, la cantidad y otros detalles del artículo.
+
+Resultado Esperado: El sistema debe mostrar "Vino Tinto" como nombre, 50 como cantidad y otros detalles correctos.
+
+Código de Prueba:
+
+```csharp
+using NUnit.Framework;
+
+[TestFixture]
+public class InventoryTests
+{
+    private InventoryManager inventoryManager;
+
+    [SetUp]
+    public void SetUp()
+    {
+        // Inicializar InventoryManager antes de cada prueba
+        inventoryManager = new InventoryManager();
+
+        // Agregar inventario para la prueba
+        var inventory = new Inventory
+        {
+            id = 1,
+            name = "Vino Tinto",
+            type = "Beverage",
+            unit = "Bottle",
+            expirationDate = "2025-12-31",
+            supplier = "Proveedor A",
+            unitCost = 15.99,
+            quantity = 50
+        };
+
+        inventoryManager.AddInventory(inventory); // Añadir inventario al sistema
+    }
+
+    [Test]
+    public void TestVerificarInformacionDeInventario()
+    {
+        // Act
+        var inventory = inventoryManager.GetInventoryById(1);
+
+        // Assert
+        Assert.AreEqual("Vino Tinto", inventory.name); // Verificando que el nombre sea correcto
+        Assert.AreEqual(50, inventory.quantity); // Verificando que la cantidad sea correcta
+        Assert.AreEqual("Beverage", inventory.type); // Verificando que el tipo sea correcto
+    }
+}
+```
+
+Estrategias para Realizar las Pruebas de Integración:
+Pruebas Aisladas: Asegúrate de que cada prueba sea independiente y no dependa del estado global del sistema. Esto es clave en pruebas de integración para evitar efectos secundarios entre las pruebas.
+
+Uso de Mocks y Stubs: Si tu clase InventoryManager interactúa con una base de datos o servicios externos, utiliza mocks para simular esas dependencias durante las pruebas. Esto te permitirá realizar pruebas más controladas y predecibles.
+
+Pruebas de Flujo Completo: Las pruebas de integración deben verificar el flujo completo de la operación, asegurando que todos los componentes del sistema funcionen juntos como se espera. Por ejemplo, una prueba que actualiza un artículo de inventario debe verificar si el cambio se refleja correctamente en la base de datos o el sistema persistente.
+
+Herramientas Recomendadas:
+NUnit: Para ejecutar pruebas en C#, proporcionando una estructura clara para las pruebas unitarias e integración. Es ampliamente utilizado en aplicaciones .NET.
+
+Moq: Para crear mocks de objetos que interactúan con bases de datos o servicios externos, lo que facilita la simulación de dependencias durante las pruebas de integración.
 
 
 
