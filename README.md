@@ -3341,19 +3341,59 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 
 | Repository                       | Branch | Commit Id | Commit Message                                        | Commit message body | Committed on   |
 |----------------------------------|--------|-----------|-------------------------------------------------------|---------------------|----------------|
+| VillaSystem/backend-VillaSystem  | develop | 9n1850a   | Merge remote-tracking branch 'origin/lotes' into develop | -               | 19/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | d9eb24a   | Merge remote-tracking branch 'origin/inventory' into lotes | -             | 19/11/2024     |
 | VillaSystem/FontEnd-VillaSystem  | master | 818b55c   | feat(batch): update mega commit                       | -                   | 17/11/2024     |
 | VillaSystem/FontEnd-VillaSystem  | master | 7d2efe6   | feat(batch): update mega commit                       | -                   | 17/11/2024     |
 | VillaSystem/FontEnd-VillaSystem  | master | f136bfb   | feat(batch): update component                         | -                   | 17/11/2024     |
 | VillaSystem/backend-VillaSystem  | master | ad0d32c   | update auth                                           | -                   | 16/11/2024     |
-| VillaSystem/backend-VillaSystem  | master | 164e083   | CRUD COMPLETE ABOUT WINES                             | -                   | 15/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | 6895673   | feat(Batch): Update Batch Controller.                | -                   | 15/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | e690cff   | feat(Batch): Update Batch Resource From Entity Assembler.  | -             | 15/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | 0eb5595   | feat(Batch): Create Update Batch Resource.           | -                   | 15/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | 5909eel   | feat(Batch): Create Update Batch Command From Resource Assembler.  | -     | 15/11/2024     |
+| VillaSystem/backend-VillaSystem | develop | 2f7c28a   | feat(Batch): Update Create Batch Resource.            | -                   | 15/11/2024     |
+| VillaSystem/backend-VillaSystem | develop | 1620f22   | feat(Batch): Update Batch Resource.                   | -                   | 15/11/2024     |
+| VillaSystem/backend-VillaSystem | develop | e6ba4b4   | feat(Batch): Update Batch Command Service Impl.       | -                   | 15/11/2024     |
+| VillaSystem/backend-VillaSystem | develop | c5f343d   | feat(Batch): Update Batch Query Service Impl.         | -                   | 15/11/2024     |
+| VillaSystem/backend-VillaSystem | develop | 3e4a25a   | feat(Batch): Update Batch Repository.                 | -                   | 15/11/2024     |
+| VillaSystem/backend-VillaSystem | develop | 0d1843c   | feat(Batch): Create Update Batch Command Service.     | -                   | 15/11/2024     |
+| VillaSystem/backend-VillaSystem | develop | 0977974   | feat(Batch): Batch update.                            | -                   | 15/11/2024     |
+| VillaSystem/backend-VillaSystem | develop | 21df155   | feat(Batch): Create Update Batch Command.             | -                   | 15/11/2024     |
+| VillaSystem/backend-VillaSystem | develop | 1fe8c7f   | feat(Batch): Create Delete Batch Command.             | -                   | 15/11/2024     |
+| VillaSystem/backend-VillaSystem | develop | 3f17ca4   | Merge remote-tracking branch 'origin/inventory' into develop  | -           | 15/11/2024     |
+| VillaSystem/backend-villasystem  | master | 164e083   | CRUD COMPLETE ABOUT WINES                             | -                   | 15/11/2024     |
 | VillaSystem/FontEnd-VillaSystem  | master | d0ef387   | feat(inventory): fixed.                               | -                   | 15/11/2024     |
-| VillaSystem/FontEnd-VillaSystem  | master | 1d532d5   | Merge remote-tracking branch 'origin/angel'           | -                   | 15/11/2024     |
-| VillaSystem/FontEnd-VillaSystem  | master | 630eea1   | Merge remote-tracking branch 'origin/develop'         | -                   | 15/11/2024     |
+| VillaSystem/FontEnd-villasystem  | master | 1d532d5   | Merge remote-tracking branch 'origin/angel'           | -                   | 15/11/2024     |
+| VillaSystem/FontEnd-villasystem  | master | 630eea1   | Merge remote-tracking branch 'origin/develop'         | -                   | 15/11/2024     |
 | VillaSystem/FontEnd-villasystem  | master | f1f09bb   | feat(inventory): update component                     | -                   | 15/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | ac54b04   | feat(Inventory): update component                    |                     | 14/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | ed31ef5   | chore: application https://grape-flow.vercel.app added to origins. | -     | 14/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | 3c354a5   | chore: application https://grapeflow.vercel.app added to origins. | -      | 14/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | 400a0d3   | feat: update command service inventory               | -                   | 14/11/2024     | 
+| VillaSystem/backend-VillaSystem  | develop | d145ffe   | feat: update controller inventory                    | -                   | 14/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | 81a8ab9   | feat: update inventories                             | -                   | 14/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | 4000c4   | feat: create UpdateInventoryResource                  | -                   | 14/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | d9e0199   | feat: create UpdateInventoryCommand                  | -                   | 14/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | abf1023   | feat: create DeleteCommand                           | -                   | 14/11/2024     | 
 | VillaSystem/backend-villasystem  | master | cd8812f   | update authservice                                    | -                   | 14/11/2024     |
 | VillaSystem/backend-villasystem  | master | 9f36e20   | update orderController                                | -                   | 14/11/2024     |
 | VillaSystem/FontEnd-villasystem  | master | 55fe340   | feat(inventory): update component                     | -                   | 14/11/2024     |
 | VillaSystem/FontEnd-villasystem  | master | 9d3f3f7   | feat(inventory): update component                     | -                   | 14/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | 4657374   | chore: application https://grapeflow.netlify.app/added to origins. | -     | 13/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | e9fdaaf   | feat(client-management): cors.                       | -                   | 13/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | 0778819   | Merge remote-tracking branch 'origin/client-management' into develop| -    | 13/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | fc482c9   | feat(client-management): cors.                        | -                  | 13/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | 05d70e3   | feat(client-management): cors.                        | -                  | 13/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | 7638160   | feat(client-management): client command service added.       | -           | 13/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | 98e3f9e   | feat(client-management): update client command implemented.  | -           | 13/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | bb807fb   | feat(client-management): put endpoint added.         | -                   | 13/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | a327589   | feat(client-management): password deleted.           | -                   | 13/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | 5fa1d63   | feat(client-management): password deleted.           | -                   | 13/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | 5d4c3e6   | feat(client-management): create client resource added.   | -               | 13/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | cf88027   | feat(client-management): Update client resource added.   | -               | 13/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | b86e2cc   | feat(client-management): Update client command from resource assembler added.  | -          | 13/11/2024   |
+| VillaSystem/backend-VillaSystem  | develop | 2f4c27a   | feat(client-management): Update client command added.   | -                | 13/11/2024     |
+| VillaSystem/backend-VillaSystem  | develop | f4fa34b   | feat(client-management): Delete client command added.  |                   | 13/11/2024     |
 | VillaSystem/FontEnd-villasystem  | master | 6f0b94e   | chore: base service changed.                          | -                   | 13/11/2024     |
 | VillaSystem/FontEnd-villasystem  | master | e5d00f6   | feat(orders): atributtes traduce                      | -                   | 13/11/2024     |
 | VillaSystem/FontEnd-villasystem  | master | de917cf   | Merge remote-tracking branch 'origin/gustavo'         | -                   | 13/11/2024     |
