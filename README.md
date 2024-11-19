@@ -4044,7 +4044,7 @@ Timing: 1:32 minutos
 enlace para acceder al video del About the product:
 
 
-[Microsoft Stream:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/EZGAN9tRgY1Ni6bwNiEXwJYBujqo6x8eR85xUlo2MMza7A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qJXatH)
+[Microsoft Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/EZGAN9tRgY1Ni6bwNiEXwJYBujqo6x8eR85xUlo2MMza7A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qJXatH)](https://acortar.link/OjSHCn)
 
 Youtube:
 
@@ -4098,8 +4098,7 @@ https://youtu.be/_sFboHi3KK4
 
 ![](images/team.PNG)
 
-Enlace para acceder al video About the team subido a Stream: [video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/Eet1KxRERGFIo0aIUu4ekKEBI1cKHv1gT5Zhz9_ZV-NDlQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=X3LFa9)
-
+Enlace para acceder al video About the team subido a Stream: https://acortar.link/LXLA5V
 Enlace para acceder al video About the team subido a Youtube: https://www.youtube.com/watch?v=TstY7e_AEvY
 
 
