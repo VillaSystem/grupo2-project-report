@@ -3380,7 +3380,15 @@ Task sprint 4: [https://www.pivotaltracker.com/n/projects/2724037](https://www.p
 
 ### 5.2.4.3 Development Evidence for Sprint Review
 
-Como parte de las evidencias del sprint review, se demuestran mediante una tabla los commits realizados a lo largo de este cuarto sprint. Como se establecio trabajar el frontend y backend de la web application, se muestran commits de diferentes repositorios donde se trabajo.
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla los commits realizados a lo largo de este cuarto sprint. Como se establecio trabajar el frontend y backend de la web application, se muestran commits de diferentes repositorios donde se trabajó. 
+
+ Este sprint se caracterizó por la finalización e integración de componentes cruciales para el funcionamiento de la aplicación. Se llevaron a cabo las siguientes tareas como: 
+ 
+ -La conexión con la base de datos, configurando las entidades y los repositorios necesarios para la persistencia de datos. Se realizaron pruebas para asegurar la correcta interacción entre la aplicación y la base de datos.
+
+ -Se integró Spring Security para gestionar la autenticación y autorización de usuarios. Se configuraron los roles y permisos, y se implementaron mecanismos de seguridad para proteger las rutas y los recursos de la aplicación.
+
+ -Se implementó por completo la lógica de negocio principal de la aplicación, incluyendo la gestión de usuarios, la gestión de inventarios, la gestión de vino, la gestión de lotes y la gestión de clientes. Se realizaron pruebas unitarias y de integración para asegurar la calidad del código.
 
 | Repository                       | Branch | Commit Id | Commit Message                                        | Commit message body | Committed on   |
 |----------------------------------|--------|-----------|-------------------------------------------------------|---------------------|----------------|
