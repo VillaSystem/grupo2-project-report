@@ -4528,7 +4528,7 @@ Implementar estas recomendaciones ayudará a mejorar la coherencia y profesional
 
 La aplicación web permite la eliminación de pedidos o productos sin mostrar ninguna advertencia o mensaje de confirmación antes de completar la acción. Esto aumenta el riesgo de que los usuarios realicen eliminaciones por error, lo que puede resultar en pérdida de información importante o interrupciones en su flujo de trabajo. La falta de advertencia limita la seguridad y fiabilidad de la aplicación, creando una experiencia de usuario menos satisfactoria.
 
-![Problema de advertencia](images/heuristica6.png)
+![Problema de advertencia](images/heuristicaWeb2.png)
 
 **Recomendación:**
 
@@ -4561,7 +4561,7 @@ Incluir una barra de autocompletado en la página web puede mejorar significativ
    
 2. Mejor usabilidad: Un sitio web fácil de usar es clave para el éxito. La barra de autocompletado contribuye a una navegación más fluida e intuitiva.
    
-2. Imagen profesional:** Incluir funciones modernas como la barra de autocompletado muestra que te preocupas por la experiencia de tus usuarios y que tu sitio web está actualizado.
+3. Imagen profesional:** Incluir funciones modernas como la barra de autocompletado muestra que te preocupas por la experiencia de tus usuarios y que tu sitio web está actualizado.
 ---
 
 **_PROBLEMA #8:_** Falta de retroalimentación visual para indicar la sección activa en la landing page
