@@ -4860,9 +4860,9 @@ https://youtu.be/_sFboHi3KK4
 
 ![](images/team.PNG)
 
-Enlace para acceder al video About the team subido a Stream: https://acortar.link/LXLA5V
+Enlace para acceder al video de About the team subido a Stream: https://acortar.link/LXLA5V
 
-Enlace para acceder al video About the team subido a Youtube: https://www.youtube.com/watch?v=TstY7e_AEvY
+Enlace para acceder al video de About the team subido a Youtube: https://www.youtube.com/watch?v=TstY7e_AEvY
 
 
 
