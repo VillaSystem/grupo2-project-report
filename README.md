@@ -3545,6 +3545,7 @@ public class WineTests
 ```
 
 Estrategias para Realizar las Pruebas Unitarias:
+
 Pruebas Aisladas: Asegúrate de que cada prueba sea independiente y no dependa del estado global del sistema. Cada prueba debe poder ejecutarse en cualquier orden y producir los mismos resultados.
 
 Uso de Mocks: Utiliza mocks para simular interacciones con bases de datos o servicios externos. Por ejemplo, si tu clase WineManager interactúa con una base de datos, puedes usar un mock para simular esas interacciones durante las pruebas.
@@ -3552,6 +3553,7 @@ Uso de Mocks: Utiliza mocks para simular interacciones con bases de datos o serv
 Verificación de Excepciones: Al realizar pruebas que implican errores o condiciones excepcionales (como la eliminación de un vino que no existe), es importante verificar que se manejen correctamente mediante la verificación de excepciones (como Assert.Throws()).
 
 Herramientas Recomendadas:
+
 NUnit: Para ejecutar pruebas en C#, proporcionando una estructura clara para las pruebas unitarias. NUnit es ampliamente utilizado para pruebas de unidad en .NET y se integra fácilmente en entornos como Visual Studio o JetBrains Rider.
 
 Moq: Para crear mocks y facilitar la simulación de dependencias en las pruebas. Si tu sistema depende de servicios externos o bases de datos, usar mocks con Moq puede hacer que las pruebas sean más rápidas y aisladas.
@@ -3742,6 +3744,7 @@ public class InventoryTests
 ```
 
 Estrategias para Realizar las Pruebas de Integración:
+
 Pruebas Aisladas: Asegúrate de que cada prueba sea independiente y no dependa del estado global del sistema. Esto es clave en pruebas de integración para evitar efectos secundarios entre las pruebas.
 
 Uso de Mocks y Stubs: Si tu clase InventoryManager interactúa con una base de datos o servicios externos, utiliza mocks para simular esas dependencias durante las pruebas. Esto te permitirá realizar pruebas más controladas y predecibles.
@@ -3749,6 +3752,7 @@ Uso de Mocks y Stubs: Si tu clase InventoryManager interactúa con una base de d
 Pruebas de Flujo Completo: Las pruebas de integración deben verificar el flujo completo de la operación, asegurando que todos los componentes del sistema funcionen juntos como se espera. Por ejemplo, una prueba que actualiza un artículo de inventario debe verificar si el cambio se refleja correctamente en la base de datos o el sistema persistente.
 
 Herramientas Recomendadas:
+
 NUnit: Para ejecutar pruebas en C#, proporcionando una estructura clara para las pruebas unitarias e integración. Es ampliamente utilizado en aplicaciones .NET.
 
 Moq: Para crear mocks de objetos que interactúan con bases de datos o servicios externos, lo que facilita la simulación de dependencias durante las pruebas de integración.
