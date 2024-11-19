@@ -3349,6 +3349,217 @@ Task sprint 4: [https://www.pivotaltracker.com/n/projects/2724037](https://www.p
 
 ### 5.2.4.4 Testing Suite Evidence for Sprint Review
 
+
+## Pruebas Unitarias para Gestión de Inventario
+
+### 1. Agregar un Nuevo Vino Exitosamente
+
+Objetivo: Verificar que el sistema registre correctamente un nuevo vino. Descripción:
+
+- Dado que el vinicultor desea agregar un nuevo vino,
+
+- Cuando el vinicultor ingresa los datos del vino "Shiraz" con precio $20.99 y stock de 30 unidades,
+
+- Entonces, el sistema debe registrar el vino con esos detalles.
+
+Resultado Esperado: El vino "Shiraz" debe ser registrado en el catálogo con el precio y stock especificados.
+
+Código de Prueba:
+
+```csharp
+using NUnit.Framework;
+
+[TestFixture]
+public class WineTests
+{
+    [Test]
+    public void TestAddNewWineSuccessfully()
+    {
+        // Arrange
+        var wineManager = new WineManager(); // Sistema de gestión de vinos
+        var wine = new Wine
+        {
+            id = "W001",
+            nombre = "Shiraz",
+            descripcion = "A rich red wine",
+            tipo = "Red",
+            region = "Barossa Valley",
+            pais = "Australia",
+            anio = 2020,
+            uvas = new string[] { "Syrah" },
+            alcohol = 14.5,
+            certificacion = "Organic",
+            calificacion = 90,
+            estado = "Available",
+            producer_id = "P001",
+            lote_id = "L001",
+            link = "http://example.com/shiraz.jpg"
+        };
+
+        // Act
+        wineManager.AddWine(wine); // Añadiendo el vino al sistema
+        var addedWine = wineManager.GetWineById("W001");
+
+        // Assert
+        Assert.IsNotNull(addedWine);
+        Assert.AreEqual("Shiraz", addedWine.nombre);
+        Assert.AreEqual(20.99, addedWine.precio); // Aquí asumimos que "precio" es una propiedad válida
+        Assert.AreEqual(30, addedWine.stock);  // Verificando que el stock se haya agregado
+    }
+}
+```
+
+### 2. Editar Detalles de un Vino Existente
+
+Objetivo: Asegurar que el sistema actualice correctamente los detalles de un vino existente.
+
+Descripción:
+
+- Dado que existe un vino con ID "W001" llamado "Merlot",
+- Cuando el vinicultor actualiza el estado del vino a "Sold",
+- Entonces, el sistema debe guardar los nuevos detalles del vino.
+
+Resultado Esperado: El estado del vino "Merlot" debe actualizarse a "Sold" en el sistema.
+
+Código de Prueba:
+
+```csharp
+using NUnit.Framework;
+
+[TestFixture]
+public class WineTests
+{
+    private WineManager wineManager;
+
+    [SetUp]
+    public void SetUp()
+    {
+        // Inicializar WineManager antes de cada prueba
+        wineManager = new WineManager();
+
+        // Agregar vino para la prueba
+        var wine = new Wine
+        {
+            id = "W001",
+            nombre = "Merlot",
+            descripcion = "A rich red wine",
+            tipo = "Red",
+            region = "Bordeaux",
+            pais = "France",
+            anio = 2018,
+            uvas = new string[] { "Merlot" },
+            alcohol = 13.5,
+            certificacion = "Organic",
+            calificacion = 85,
+            estado = "Available",  // Estado inicial
+            producer_id = "P002",
+            lote_id = "L002",
+            link = "http://example.com/merlot.jpg"
+        };
+
+        wineManager.AddWine(wine); // Añadir vino al sistema
+    }
+
+    [Test]
+    public void TestEditWineDetailsSuccessfully()
+    {
+        // Arrange
+        var wineToEdit = wineManager.GetWineById("W001");
+        wineToEdit.estado = "Sold"; // Actualizando el estado
+
+        // Act
+        wineManager.EditWine(wineToEdit); // Guardando los nuevos detalles
+
+        // Assert
+        var updatedWine = wineManager.GetWineById("W001");
+        Assert.AreEqual("Sold", updatedWine.estado); // Verificando que el estado se haya actualizado
+    }
+}
+```
+
+### 3. Eliminar un Vino del Catálogo
+
+Objetivo: Confirmar que el sistema elimine correctamente un vino del catálogo.
+
+Descripción:
+
+- Dado que existe un vino con ID "W001",
+- Cuando el vinicultor elimina el vino,
+- Entonces, el sistema debe eliminar el vino del catálogo.
+
+Resultado Esperado: El vino con ID "W001" no debe estar presente en el catálogo después de la eliminación.
+
+Código de Prueba:
+
+```csharp
+using NUnit.Framework;
+
+[TestFixture]
+public class WineTests
+{
+    private WineManager wineManager;
+
+    [SetUp]
+    public void SetUp()
+    {
+        // Inicializar WineManager antes de cada prueba
+        wineManager = new WineManager();
+
+        // Agregar vino para la prueba
+        var wine = new Wine
+        {
+            id = "W001",
+            nombre = "Merlot",
+            descripcion = "A rich red wine",
+            tipo = "Red",
+            region = "Bordeaux",
+            pais = "France",
+            anio = 2018,
+            uvas = new string[] { "Merlot" },
+            alcohol = 13.5,
+            certificacion = "Organic",
+            calificacion = 85,
+            estado = "Available",  // Estado inicial
+            producer_id = "P002",
+            lote_id = "L002",
+            link = "http://example.com/merlot.jpg"
+        };
+
+        wineManager.AddWine(wine); // Añadir vino al sistema
+    }
+
+    [Test]
+    public void TestDeleteWineSuccessfully()
+    {
+        // Arrange
+        var wineToDelete = wineManager.GetWineById("W001");
+
+        // Act
+        wineManager.DeleteWine("W001"); // Eliminando el vino
+
+        // Assert
+        var ex = Assert.Throws<KeyNotFoundException>(() => wineManager.GetWineById("W001"));
+        Assert.AreEqual("Wine not found", ex.Message); // Verificando que el vino ya no esté presente
+    }
+}
+```
+
+Estrategias para Realizar las Pruebas Unitarias:
+Pruebas Aisladas: Asegúrate de que cada prueba sea independiente y no dependa del estado global del sistema. Cada prueba debe poder ejecutarse en cualquier orden y producir los mismos resultados.
+
+Uso de Mocks: Utiliza mocks para simular interacciones con bases de datos o servicios externos. Por ejemplo, si tu clase WineManager interactúa con una base de datos, puedes usar un mock para simular esas interacciones durante las pruebas.
+
+Verificación de Excepciones: Al realizar pruebas que implican errores o condiciones excepcionales (como la eliminación de un vino que no existe), es importante verificar que se manejen correctamente mediante la verificación de excepciones (como Assert.Throws()).
+
+Herramientas Recomendadas:
+NUnit: Para ejecutar pruebas en C#, proporcionando una estructura clara para las pruebas unitarias. NUnit es ampliamente utilizado para pruebas de unidad en .NET y se integra fácilmente en entornos como Visual Studio o JetBrains Rider.
+
+Moq: Para crear mocks y facilitar la simulación de dependencias en las pruebas. Si tu sistema depende de servicios externos o bases de datos, usar mocks con Moq puede hacer que las pruebas sean más rápidas y aisladas.
+
+
+
+
+
 ### 5.2.4.5 Excution Evidence for Sprint Review
 
 
