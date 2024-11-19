@@ -3290,8 +3290,19 @@ Para la realización de los commits de nuestro Sprint, hemos hecho uso de la her
 
 ### 5.2.4.8 Team Collaboration Insights during Sprint
 
+Durante el Sprint, gestionamos los commits con IntelliJ IDEA, WebStorm y Git. Iniciamos creando el repositorio base, que luego fue clonado por el equipo. Cada miembro desarrolló en ramas separadas, realizó los cambios necesarios, y subió los commits al repositorio en GitHub, donde se revisaron antes de integrarlos a la rama principal.
 
+**Web Service**
 
+![](images/BackendSprint41.png)
+
+![](images/BackendSprint4.png)
+
+**Web Application**
+
+![](images/FrontendSprint41.png)
+
+![](images/FrontendSprint4.png)
 
 
 
